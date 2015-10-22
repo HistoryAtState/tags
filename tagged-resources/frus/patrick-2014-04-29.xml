@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<submission>
+    <author>patrick</author>
+    <date>2014-04-29</date>
+    <study>
+        <title>FRUS, 1977-1980, volume XXI, Cyprus; Greece; Turkey</title>
+        <link>http://history.state.gov/historicaldocuments/frus1977-80v21</link>
+        <tags>
+            <tag id="cyprus"/>
+            <tag id="turkey"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="foreign-aid"/>
+            <tag id="carter-jimmy"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="egypt"/>
+            <tag id="greece"/>
+            <tag id="france"/>
+            <tag id="international-monetary-fund"/>
+            <tag id="united-nations"/>
+            <tag id="united-kingdom"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>OECD</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1918, The World War, Supplement 2</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918Supp02</link>
+        <tags>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="belgium"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="brazil"/>
+            <tag id="canada"/>
+            <tag id="bulgaria"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="china"/>
+            <tag id="cuba"/>
+            <tag id="ecuador"/>
+            <tag id="germany"/>
+            <tag id="honduras"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="italy"/>
+            <tag id="panama"/>
+            <tag id="refugees"/>
+            <tag id="russia"/>
+            <tag id="poland"/>
+            <tag id="spain"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1918, The World War, Supplement 1, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918Supp01v01</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="armistices"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="bulgaria"/>
+            <tag id="germany"/>
+            <tag id="turkey"/>
+            <tag id="peace"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="brazil"/>
+            <tag id="china"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="italy"/>
+            <tag id="labor"/>
+            <tag id="league-of-nations"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1918, The World War, Supplement 1, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918Supp01v02</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="chile"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="foreign-aid"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="sweden"/>
+            <tag id="turkey"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1918, Russia, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918Russiav01</link>
+        <tags>
+            <tag id="russia"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="armistices"/>
+            <tag id="belgium"/>
+            <tag id="asylum"/>
+            <tag id="china"/>
+            <tag id="denmark"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="world-war-i"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="italy"/>
+            <tag id="labor"/>
+            <tag id="lithuania"/>
+            <tag id="foreign-aid"/>
+            <tag id="netherlands"/>
+            <tag id="peace"/>
+            <tag id="norway"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="romania"/>
+            <tag id="self-determination"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1918, Russia, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918Russiav02</link>
+        <tags>
+            <tag id="russia"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="armistices"/>
+            <tag id="belgium"/>
+            <tag id="asylum"/>
+            <tag id="china"/>
+            <tag id="denmark"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="world-war-i"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="italy"/>
+            <tag id="labor"/>
+            <tag id="lithuania"/>
+            <tag id="foreign-aid"/>
+            <tag id="netherlands"/>
+            <tag id="peace"/>
+            <tag id="norway"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="romania"/>
+            <tag id="self-determination"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="ukraine"/>
+            <tag id="estonia"/>
+            <tag id="japan"/>
+            <tag id="poland"/>
+            <tag id="turkey"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1918, Russia, volume III</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918Russiav03</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="russia"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="japan"/>
+            <tag id="foreign-aid"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="refugees"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="world-war-i"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1918</title>
+        <link>http://history.state.gov/historicaldocuments/frus1918</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="brazil"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="spain"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="world-war-i"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="agriculture"/>
+            <tag id="foreign-aid"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="russia"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1917, The World War, Supplement 1</title>
+        <link>http://history.state.gov/historicaldocuments/frus1917Supp01v01</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="belgium"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="agriculture"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="ecuador"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="haiti"/>
+            <tag id="guatemala"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="paraguay"/>
+            <tag id="peace"/>
+            <tag id="panama"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="neutrality"/>
+            <tag id="turkey"/>
+            <tag id="uruguay"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="world-war-i"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1917, The World War, Supplement 2, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1917Supp02v01</link>
+        <tags>
+            <tag id="afghanistan"/>
+            <tag id="albania"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="peace"/>
+            <tag id="bulgaria"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="foreign-aid"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="netherlands"/>
+            <tag id="united-kingdom"/>
+            <tag id="world-war-i"/>
+            <tag id="greece"/>
+            <tag id="japan"/>
+            <tag id="norway"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="turkey"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1917, The World War, Supplement 2, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1917Supp02v02</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="belgium"/>
+            <tag id="denmark"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="netherlands"/>
+            <tag id="united-kingdom"/>
+            <tag id="world-war-i"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1917</title>
+        <link>http://history.state.gov/historicaldocuments/frus1917</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="brazil"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="germany"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="russia"/>
+            <tag id="el-salvador"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="arms-embargoes"/>
+            <tag id="asylum"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="immigration"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="world-war-i"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1916</title>
+        <link>http://history.state.gov/historicaldocuments/frus1916</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="belgium"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="greece"/>
+            <tag id="germany"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="russia"/>
+            <tag id="el-salvador"/>
+            <tag id="spain"/>
+            <tag id="turkey"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="arms-embargoes"/>
+            <tag id="asylum"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="immigration"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="world-war-i"/>
+            <tag id="foreign-aid"/>
+            <tag id="energy-and-natural-resources"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1916, Supplement</title>
+        <link>http://history.state.gov/historicaldocuments/frus1916Supp</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="asylum"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="belgium"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="bulgaria"/>
+            <tag id="denmark"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="neutrality"/>
+            <tag id="peace"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="turkey"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1915</title>
+        <link>http://history.state.gov/historicaldocuments/frus1915</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="argentina"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="portugal"/>
+            <tag id="russia"/>
+            <tag id="el-salvador"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="uruguay"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="arms-embargoes"/>
+            <tag id="canada"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="peace"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1915, Supplement</title>
+        <link>http://history.state.gov/historicaldocuments/frus1915Supp</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="albania"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="bulgaria"/>
+            <tag id="denmark"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="neutrality"/>
+            <tag id="netherlands"/>
+            <tag id="peace"/>
+            <tag id="russia"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="wilson-woodrow"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1914</title>
+        <link>http://history.state.gov/historicaldocuments/frus1914</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="argentina"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="united-kingdom"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="iran"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="el-salvador"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="uruguay"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="refugees"/>
+            <tag id="foreign-aid"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="wilson-woodrow"/>
+            <tag id="energy-and-natural-resources"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1914, Supplement</title>
+        <link>http://history.state.gov/historicaldocuments/frus1914Supp</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="peace"/>
+            <tag id="belgium"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="denmark"/>
+            <tag id="ecuador"/>
+            <tag id="egypt"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+            <tag id="netherlands"/>
+            <tag id="neutrality"/>
+            <tag id="norway"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, Lansing Papers, 1914-1920, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1914-20v01</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="neutrality"/>
+            <tag id="peace"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="belgium"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="russia"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, Lansing Papers, 1914-1920, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1914-20v02</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="russia"/>
+            <tag id="armistices"/>
+            <tag id="austria"/>
+            <tag id="hungary"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="league-of-nations"/>
+            <tag id="mexico"/>
+            <tag id="norway"/>
+            <tag id="neutrality"/>
+            <tag id="peace"/>
+            <tag id="poland"/>
+            <tag id="sweden"/>
+            <tag id="turkey"/>
+            <tag id="uruguay"/>
+        </tags>
+    </study>
+</submission>

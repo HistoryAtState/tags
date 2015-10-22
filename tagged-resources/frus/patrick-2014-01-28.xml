@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<submission>
+    <author>patrick</author>
+    <date>2014-01-28</date>
+    <study>
+        <title>FRUS, 1944, volume VII, The American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v07</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="el-salvador"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="mexico"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="uruguay"/>
+            <tag id="venezuela"/>
+            <tag id="economic-sanctions"/>
+            <tag id="covert-actions"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="foreign-aid"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="military-bases"/>
+            <tag id="canada"/>
+            <tag id="political-prisoners"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+            <tag id="property-claims"/>
+            <tag id="labor"/>
+            <tag id="protocol"/>
+            <tag id="alliances"/>
+            <tag id="world-war-ii"/>
+            <tag id="collective-security"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Lend-Lease</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1944, volume VI, China</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v06</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+            <tag id="agriculture"/>
+            <tag id="australia"/>
+            <tag id="burma"/>
+            <tag id="japan"/>
+            <tag id="foreign-investment"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="foreign-aid"/>
+            <tag id="buildings-foreign"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="immigration"/>
+            <tag id="india"/>
+            <tag id="peace"/>
+            <tag id="united-nations"/>
+            <tag id="personnel-foreign-service"/>
+            <tag id="world-war-ii"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Lend-Lease</tag>
+            <tag>South Korea</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1944, volume V, The Near East, South Asia, and Africa, the Far East</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v05</link>
+        <tags>
+            <tag id="afghanistan"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="greece"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="liberia"/>
+            <tag id="morocco"/>
+            <tag id="palestine"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="lebanon"/>
+            <tag id="turkey"/>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="philippines"/>
+            <tag id="thailand"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="alliances"/>
+            <tag id="buildings-foreign"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="military-bases"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1944, volume IV, Europe</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v04</link>
+        <tags>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="holy-see"/>
+            <tag id="san-marino"/>
+            <tag id="asylum"/>
+            <tag id="bulgaria"/>
+            <tag id="alliances"/>
+            <tag id="armistices"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="hungary"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="norway"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="poland"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="economic-sanctions"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="world-war-ii"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
+            <tag>Export-Import Bank</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1944, volume III, The British Commonwealth and Europe</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v03</link>
+        <tags>
+            <tag id="australia"/>
+            <tag id="canada"/>
+            <tag id="india"/>
+            <tag id="ireland"/>
+            <tag id="south-africa"/>
+            <tag id="albania"/>
+            <tag id="belgium"/>
+            <tag id="bulgaria"/>
+            <tag id="denmark"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="hungary"/>
+            <tag id="iceland"/>
+            <tag id="italy"/>
+            <tag id="luxembourg"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="poland"/>
+            <tag id="foreign-aid"/>
+            <tag id="brazil"/>
+            <tag id="armistices"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1944, volume II, General: Economic and Social Matters</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v02</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="australia"/>
+            <tag id="belgium"/>
+            <tag id="brazil"/>
+            <tag id="canada"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="poland"/>
+            <tag id="france"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="labor"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="ireland"/>
+            <tag id="italy"/>
+            <tag id="luxembourg"/>
+            <tag id="netherlands"/>
+            <tag id="new-zealand"/>
+            <tag id="norway"/>
+            <tag id="portugal"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="alliances"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="world-war-ii"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Czechoslovakia</tag>
+            <tag>U.S.S.R.</tag>
+            <tag>Bretton Woods</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1944, volume I, General</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944v01</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="belgium"/>
+            <tag id="austria"/>
+            <tag id="brazil"/>
+            <tag id="refugees"/>
+            <tag id="bulgaria"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="greece"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="labor"/>
+            <tag id="hungary"/>
+            <tag id="japan"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="peace"/>
+            <tag id="poland"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="asylum"/>
+            <tag id="united-nations"/>
+            <tag id="united-kingdom"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Czechoslovakia</tag>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1944, Conference at Quebec</title>
+        <link>http://history.state.gov/historicaldocuments/frus1944Quebec</link>
+        <tags>
+            <tag id="canada"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="argentina"/>
+            <tag id="atomic-energy"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="austria"/>
+            <tag id="bulgaria"/>
+            <tag id="burma"/>
+            <tag id="china"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="japan"/>
+            <tag id="italy"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="poland"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="world-war-ii"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Czechoslovakia</tag>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, volume VI, The American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943v06</link>
+        <tags>
+            <tag id="colombia"/>
+            <tag id="cuba"/>
+            <tag id="costa-rica"/>
+            <tag id="dominican-republic"/>
+            <tag id="el-salvador"/>
+            <tag id="ecuador"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="mexico"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="uruguay"/>
+            <tag id="venezuela"/>
+            <tag id="agriculture"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="foreign-aid"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="alliances"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1943, volume V, The American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943v05</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="alliances"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="canada"/>
+            <tag id="colombia"/>
+            <tag id="japan"/>
+            <tag id="peru"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="spain"/>
+            <tag id="turkey"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="venezuela"/>
+            <tag id="world-war-ii"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1943, volume IV, The Near East and Africa</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943v04</link>
+        <tags>
+            <tag id="afghanistan"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="greece"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="liberia"/>
+            <tag id="morocco"/>
+            <tag id="palestine"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="lebanon"/>
+            <tag id="military-bases"/>
+            <tag id="foreign-aid"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="agriculture"/>
+            <tag id="elections"/>
+            <tag id="united-kingdom"/>
+            <tag id="world-war-ii"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Lend-Lease</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, volume III, The British Commonwealth, Eastern Europe, the Far East</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943v03</link>
+        <tags>
+            <tag id="united-kingdom"/>
+            <tag id="australia"/>
+            <tag id="canada"/>
+            <tag id="india"/>
+            <tag id="ireland"/>
+            <tag id="new-zealand"/>
+            <tag id="south-africa"/>
+            <tag id="finland"/>
+            <tag id="poland"/>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="south-korea"/>
+            <tag id="philippines"/>
+            <tag id="thailand"/>
+            <tag id="military-bases"/>
+            <tag id="alliances"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="elections"/>
+            <tag id="iran"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="switzerland"/>
+            <tag id="world-war-ii"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, volume II, Europe</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943v02</link>
+        <tags>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+            <tag id="albania"/>
+            <tag id="belgium"/>
+            <tag id="denmark"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="iceland"/>
+            <tag id="italy"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="holy-see"/>
+            <tag id="world-war-ii"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="prisoners-of-war"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, volume I, General</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943v01</link>
+        <tags>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+            <tag id="united-kingdom"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="refugees"/>
+            <tag id="united-nations"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="world-war-ii"/>
+            <tag id="peace"/>
+            <tag id="agriculture"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="spain"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="norway"/>
+            <tag id="luxembourg"/>
+            <tag id="greece"/>
+            <tag id="germany"/>
+            <tag id="brazil"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, China</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943China</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="buildings-foreign"/>
+            <tag id="collective-security"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="world-war-ii"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>South Korea</tag>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, The Conferences at Cairo and Tehran</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943CairoTehran</link>
+        <tags>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="military-bases"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="united-kingdom"/>
+            <tag id="bulgaria"/>
+            <tag id="burma"/>
+            <tag id="china"/>
+            <tag id="germany"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="spain"/>
+            <tag id="france"/>
+            <tag id="turkey"/>
+            <tag id="united-nations"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1943, The Conferences at Washington and Quebec</title>
+        <link>http://history.state.gov/historicaldocuments/frus1943</link>
+        <tags>
+            <tag id="world-war-ii"/>
+            <tag id="atomic-energy"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="burma"/>
+            <tag id="china"/>
+            <tag id="canada"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="germany"/>
+            <tag id="india"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+</submission>

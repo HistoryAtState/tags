@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+    <title>Office of the Historian Subject Taxonomy of the History of U.S. Foreign Relations</title>
+    <description>
+        <p>The Subject Taxonomy of the History of U.S. Foreign Relations is a hierarchical taxonomy
+            that consists of categories and tags. The taxonomy is organized into three top-level
+            categories: People, Places, and Topics. Below these top-level categories are additional
+            nested levels of categories and tags, becoming more specific at deeper levels.</p>
+        <p>Each category and tag conforms to the following structure: it must contain an "id" and
+            "label", and optionally can contain a "definition" and/or "usage-hint". The "id"
+            uniquely identifies a tag in the taxonomy and should be lower-cased and
+            hyphen-delimited. The "label" is how the item is displayed to end users. The
+            "definition" defines the item and will be displayed to all users. The "usage-hint"
+            contains instructions to staff who perform the tagging about how to use. To create a
+            definition for a tag, place a "definition" element after an entry's label. To add a
+            usage hint for a tag, place a "usage-hint" element after the label (or after the
+            "definition" element, if one already exists).</p>
+    </description>
+    <category created-by="cozensef" created-date="2013-04-08">
+        <id>people</id>
+        <label>People</label>
+        <definition>Contains lists of Presidents and Secretaries of State in chronological order.</definition>
+        <usage-hint>For people named in resources, only use a person tag if the resource is relevant
+            to their service as President or Secretary.</usage-hint>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>presidents</id>
+            <label>Presidents</label>
+            <definition>Presidential administrations in chronological order. (P) is appended to a
+                President's name in cases where the President also served as Secretary of State. A
+                range of years is appended in cases where the President served in two
+                non-coterminous administrations.</definition>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>washington-george</id>
+                <label>Washington, George</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>adams-john</id>
+                <label>Adams, John</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>jefferson-thomas-p</id>
+                <label>Jefferson, Thomas (P)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>madison-james-p</id>
+                <label>Madison, James (P)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>monroe-james-p</id>
+                <label>Monroe, James (P)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>adams-john-quincy-p</id>
+                <label>Adams, John Quincy (P)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>jackson-andrew</id>
+                <label>Jackson, Andrew</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>van-buren-martin-p</id>
+                <label>Van Buren, Martin (P)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>harrison-william-henry</id>
+                <label>Harrison, William Henry</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>tyler-john</id>
+                <label>Tyler, John</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>polk-james-k</id>
+                <label>Polk, James K.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>taylor-zachary</id>
+                <label>Taylor, Zachary</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>fillmore-millard</id>
+                <label>Fillmore, Millard</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>pierce-franklin</id>
+                <label>Pierce, Franklin</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>buchanan-james-p</id>
+                <label>Buchanan, James (P)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>lincoln-abraham</id>
+                <label>Lincoln, Abraham</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>johnson-andrew</id>
+                <label>Johnson, Andrew</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>grant-ulysses-s</id>
+                <label>Grant, Ulysses S.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>hayes-rutherford-b</id>
+                <label>Hayes, Rutherford B.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>garfield-james-a</id>
+                <label>Garfield, James A.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>arthur-chester-a</id>
+                <label>Arthur, Chester A.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cleveland-grover-1881-1885</id>
+                <label>Cleveland, Grover (1881-1885)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>harrison-benjamin</id>
+                <label>Harrison, Benjamin</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cleveland-grover-1893-1897</id>
+                <label>Cleveland, Grover (1893-1897)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>mckinley-william</id>
+                <label>McKinley, William</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>roosevelt-theodore</id>
+                <label>Roosevelt, Theodore</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>taft-william-howard</id>
+                <label>Taft, William Howard</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>wilson-woodrow</id>
+                <label>Wilson, Woodrow</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>harding-warren-g</id>
+                <label>Harding, Warren G.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>coolidge-calvin</id>
+                <label>Coolidge, Calvin</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>hoover-herbert</id>
+                <label>Hoover, Herbert</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>roosevelt-franklin-d</id>
+                <label>Roosevelt, Franklin D.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>truman-harry-s</id>
+                <label>Truman, Harry S.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>eisenhower-dwight-d</id>
+                <label>Eisenhower, Dwight D.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>kennedy-john-f</id>
+                <label>Kennedy, John F.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>johnson-lyndon-b</id>
+                <label>Johnson, Lyndon B.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>nixon-richard</id>
+                <label>Nixon, Richard</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>ford-gerald</id>
+                <label>Ford, Gerald</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>carter-jimmy</id>
+                <label>Carter, Jimmy</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>reagan-ronald</id>
+                <label>Reagan, Ronald</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bush-george-h-w</id>
+                <label>Bush, George H.W.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>clinton-william-j</id>
+                <label>Clinton, William J.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bush-george-w</id>
+                <label>Bush, George W.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>obama-barack</id>
+                <label>Obama, Barack</label>
+            </tag>
+        </category>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>secretaries-of-state</id>
+            <label>Secretaries of State</label>
+            <definition>Secretaries of State in chronological order. (S) is appended to a Secretary's
+                name in cases where the Secretary also served as President. A range of years is
+                appended in cases where the Secretary served non-coterminously.</definition>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>jefferson-thomas-s</id>
+                <label>Jefferson, Thomas (S)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>randolph-edmund-jennings</id>
+                <label>Randolph, Edmund Jennings</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>pickering-timothy</id>
+                <label>Pickering, Timothy</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>marshall-john</id>
+                <label>Marshall, John</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>madison-james-s</id>
+                <label>Madison, James (S)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>smith-robert</id>
+                <label>Smith, Robert</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>monroe-james-s</id>
+                <label>Monroe, James (S)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>adams-john-quincy-s</id>
+                <label>Adams, John Quincy (S)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>clay-henry</id>
+                <label>Clay, Henry</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>van-buren-martin-s</id>
+                <label>Van Buren, Martin (S)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>livingston-edward</id>
+                <label>Livingston, Edward</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>mclane-louis</id>
+                <label>McLane, Louis</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>forsyth-john</id>
+                <label>Forsyth, John</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>webster-daniel-1841-1843</id>
+                <label>Webster, Daniel (1841-1843)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>upshur-abel-parker</id>
+                <label>Upshur, Abel Parker</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>calhoun-john-caldwell</id>
+                <label>Calhoun, John Caldwell</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>buchanan-james-s</id>
+                <label>Buchanan, James (S)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>clayton-john-middleton</id>
+                <label>Clayton, John Middleton</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>webster-daniel-1850-1852</id>
+                <label>Webster, Daniel (1850-1852)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>everett-edward</id>
+                <label>Everett, Edward</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>marcy-william-learned</id>
+                <label>Marcy, William Learned</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cass-lewis</id>
+                <label>Cass, Lewis</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>black-jeremiah-sullivan</id>
+                <label>Black, Jeremiah Sullivan</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>seward-william-henry</id>
+                <label>Seward, William Henry</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>washburne-elihu-benjamin</id>
+                <label>Washburne, Elihu Benjamin</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>fish-hamilton</id>
+                <label>Fish, Hamilton</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>evarts-william-maxwell</id>
+                <label>Evarts, William Maxwell</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>blaine-james-gillespie-1881</id>
+                <label>Blaine, James Gillespie (1881)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>frelinghuysen-frederick-theodore</id>
+                <label>Frelinghuysen, Frederick Theodore</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bayard-thomas-francis</id>
+                <label>Bayard, Thomas Francis</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>blaine-james-gillespie-1889-1892</id>
+                <label>Blaine, James Gillespie (1889-1892)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>foster-john-watson</id>
+                <label>Foster, John Watson</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>gresham-walter-quintin</id>
+                <label>Gresham, Walter Quintin</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>olney-richard</id>
+                <label>Olney, Richard</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>sherman-john</id>
+                <label>Sherman, John</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>day-william-rufus</id>
+                <label>Day, William Rufus</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>hay-john-milton</id>
+                <label>Hay, John Milton</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>root-elihu</id>
+                <label>Root, Elihu</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bacon-robert</id>
+                <label>Bacon, Robert</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>knox-philander-chase</id>
+                <label>Knox, Philander Chase</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bryan-william-jennings</id>
+                <label>Bryan, William Jennings</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>lansing-robert</id>
+                <label>Lansing, Robert</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>colby-bainbridge</id>
+                <label>Colby, Bainbridge</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>hughes-charles-evans</id>
+                <label>Hughes, Charles Evans</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>kellogg-frank-billings</id>
+                <label>Kellogg, Frank Billings</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>stimson-henry-lewis</id>
+                <label>Stimson, Henry Lewis</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>hull-cordell</id>
+                <label>Hull, Cordell</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>stettinius-edward-reilly</id>
+                <label>Stettinius, Edward Reilly</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>byrnes-james-francis</id>
+                <label>Byrnes, James Francis</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>marshall-george-catlett</id>
+                <label>Marshall, George Catlett</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>acheson-dean-gooderham</id>
+                <label>Acheson, Dean Gooderham</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>dulles-john-foster</id>
+                <label>Dulles, John Foster</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>herter-christian-archibald</id>
+                <label>Herter, Christian Archibald</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>rusk-david-dean</id>
+                <label>Rusk, David Dean</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>rogers-william-pierce</id>
+                <label>Rogers, William Pierce</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>kissinger-henry-a</id>
+                <label>Kissinger, Henry A.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>vance-cyrus-roberts</id>
+                <label>Vance, Cyrus Roberts</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>muskie-edmund-sixtus</id>
+                <label>Muskie, Edmund Sixtus</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>haig-alexander-meigs</id>
+                <label>Haig, Alexander Meigs</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>shultz-george-pratt</id>
+                <label>Shultz, George Pratt</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>baker-james-addison</id>
+                <label>Baker, James Addison</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>eagleburger-lawrence-sidney</id>
+                <label>Eagleburger, Lawrence Sidney</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>christopher-warren-minor</id>
+                <label>Christopher, Warren Minor</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>albright-madeleine-korbel</id>
+                <label>Albright, Madeleine Korbel</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>powell-colin-luther</id>
+                <label>Powell, Colin Luther</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>rice-condoleezza</id>
+                <label>Rice, Condoleezza</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>clinton-hillary-rodham</id>
+                <label>Clinton, Hillary Rodham</label>
+            </tag>
+        </category>
+    </category>
+    <category created-by="cozensef" created-date="2013-04-08">
+        <id>places</id>
+        <label>Places</label>
+        <definition>Territories on today's map of the world, as classified by status and region by
+            the Bureau of Intelligence and Research, U.S. Department of State. (The current list was
+            taken from <a href="http://www.state.gov/s/inr/states/index.htm">Independent States and
+                Dependencies</a>, accessed on January 3, 2013.)</definition>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>sovereign-territories</id>
+            <label>Sovereign Territories</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>sub-saharan-africa</id>
+                <label>Sub-Saharan Africa</label>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>angola</id>
+                    <label>Angola</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>benin</id>
+                    <label>Benin</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>botswana</id>
+                    <label>Botswana</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>burkina-faso</id>
+                    <label>Burkina Faso</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>burundi</id>
+                    <label>Burundi</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>cameroon</id>
+                    <label>Cameroon</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>cape-verde</id>
+                    <label>Cape Verde</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>central-african-republic</id>
+                    <label>Central African Republic</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>chad</id>
+                    <label>Chad</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>comoros</id>
+                    <label>Comoros</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>congo-brazzaville</id>
+                    <label>Congo (Brazzaville)</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>cote-divoire</id>
+                    <label>Cote d’Ivoire</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>democratic-republic-of-the-congo-kinshasa</id>
+                    <label>Democratic Republic of the Congo (Kinshasa)</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>djibouti</id>
+                    <label>Djibouti</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>equatorial-guinea</id>
+                    <label>Equatorial Guinea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>ethiopia</id>
+                    <label>Ethiopia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>eritrea</id>
+                    <label>Eritrea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>gabon</id>
+                    <label>Gabon</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>the-gambia</id>
+                    <label>The Gambia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>ghana</id>
+                    <label>Ghana</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>guinea</id>
+                    <label>Guinea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>guinea-bissau</id>
+                    <label>Guinea-Bissau</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kenya</id>
+                    <label>Kenya</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>lesotho</id>
+                    <label>Lesotho</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>liberia</id>
+                    <label>Liberia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>madagascar</id>
+                    <label>Madagascar</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>malawi</id>
+                    <label>Malawi</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>mali</id>
+                    <label>Mali</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>mauritania</id>
+                    <label>Mauritania</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>mauritius</id>
+                    <label>Mauritius</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>mozambique</id>
+                    <label>Mozambique</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>namibia</id>
+                    <label>Namibia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>niger</id>
+                    <label>Niger</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>nigeria</id>
+                    <label>Nigeria</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>rwanda</id>
+                    <label>Rwanda</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>sao-tome-and-principe</id>
+                    <label>Sao Tome and Principe</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>senegal</id>
+                    <label>Senegal</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>seychelles</id>
+                    <label>Seychelles</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>sierra-leone</id>
+                    <label>Sierra Leone</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>somalia</id>
+                    <label>Somalia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>south-africa</id>
+                    <label>South Africa</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>south-sudan</id>
+                    <label>South Sudan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>sudan</id>
+                    <label>Sudan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>swaziland</id>
+                    <label>Swaziland</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>tanzania</id>
+                    <label>Tanzania</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>togo</id>
+                    <label>Togo</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>uganda</id>
+                    <label>Uganda</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>zambia</id>
+                    <label>Zambia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>zimbabwe</id>
+                    <label>Zimbabwe</label>
+                </tag>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>east-asia-and-pacific</id>
+                <label>East Asia and Pacific</label>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>australia</id>
+                    <label>Australia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>brunei</id>
+                    <label>Brunei</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>burma</id>
+                    <label>Burma</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>cambodia</id>
+                    <label>Cambodia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>china</id>
+                    <label>China</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>the-federated-states-of-micronesia</id>
+                    <label>The Federated States of Micronesia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>fiji</id>
+                    <label>Fiji</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>indonesia</id>
+                    <label>Indonesia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>japan</id>
+                    <label>Japan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kiribati</id>
+                    <label>Kiribati</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>laos</id>
+                    <label>Laos</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>malaysia</id>
+                    <label>Malaysia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>marshall-islands</id>
+                    <label>Marshall Islands</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>mongolia</id>
+                    <label>Mongolia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>nauru</id>
+                    <label>Nauru</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>new-zealand</id>
+                    <label>New Zealand</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>north-korea</id>
+                    <label>North Korea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>palau</id>
+                    <label>Palau</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>papua-new-guinea</id>
+                    <label>Papua New Guinea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>philippines</id>
+                    <label>Philippines</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>samoa</id>
+                    <label>Samoa</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>singapore</id>
+                    <label>Singapore</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>solomon-islands</id>
+                    <label>Solomon Islands</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>south-korea</id>
+                    <label>South Korea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>taiwan</id>
+                    <label>Taiwan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>thailand</id>
+                    <label>Thailand</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>timor-leste</id>
+                    <label>Timor-Leste</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>tonga</id>
+                    <label>Tonga</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>tuvalu</id>
+                    <label>Tuvalu</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>vanuatu</id>
+                    <label>Vanuatu</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>vietnam</id>
+                    <label>Vietnam</label>
+                </tag>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>europe</id>
+                <label>Europe</label>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>albania</id>
+                    <label>Albania</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>andorra</id>
+                    <label>Andorra</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>armenia</id>
+                    <label>Armenia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>austria</id>
+                    <label>Austria</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>azerbaijan</id>
+                    <label>Azerbaijan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>belarus</id>
+                    <label>Belarus</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>belgium</id>
+                    <label>Belgium</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>bosnia-and-herzegovina</id>
+                    <label>Bosnia and Herzegovina</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>bulgaria</id>
+                    <label>Bulgaria</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>croatia</id>
+                    <label>Croatia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>cyprus</id>
+                    <label>Cyprus</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>czech-republic</id>
+                    <label>Czech Republic</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>denmark</id>
+                    <label>Denmark</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>estonia</id>
+                    <label>Estonia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>finland</id>
+                    <label>Finland</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>france</id>
+                    <label>France</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>georgia</id>
+                    <label>Georgia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>germany</id>
+                    <label>Germany</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>greece</id>
+                    <label>Greece</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>holy-see</id>
+                    <label>Holy See</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>hungary</id>
+                    <label>Hungary</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>iceland</id>
+                    <label>Iceland</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>ireland</id>
+                    <label>Ireland</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>italy</id>
+                    <label>Italy</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kosovo</id>
+                    <label>Kosovo</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>latvia</id>
+                    <label>Latvia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>liechtenstein</id>
+                    <label>Liechtenstein</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>lithuania</id>
+                    <label>Lithuania</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>luxembourg</id>
+                    <label>Luxembourg</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>macedonia</id>
+                    <label>Macedonia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>malta</id>
+                    <label>Malta</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>moldova</id>
+                    <label>Moldova</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>monaco</id>
+                    <label>Monaco</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>montenegro</id>
+                    <label>Montenegro</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>netherlands</id>
+                    <label>Netherlands</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>norway</id>
+                    <label>Norway</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>poland</id>
+                    <label>Poland</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>portugal</id>
+                    <label>Portugal</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>romania</id>
+                    <label>Romania</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>russia</id>
+                    <label>Russia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>san-marino</id>
+                    <label>San Marino</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>serbia</id>
+                    <label>Serbia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>slovakia</id>
+                    <label>Slovakia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>slovenia</id>
+                    <label>Slovenia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>spain</id>
+                    <label>Spain</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>sweden</id>
+                    <label>Sweden</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>switzerland</id>
+                    <label>Switzerland</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>turkey</id>
+                    <label>Turkey</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>ukraine</id>
+                    <label>Ukraine</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>united-kingdom</id>
+                    <label>United Kingdom</label>
+                </tag>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>near-east</id>
+                <label>Near East</label>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>algeria</id>
+                    <label>Algeria</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>bahrain</id>
+                    <label>Bahrain</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>egypt</id>
+                    <label>Egypt</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>iran</id>
+                    <label>Iran</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>iraq</id>
+                    <label>Iraq</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>israel</id>
+                    <label>Israel</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>jordan</id>
+                    <label>Jordan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kuwait</id>
+                    <label>Kuwait</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>lebanon</id>
+                    <label>Lebanon</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>libya</id>
+                    <label>Libya</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>morocco</id>
+                    <label>Morocco</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>oman</id>
+                    <label>Oman</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>qatar</id>
+                    <label>Qatar</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>saudi-arabia</id>
+                    <label>Saudi Arabia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>syria</id>
+                    <label>Syria</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>tunisia</id>
+                    <label>Tunisia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>united-arab-emirates</id>
+                    <label>United Arab Emirates</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>yemen</id>
+                    <label>Yemen</label>
+                </tag>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>south-and-central-asia</id>
+                <label>South and Central Asia</label>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>afghanistan</id>
+                    <label>Afghanistan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>bangladesh</id>
+                    <label>Bangladesh</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>bhutan</id>
+                    <label>Bhutan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>india</id>
+                    <label>India</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kyrgyzstan</id>
+                    <label>Kyrgyzstan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kazakhstan</id>
+                    <label>Kazakhstan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>maldives</id>
+                    <label>Maldives</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>nepal</id>
+                    <label>Nepal</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>pakistan</id>
+                    <label>Pakistan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>sri-lanka</id>
+                    <label>Sri Lanka</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>tajikistan</id>
+                    <label>Tajikistan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>turkmenistan</id>
+                    <label>Turkmenistan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>uzbekistan</id>
+                    <label>Uzbekistan</label>
+                </tag>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>western-hemisphere</id>
+                <label>Western Hemisphere</label>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>antigua-and-barbuda</id>
+                    <label>Antigua and Barbuda</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>argentina</id>
+                    <label>Argentina</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>the-bahamas</id>
+                    <label>The Bahamas</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>barbados</id>
+                    <label>Barbados</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>belize</id>
+                    <label>Belize</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>brazil</id>
+                    <label>Brazil</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>bolivia</id>
+                    <label>Bolivia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>canada</id>
+                    <label>Canada</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>chile</id>
+                    <label>Chile</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>colombia</id>
+                    <label>Colombia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>costa-rica</id>
+                    <label>Costa Rica</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>cuba</id>
+                    <label>Cuba</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>dominica</id>
+                    <label>Dominica</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>dominican-republic</id>
+                    <label>Dominican Republic</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>ecuador</id>
+                    <label>Ecuador</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>el-salvador</id>
+                    <label>El Salvador</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>grenada</id>
+                    <label>Grenada</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>guatemala</id>
+                    <label>Guatemala</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>guyana</id>
+                    <label>Guyana</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>haiti</id>
+                    <label>Haiti</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>honduras</id>
+                    <label>Honduras</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>jamaica</id>
+                    <label>Jamaica</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>mexico</id>
+                    <label>Mexico</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>nicaragua</id>
+                    <label>Nicaragua</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>panama</id>
+                    <label>Panama</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>paraguay</id>
+                    <label>Paraguay</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>peru</id>
+                    <label>Peru</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>st-kitts-and-nevis</id>
+                    <label>St. Kitts and Nevis</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>st-lucia</id>
+                    <label>St. Lucia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>st-vincent-and-the-grenadines</id>
+                    <label>St. Vincent and the Grenadines</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>suriname</id>
+                    <label>Suriname</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>trinidad-and-tobago</id>
+                    <label>Trinidad and Tobago</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>uruguay</id>
+                    <label>Uruguay</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>venezuela</id>
+                    <label>Venezuela</label>
+                </tag>
+            </tag>
+        </category>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>dependencies-and-areas-of-special-sovereignty</id>
+            <label>Dependencies and Areas of Special Sovereignty</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>akrotiri</id>
+                <label>Akrotiri</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>american-samoa</id>
+                <label>American Samoa</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>anguilla</id>
+                <label>Anguilla</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>aruba</id>
+                <label>Aruba</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>ashmore-and-cartier-islands</id>
+                <label>Ashmore and Cartier Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>azores</id>
+                <label>Azores</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>baker-island</id>
+                <label>Baker Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bermuda</id>
+                <label>Bermuda</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>bouvet-island</id>
+                <label>Bouvet Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>british-indian-ocean-territory</id>
+                <label>British Indian Ocean Territory</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cayman-islands</id>
+                <label>Cayman Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>christmas-island</id>
+                <label>Christmas Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>clipperton-island</id>
+                <label>Clipperton Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cocos-keeling-islands</id>
+                <label>Cocos (Keeling) Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cook-islands</id>
+                <label>Cook Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>coral-sea-islands</id>
+                <label>Coral Sea Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>curacao</id>
+                <label>Curacao</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>dhekelia</id>
+                <label>Dhekelia</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>falkland-islands-islas-malvinas</id>
+                <label>Falkland Islands (Islas Malvinas)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>faroe-islands</id>
+                <label>Faroe Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>french-guiana</id>
+                <label>French Guiana</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>french-polynesia</id>
+                <label>French Polynesia</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>french-southern-and-antarctic-lands</id>
+                <label>French Southern and Antarctic Lands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>gibraltar</id>
+                <label>Gibraltar</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>greenland</id>
+                <label>Greenland</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>guadeloupe</id>
+                <label>Guadeloupe</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>guam</id>
+                <label>Guam</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>guernsey</id>
+                <label>Guernsey</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>heard-island-and-mcdonald-islands</id>
+                <label>Heard Island and McDonald Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>hong-kong</id>
+                <label>Hong Kong</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>howland-island</id>
+                <label>Howland Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>isle-of-man</id>
+                <label>Isle of Man</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>jan-mayen</id>
+                <label>Jan Mayen</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>jarvis-island</id>
+                <label>Jarvis Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>jersey</id>
+                <label>Jersey</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>johnson-atoll</id>
+                <label>Johnson Atoll</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>kingman-reef</id>
+                <label>Kingman Reef</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>macau</id>
+                <label>Macau</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>martinique</id>
+                <label>Martinique</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>mayotte</id>
+                <label>Mayotte</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>midway-islands</id>
+                <label>Midway Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>monterserrat</id>
+                <label>Monterserrat</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>navassa-island</id>
+                <label>Navassa Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>new-caledonia</id>
+                <label>New Caledonia</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>niue</id>
+                <label>Niue</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>norfolk-island</id>
+                <label>Norfolk Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>northern-mariana-islands</id>
+                <label>Northern Mariana Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>palmyra-atoll</id>
+                <label>Palmyra Atoll</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>pitcairn-islands</id>
+                <label>Pitcairn Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>puerto-rico</id>
+                <label>Puerto Rico</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>reunion</id>
+                <label>Reunion</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>saint-barthelemy</id>
+                <label>Saint Barthelemy</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>saint-helena</id>
+                <label>Saint Helena</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>saint-martin</id>
+                <label>Saint Martin</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>saint-pierre-and-miquelon</id>
+                <label>Saint Pierre and Miquelon</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>sint-maarten</id>
+                <label>Sint Maarten</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>south-georgia-and-the-south-sandwich-islands</id>
+                <label>South Georgia and the South Sandwich Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>svalbard</id>
+                <label>Svalbard</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>tokelau</id>
+                <label>Tokelau</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>turks-and-caicos-islands</id>
+                <label>Turks and Caicos Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>virgin-islands-british</id>
+                <label>Virgin Islands, British</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>virgin-islands-u-s</id>
+                <label>Virgin Islands, U.S.</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>wake-island</id>
+                <label>Wake Island</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>wallis-and-futuna</id>
+                <label>Wallis and Futuna</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>zanzibar</id>
+                <label>Zanzibar</label>
+            </tag>
+        </category>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>other</id>
+            <label>Other</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>antarctica</id>
+                <label>Antarctica</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>palestine</id>
+                <label>Palestine</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>paracel-islands</id>
+                <label>Paracel Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>spratly-islands</id>
+                <label>Spratly Islands</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>western-sahara</id>
+                <label>Western Sahara</label>
+            </tag>
+        </category>
+    </category>
+    <category created-by="cozensef" created-date="2013-04-08">
+        <id>topics</id>
+        <label>Topics</label>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>arms-control-and-disarmament</id>
+            <label>Arms Control and Disarmament</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>arms-embargoes</id>
+                <label>Arms Embargoes</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>arms-transfers</id>
+                <label>Arms Transfers</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>chemical-and-bacteriological-warfare</id>
+                <label>Chemical and Bacteriological Warfare</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>collective-security</id>
+                <label>Collective Security</label>
+                <definition>The general concept of collective security. Specific treaties and organizations have their own tags.</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>confidence-building-measures</id>
+                <label>Confidence-Building Measures</label>
+                <definition>Measures taken to reduce fear of attack.</definition>
+                <usage-hint>These measures will usually be explicitly be labeled as such by negotiating partners.</usage-hint>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>nuclear-nonproliferation</id>
+                <label>Nuclear Nonproliferation</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>nuclear-weapons</id>
+                <label>Nuclear Weapons</label>
+            </tag>
+        </tag>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>department-of-state</id>
+            <label>Department of State</label>
+            <usage-hint>Do not use as tag; this term is too general.</usage-hint>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>buildings-domestic</id>
+                <label>Buildings: Domestic</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>buildings-foreign</id>
+                <label>Buildings: Foreign</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>congressional-relations</id>
+                <label>Congressional Relations</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>organization-and-management</id>
+                <label>Organization and Management</label>
+                <definition>Internal management of the Department itself—i.e., rules, regulations, (re-)organization, etc.—rather than the management of foreign relations.</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-civil-service</id>
+                <label>Personnel: Civil Service</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-demographics</id>
+                <label>Personnel: Demographics</label>
+                <definition>Analyses or censuses of the composition of Department personnel—e.g., race, gender, educational background, etc.</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-foreign-service</id>
+                <label>Personnel: Foreign Service</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-locally-employed-staff</id>
+                <label>Personnel: Locally Employed Staff</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>protection-of-americans-abroad</id>
+                <label>Protection of Americans Abroad</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>protocol</id>
+                <label>Protocol</label>
+            </tag>
+        </category>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>foreign-economic-policy</id>
+            <label>Foreign Economic Policy</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>agriculture</id>
+                <label>Agriculture</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>economic-sanctions</id>
+                <label>Economic Sanctions</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>economic-summit-meetings</id>
+                <label>Economic Summit Meetings</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>energy-and-natural-resources</id>
+                <label>Energy and Natural Resources</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>financial-and-monetary-policy</id>
+                <label>Financial and Monetary Policy</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>foreign-aid</id>
+                <label>Foreign Aid</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>foreign-investment</id>
+                <label>Foreign Investment</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>labor</id>
+                <label>Labor</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>new-international-economic-order</id>
+                <label>New International Economic Order</label>
+                <definition>The proposal made in the 1970s by developing countries to replace the Bretton Woods system</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>trade-and-commercial-policy-agreements</id>
+                <label>Trade and Commercial Policy/Agreements</label>
+            </tag>
+        </tag>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>global-issues</id>
+            <label>Global Issues</label>
+            <usage-hint>Do not use as tag; this term is too general.</usage-hint>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>border-administration</id>
+                <label>Border Administration</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>decolonization</id>
+                <label>Decolonization</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>elections</id>
+                <label>Elections</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>immigration</id>
+                <label>Immigration</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>narcotics</id>
+                <label>Narcotics</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>outer-space</id>
+                <label>Outer Space</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>peace</id>
+                <label>Peace</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>polar-affairs</id>
+                <label>Polar Affairs</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>population-demographics</id>
+                <label>Population Demographics</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>self-determination</id>
+                <label>Self-Determination</label>
+            </tag>
+        </category>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>human-rights</id>
+            <label>Human Rights</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>asylum</id>
+                <label>Asylum</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>detainees</id>
+                <label>Detainees</label>
+                <definition>People held in custody or confinement who are not accorded the legal status of other terms in this taxonomy—i.e., <ptr target="asylum"/> or <ptr target="refugees"/>
+                </definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>genocide</id>
+                <label>Genocide</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>political-prisoners</id>
+                <label>Political Prisoners</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>refugees</id>
+                <label>Refugees</label>
+            </tag>
+        </tag>
+        <tag created-by="cozensef" created-date="2013-04-08" last-updated-by="wicentowskijc" last-updated-date="2013-10-30">
+            <id>information-programs</id>
+            <label>Information Programs</label>
+            <definition>U.S. information activity in foreign countries</definition>
+        </tag>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>international-law</id>
+            <label>International Law</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>domestic-protest-against-u-s-activity</id>
+                <label>Domestic Protest against U.S. Activity</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>foreign-protest-against-u-s-activity</id>
+                <label>Foreign Protest against U.S. Activity</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>law-of-the-sea</id>
+                <label>Law of the Sea</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>property-claims</id>
+                <label>Property Claims</label>
+            </tag>
+        </tag>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>international-organizations</id>
+            <label>International Organizations</label>
+            <definition>Organizations which do not have specific tags, or for general works on international organizations.</definition>
+            <usage-hint>If an organization begins to appear frequently, please suggest a separate tag for the organization.</usage-hint>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>association-of-southeast-asian-nations</id>
+                <label>Association of Southeast Asian Nations</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>conference-on-security-and-cooperation-in-europe</id>
+                <label>Conference on Security and Cooperation in Europe</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>european-advisory-commission</id>
+                <label>European Advisory Commission</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>european-economic-community</id>
+                <label>European Economic Community</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>far-eastern-commission</id>
+                <label>Far Eastern Commission</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-10-15">
+                <id>international-monetary-fund</id>
+                <label>International Monetary Fund</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>league-of-nations</id>
+                <label>League of Nations</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>international-atomic-energy-agency</id>
+                <label>International Atomic Energy Agency</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>non-governmental-organizations</id>
+                <label>Non-governmental Organizations</label>
+                <definition>Organizations which are not affiliated with governments—e.g., Red Cross, Human Rights Watch, Doctors without Borders.</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>north-atlantic-treaty-organization</id>
+                <label>North Atlantic Treaty Organization</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>organization-of-american-states</id>
+                <label>Organization of American States</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>organization-of-petroleum-exporting-countries</id>
+                <label>Organization of Petroleum Exporting Countries</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>southeast-asia-treaty-organization</id>
+                <label>Southeast Asia Treaty Organization</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>united-nations</id>
+                <label>United Nations</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>universal-postal-union</id>
+                <label>Universal Postal Union</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-10-15">
+                <id>world-trade-organization</id>
+                <label>World Trade Organization</label>
+            </tag>
+        </tag>
+        <category created-by="cozensef" created-date="2013-04-08">
+            <id>politico-military-issues</id>
+            <label>Politico-Military issues</label>
+            <usage-hint>Do not use as tag; this term is too general.</usage-hint>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>alliances</id>
+                <label>Alliances</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>armistices</id>
+                <label>Armistices</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>covert-actions</id>
+                <label>Covert Actions</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>diplomatic-recognition</id>
+                <label>Diplomatic Recognition</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>military-bases</id>
+                <label>Military Bases</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>military-intervention-presence-and-withdrawal</id>
+                <label>Military Intervention, Presence and Withdrawal</label>
+                <definition>Military action not covered by a specific tag under <ptr target="warfare"/>
+                </definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>national-security-council</id>
+                <label>National Security Council</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>national-security-policy</id>
+                <label>National Security Policy</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>quarantine-blockade</id>
+                <label>Quarantine (Blockade)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>terrorism</id>
+                <label>Terrorism</label>
+            </tag>
+        </category>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>science-and-technology</id>
+            <label>Science and Technology</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>atomic-energy</id>
+                <label>Atomic Energy</label>
+            </tag>
+        </tag>
+        <tag created-by="cozensef" created-date="2013-04-08">
+            <id>warfare</id>
+            <label>Warfare</label>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>afghanistan-conflict-2001</id>
+                <label>Afghanistan Conflict (2001)</label>
+                <definition>U.S. military presence in Afghanistan post-2001</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>american-revolutionary-war</id>
+                <label>American Revolutionary War</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>arab-israeli-dispute</id>
+                <label>Arab-Israeli Dispute</label>
+                <definition>The ongoing conflict in the Middle East</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>civil-war-u-s</id>
+                <label>Civil War (U.S.)</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>cuban-missile-crisis</id>
+                <label>Cuban Missile Crisis</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>geneva-convention</id>
+                <label>Geneva Convention</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>iraq-war-2003</id>
+                <label>Iraq War (2003)</label>
+                <definition>U.S. military presence in Iraq post-2003</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>korean-war</id>
+                <label>Korean War</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>mexican-american-war</id>
+                <label>Mexican-American War</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>neutrality</id>
+                <label>Neutrality</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>prisoners-of-war</id>
+                <label>Prisoners of War</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>spanish-american-war</id>
+                <label>Spanish-American War</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>suez-canal</id>
+                <label>Suez Canal</label>
+                <definition>Suez Crisis of 1956</definition>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>vietnam-conflict</id>
+                <label>Vietnam Conflict</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>war-crimes-and-war-criminals</id>
+                <label>War Crimes and War Criminals</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>war-of-1812</id>
+                <label>War of 1812</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>world-war-i</id>
+                <label>World War I</label>
+            </tag>
+            <tag created-by="cozensef" created-date="2013-04-08">
+                <id>world-war-ii</id>
+                <label>World War II</label>
+            </tag>
+        </tag>
+    </category>
+</taxonomy>

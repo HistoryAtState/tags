@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<submission>
+    <author>cooper</author>
+    <date>2013-05-09</date>
+    <study>
+        <title>FRUS, 1955-1957, volume XVI, Suez Crisis, July 26-December 31, 1956, volume XVI</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v16</link>
+        <tags>
+            <tag id="suez-canal"/>
+            <tag id="egypt"/>
+            <tag id="israel"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="agriculture"/>
+            <tag id="algeria"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="iran"/>
+            <tag id="armistices"/>
+            <tag id="canada"/>
+            <tag id="jordan"/>
+            <tag id="lebanon"/>
+            <tag id="syria"/>
+            <tag id="palestine"/>
+            <tag id="argentina"/>
+            <tag id="belgium"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="united-nations"/>
+            <tag id="india"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="national-security-policy"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="international-organizations"/>
+            <tag id="congressional-relations"/>
+            <tag id="nigeria"/>
+            <tag id="italy"/>
+            <tag id="poland"/>
+            <tag id="australia"/>
+            <tag id="thailand"/>
+            <tag id="spain"/>
+            <tag id="saudi-arabia"/>
+            <tag id="iceland"/>
+            <tag id="panama"/>
+            <tag id="cyprus"/>
+            <tag id="economic-sanctions"/>
+            <tag id="warfare"/>
+            <tag id="hungary"/>
+            <tag id="indonesia"/>
+            <tag id="ethiopia"/>
+            <tag id="libya"/>
+            <tag id="kuwait"/>
+            <tag id="pakistan"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="turkey"/>
+            <tag id="neutrality"/>
+            <tag id="foreign-aid"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="switzerland"/>
+            <tag id="iraq"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="guatemala"/>
+            <tag id="japan"/>
+            <tag id="liberia"/>
+        </tags>
+        <tbd>USSR; Yugoslavia</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume I, Vietnam</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v01</link>
+        <tags>
+            <tag id="vietnam"/>
+            <tag id="warfare"/>
+            <tag id="foreign-aid"/>
+            <tag id="vietnam-conflict"/>
+            <tag id="cambodia"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="laos"/>
+            <tag id="international-organizations"/>
+            <tag id="south-and-central-asia"/>
+            <tag id="australia"/>
+            <tag id="china"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="canada"/>
+            <tag id="japan"/>
+            <tag id="world-war-ii"/>
+            <tag id="alliances"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="elections"/>
+            <tag id="congressional-relations"/>
+        </tags>
+        <tbd/>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume II, United Nations and General International Matters</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v02</link>
+        <tags>
+            <tag id="united-nations"/>
+            <tag id="law-of-the-sea"/>
+            <tag id="outer-space"/>
+            <tag id="antarctica"/>
+            <tag id="neutrality"/>
+            <tag id="belgium"/>
+            <tag id="denmark"/>
+            <tag id="bulgaria"/>
+            <tag id="malaysia"/>
+            <tag id="finland"/>
+            <tag id="hungary"/>
+            <tag id="ireland"/>
+            <tag id="greece"/>
+            <tag id="cyprus"/>
+            <tag id="czech-republic"/>
+            <tag id="decolonization"/>
+            <tag id="human-rights"/>
+            <tag>Tibet</tag>
+            <tag id="indonesia"/>
+            <tag id="philippines"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="honduras"/>
+            <tag id="nepal"/>
+            <tag id="cameroon"/>
+            <tag id="ethiopia"/>
+            <tag id="tunisia"/>
+            <tag id="egypt"/>
+            <tag id="chad"/>
+            <tag id="costa-rica"/>
+            <tag id="dominican-republic"/>
+            <tag id="el-salvador"/>
+            <tag id="national-security-policy"/>
+            <tag id="national-security-council"/>
+            <tag id="congressional-relations"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="lebanon"/>
+            <tag id="algeria"/>
+            <tag id="afghanistan"/>
+            <tag id="angola"/>
+            <tag id="india"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="chile"/>
+            <tag id="peace"/>
+            <tag id="warfare"/>
+            <tag id="japan"/>
+            <tag id="new-zealand"/>
+            <tag id="australia"/>
+            <tag id="china"/>
+            <tag id="peru"/>
+            <tag id="argentina"/>
+            <tag id="panama"/>
+            <tag id="albania"/>
+            <tag id="norway"/>
+            <tag id="south-africa"/>
+            <tag id="israel"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="border-administration"/>
+            <tag id="somalia"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="suez-canal"/>
+            <tag id="vietnam"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="international-organizations"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="korean-war"/>
+            <tag id="germany"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="canada"/>
+            <tag id="iceland"/>
+            <tag id="jordan"/>
+            <tag id="italy"/>
+            <tag id="ghana"/>
+            <tag id="morocco"/>
+            <tag id="sierra-leone"/>
+            <tag id="uganda"/>
+            <tag id="sudan"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="guatemala"/>
+            <tag id="mexico"/>
+            <tag id="poland"/>
+            <tag id="ukraine"/>
+            <tag id="netherlands"/>
+            <tag id="turkey"/>
+            <tag id="switzerland"/>
+            <tag id="sweden"/>
+            <tag id="thailand"/>
+            <tag id="syria"/>
+            <tag id="zimbabwe"/>
+            <tag id="zanzibar"/>
+        </tags>
+        <tbd>Rhodesia; USSR; Yugoslavia; United Arab Republic; Democratic Republic of the Congo (Kinshasa); Congo (Brazzaville)</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume III, National Security Policy; Arms Control and Disarmament</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v03</link>
+        <tags>
+            <tag id="national-security-policy"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="afghanistan"/>
+            <tag id="foreign-aid"/>
+            <tag id="algeria"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="collective-security"/>
+            <tag id="geneva-convention"/>
+            <tag id="israel"/>
+            <tag id="warfare"/>
+            <tag id="human-rights"/>
+            <tag id="korean-war"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="united-nations"/>
+            <tag id="australia"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="canada"/>
+            <tag id="denmark"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="chemical-and-bacteriological-warfare"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="pakistan"/>
+            <tag id="vietnam"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="iraq"/>
+            <tag id="kuwait"/>
+            <tag id="libya"/>
+            <tag id="laos"/>
+            <tag id="outer-space"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="china"/>
+            <tag id="military-bases"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="tunisia"/>
+            <tag id="iran"/>
+            <tag id="turkey"/>
+            <tag id="lebanon"/>
+            <tag id="iceland"/>
+            <tag id="hungary"/>
+            <tag id="italy"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="czech-republic"/>
+            <tag id="cambodia"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="population-demographics"/>
+        </tags>
+        <tbd>USSR; Yugoslavia</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume IV, Foreign Economic Policy</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v04</link>
+        <tags>
+            <tag id="foreign-economic-policy"/>
+            <tag id="afghanistan"/>
+            <tag id="economic-sanctions"/>
+            <tag id="agriculture"/>
+            <tag id="germany"/>
+            <tag id="foreign-aid"/>
+            <tag id="international-organizations"/>
+            <tag id="united-kingdom"/>
+            <tag id="poland"/>
+            <tag id="ecuador"/>
+            <tag id="nicaragua"/>
+            <tag id="venezuela"/>
+            <tag id="portugal"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="argentina"/>
+            <tag id="brazil"/>
+            <tag id="peru"/>
+            <tag id="cuba"/>
+            <tag id="chile"/>
+            <tag id="dominican-republic"/>
+            <tag id="el-salvador"/>
+            <tag id="haiti"/>
+            <tag id="cambodia"/>
+            <tag id="burma"/>
+            <tag id="japan"/>
+            <tag id="china"/>
+            <tag id="egypt"/>
+            <tag id="cyprus"/>
+            <tag id="turkey"/>
+            <tag id="israel"/>
+            <tag id="morocco"/>
+            <tag id="malaysia"/>
+            <tag id="australia"/>
+            <tag id="azores"/>
+            <tag id="south-africa"/>
+            <tag id="libya"/>
+            <tag id="india"/>
+            <tag id="ethiopia"/>
+            <tag id="cameroon"/>
+            <tag id="tunisia"/>
+            <tag id="liberia"/>
+            <tag id="lebanon"/>
+            <tag id="new-zealand"/>
+            <tag id="jordan"/>
+            <tag id="syria"/>
+            <tag id="congressional-relations"/>
+            <tag id="european-economic-community"/>
+            <tag id="national-security-policy"/>
+            <tag id="qatar"/>
+            <tag id="italy"/>
+            <tag id="france"/>
+            <tag id="finland"/>
+            <tag id="denmark"/>
+            <tag id="czech-republic"/>
+            <tag id="belgium"/>
+            <tag id="iceland"/>
+            <tag id="canada"/>
+            <tag id="switzerland"/>
+            <tag id="suez-canal"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="national-security-council"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="atomic-energy"/>
+            <tag id="organization-of-petroleum-exporting-countries"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="human-rights"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="vietnam"/>
+            <tag id="united-nations"/>
+            <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="congo-brazzaville"/>
+        </tags>
+        <tbd>USSR; Yugoslavia; United Arab Republic</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume V, American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v05</link>
+        <tags>
+            <tag id="western-hemisphere"/>
+            <tag id="foreign-aid"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="international-organizations"/>
+            <tag id="atomic-energy"/>
+            <tag id="human-rights"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="neutrality"/>
+            <tag id="korean-war"/>
+            <tag id="national-security-council"/>
+            <tag id="chile"/>
+            <tag id="argentina"/>
+            <tag id="peru"/>
+            <tag id="dominica"/>
+            <tag id="bolivia"/>
+            <tag id="mexico"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="uruguay"/>
+            <tag id="anguilla"/>
+            <tag id="venezuela"/>
+            <tag id="dominican-republic"/>
+            <tag id="guatemala"/>
+            <tag id="costa-rica"/>
+            <tag id="grenada"/>
+            <tag id="cuba"/>
+            <tag id="honduras"/>
+            <tag id="colombia"/>
+            <tag id="antigua-and-barbuda"/>
+            <tag id="el-salvador"/>
+            <tag id="ecuador"/>
+            <tag id="haiti"/>
+            <tag id="puerto-rico"/>
+            <tag id="brazil"/>
+            <tag id="paraguay"/>
+            <tag id="st-lucia"/>
+            <tag id="st-vincent-and-the-grenadines"/>
+            <tag id="st-kitts-and-nevis"/>
+            <tag id="trinidad-and-tobago"/>
+            <tag id="switzerland"/>
+            <tag id="taiwan"/>
+            <tag id="portugal"/>
+            <tag id="greece"/>
+            <tag id="germany"/>
+            <tag id="congressional-relations"/>
+            <tag id="united-nations"/>
+            <tag id="labor"/>
+            <tag id="agriculture"/>
+            <tag id="elections"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="eisenhower-dwight-d"/>
+        </tags>
+        <tbd>USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume VI, Cuba</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v06</link>
+        <tags>
+            <tag id="cuba"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="national-security-policy"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="agriculture"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="haiti"/>
+            <tag id="italy"/>
+            <tag id="national-security-council"/>
+            <tag id="china"/>
+            <tag id="puerto-rico"/>
+            <tag id="united-kingdom"/>
+            <tag id="uruguay"/>
+            <tag id="dominican-republic"/>
+            <tag id="mexico"/>
+            <tag id="argentina"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="brazil"/>
+            <tag id="nicaragua"/>
+            <tag id="el-salvador"/>
+            <tag id="peru"/>
+            <tag id="guatemala"/>
+            <tag id="venezuela"/>
+            <tag id="ecuador"/>
+            <tag id="colombia"/>
+            <tag id="foreign-aid"/>
+            <tag id="united-nations"/>
+            <tag id="arms-embargoes"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="burma"/>
+            <tag id="canada"/>
+            <tag id="egypt"/>
+            <tag id="refugees"/>
+            <tag id="foreign-protest-against-u-s-activity"/>
+            <tag id="elections"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="labor"/>
+            <tag id="international-organizations"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="peace"/>
+        </tags>
+        <tbd>USSR; Yugoslavia</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume VII, Part 1, Western European Integration and Canada</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v07p1</link>
+        <tags>
+            <tag id="europe"/>
+            <tag id="canada"/>
+            <tag id="european-economic-community"/>
+            <tag id="alliances"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="china"/>
+            <tag id="foreign-aid"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="portugal"/>
+            <tag id="egypt"/>
+            <tag id="denmark"/>
+            <tag id="sweden"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="netherlands"/>
+            <tag id="france"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="japan"/>
+            <tag id="turkey"/>
+            <tag id="greece"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="national-security-council"/>
+            <tag id="national-security-policy"/>
+            <tag id="lebanon"/>
+            <tag id="spain"/>
+            <tag id="norway"/>
+            <tag id="luxembourg"/>
+            <tag id="cyprus"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="suez-canal"/>
+            <tag id="italy"/>
+            <tag id="agriculture"/>
+            <tag id="atomic-energy"/>
+            <tag id="australia"/>
+            <tag id="belgium"/>
+            <tag id="austria"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="india"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="united-nations"/>
+            <tag id="algeria"/>
+            <tag id="antarctica"/>
+            <tag id="switzerland"/>
+            <tag id="finland"/>
+        </tags>
+        <tbd>Yugoslavia; USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume VII, Part 2, Western Europe</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v07p2</link>
+        <tags>
+            <tag id="france"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="atomic-energy"/>
+            <tag id="italy"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="jordan"/>
+            <tag id="somalia"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="iceland"/>
+            <tag id="refugees"/>
+            <tag id="national-security-council"/>
+            <tag id="national-security-policy"/>
+            <tag id="taiwan"/>
+            <tag id="san-marino"/>
+            <tag id="foreign-aid"/>
+            <tag id="europe"/>
+            <tag id="greece"/>
+            <tag id="turkey"/>
+            <tag id="germany"/>
+            <tag id="portugal"/>
+            <tag id="united-kingdom"/>
+            <tag id="iran"/>
+            <tag id="holy-see"/>
+            <tag id="china"/>
+            <tag id="iraq"/>
+            <tag id="lebanon"/>
+            <tag id="laos"/>
+            <tag id="puerto-rico"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="poland"/>
+            <tag id="alliances"/>
+            <tag id="tunisia"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="decolonization"/>
+            <tag id="united-nations"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="cuba"/>
+            <tag id="sub-saharan-africa"/>
+            <tag id="austria"/>
+            <tag id="egypt"/>
+            <tag id="morocco"/>
+            <tag id="israel"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="belgium"/>
+            <tag id="spain"/>
+            <tag id="algeria"/>
+        </tags>
+        <tbd>Yugoslavia; USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume VIII, Berlin Crisis, 1958-1959</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v08</link>
+        <tags>
+            <tag id="germany"/>
+            <tag id="europe"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="alliances"/>
+            <tag id="border-administration"/>
+            <tag id="peace"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="united-nations"/>
+            <tag id="italy"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="turkey"/>
+            <tag id="warfare"/>
+            <tag id="foreign-aid"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="poland"/>
+            <tag id="czech-republic"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="austria"/>
+            <tag id="denmark"/>
+            <tag id="netherlands"/>
+            <tag id="european-economic-community"/>
+            <tag id="norway"/>
+            <tag id="belgium"/>
+            <tag id="national-security-council"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="self-determination"/>
+            <tag id="greece"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="hungary"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="quarantine-blockade"/>
+        </tags>
+        <tbd>Yugoslavia; USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume IX, Berlin Crisis, 1959-1960; Germany, Austria</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v09</link>
+        <tags>
+            <tag id="austria"/>
+            <tag id="germany"/>
+            <tag id="europe"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="international-organizations"/>
+            <tag id="national-security-council"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="border-administration"/>
+            <tag id="congressional-relations"/>
+            <tag id="alliances"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="united-nations"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="canada"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="european-economic-community"/>
+            <tag id="peace"/>
+            <tag id="china"/>
+            <tag id="denmark"/>
+            <tag id="poland"/>
+            <tag id="japan"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="czech-republic"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="hungary"/>
+            <tag id="refugees"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="foreign-aid"/>
+            <tag id="italy"/>
+            <tag id="belgium"/>
+        </tags>
+        <tbd>Yugoslavia; USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume X, Part 1, Eastern Europe Region, Soviet Union, Cyprus</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v10p1</link>
+        <tags>
+            <tag id="europe"/>
+            <tag id="national-security-council"/>
+            <tag id="human-rights"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="peace"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="warfare"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="greece"/>
+            <tag id="turkey"/>
+            <tag id="foreign-aid"/>
+            <tag id="jordan"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="border-administration"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="united-kingdom"/>
+            <tag id="iran"/>
+            <tag id="pakistan"/>
+            <tag id="norway"/>
+            <tag id="romania"/>
+            <tag id="vietnam"/>
+            <tag id="poland"/>
+            <tag id="world-war-ii"/>
+            <tag id="geneva-convention"/>
+            <tag id="international-organizations"/>
+            <tag id="morocco"/>
+            <tag id="outer-space"/>
+            <tag id="hungary"/>
+            <tag id="egypt"/>
+            <tag id="india"/>
+            <tag id="estonia"/>
+            <tag id="self-determination"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="czech-republic"/>
+            <tag id="belgium"/>
+            <tag id="united-nations"/>
+            <tag id="cyprus"/>
+            <tag id="georgia"/>
+            <tag id="china"/>
+            <tag id="italy"/>
+            <tag id="afghanistan"/>
+            <tag id="azerbaijan"/>
+            <tag id="bulgaria"/>
+            <tag id="albania"/>
+            <tag id="algeria"/>
+            <tag id="atomic-energy"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="canada"/>
+            <tag id="denmark"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="austria"/>
+        </tags>
+        <tbd>Yugoslavia; USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume X, Part 2, Eastern Europe; Finland; Greece; Turkey</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v10p2</link>
+        <tags>
+            <tag id="world-war-i"/>
+            <tag id="world-war-ii"/>
+            <tag id="europe"/>
+            <tag id="suez-canal"/>
+            <tag id="egypt"/>
+            <tag id="taiwan"/>
+            <tag id="foreign-aid"/>
+            <tag id="finland"/>
+            <tag id="greece"/>
+            <tag id="turkey"/>
+            <tag id="germany"/>
+            <tag id="korean-war"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="national-security-council"/>
+            <tag id="european-economic-community"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="belgium"/>
+            <tag id="china"/>
+            <tag id="poland"/>
+            <tag id="bulgaria"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="indonesia"/>
+            <tag id="spain"/>
+            <tag id="congressional-relations"/>
+            <tag id="syria"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="cuba"/>
+            <tag id="netherlands"/>
+            <tag id="palestine"/>
+            <tag id="agriculture"/>
+            <tag id="labor"/>
+            <tag id="hungary"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="jordan"/>
+            <tag id="algeria"/>
+            <tag id="albania"/>
+            <tag id="cyprus"/>
+            <tag id="india"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="iraq"/>
+            <tag id="united-nations"/>
+            <tag id="italy"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="international-organizations"/>
+            <tag id="canada"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="congo-brazzaville"/>
+        </tags>
+        <tbd>Yugoslavia; USSR</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume XI, Lebanon and Jordan</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v11</link>
+        <tags>
+            <tag id="lebanon"/>
+            <tag id="jordan"/>
+            <tag id="foreign-aid"/>
+            <tag id="warfare"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="iraq"/>
+            <tag id="elections"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="turkey"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="germany"/>
+            <tag id="human-rights"/>
+            <tag id="liberia"/>
+            <tag id="saudi-arabia"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="national-security-policy"/>
+            <tag id="pakistan"/>
+            <tag id="libya"/>
+            <tag id="refugees"/>
+            <tag id="thailand"/>
+            <tag id="sweden"/>
+            <tag id="norway"/>
+            <tag id="china"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="colombia"/>
+            <tag id="congressional-relations"/>
+            <tag id="agriculture"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="ghana"/>
+            <tag id="national-security-council"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="canada"/>
+            <tag id="algeria"/>
+            <tag id="iran"/>
+            <tag id="afghanistan"/>
+            <tag id="india"/>
+            <tag id="palestine"/>
+            <tag id="alliances"/>
+            <tag id="international-organizations"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="israel"/>
+            <tag id="labor"/>
+        </tags>
+        <tbd>Yugoslavia; USSR; United Arab Republic</tbd>
+    </study>
+    <study>
+        <title>FRUS, 1958-1960, volume XII, Near East Region; Iraq; Iran; Arabian Peninsula</title>
+        <link>http://history.state.gov/historicaldocuments/frus1958-60v12</link>
+        <tags>
+            <tag id="iraq"/>
+            <tag id="iran"/>
+            <tag id="warfare"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="saudi-arabia"/>
+            <tag id="yemen"/>
+            <tag id="united-kingdom"/>
+            <tag id="oman"/>
+            <tag id="kuwait"/>
+            <tag id="afghanistan"/>
+            <tag id="israel"/>
+            <tag id="border-administration"/>
+            <tag id="agriculture"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="atomic-energy"/>
+            <tag id="india"/>
+            <tag id="turkey"/>
+            <tag id="pakistan"/>
+            <tag id="lebanon"/>
+            <tag id="refugees"/>
+            <tag id="world-war-ii"/>
+            <tag id="libya"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="egypt"/>
+            <tag id="national-security-policy"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="canada"/>
+            <tag id="congressional-relations"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="jordan"/>
+            <tag id="china"/>
+            <tag id="neutrality"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="cyprus"/>
+            <tag id="palestine"/>
+            <tag id="south-and-central-asia"/>
+            <tag id="human-rights"/>
+            <tag id="international-organizations"/>
+            <tag id="greece"/>
+            <tag id="national-security-council"/>
+            <tag id="japan"/>
+            <tag id="qatar"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="italy"/>
+            <tag id="suez-canal"/>
+            <tag id="morocco"/>
+            <tag id="foreign-aid"/>
+            <tag id="ethiopia"/>
+            <tag id="germany"/>
+            <tag id="sudan"/>
+            <tag id="organization-of-petroleum-exporting-countries"/>
+        </tags>
+        <tbd>Yugoslavia; USSR; United Arab Republic</tbd>
+    </study>
+</submission>

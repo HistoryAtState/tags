@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<submission>
+    <author>patrick</author>
+    <date>2014-03-31</date>
+    <study>
+        <title>FRUS, 1930, volume III</title>
+        <link>http://history.state.gov/historicaldocuments/frus1930v03</link>
+        <tags>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="iceland"/>
+            <tag id="iraq"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="latvia"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="turkey"/>
+            <tag id="venezuela"/>
+            <tag id="saudi-arabia"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="immigration"/>
+            <tag id="league-of-nations"/>
+            <tag id="protection-of-americans-abroad"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1930, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1930v02</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="arms-embargoes"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="elections"/>
+            <tag id="organization-and-management"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1930, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1930v01</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="asylum"/>
+            <tag id="hoover-herbert"/>
+            <tag id="alliances"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1929, volume III</title>
+        <link>http://history.state.gov/historicaldocuments/frus1929v03</link>
+        <tags>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="hungary"/>
+            <tag id="ireland"/>
+            <tag id="japan"/>
+            <tag id="latvia"/>
+            <tag id="liberia"/>
+            <tag id="luxembourg"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="iran"/>
+            <tag id="peru"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="thailand"/>
+            <tag id="spain"/>
+            <tag id="turkey"/>
+            <tag id="south-africa"/>
+            <tag id="venezuela"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="arms-embargoes"/>
+            <tag id="energy-and-natural-resources"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1929, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1929v02</link>
+        <tags>
+            <tag id="belgium"/>
+            <tag id="bolivia"/>
+            <tag id="bulgaria"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="dominican-republic"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="estonia"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1929, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1929v01</link>
+        <tags>
+            <tag id="hoover-herbert"/>
+            <tag id="argentina"/>
+            <tag id="canada"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="belgium"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="league-of-nations"/>
+            <tag id="denmark"/>
+            <tag id="united-kingdom"/>
+            <tag id="guatemala"/>
+            <tag id="honduras"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="alliances"/>
+            <tag id="netherlands"/>
+            <tag id="peru"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="venezuela"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1928, volume III</title>
+        <link>http://history.state.gov/historicaldocuments/frus1928v03</link>
+        <tags>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="saudi-arabia"/>
+            <tag id="honduras"/>
+            <tag id="ireland"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="latvia"/>
+            <tag id="liberia"/>
+            <tag id="lithuania"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="iran"/>
+            <tag id="peru"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="coolidge-calvin"/>
+            <tag id="alliances"/>
+            <tag id="peace"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1928, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1928v02</link>
+        <tags>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="antarctica"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="diplomatic-recognition"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1928, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1928v01</link>
+        <tags>
+            <tag id="coolidge-calvin"/>
+            <tag id="albania"/>
+            <tag id="austria"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="denmark"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="russia"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1927, volume III</title>
+        <link>http://history.state.gov/historicaldocuments/frus1927v03</link>
+        <tags>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="ireland"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="latvia"/>
+            <tag id="liberia"/>
+            <tag id="lithuania"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="iran"/>
+            <tag id="peru"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="uruguay"/>
+            <tag id="venezuela"/>
+            <tag id="yemen"/>
+            <tag id="china"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="coolidge-calvin"/>
+            <tag id="league-of-nations"/>
+            <tag id="foreign-investment"/>
+            <tag id="arms-embargoes"/>
+            <tag id="agriculture"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1927, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1927v02</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="foreign-aid"/>
+            <tag id="foreign-investment"/>
+            <tag id="coolidge-calvin"/>
+            <tag id="economic-summit-meetings"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1927, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1927v01</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="bolivia"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="foreign-investment"/>
+            <tag id="coolidge-calvin"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="immigration"/>
+            <tag id="league-of-nations"/>
+            <tag id="economic-summit-meetings"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1926, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1926v02</link>
+        <tags>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="egypt"/>
+            <tag id="estonia"/>
+            <tag id="france"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="latvia"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="iran"/>
+            <tag id="peru"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="el-salvador"/>
+            <tag id="arms-embargoes"/>
+            <tag id="neutrality"/>
+            <tag id="energy-and-natural-resources"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1926, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1926v01</link>
+        <tags>
+            <tag id="afghanistan"/>
+            <tag id="argentina"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="arms-embargoes"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="labor"/>
+            <tag id="league-of-nations"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1925, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1925v02</link>
+        <tags>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="estonia"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="germany"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="hungary"/>
+            <tag id="italy"/>
+            <tag id="liberia"/>
+            <tag id="lithuania"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="iran"/>
+            <tag id="peru"/>
+            <tag id="poland"/>
+            <tag id="russia"/>
+            <tag id="san-marino"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="agriculture"/>
+            <tag id="elections"/>
+            <tag id="arms-embargoes"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="foreign-aid"/>
+            <tag id="foreign-investment"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1925, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1925v01</link>
+        <tags>
+            <tag id="albania"/>
+            <tag id="austria"/>
+            <tag id="belgium"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="arms-embargoes"/>
+            <tag id="asylum"/>
+            <tag id="coolidge-calvin"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="league-of-nations"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+</submission>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<submission>
+    <author>patrick</author>
+    <date>2014-02-25</date>
+    <study>
+        <title>FRUS, 1933, volume V, The American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1933v05</link>
+        <tags>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="el-salvador"/>
+            <tag id="haiti"/>
+            <tag id="mexico"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="united-kingdom"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="france"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="japan"/>
+            <tag id="spain"/>
+            <tag id="uruguay"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1933, volume IV, The American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1933v04</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="brazil"/>
+            <tag id="league-of-nations"/>
+            <tag id="colombia"/>
+            <tag id="cuba"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="italy"/>
+            <tag id="mexico"/>
+            <tag id="panama"/>
+            <tag id="peru"/>
+            <tag id="uruguay"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1933, volume III, The Far East</title>
+        <link>http://history.state.gov/historicaldocuments/frus1933v03</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="thailand"/>
+            <tag id="arms-embargoes"/>
+            <tag id="league-of-nations"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="foreign-investment"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="russia"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="foreign-protest-against-u-s-activity"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1933, volume II, The Britisn Commonwealth, Europe, Near East and Africa</title>
+        <link>http://history.state.gov/historicaldocuments/frus1933v02</link>
+        <tags>
+            <tag id="united-kingdom"/>
+            <tag id="canada"/>
+            <tag id="ireland"/>
+            <tag id="new-zealand"/>
+            <tag id="south-africa"/>
+            <tag id="albania"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="italy"/>
+            <tag id="latvia"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="liberia"/>
+            <tag id="morocco"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="league-of-nations"/>
+            <tag id="refugees"/>
+            <tag id="roosevelt-franklin-d"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1933, volume I, General</title>
+        <link>http://history.state.gov/historicaldocuments/frus1933v01</link>
+        <tags>
+            <tag id="arms-embargoes"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="germany"/>
+            <tag id="belgium"/>
+            <tag id="canada"/>
+            <tag id="cuba"/>
+            <tag id="chile"/>
+            <tag id="denmark"/>
+            <tag id="league-of-nations"/>
+            <tag id="japan"/>
+            <tag id="france"/>
+            <tag id="mexico"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="roosevelt-franklin-d"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, The Soviet Union, 1933-1939</title>
+        <link>http://history.state.gov/historicaldocuments/frus1933-39</link>
+        <tags>
+            <tag id="russia"/>
+            <tag id="buildings-foreign"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="germany"/>
+            <tag id="league-of-nations"/>
+            <tag id="neutrality"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1932, volume V, The American Republics</title>
+        <link>http://history.state.gov/historicaldocuments/frus1932v05</link>
+        <tags>
+            <tag id="argentina"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="cuba"/>
+            <tag id="costa-rica"/>
+            <tag id="el-salvador"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="mexico"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="peru"/>
+            <tag id="bolivia"/>
+            <tag id="paraguay"/>
+            <tag id="league-of-nations"/>
+            <tag id="arms-embargoes"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="elections"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1932, volume IV, The Far East</title>
+        <link>http://history.state.gov/historicaldocuments/frus1932v04</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="thailand"/>
+            <tag id="arms-embargoes"/>
+            <tag id="league-of-nations"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="foreign-investment"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="russia"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="foreign-protest-against-u-s-activity"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1932, volume III, The Far East</title>
+        <link>http://history.state.gov/historicaldocuments/frus1932v03</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="arms-embargoes"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="league-of-nations"/>
+            <tag id="germany"/>
+            <tag id="france"/>
+            <tag id="italy"/>
+            <tag id="russia"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="stimson-henry-lewis"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1932, volume II, The British Commonwealth, Europe, Near East and Africa</title>
+        <link>http://history.state.gov/historicaldocuments/frus1932v02</link>
+        <tags>
+            <tag id="united-kingdom"/>
+            <tag id="canada"/>
+            <tag id="albania"/>
+            <tag id="austria"/>
+            <tag id="belgium"/>
+            <tag id="bulgaria"/>
+            <tag id="denmark"/>
+            <tag id="estonia"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="iceland"/>
+            <tag id="italy"/>
+            <tag id="lithuania"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="iraq"/>
+            <tag id="liberia"/>
+            <tag id="iran"/>
+            <tag id="stimson-henry-lewis"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Persia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1932, volume I, General</title>
+        <link>http://history.state.gov/historicaldocuments/frus1932v01</link>
+        <tags>
+            <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
+            <tag id="austria"/>
+            <tag id="belgium"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="canada"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1931, volume III, The Far East</title>
+        <link>http://history.state.gov/historicaldocuments/frus1931v03</link>
+        <tags>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="hoover-herbert"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, 1931, volume II</title>
+        <link>http://history.state.gov/historicaldocuments/frus1931v02</link>
+        <tags>
+            <tag id="colombia"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="egypt"/>
+            <tag id="el-salvador"/>
+            <tag id="ethiopia"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="hungary"/>
+            <tag id="iraq"/>
+            <tag id="ireland"/>
+            <tag id="italy"/>
+            <tag id="liberia"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="nicaragua"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="peru"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="south-africa"/>
+            <tag id="uruguay"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="elections"/>
+            <tag id="arms-embargoes"/>
+            <tag id="hoover-herbert"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="league-of-nations"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1931, volume I</title>
+        <link>http://history.state.gov/historicaldocuments/frus1931v01</link>
+        <tags>
+            <tag id="afghanistan"/>
+            <tag id="albania"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="italy"/>
+            <tag id="league-of-nations"/>
+            <tag id="asylum"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="colombia"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="india"/>
+            <tag id="netherlands"/>
+            <tag id="poland"/>
+        </tags>
+    </study>
+    <study>
+        <title>FRUS, Japan, 1931-1941, volume 2</title>
+        <link>http://history.state.gov/historicaldocuments/frus1931-41v02</link>
+        <tags>
+            <tag id="japan"/>
+            <tag id="china"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="world-war-ii"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="hull-cordell"/>
+            <tag id="immigration"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="russia"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, Japan, 1931-1941, volume 1</title>
+        <link>http://history.state.gov/historicaldocuments/frus1931-41v01</link>
+        <tags>
+            <tag id="japan"/>
+            <tag id="china"/>
+            <tag id="foreign-investment"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="hull-cordell"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="stimson-henry-lewis"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+        </tags>
+    </study>
+</submission>

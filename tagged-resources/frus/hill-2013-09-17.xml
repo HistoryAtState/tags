@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<submission>
+    <author>hill</author>
+    <date>2013-09-17</date>
+    <study>
+        <title>FRUS, 1969-1976, volume XXXIII, SALT II, 1972-1980</title>
+        <link>http://history.state.gov/historicaldocuments/frus1969-76v33</link>
+        <tags>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="afghanistan"/>
+            <tag id="angola"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="belarus"/>
+            <tag id="carter-jimmy"/>
+            <tag id="ford-gerald"/>
+            <tag id="nixon-richard"/>
+            <tag id="rogers-william-pierce"/>
+            <tag id="kissinger-henry-a"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="china"/>
+            <tag id="conference-on-security-and-cooperation-in-europe"/>
+            <tag id="cuba"/>
+            <tag id="elections"/>
+            <tag id="germany"/>
+            <tag id="united-kingdom"/>
+            <tag id="greece"/>
+            <tag id="france"/>
+            <tag id="guam"/>
+            <tag id="iceland"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="israel"/>
+            <tag id="japan"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="norway"/>
+            <tag id="panama"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="syria"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1977-1980, volume II, Human Rights and Humanitarian Affairs</title>
+        <link>http://history.state.gov/historicaldocuments/frus1977-80v02</link>
+        <tags>
+            <tag id="human-rights"/>
+            <tag id="carter-jimmy"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="afghanistan"/>
+            <tag id="china"/>
+            <tag id="iran"/>
+            <tag id="rwanda"/>
+            <tag id="chile"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="philippines"/>
+            <tag id="angola"/>
+            <tag id="antarctica"/>
+            <tag id="argentina"/>
+            <tag id="armenia"/>
+            <tag id="palestine"/>
+            <tag id="arms-transfers"/>
+            <tag id="australia"/>
+            <tag id="bahrain"/>
+            <tag id="benin"/>
+            <tag id="bangladesh"/>
+            <tag id="barbados"/>
+            <tag id="belgium"/>
+            <tag id="bolivia"/>
+            <tag id="botswana"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="cambodia"/>
+            <tag id="canada"/>
+            <tag id="burma"/>
+            <tag id="burundi"/>
+            <tag id="belarus"/>
+            <tag id="cape-verde"/>
+            <tag id="central-african-republic"/>
+            <tag id="chad"/>
+            <tag id="colombia"/>
+            <tag id="agriculture"/>
+            <tag id="namibia"/>
+            <tag id="costa-rica"/>
+            <tag id="cote-divoire"/>
+            <tag id="cuba"/>
+            <tag id="cyprus"/>
+            <tag id="denmark"/>
+            <tag id="djibouti"/>
+            <tag id="dominican-republic"/>
+            <tag id="egypt"/>
+            <tag id="timor-leste"/>
+            <tag id="ecuador"/>
+            <tag id="equatorial-guinea"/>
+            <tag id="nigeria"/>
+            <tag id="cameroon"/>
+            <tag id="el-salvador"/>
+            <tag id="ethiopia"/>
+            <tag id="elections"/>
+            <tag id="sri-lanka"/>
+            <tag id="peru"/>
+            <tag id="pakistan"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="foreign-aid"/>
+            <tag id="georgia"/>
+            <tag id="germany"/>
+            <tag id="the-gambia"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="grenada"/>
+            <tag id="guinea"/>
+            <tag id="guinea-bissau"/>
+            <tag id="guyana"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="hong-kong"/>
+            <tag id="hungary"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="mexico"/>
+            <tag id="iraq"/>
+            <tag id="ireland"/>
+            <tag id="italy"/>
+            <tag id="israel"/>
+            <tag id="japan"/>
+            <tag id="kenya"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="kuwait"/>
+            <tag id="laos"/>
+            <tag id="lebanon"/>
+            <tag id="lithuania"/>
+            <tag id="luxembourg"/>
+            <tag id="liberia"/>
+            <tag id="libya"/>
+            <tag id="madagascar"/>
+            <tag id="malawi"/>
+            <tag id="malaysia"/>
+            <tag id="mali"/>
+            <tag id="mauritania"/>
+            <tag id="mauritius"/>
+            <tag id="the-federated-states-of-micronesia"/>
+            <tag id="mongolia"/>
+            <tag id="morocco"/>
+            <tag id="mozambique"/>
+            <tag id="nepal"/>
+            <tag id="netherlands"/>
+            <tag id="new-zealand"/>
+            <tag id="nicaragua"/>
+            <tag id="niger"/>
+            <tag id="norway"/>
+            <tag id="oman"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="puerto-rico"/>
+            <tag id="romania"/>
+            <tag id="saudi-arabia"/>
+            <tag id="senegal"/>
+            <tag id="sierra-leone"/>
+            <tag id="singapore"/>
+            <tag id="somalia"/>
+            <tag id="south-africa"/>
+            <tag id="yemen"/>
+            <tag id="spain"/>
+            <tag id="sudan"/>
+            <tag id="swaziland"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="syria"/>
+            <tag id="taiwan"/>
+            <tag id="tanzania"/>
+            <tag id="thailand"/>
+            <tag id="togo"/>
+            <tag id="trinidad-and-tobago"/>
+            <tag id="tunisia"/>
+            <tag id="turkey"/>
+            <tag id="uganda"/>
+            <tag id="ukraine"/>
+            <tag id="united-arab-emirates"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+            <tag id="jordan"/>
+            <tag id="uruguay"/>
+            <tag id="vietnam"/>
+            <tag id="western-sahara"/>
+            <tag id="zambia"/>
+            <tag id="zimbabwe"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXVII, Western Europe and Canada</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v27</link>
+        <tags>
+            <tag id="canada"/>
+            <tag id="united-kingdom"/>
+            <tag id="france"/>
+            <tag id="italy"/>
+            <tag id="portugal"/>
+            <tag id="spain"/>
+            <tag id="holy-see"/>
+            <tag id="afghanistan"/>
+            <tag id="algeria"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="armenia"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="azores"/>
+            <tag id="bermuda"/>
+            <tag id="burma"/>
+            <tag id="cambodia"/>
+            <tag id="china"/>
+            <tag id="cyprus"/>
+            <tag id="denmark"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="egypt"/>
+            <tag id="finland"/>
+            <tag id="germany"/>
+            <tag id="ghana"/>
+            <tag id="greece"/>
+            <tag id="greenland"/>
+            <tag id="iceland"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="hungary"/>
+            <tag id="japan"/>
+            <tag id="jordan"/>
+            <tag id="south-korea"/>
+            <tag id="kuwait"/>
+            <tag id="laos"/>
+            <tag id="libya"/>
+            <tag id="mauritius"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="new-zealand"/>
+            <tag id="nigeria"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="norway"/>
+            <tag id="pakistan"/>
+            <tag id="palestine"/>
+            <tag id="poland"/>
+            <tag id="saudi-arabia"/>
+            <tag id="sweden"/>
+            <tag id="suez-canal"/>
+            <tag id="switzerland"/>
+            <tag id="syria"/>
+            <tag id="taiwan"/>
+            <tag id="tunisia"/>
+            <tag id="turkey"/>
+            <tag id="vietnam"/>
+            <tag id="yemen"/>
+            <tag id="united-nations"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="north-korea"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Tibet</tag>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXVI, Central and Southeastern Europe</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v26</link>
+        <tags>
+            <tag id="austria"/>
+            <tag id="germany"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="afghanistan"/>
+            <tag id="albania"/>
+            <tag id="algeria"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="australia"/>
+            <tag id="belgium"/>
+            <tag id="border-administration"/>
+            <tag id="bulgaria"/>
+            <tag id="burma"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="cyprus"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="egypt"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="hungary"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="jordan"/>
+            <tag id="south-korea"/>
+            <tag id="north-korea"/>
+            <tag id="luxembourg"/>
+            <tag id="malta"/>
+            <tag id="netherlands"/>
+            <tag id="pakistan"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="refugees"/>
+            <tag id="saudi-arabia"/>
+            <tag id="spain"/>
+            <tag id="switzerland"/>
+            <tag id="syria"/>
+            <tag id="taiwan"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="uruguay"/>
+            <tag id="vietnam"/>
+            <tag id="venezuela"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXV, Eastern Europe</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v25</link>
+        <tags>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="greece"/>
+            <tag id="turkey"/>
+            <tag id="albania"/>
+            <tag id="bulgaria"/>
+            <tag id="hungary"/>
+            <tag id="poland"/>
+            <tag id="romania"/>
+            <tag id="finland"/>
+            <tag id="afghanistan"/>
+            <tag id="algeria"/>
+            <tag id="argentina"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="refugees"/>
+            <tag id="belgium"/>
+            <tag id="burma"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="cuba"/>
+            <tag id="cyprus"/>
+            <tag id="denmark"/>
+            <tag id="suez-canal"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="egypt"/>
+            <tag id="germany"/>
+            <tag id="foreign-aid"/>
+            <tag id="iceland"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="iraq"/>
+            <tag id="ireland"/>
+            <tag id="israel"/>
+            <tag id="italy"/>
+            <tag id="information-programs"/>
+            <tag id="japan"/>
+            <tag id="south-korea"/>
+            <tag id="lebanon"/>
+            <tag id="libya"/>
+            <tag id="nepal"/>
+            <tag id="netherlands"/>
+            <tag id="norway"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="pakistan"/>
+            <tag id="peru"/>
+            <tag id="portugal"/>
+            <tag id="saudi-arabia"/>
+            <tag id="spain"/>
+            <tag id="sudan"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="syria"/>
+            <tag id="tunisia"/>
+            <tag id="united-kingdom"/>
+            <tag id="uruguay"/>
+            <tag id="yemen"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXIV, Soviet Union, Eastern Mediterranean</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v24</link>
+        <tags>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="cyprus"/>
+            <tag id="greece"/>
+            <tag id="turkey"/>
+            <tag id="albania"/>
+            <tag id="austria"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="self-determination"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="terrorism"/>
+            <tag id="denmark"/>
+            <tag id="egypt"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="estonia"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="guatemala"/>
+            <tag id="hungary"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="immigration"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="jordan"/>
+            <tag id="north-korea"/>
+            <tag id="kuwait"/>
+            <tag id="latvia"/>
+            <tag id="lithuania"/>
+            <tag id="mongolia"/>
+            <tag id="norway"/>
+            <tag id="pakistan"/>
+            <tag id="panama"/>
+            <tag id="poland"/>
+            <tag id="romania"/>
+            <tag id="saudi-arabia"/>
+            <tag id="united-kingdom"/>
+            <tag id="vietnam"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXIII, part 1, Japan</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v23p1</link>
+        <tags>
+            <tag id="japan"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="war-crimes-and-war-criminals"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="australia"/>
+            <tag id="china"/>
+            <tag id="foreign-aid"/>
+            <tag id="elections"/>
+            <tag id="germany"/>
+            <tag id="india"/>
+            <tag id="south-korea"/>
+            <tag id="new-zealand"/>
+            <tag id="philippines"/>
+            <tag id="taiwan"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="vietnam"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXIII, part 2, Korea</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v23p2</link>
+        <tags>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="border-administration"/>
+            <tag id="korean-war"/>
+            <tag id="australia"/>
+            <tag id="belgium"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="foreign-aid"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="hungary"/>
+            <tag id="india"/>
+            <tag id="japan"/>
+            <tag id="armistices"/>
+            <tag id="luxembourg"/>
+            <tag id="arms-transfers"/>
+            <tag id="netherlands"/>
+            <tag id="new-zealand"/>
+            <tag id="philippines"/>
+            <tag id="poland"/>
+            <tag id="south-africa"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="taiwan"/>
+            <tag id="thailand"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="vietnam"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXII, Southeast Asia</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v22</link>
+        <tags>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="burma"/>
+            <tag id="indonesia"/>
+            <tag id="philippines"/>
+            <tag id="singapore"/>
+            <tag id="thailand"/>
+            <tag id="algeria"/>
+            <tag id="australia"/>
+            <tag id="foreign-aid"/>
+            <tag id="cambodia"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="cyprus"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="egypt"/>
+            <tag id="finland"/>
+            <tag id="taiwan"/>
+            <tag id="germany"/>
+            <tag id="guam"/>
+            <tag id="hungary"/>
+            <tag id="india"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="elections"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="japan"/>
+            <tag id="jordan"/>
+            <tag id="south-korea"/>
+            <tag id="laos"/>
+            <tag id="malaysia"/>
+            <tag id="nepal"/>
+            <tag id="netherlands"/>
+            <tag id="papua-new-guinea"/>
+            <tag id="new-zealand"/>
+            <tag id="neutrality"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="pakistan"/>
+            <tag id="poland"/>
+            <tag id="romania"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="vietnam"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XXI, East Asian Security; Cambodia; Laos</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v21</link>
+        <tags>
+            <tag id="cambodia"/>
+            <tag id="laos"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="australia"/>
+            <tag id="new-zealand"/>
+            <tag id="afghanistan"/>
+            <tag id="antarctica"/>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="burma"/>
+            <tag id="foreign-aid"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="cyprus"/>
+            <tag id="egypt"/>
+            <tag id="ethiopia"/>
+            <tag id="france"/>
+            <tag id="ghana"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="japan"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="libya"/>
+            <tag id="singapore"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="nepal"/>
+            <tag id="netherlands"/>
+            <tag id="neutrality"/>
+            <tag id="papua-new-guinea"/>
+            <tag id="pakistan"/>
+            <tag id="philippines"/>
+            <tag id="portugal"/>
+            <tag id="saudi-arabia"/>
+            <tag id="spain"/>
+            <tag id="sudan"/>
+            <tag id="syria"/>
+            <tag id="thailand"/>
+            <tag id="tunisia"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="information-programs"/>
+            <tag id="vietnam"/>
+            <tag id="yemen"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XX, Regulation of Armaments; Atomic Energy</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v20</link>
+        <tags>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="atomic-energy"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="belgium"/>
+            <tag id="canada"/>
+            <tag id="france"/>
+            <tag id="greece"/>
+            <tag id="iceland"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="luxembourg"/>
+            <tag id="netherlands"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="philippines"/>
+            <tag id="portugal"/>
+            <tag id="switzerland"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="united-nations"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XIX, National Security Policy</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v19</link>
+        <tags>
+            <tag id="national-security-policy"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="science-and-technology"/>
+            <tag id="military-bases"/>
+            <tag id="afghanistan"/>
+            <tag id="algeria"/>
+            <tag id="argentina"/>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="azores"/>
+            <tag id="brazil"/>
+            <tag id="burma"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="cyprus"/>
+            <tag id="egypt"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="greenland"/>
+            <tag id="guam"/>
+            <tag id="guatemala"/>
+            <tag id="hungary"/>
+            <tag id="iceland"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="israel"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="laos"/>
+            <tag id="liberia"/>
+            <tag id="libya"/>
+            <tag id="mexico"/>
+            <tag id="morocco"/>
+            <tag id="new-zealand"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="pakistan"/>
+            <tag id="philippines"/>
+            <tag id="portugal"/>
+            <tag id="saudi-arabia"/>
+            <tag id="singapore"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="syria"/>
+            <tag id="taiwan"/>
+            <tag id="thailand"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="uruguay"/>
+            <tag id="vietnam"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XVIII, Africa</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v18</link>
+        <tags>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="mozambique"/>
+            <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="algeria"/>
+            <tag id="ethiopia"/>
+            <tag id="ghana"/>
+            <tag id="liberia"/>
+            <tag id="libya"/>
+            <tag id="morocco"/>
+            <tag id="nigeria"/>
+            <tag id="somalia"/>
+            <tag id="sudan"/>
+            <tag id="tunisia"/>
+            <tag id="south-africa"/>
+            <tag id="foreign-aid"/>
+            <tag id="afghanistan"/>
+            <tag id="elections"/>
+            <tag id="angola"/>
+            <tag id="australia"/>
+            <tag id="austria"/>
+            <tag id="belgium"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="bulgaria"/>
+            <tag id="burma"/>
+            <tag id="cambodia"/>
+            <tag id="canada"/>
+            <tag id="cameroon"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="egypt"/>
+            <tag id="el-salvador"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="finland"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="iceland"/>
+            <tag id="india"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="italy"/>
+            <tag id="cote-divoire"/>
+            <tag id="japan"/>
+            <tag id="jordan"/>
+            <tag id="kenya"/>
+            <tag id="self-determination"/>
+            <tag id="laos"/>
+            <tag id="lebanon"/>
+            <tag id="military-bases"/>
+            <tag id="mauritania"/>
+            <tag id="mauritius"/>
+            <tag id="mexico"/>
+            <tag id="nepal"/>
+            <tag id="new-zealand"/>
+            <tag id="pakistan"/>
+            <tag id="peru"/>
+            <tag id="philippines"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="saudi-arabia"/>
+            <tag id="spain"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="syria"/>
+            <tag id="turkey"/>
+            <tag id="uganda"/>
+            <tag id="united-kingdom"/>
+            <tag id="uruguay"/>
+            <tag id="yemen"/>
+            <tag id="zanzibar"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XVII, Arab-Israeli Dispute, 1957</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v17</link>
+        <tags>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="israel"/>
+            <tag id="palestine"/>
+            <tag id="suez-canal"/>
+            <tag id="afghanistan"/>
+            <tag id="egypt"/>
+            <tag id="algeria"/>
+            <tag id="refugees"/>
+            <tag id="australia"/>
+            <tag id="border-administration"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="denmark"/>
+            <tag id="jordan"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="ethiopia"/>
+            <tag id="turkey"/>
+            <tag id="foreign-aid"/>
+            <tag id="ghana"/>
+            <tag id="finland"/>
+            <tag id="india"/>
+            <tag id="france"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="italy"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="lebanon"/>
+            <tag id="liberia"/>
+            <tag id="libya"/>
+            <tag id="morocco"/>
+            <tag id="netherlands"/>
+            <tag id="new-zealand"/>
+            <tag id="pakistan"/>
+            <tag id="panama"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="spain"/>
+            <tag id="sudan"/>
+            <tag id="sweden"/>
+            <tag id="tunisia"/>
+            <tag id="uganda"/>
+            <tag id="united-kingdom"/>
+            <tag id="venezuela"/>
+            <tag id="yemen"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>FRUS, 1955-1957, volume XV, Arab-Israeli Dispute, January 1-July 26, 1956</title>
+        <link>http://history.state.gov/historicaldocuments/frus1955-57v15</link>
+        <tags>
+            <tag id="arab-israeli-dispute"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="palestine"/>
+            <tag id="israel"/>
+            <tag id="suez-canal"/>
+            <tag id="algeria"/>
+            <tag id="egypt"/>
+            <tag id="iraq"/>
+            <tag id="kuwait"/>
+            <tag id="saudi-arabia"/>
+            <tag id="refugees"/>
+            <tag id="jordan"/>
+            <tag id="syria"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="australia"/>
+            <tag id="belgium"/>
+            <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="border-administration"/>
+            <tag id="burma"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="armistices"/>
+            <tag id="cyprus"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="india"/>
+            <tag id="indonesia"/>
+            <tag id="iran"/>
+            <tag id="italy"/>
+            <tag id="lebanon"/>
+            <tag id="libya"/>
+            <tag id="morocco"/>
+            <tag id="pakistan"/>
+            <tag id="sudan"/>
+            <tag id="sweden"/>
+            <tag id="switzerland"/>
+            <tag id="tunisia"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="yemen"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
+    </study>
+</submission>
