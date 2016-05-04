@@ -28,7 +28,7 @@
             <definition>Presidential administrations in chronological order. (P) is appended to a
                 President's name in cases where the President also served as Secretary of State. A
                 range of years is appended in cases where the President served in two
-                non-coterminous administrations.</definition>
+                non-consecutive administrations.</definition>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>washington-george</id>
                 <label>Washington, George</label>
@@ -211,7 +211,7 @@
             <label>Secretaries of State</label>
             <definition>Secretaries of State in chronological order. (S) is appended to a Secretary's
                 name in cases where the Secretary also served as President. A range of years is
-                appended in cases where the Secretary served non-coterminously.</definition>
+                appended in cases where the Secretary served non-consecutively.</definition>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>jefferson-thomas-s</id>
                 <label>Jefferson, Thomas (S)</label>
