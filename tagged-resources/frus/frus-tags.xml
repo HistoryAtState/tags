@@ -1408,6 +1408,15 @@
             <tag id="japan"/>
             <tag id="poland"/>
             <tag id="turkey"/>
+            <tag id="estonia"/>
+            <tag id="latvia"/>
+            <tag id="lithuania"/>
+            <tag id="armenia"/>
+            <tag id="georgia"/>
+            <tag id="azerbaijan"/>
+            <tag id="moldova"/>
+            <tag id="ukraine"/>
+            <tag id="romania"/>
         </tags>
     </study>
     <study>
@@ -2037,7 +2046,7 @@
     </study>
     <study>
         <title>FRUS, 1919, Russia</title>
-        <link>https://history.state.gov/historicaldocuments/frus1919vRussia</link>
+        <link>https://history.state.gov/historicaldocuments/frus1919Russia</link>
         <tags>
             <tag id="russia"/>
             <tag id="asylum"/>
@@ -2055,6 +2064,7 @@
             <tag id="lithuania"/>
             <tag id="poland"/>
             <tag id="peace"/>
+            <tag id="ukraine"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
