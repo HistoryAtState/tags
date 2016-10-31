@@ -2207,6 +2207,157 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>Papers Relating to the Foreign Relations of the United States, Transmitted to Congress, With the Annual Message of the President, December 3, 1889</title>
+        <link>https://history.state.gov/historicaldocuments/frus1889</link>
+        <tags>
+            <tag id="agriculture"/>
+            <tag id="argentina"/>
+            <tag id="austria"/>
+            <tag id="belgium"/>
+            <tag id="blaine-james-gillespie-1889-1892"/>
+            <tag id="brazil"/>
+            <tag id="canada"/>
+            <tag id="china"/>
+            <tag id="cuba"/>
+            <tag id="denmark"/>
+            <tag id="germany"/>
+            <tag id="haiti"/>
+            <tag id="harrison-benjamin"/>
+            <tag id="immigration"/>
+            <tag id="japan"/>
+            <tag id="labor"/>
+            <tag id="mexico"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="samoa"/>
+            <tag id="spain"/>
+            <tag id="switzerland"/>
+            <tag id="terrorism"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
+        <title>Papers Relating to the Foreign Relations of the United States, Transmitted to Congress, With the Annual Message of the President, December 1, 1890</title>
+        <link>https://history.state.gov/historicaldocuments/frus1890</link>
+        <tags>
+            <tag id="agriculture"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="asylum"/>
+            <tag id="blaine-james-gillespie-1889-1892"/>
+            <tag id="brazil"/>
+            <tag id="china"/>
+            <tag id="colombia"/>
+            <tag id="el-salvador"/>
+            <tag id="germany"/>
+            <tag id="greece"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="harrison-benjamin"/>
+            <tag id="iran"/>
+            <tag id="italy"/>
+            <tag id="japan"/>
+            <tag id="mexico"/>
+            <tag id="norway"/>
+            <tag id="samoa"/>
+            <tag id="sweden"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="venezuela"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Treaties</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>Papers Relating to the Foreign Relations of the United States, Transmitted to Congress, With the Annual Message of the President, December 9, 1891</title>
+        <link>https://history.state.gov/historicaldocuments/frus1891</link>
+        <tags>
+            <tag id="agriculture"/>
+            <tag id="argentina"/>
+            <tag id="asylum"/>
+            <tag id="austria"/>
+            <tag id="blaine-james-gillespie-1889-1892"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="germany"/>
+            <tag id="harrison-benjamin"/>
+            <tag id="hungary"/>
+            <tag id="immigration"/>
+            <tag id="italy"/>
+            <tag id="law-of-the-sea"/>
+            <tag id="neutrality"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
+        <title>Papers Relating to the Foreign Relations of the United States, Transmitted to Congress, With the Annual Message of the President, December 5, 1892</title>
+        <link>https://history.state.gov/historicaldocuments/frus1892</link>
+        <tags>
+            <tag id="agriculture"/>
+            <tag id="asylum"/>
+            <tag id="austria"/>
+            <tag id="blaine-james-gillespie-1889-1892"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="el-salvador"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="hungary"/>
+            <tag id="immigration"/>
+            <tag id="liberia"/>
+            <tag id="mongolia"/>
+            <tag id="neutrality"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="quarantine-blockade"/>
+            <tag id="russia"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="venezuela"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Harrison Benjamin</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>Papers Relating to the Foreign Relations of the United States, With the Annual Message of the President, Transmitted to Congress, December 4, 1893</title>
+        <link>https://history.state.gov/historicaldocuments/frus1893</link>
+        <tags>
+            <tag id="asylum"/>
+            <tag id="austria"/>
+            <tag id="brazil"/>
+            <tag id="chile"/>
+            <tag id="china"/>
+            <tag id="cleveland-grover-1893-1897"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="el-salvador"/>
+            <tag id="france"/>
+            <tag id="gresham-walter-quintin"/>
+            <tag id="haiti"/>
+            <tag id="hungary"/>
+            <tag id="immigration"/>
+            <tag id="iran"/>
+            <tag id="japan"/>
+            <tag id="mexico"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="neutrality"/>
+            <tag id="nicaragua"/>
+            <tag id="palestine"/>
+            <tag id="peru"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="turkey"/>
+            <tag id="united-kingdom"/>
+            <tag id="venezuela"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
         <title>Foreign Relations of the United States, 1894</title>
         <link>https://history.state.gov/historicaldocuments/frus1894</link>
         <tags>
@@ -22123,6 +22274,23 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
+        </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>Foreign Relations of the United States, 1969–1976, Volume E–14, Part 2, Documents on Arms Control and Nonproliferation, 1973–1976</title>
+        <link>https://history.state.gov/historicaldocuments/frus1969-76ve14p2</link>
+        <tags>
+            <tag id="arms-transfers"/>
+            <tag id="chemical-and-bacteriological-warfare"/>
+            <tag id="ford-gerald"/>
+            <tag id="kissinger-henry-a"/>
+            <tag id="nixon-richard"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="rogers-william-pierce"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>Treaties</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
