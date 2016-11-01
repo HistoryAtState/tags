@@ -28,6 +28,7 @@
             <tag id="seward-william-henry"/>
             <tag id="buchanan-james-p"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1862</title>
@@ -64,6 +65,7 @@
             <tag id="nicaragua"/>
             <tag id="ecuador"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1863, part I</title>
@@ -74,6 +76,7 @@
             <tag id="civil-war-u-s"/>
             <tag id="seward-william-henry"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1863, part II</title>
@@ -109,6 +112,7 @@
             <tag id="diplomatic-recognition"/>
             <tag id="seward-william-henry"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1864, part I</title>
@@ -120,6 +124,7 @@
             <tag id="quarantine-blockade"/>
             <tag id="seward-william-henry"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1864, part II</title>
@@ -132,6 +137,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="seward-william-henry"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1864, part III</title>
@@ -150,6 +156,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="civil-war-u-s"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1864, part IV</title>
@@ -177,6 +184,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="tunisia"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1865, part I</title>
@@ -192,6 +200,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="financial-and-monetary-policy"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1865, part II</title>
@@ -213,6 +222,7 @@
             <tag id="neutrality"/>
             <tag id="international-law"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1865, part III</title>
@@ -282,6 +292,7 @@
             <tag id="seward-william-henry"/>
             <tag id="lincoln-abraham"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>Papers Relating to Foreign Affairs, Accompanying the Annual Message of the President
@@ -948,17 +959,18 @@
             V</title>
         <link>https://history.state.gov/historicaldocuments/frus1872p2v5</link>
         <tags>
+            <tag id="fish-hamilton"/>
             <tag id="germany"/>
+            <tag id="grant-ulysses-s"/>
+            <tag id="spain"/>
+            <tag id="united-kingdom"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Berlin Arbitration</tag>
             <tag>Border Administration (Canal de Haro)</tag>
             <tag>Border Administration (Northwest Water Boundary Arbitration)</tag>
-            <tag>Fish, Hamilton (S)</tag>
-            <tag>Grant, Ulysses S. (P)</tag>
-            <tag>Great Britain</tag>
             <tag>Prussia</tag>
-            <tag>Spain Dependencies and Areas of Special Sovereignty - Vancouver Island</tag>
+            <tag>Vancouver Island</tag>
             <tag>Treaty of Washington</tag>
             <tag>Vancouver Island (Dependencies and Areas of Special Sovereignty)</tag>
         </unofficial-tags-tbd>
@@ -998,8 +1010,9 @@
             <tag>Haiti (Hayti)</tag>
             <tag>Hawaiian Islands</tag>
             <tag>Naturalization</tag>
-            <tag>Paraguay Dependencies and Areas of Special Sovereignty - Zanzibar</tag>
+            <tag>Paraguay</tag>
             <tag>Patents</tag>
+            <tag>Zanzibar</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -1038,6 +1051,9 @@
         <link>https://history.state.gov/historicaldocuments/frus1873p2v3</link>
         <tags>
             <tag id="canada"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
+            <tag id="united-kingdom"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Adela (British Steamship)</tag>
@@ -1045,10 +1061,7 @@
             <tag>Border Administration (Northwest Water Boundary)</tag>
             <tag>Circassian (British Steamship)</tag>
             <tag>Claims Commission</tag>
-            <tag>Fish, Hamilton (S)</tag>
             <tag>Fisheries</tag>
-            <tag>Grant, Ulysses S. (P)</tag>
-            <tag>Great Britain</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -3195,17 +3208,6 @@
         </unofficial-tags-tbd>
     </study>
     <study>
-        <title>Foreign Relations of the United States, 1902. Pious Fund Case. Diplomatic
-            correspondence between the United States and the Republic of Mexico relative to the
-            Pious Fund of the Californias. Memorial. Appendix III</title>
-        <link>https://history.state.gov/historicaldocuments/frus1902app3</link>
-        <tags/>
-        <unofficial-tags-tbd>
-            <tag>NOT AVAILABLE FOR DIGITIZATION YET</tag>
-            <tag>UNAVAILABLE</tag>
-        </unofficial-tags-tbd>
-    </study>
-    <study>
         <title>FRUS, 1903</title>
         <link>https://history.state.gov/historicaldocuments/frus1903</link>
         <tags>
@@ -3255,6 +3257,7 @@
             <tag id="immigration"/>
             <tag id="roosevelt-theodore"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1904</title>
@@ -3315,6 +3318,7 @@
             <tag id="immigration"/>
             <tag id="roosevelt-theodore"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1905</title>
@@ -3372,6 +3376,7 @@
             <tag id="roosevelt-theodore"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1906, part 1</title>
@@ -3401,6 +3406,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="root-elihu"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1906, part 2</title>
@@ -3439,6 +3445,7 @@
             <tag id="roosevelt-theodore"/>
             <tag id="root-elihu"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1907, part 1</title>
@@ -3465,6 +3472,7 @@
             <tag id="roosevelt-theodore"/>
             <tag id="trade-and-commercial-policy-agreements"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1907, part 2</title>
@@ -3613,6 +3621,7 @@
             <tag id="diplomatic-recognition"/>
             <tag id="organization-and-management"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1910</title>
@@ -3666,6 +3675,7 @@
             <tag id="diplomatic-recognition"/>
             <tag id="immigration"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1911</title>
@@ -3717,6 +3727,7 @@
             <tag id="knox-philander-chase"/>
             <tag id="diplomatic-recognition"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1912</title>
@@ -3763,6 +3774,7 @@
             <tag id="taft-william-howard"/>
             <tag id="knox-philander-chase"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1913</title>
@@ -3807,6 +3819,7 @@
             <tag id="refugees"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1914</title>
@@ -3859,6 +3872,7 @@
             <tag id="wilson-woodrow"/>
             <tag id="energy-and-natural-resources"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, Lansing Papers, 1914-1920, volume I</title>
@@ -3878,6 +3892,7 @@
             <tag id="switzerland"/>
             <tag id="turkey"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, Lansing Papers, 1914-1920, volume II</title>
@@ -3907,6 +3922,7 @@
             <tag id="turkey"/>
             <tag id="uruguay"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1914, Supplement</title>
@@ -3944,6 +3960,7 @@
             <tag id="switzerland"/>
             <tag id="turkey"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1915</title>
@@ -3994,6 +4011,7 @@
             <tag id="peace"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1915, Supplement</title>
@@ -4021,6 +4039,7 @@
             <tag id="turkey"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1916</title>
@@ -4067,6 +4086,7 @@
             <tag id="foreign-aid"/>
             <tag id="energy-and-natural-resources"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1916, Supplement</title>
@@ -4095,6 +4115,7 @@
             <tag id="turkey"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1917</title>
@@ -4134,15 +4155,7 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="world-war-i"/>
         </tags>
-    </study>
-    <study>
-        <title>Foreign Relations of the United States, 1917–1972, Public Diplomacy, World War
-            I</title>
-        <link>https://history.state.gov/historicaldocuments/frus1917-72PubDip</link>
-        <tags/>
-        <unofficial-tags-tbd>
-            <tag>CANNOT FIND ON HEIN ONLINE</tag>
-        </unofficial-tags-tbd>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1917-1972, Public Diplomacy, World War
@@ -4225,6 +4238,7 @@
             <tag id="wilson-woodrow"/>
             <tag id="world-war-i"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1917, The World War, Supplement 2, volume I</title>
@@ -4254,6 +4268,7 @@
             <tag id="turkey"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1917, The World War, Supplement 2, volume II</title>
@@ -4275,6 +4290,7 @@
             <tag id="sweden"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918</title>
@@ -4309,6 +4325,7 @@
             <tag id="energy-and-natural-resources"/>
             <tag id="russia"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918, Russia, volume I</title>
@@ -4341,6 +4358,7 @@
             <tag id="switzerland"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918, Russia, volume II</title>
@@ -4387,6 +4405,7 @@
             <tag id="ukraine"/>
             <tag id="romania"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918, Russia, volume III</title>
@@ -4405,6 +4424,7 @@
             <tag id="wilson-woodrow"/>
             <tag id="world-war-i"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918, The World War, Supplement 1, volume I</title>
@@ -4430,6 +4450,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918, The World War, Supplement 1, volume II</title>
@@ -4451,6 +4472,7 @@
             <tag id="sweden"/>
             <tag id="turkey"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1918, The World War, Supplement 2</title>
@@ -4482,6 +4504,7 @@
             <tag id="spain"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1919, Paris Peace Conference, volume I</title>
@@ -4992,6 +5015,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1919, volume II</title>
@@ -5065,6 +5089,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1920, volume II</title>
@@ -5124,6 +5149,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="wilson-woodrow"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1921, volume I</title>
@@ -5149,6 +5175,7 @@
             <tag id="arms-embargoes"/>
             <tag id="trade-and-commercial-policy-agreements"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1921, volume II</title>
@@ -5219,6 +5246,7 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="trade-and-commercial-policy-agreements"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1922, volume II</title>
@@ -5271,8 +5299,8 @@
             <tag id="macedonia"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>Yugoslavia</tag>
             <tag>Siam</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -5348,6 +5376,7 @@
             <tag id="organization-and-management"/>
             <tag id="buildings-foreign"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1924, volume I</title>
@@ -5419,6 +5448,7 @@
             <tag id="energy-and-natural-resources"/>
             <tag id="hughes-charles-evans"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1925, volume I</title>
@@ -5519,6 +5549,7 @@
             <tag id="labor"/>
             <tag id="league-of-nations"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1926, volume II</title>
@@ -5561,6 +5592,7 @@
             <tag id="neutrality"/>
             <tag id="energy-and-natural-resources"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1927, volume I</title>
@@ -5579,6 +5611,7 @@
             <tag id="league-of-nations"/>
             <tag id="economic-summit-meetings"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1927, volume II</title>
@@ -5673,6 +5706,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="russia"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1928, volume II</title>
@@ -5698,6 +5732,7 @@
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1928, volume III</title>
@@ -5736,6 +5771,7 @@
             <tag id="alliances"/>
             <tag id="peace"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1929, volume I</title>
@@ -5796,6 +5832,7 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="trade-and-commercial-policy-agreements"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1929, volume III</title>
@@ -5858,6 +5895,7 @@
             <tag id="hoover-herbert"/>
             <tag id="alliances"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1930, volume II</title>
@@ -5876,6 +5914,7 @@
             <tag id="elections"/>
             <tag id="organization-and-management"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1930, volume III</title>
@@ -5917,6 +5956,7 @@
             <tag id="league-of-nations"/>
             <tag id="protection-of-americans-abroad"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, Japan, 1931-1941, volume 1</title>
@@ -5936,6 +5976,7 @@
             <tag id="roosevelt-franklin-d"/>
             <tag id="trade-and-commercial-policy-agreements"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, Japan, 1931-1941, volume 2</title>
@@ -5985,6 +6026,7 @@
             <tag id="netherlands"/>
             <tag id="poland"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1931, volume II</title>
@@ -6054,6 +6096,7 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="hoover-herbert"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1932, volume I, General</title>
@@ -6072,6 +6115,7 @@
             <tag id="italy"/>
             <tag id="japan"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1932, volume II, The British Commonwealth, Europe, Near East and Africa</title>
@@ -6117,9 +6161,9 @@
             <tag id="macedonia"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>Yugoslavia</tag>
             <tag>Czechoslovakia</tag>
             <tag>Persia</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -6138,6 +6182,7 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="stimson-henry-lewis"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1932, volume IV, The Far East</title>
@@ -6159,6 +6204,7 @@
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="foreign-protest-against-u-s-activity"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1932, volume V, The American Republics</title>
@@ -6184,6 +6230,7 @@
             <tag id="germany"/>
             <tag id="elections"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, The Soviet Union, 1933-1939</title>
@@ -6223,6 +6270,7 @@
             <tag id="financial-and-monetary-policy"/>
             <tag id="roosevelt-franklin-d"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1933, volume II, The British Commonwealth, Europe, Near East and Africa</title>
@@ -6311,6 +6359,7 @@
             <tag id="peru"/>
             <tag id="uruguay"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1933, volume V, The American Republics</title>
@@ -6340,6 +6389,7 @@
             <tag id="spain"/>
             <tag id="uruguay"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>Foreign Relations of the United States Diplomatic Papers, 1934, General, the British
@@ -6454,8 +6504,10 @@
         <link>https://history.state.gov/historicaldocuments/frus1934v03</link>
         <tags>
             <tag id="china"/>
+            <tag id="hull-cordell"/>
             <tag id="japan"/>
             <tag id="league-of-nations"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arms &amp; Munitions (China)</tag>
@@ -6464,7 +6516,6 @@
             <tag>Commercial Treaty of 1903</tag>
             <tag>Consortuium of 1920</tag>
             <tag>Hukang Railway Loan</tag>
-            <tag>Hull, Cordell (S)</tag>
             <tag>Industrial Encouragement Act</tag>
             <tag>Liao River Conservancy Board</tag>
             <tag>Narcotic Drugs and Opium Control</tag>
@@ -6472,7 +6523,6 @@
             <tag>Naval Conference of 1935</tag>
             <tag>Nine-Power Treaty</tag>
             <tag>Oil Monopoly</tag>
-            <tag>Roosevelt, Franklin D. (P)</tag>
             <tag>Shanghai International Settlement</tag>
             <tag>Siam</tag>
             <tag>Sino-Japanese Dispute</tag>
@@ -8166,8 +8216,8 @@
             <tag id="macedonia"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>U.S.S.R.</tag>
             <tag>Czechoslovakia</tag>
+            <tag>U.S.S.R.</tag>
             <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
@@ -8202,8 +8252,8 @@
             <tag id="prisoners-of-war"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>U.S.S.R.</tag>
             <tag>Czechoslovakia</tag>
+            <tag>U.S.S.R.</tag>
             <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
@@ -8250,6 +8300,7 @@
             <tag id="thailand"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1941, volume VI, The American Republics</title>
@@ -8276,6 +8327,7 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1941, volume VII, The American Republics</title>
@@ -8305,6 +8357,7 @@
             <tag id="energy-and-natural-resources"/>
             <tag id="world-war-ii"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1942, China</title>
@@ -8437,6 +8490,7 @@
             <tag id="agriculture"/>
             <tag id="energy-and-natural-resources"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1942, volume V, The American Republics</title>
@@ -8458,6 +8512,7 @@
             <tag id="peru"/>
             <tag id="united-kingdom"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1942, volume VI, The American Republics</title>
@@ -8487,6 +8542,7 @@
             <tag id="foreign-aid"/>
             <tag id="foreign-investment"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1943, The Conferences at Washington and Quebec</title>
@@ -8719,6 +8775,7 @@
             <tag id="venezuela"/>
             <tag id="world-war-ii"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1943, volume VI, The American Republics</title>
@@ -8746,6 +8803,7 @@
             <tag id="financial-and-monetary-policy"/>
             <tag id="alliances"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1944, Conference at Quebec</title>
@@ -8975,6 +9033,7 @@
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1944, volume VI, China</title>
@@ -9421,8 +9480,8 @@
             <tag id="macedonia"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -9533,6 +9592,7 @@
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1945, volume IX, The American Republics</title>
@@ -9569,6 +9629,7 @@
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1946, volume I, General; The United Nations</title>
@@ -9633,8 +9694,8 @@
             <tag id="peace"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>Czechoslovakia</tag>
         </unofficial-tags-tbd>
     </study>
@@ -10514,8 +10575,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -10568,8 +10629,8 @@
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -10600,8 +10661,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
             <tag>Reparations</tag>
         </unofficial-tags-tbd>
@@ -10654,8 +10715,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
         </unofficial-tags-tbd>
     </study>
@@ -10706,8 +10767,8 @@
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
         </unofficial-tags-tbd>
     </study>
@@ -10952,8 +11013,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
             <tag>International Bank for Reconstruction and Development</tag>
         </unofficial-tags-tbd>
@@ -11012,8 +11073,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
             <tag>International Bank for Reconstruction and Development</tag>
         </unofficial-tags-tbd>
@@ -11039,8 +11100,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
             <tag>International Bank for Reconstruction and Development</tag>
             <tag>Organization for European Economic Cooperation</tag>
@@ -11098,8 +11159,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
             <tag>International Bank for Reconstruction and Development</tag>
             <tag>Organization for European Economic Cooperation</tag>
@@ -11155,8 +11216,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>European Recovery Program</tag>
             <tag>International Bank for Reconstruction and Development</tag>
         </unofficial-tags-tbd>
@@ -11458,8 +11519,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -11634,8 +11695,8 @@
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -12429,8 +12490,8 @@
             <tag>Central Intelligence Agency</tag>
             <tag>Czechoslovakia</tag>
             <tag>Export-Import Bank</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -12492,8 +12553,8 @@
             <tag>Central Intelligence Agency</tag>
             <tag>Czechoslovakia</tag>
             <tag>Export-Import Bank</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -12662,8 +12723,8 @@
         <unofficial-tags-tbd>
             <tag>Belgian Congo</tag>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -13015,8 +13076,8 @@
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>Export-Import Bank</tag>
             <tag>International Bank for Reconstruction and Development</tag>
             <tag>U.S. Department of State position papers</tag>
@@ -13052,6 +13113,7 @@
             <tag id="kuwait"/>
             <tag id="truman-harry-s"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1952-1954, Volume IX, Part 2, The Near and Middle East</title>
@@ -14758,7 +14820,10 @@
             <tag id="japan"/>
             <tag id="liberia"/>
         </tags>
-        <tbd>USSR; Yugoslavia</tbd>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1955-1957, volume XVII, Arab-Israeli Dispute, 1957</title>
@@ -15492,7 +15557,7 @@
             <tag id="elections"/>
             <tag id="congressional-relations"/>
         </tags>
-        <tbd/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume II, United Nations and General International Matters</title>
@@ -15596,7 +15661,13 @@
             <tag id="congo-brazzaville"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
         </tags>
-        <tbd>Rhodesia; USSR; Yugoslavia; United Arab Republic; Tibet</tbd>
+        <unofficial-tags-tbd>
+            <tag>Rhodesia</tag>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+            <tag>United Arab Republic</tag>
+            <tag>Tibet</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume III, National Security Policy; Arms Control and
@@ -15653,7 +15724,10 @@
             <tag id="herter-christian-archibald"/>
             <tag id="population-demographics"/>
         </tags>
-        <tbd>USSR; Yugoslavia</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1958–1960, National Security Policy; Arms
@@ -15772,7 +15846,11 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="congo-brazzaville"/>
         </tags>
-        <tbd>USSR; Yugoslavia; United Arab Republic</tbd>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume V, American Republics</title>
@@ -15832,7 +15910,9 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="eisenhower-dwight-d"/>
         </tags>
-        <tbd>USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1958–1960, American Republics, Volume V,
@@ -15924,7 +16004,10 @@
             <tag id="dulles-john-foster"/>
             <tag id="peace"/>
         </tags>
-        <tbd>USSR; Yugoslavia</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume VII, Part 1, Western European Integration and Canada</title>
@@ -15980,7 +16063,10 @@
             <tag id="switzerland"/>
             <tag id="finland"/>
         </tags>
-        <tbd>Yugoslavia; USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume VII, Part 2, Western Europe</title>
@@ -16037,7 +16123,10 @@
             <tag id="norway"/>
             <tag id="sweden"/>
         </tags>
-        <tbd>Yugoslavia; USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume VIII, Berlin Crisis, 1958-1959</title>
@@ -16078,7 +16167,10 @@
             <tag id="quarantine-blockade"/>
             <tag id="russia"/>
         </tags>
-        <tbd>Yugoslavia; USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume IX, Berlin Crisis, 1959-1960; Germany, Austria</title>
@@ -16119,7 +16211,10 @@
             <tag id="belgium"/>
             <tag id="russia"/>
         </tags>
-        <tbd>Yugoslavia; USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume X, Part 1, Eastern Europe Region, Soviet Union,
@@ -16182,7 +16277,10 @@
             <tag id="austria"/>
             <tag id="russia"/>
         </tags>
-        <tbd>Yugoslavia; USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume X, Part 2, Eastern Europe; Finland; Greece; Turkey</title>
@@ -16248,7 +16346,10 @@
             <tag id="kosovo"/>
             <tag id="macedonia"/>
         </tags>
-        <tbd>Yugoslavia; USSR</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume XI, Lebanon and Jordan</title>
@@ -16301,7 +16402,11 @@
             <tag id="israel"/>
             <tag id="labor"/>
         </tags>
-        <tbd>Yugoslavia; USSR; United Arab Republic</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1958–1960, Lebanon and Jordan, Volume XI,
@@ -16409,7 +16514,11 @@
             <tag id="sudan"/>
             <tag id="organization-of-petroleum-exporting-countries"/>
         </tags>
-        <tbd>Yugoslavia; USSR; United Arab Republic</tbd>
+        <unofficial-tags-tbd>
+            <tag>Yugoslavia</tag>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1958-1960, volume XIII, Arab-Israeli Dispute; United Arab Republic; North
@@ -16729,7 +16838,6 @@
             <tag id="lebanon"/>
             <tag id="nepal"/>
             <tag id="netherlands"/>
-            <tag>New Guinea</tag>
             <tag id="new-zealand"/>
             <tag id="nicaragua"/>
             <tag id="pakistan"/>
@@ -16741,11 +16849,12 @@
             <tag id="united-nations"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>U.S.S.R.</tag>
             <tag>Czechoslovakia</tag>
-            <tag>Yugoslavia</tag>
-            <tag>United Arab Republic</tag>
+            <tag>New Guinea</tag>
             <tag>Tibet</tag>
+            <tag>United Arab Republic</tag>
+            <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
     <study>
@@ -16770,7 +16879,6 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="cuba"/>
             <tag id="cyprus"/>
-            <tag>New Guinea</tag>
             <tag id="self-determination"/>
             <tag id="dulles-john-foster"/>
             <tag id="egypt"/>
@@ -16787,7 +16895,6 @@
             <tag id="foreign-aid"/>
             <tag id="iran"/>
             <tag id="iraq"/>
-            <tag>U.S.S.R.</tag>
             <tag id="italy"/>
             <tag id="japan"/>
             <tag id="labor"/>
@@ -16805,8 +16912,9 @@
             <tag id="vietnam"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>U.S.S.R.</tag>
             <tag>Czechoslovakia</tag>
+            <tag>New Guinea</tag>
+            <tag>U.S.S.R.</tag>
             <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
@@ -17508,7 +17616,7 @@
             <tag id="chile"/>
             <tag id="guyana"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XIII, Western Europe and Canada</title>
@@ -17536,7 +17644,6 @@
             <tag id="national-security-council"/>
             <tag id="greece"/>
             <tag id="nuclear-weapons"/>
-            <tag>Congo</tag>
             <tag id="cuba"/>
             <tag id="cuban-missile-crisis"/>
             <tag id="warfare"/>
@@ -17557,7 +17664,11 @@
             <tag id="foreign-economic-policy"/>
             <tag id="european-economic-community"/>
         </tags>
-        <suggested>Czechoslovakia; USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>Congo</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1961–1963, Western Europe; Berlin, Volumes
@@ -17627,7 +17738,10 @@
             <tag id="congo-brazzaville"/>
             <tag id="russia"/>
         </tags>
-        <suggested>Czechoslovakia; USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XV, Berlin Crisis, 1962-1963</title>
@@ -17653,7 +17767,9 @@
             <tag id="sweden"/>
             <tag id="russia"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XVI, Eastern Europe; Cyprus; Greece; Turkey</title>
@@ -17710,7 +17826,11 @@
             <tag id="kosovo"/>
             <tag id="macedonia"/>
         </tags>
-        <suggested>USSR; Czechoslovakia; Yugoslavia</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Czechoslovakia</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XVII, Near East, 1961-1962</title>
@@ -17748,7 +17868,10 @@
             <tag id="united-kingdom"/>
             <tag id="vietnam"/>
         </tags>
-        <suggested>United Arab Republic; USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>United Arab Republic</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1961–1963, Near East; Congo; Africa, Volumes
@@ -17858,7 +17981,11 @@
             <tag id="italy"/>
             <tag id="congo-brazzaville"/>
         </tags>
-        <suggested>USSR; United Arab Republic; Yugoslavia</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XIX, South Asia</title>
@@ -17901,7 +18028,11 @@
             <tag id="guinea"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
         </tags>
-        <suggested>USSR; Yugoslavia; United Arab Republic</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XX, Congo Crisis</title>
@@ -17927,7 +18058,9 @@
             <tag id="liberia"/>
             <tag id="mali"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XXI, Africa</title>
@@ -17980,7 +18113,12 @@
             <tag id="sub-saharan-africa"/>
             <tag id="rusk-david-dean"/>
         </tags>
-        <suggested>USSR; Yugoslavia; United Arab Republic; Czechoslovakia</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+            <tag>United Arab Republic</tag>
+            <tag>Czechoslovakia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XXII, Northeast Asia</title>
@@ -18008,7 +18146,6 @@
             <tag id="mauritania"/>
             <tag id="nigeria"/>
             <tag id="taiwan"/>
-            <tag>Malaya</tag>
             <tag id="pakistan"/>
             <tag id="north-korea"/>
             <tag id="south-korea"/>
@@ -18018,7 +18155,11 @@
             <tag id="east-asia-and-pacific"/>
             <tag id="arms-control-and-disarmament"/>
         </tags>
-        <suggested>USSR; Yugoslavia</suggested>
+        <unofficial-tags-tbd>
+            <tag>Malaya</tag>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1961–1963, Northeast Asia; Laos, Volumes
@@ -18086,7 +18227,6 @@
             <tag id="argentina"/>
             <tag id="india"/>
             <tag id="australia"/>
-            <tag>New Guinea</tag>
             <tag id="pakistan"/>
             <tag id="united-kingdom"/>
             <tag id="france"/>
@@ -18098,7 +18238,10 @@
             <tag id="new-zealand"/>
             <tag id="portugal"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>New Guinea</tag>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XXIV, Laos Crisis</title>
@@ -18138,7 +18281,9 @@
             <tag id="cuba"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1961-1963, volume XXV, Organization of Foreign Policy; Information Policy;
@@ -18188,7 +18333,9 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="china"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume I, Vietnam 1964</title>
@@ -18221,7 +18368,7 @@
             <tag id="east-asia-and-pacific"/>
             <tag id="geneva-convention"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume II, Vietnam, January-June 1965</title>
@@ -19142,7 +19289,12 @@
             <tag id="kosovo"/>
             <tag id="macedonia"/>
         </tags>
-        <suggested>Czechoslovakia; USSR; Yugoslavia; Korea</suggested>
+        <unofficial-tags-tbd>
+            <tag>Czechoslovakia</tag>
+            <tag>USSR</tag>
+            <tag>Yugoslavia</tag>
+            <tag>Korea</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XVIII, Arab-Israeli Dispute, 1964-1967</title>
@@ -19182,7 +19334,11 @@
             <tag id="congo-brazzaville"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
         </tags>
-        <suggested>United Arab Republic; USSR; Congo</suggested>
+        <unofficial-tags-tbd>
+            <tag>United Arab Republic</tag>
+            <tag>USSR</tag>
+            <tag>Congo</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XIX, Arab-Israeli Crisis and War, 1967</title>
@@ -19215,7 +19371,11 @@
             <tag id="libya"/>
             <tag id="saudi-arabia"/>
         </tags>
-        <suggested>USSR; United Arab Republic; Yugoslavia</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+            <tag>Yugoslavia</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XX, Arab-Israeli Dispute, 1967-1968</title>
@@ -19247,7 +19407,10 @@
             <tag id="france"/>
             <tag id="united-kingdom"/>
         </tags>
-        <suggested>USSR; United Arab Republic</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXI, Near East Region; Arabian Peninsula</title>
@@ -19298,7 +19461,10 @@
             <tag id="national-security-council"/>
             <tag id="southeast-asia-treaty-organization"/>
         </tags>
-        <suggested>USSR; United Arab Republic</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXII, Iran</title>
@@ -19332,7 +19498,10 @@
             <tag id="united-kingdom"/>
             <tag id="romania"/>
         </tags>
-        <suggested>USSR; United Arab Republic</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXIII, Congo, 1960-1968</title>
@@ -19353,6 +19522,7 @@
             <tag id="sudan"/>
             <tag id="united-nations"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXIV, Africa</title>
@@ -19409,7 +19579,11 @@
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
         </tags>
-        <suggested>USSR; Rhodesia; United Arab Republic</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Rhodesia</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXV, South Asia</title>
@@ -19446,7 +19620,10 @@
             <tag id="south-korea"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
         </tags>
-        <suggested>USSR; United Arab Republic</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXVI, Indonesia; Malaysia-Singapore; Philippines</title>
@@ -19480,7 +19657,11 @@
             <tag id="cyprus"/>
             <tag id="singapore"/>
         </tags>
-        <suggested>USSR; United Arab Republic; Korea</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>United Arab Republic</tag>
+            <tag>Korea</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXVII, Mainland Southeast Asia; Regional Affairs</title>
@@ -19516,7 +19697,9 @@
             <tag id="cote-divoire"/>
             <tag id="morocco"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXVIII, Laos</title>
@@ -19547,7 +19730,9 @@
             <tag id="japan"/>
             <tag id="poland"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXIX, part 1, Korea</title>
@@ -19589,7 +19774,9 @@
             <tag id="indonesia"/>
             <tag id="algeria"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXIX, part 2, Japan</title>
@@ -19620,7 +19807,9 @@
             <tag id="india"/>
             <tag id="foreign-aid"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXX, China</title>
@@ -19660,7 +19849,10 @@
             <tag id="germany"/>
             <tag id="canada"/>
         </tags>
-        <suggested>USSR; Korea</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+            <tag>Korea</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXXI, South and Central America; Mexico</title>
@@ -19702,7 +19894,9 @@
             <tag id="guyana"/>
             <tag id="united-kingdom"/>
         </tags>
-        <suggested>USSR</suggested>
+        <unofficial-tags-tbd>
+            <tag>USSR</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1964-1968, volume XXXII, Dominican Republic; Cuba; Haiti; Guyana</title>
@@ -20377,7 +20571,6 @@
             <tag id="covert-actions"/>
             <tag id="laos"/>
             <tag id="mexico"/>
-            <tag>U.S.S.R.</tag>
             <tag id="nixon-richard"/>
             <tag id="pakistan"/>
             <tag id="rogers-william-pierce"/>
@@ -21042,7 +21235,7 @@
             <tag id="united-nations"/>
             <tag id="congressional-relations"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1969–1976, Volume XXIII, Arab-Israeli
@@ -22613,7 +22806,7 @@
             <tag id="covert-actions"/>
             <tag id="diplomatic-recognition"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1969-1976, volume E-12, Documents on East and Southeast Asia, 1973-1976</title>
@@ -22760,8 +22953,8 @@
             <tag id="macedonia"/>
         </tags>
         <unofficial-tags-tbd>
-            <tag>Yugoslavia</tag>
             <tag>U.S.S.R.</tag>
+            <tag>Yugoslavia</tag>
             <tag>Czechoslovakia</tag>
         </unofficial-tags-tbd>
     </study>
@@ -22816,7 +23009,7 @@
             <tag id="warfare"/>
             <tag id="national-security-council"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1977–1980, Volume I, Foundations of Foreign
@@ -22824,7 +23017,6 @@
         <link>https://history.state.gov/historicaldocuments/frus1977-80v01</link>
         <tags/>
         <unofficial-tags-tbd>
-            <tag/>
             <tag>Olympics</tag>
             <tag>Treaties</tag>
         </unofficial-tags-tbd>
@@ -23193,7 +23385,7 @@
             <tag id="diplomatic-recognition"/>
             <tag id="national-security-council"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>Foreign Relations of the United States, 1977–1980, Volume XVIII, Middle East Region;
@@ -23281,7 +23473,7 @@
             <tag id="kosovo"/>
             <tag id="macedonia"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1977-1980, volume XXI, Cyprus; Greece; Turkey</title>
@@ -23350,7 +23542,7 @@
             <tag id="national-security-policy"/>
             <tag id="atomic-energy"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1977-80, volume XXVIII, Organization and Management</title>
@@ -23365,7 +23557,7 @@
             <tag id="personnel-demographics"/>
             <tag id="national-security-council"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1977-80, volume XXX, Public Diplomacy</title>
@@ -23384,7 +23576,7 @@
             <tag id="warfare"/>
             <tag id="arab-israeli-dispute"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1981-88, volume III, Soviet Union, January 1981-January 1983</title>
@@ -23415,7 +23607,7 @@
             <tag id="united-nations"/>
             <tag id="north-atlantic-treaty-organization"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1981-88, volume XIII, Conflict in the South Atlantic</title>
@@ -23449,6 +23641,6 @@
             <tag id="national-security-council"/>
             <tag id="warfare"/>
         </tags>
-        <suggested/>
+        <unofficial-tags-tbd/>
     </study>
 </studies>
