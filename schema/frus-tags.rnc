@@ -1,0 +1,1002 @@
+default namespace = ""
+
+start =
+    element studies {
+        element study {
+            element title { text },
+            element link { xsd:anyURI },
+            element tags {
+                element tag {
+                    attribute id { 
+                        ## People: Contains lists of Presidents and Secretaries of State in chronological order. [Hint: For people named in resources, only use a person tag if the resource is relevant to their service as President or Secretary.]
+                        "people" |
+                        ## Presidents: Presidential administrations in chronological order. (P) is appended to a President's name in cases where the President also served as Secretary of State. A range of years is appended in cases where the President served in two non-consecutive administrations. (in People)
+                        "presidents" |
+                        ## Washington, George (in People > Presidents)
+                        "washington-george" |
+                        ## Adams, John (in People > Presidents)
+                        "adams-john" |
+                        ## Jefferson, Thomas (P) (in People > Presidents)
+                        "jefferson-thomas-p" |
+                        ## Madison, James (P) (in People > Presidents)
+                        "madison-james-p" |
+                        ## Monroe, James (P) (in People > Presidents)
+                        "monroe-james-p" |
+                        ## Adams, John Quincy (P) (in People > Presidents)
+                        "adams-john-quincy-p" |
+                        ## Jackson, Andrew (in People > Presidents)
+                        "jackson-andrew" |
+                        ## Van Buren, Martin (P) (in People > Presidents)
+                        "van-buren-martin-p" |
+                        ## Harrison, William Henry (in People > Presidents)
+                        "harrison-william-henry" |
+                        ## Tyler, John (in People > Presidents)
+                        "tyler-john" |
+                        ## Polk, James K. (in People > Presidents)
+                        "polk-james-k" |
+                        ## Taylor, Zachary (in People > Presidents)
+                        "taylor-zachary" |
+                        ## Fillmore, Millard (in People > Presidents)
+                        "fillmore-millard" |
+                        ## Pierce, Franklin (in People > Presidents)
+                        "pierce-franklin" |
+                        ## Buchanan, James (P) (in People > Presidents)
+                        "buchanan-james-p" |
+                        ## Lincoln, Abraham (in People > Presidents)
+                        "lincoln-abraham" |
+                        ## Johnson, Andrew (in People > Presidents)
+                        "johnson-andrew" |
+                        ## Grant, Ulysses S. (in People > Presidents)
+                        "grant-ulysses-s" |
+                        ## Hayes, Rutherford B. (in People > Presidents)
+                        "hayes-rutherford-b" |
+                        ## Garfield, James A. (in People > Presidents)
+                        "garfield-james-a" |
+                        ## Arthur, Chester A. (in People > Presidents)
+                        "arthur-chester-a" |
+                        ## Cleveland, Grover (1881-1885) (in People > Presidents)
+                        "cleveland-grover-1881-1885" |
+                        ## Harrison, Benjamin (in People > Presidents)
+                        "harrison-benjamin" |
+                        ## Cleveland, Grover (1893-1897) (in People > Presidents)
+                        "cleveland-grover-1893-1897" |
+                        ## McKinley, William (in People > Presidents)
+                        "mckinley-william" |
+                        ## Roosevelt, Theodore (in People > Presidents)
+                        "roosevelt-theodore" |
+                        ## Taft, William Howard (in People > Presidents)
+                        "taft-william-howard" |
+                        ## Wilson, Woodrow (in People > Presidents)
+                        "wilson-woodrow" |
+                        ## Harding, Warren G. (in People > Presidents)
+                        "harding-warren-g" |
+                        ## Coolidge, Calvin (in People > Presidents)
+                        "coolidge-calvin" |
+                        ## Hoover, Herbert (in People > Presidents)
+                        "hoover-herbert" |
+                        ## Roosevelt, Franklin D. (in People > Presidents)
+                        "roosevelt-franklin-d" |
+                        ## Truman, Harry S. (in People > Presidents)
+                        "truman-harry-s" |
+                        ## Eisenhower, Dwight D. (in People > Presidents)
+                        "eisenhower-dwight-d" |
+                        ## Kennedy, John F. (in People > Presidents)
+                        "kennedy-john-f" |
+                        ## Johnson, Lyndon B. (in People > Presidents)
+                        "johnson-lyndon-b" |
+                        ## Nixon, Richard (in People > Presidents)
+                        "nixon-richard" |
+                        ## Ford, Gerald (in People > Presidents)
+                        "ford-gerald" |
+                        ## Carter, Jimmy (in People > Presidents)
+                        "carter-jimmy" |
+                        ## Reagan, Ronald (in People > Presidents)
+                        "reagan-ronald" |
+                        ## Bush, George H.W. (in People > Presidents)
+                        "bush-george-h-w" |
+                        ## Clinton, William J. (in People > Presidents)
+                        "clinton-william-j" |
+                        ## Bush, George W. (in People > Presidents)
+                        "bush-george-w" |
+                        ## Obama, Barack (in People > Presidents)
+                        "obama-barack" |
+                        ## Secretaries of State: Secretaries of State in chronological order. (S) is appended to a Secretary's name in cases where the Secretary also served as President. A range of years is appended in cases where the Secretary served non-consecutively. (in People)
+                        "secretaries-of-state" |
+                        ## Jefferson, Thomas (S) (in People > Secretaries of State)
+                        "jefferson-thomas-s" |
+                        ## Randolph, Edmund Jennings (in People > Secretaries of State)
+                        "randolph-edmund-jennings" |
+                        ## Pickering, Timothy (in People > Secretaries of State)
+                        "pickering-timothy" |
+                        ## Marshall, John (in People > Secretaries of State)
+                        "marshall-john" |
+                        ## Madison, James (S) (in People > Secretaries of State)
+                        "madison-james-s" |
+                        ## Smith, Robert (in People > Secretaries of State)
+                        "smith-robert" |
+                        ## Monroe, James (S) (in People > Secretaries of State)
+                        "monroe-james-s" |
+                        ## Adams, John Quincy (S) (in People > Secretaries of State)
+                        "adams-john-quincy-s" |
+                        ## Clay, Henry (in People > Secretaries of State)
+                        "clay-henry" |
+                        ## Van Buren, Martin (S) (in People > Secretaries of State)
+                        "van-buren-martin-s" |
+                        ## Livingston, Edward (in People > Secretaries of State)
+                        "livingston-edward" |
+                        ## McLane, Louis (in People > Secretaries of State)
+                        "mclane-louis" |
+                        ## Forsyth, John (in People > Secretaries of State)
+                        "forsyth-john" |
+                        ## Webster, Daniel (1841-1843) (in People > Secretaries of State)
+                        "webster-daniel-1841-1843" |
+                        ## Upshur, Abel Parker (in People > Secretaries of State)
+                        "upshur-abel-parker" |
+                        ## Calhoun, John Caldwell (in People > Secretaries of State)
+                        "calhoun-john-caldwell" |
+                        ## Buchanan, James (S) (in People > Secretaries of State)
+                        "buchanan-james-s" |
+                        ## Clayton, John Middleton (in People > Secretaries of State)
+                        "clayton-john-middleton" |
+                        ## Webster, Daniel (1850-1852) (in People > Secretaries of State)
+                        "webster-daniel-1850-1852" |
+                        ## Everett, Edward (in People > Secretaries of State)
+                        "everett-edward" |
+                        ## Marcy, William Learned (in People > Secretaries of State)
+                        "marcy-william-learned" |
+                        ## Cass, Lewis (in People > Secretaries of State)
+                        "cass-lewis" |
+                        ## Black, Jeremiah Sullivan (in People > Secretaries of State)
+                        "black-jeremiah-sullivan" |
+                        ## Seward, William Henry (in People > Secretaries of State)
+                        "seward-william-henry" |
+                        ## Washburne, Elihu Benjamin (in People > Secretaries of State)
+                        "washburne-elihu-benjamin" |
+                        ## Fish, Hamilton (in People > Secretaries of State)
+                        "fish-hamilton" |
+                        ## Evarts, William Maxwell (in People > Secretaries of State)
+                        "evarts-william-maxwell" |
+                        ## Blaine, James Gillespie (1881) (in People > Secretaries of State)
+                        "blaine-james-gillespie-1881" |
+                        ## Frelinghuysen, Frederick Theodore (in People > Secretaries of State)
+                        "frelinghuysen-frederick-theodore" |
+                        ## Bayard, Thomas Francis (in People > Secretaries of State)
+                        "bayard-thomas-francis" |
+                        ## Blaine, James Gillespie (1889-1892) (in People > Secretaries of State)
+                        "blaine-james-gillespie-1889-1892" |
+                        ## Foster, John Watson (in People > Secretaries of State)
+                        "foster-john-watson" |
+                        ## Gresham, Walter Quintin (in People > Secretaries of State)
+                        "gresham-walter-quintin" |
+                        ## Olney, Richard (in People > Secretaries of State)
+                        "olney-richard" |
+                        ## Sherman, John (in People > Secretaries of State)
+                        "sherman-john" |
+                        ## Day, William Rufus (in People > Secretaries of State)
+                        "day-william-rufus" |
+                        ## Hay, John Milton (in People > Secretaries of State)
+                        "hay-john-milton" |
+                        ## Root, Elihu (in People > Secretaries of State)
+                        "root-elihu" |
+                        ## Bacon, Robert (in People > Secretaries of State)
+                        "bacon-robert" |
+                        ## Knox, Philander Chase (in People > Secretaries of State)
+                        "knox-philander-chase" |
+                        ## Bryan, William Jennings (in People > Secretaries of State)
+                        "bryan-william-jennings" |
+                        ## Lansing, Robert (in People > Secretaries of State)
+                        "lansing-robert" |
+                        ## Colby, Bainbridge (in People > Secretaries of State)
+                        "colby-bainbridge" |
+                        ## Hughes, Charles Evans (in People > Secretaries of State)
+                        "hughes-charles-evans" |
+                        ## Kellogg, Frank Billings (in People > Secretaries of State)
+                        "kellogg-frank-billings" |
+                        ## Stimson, Henry Lewis (in People > Secretaries of State)
+                        "stimson-henry-lewis" |
+                        ## Hull, Cordell (in People > Secretaries of State)
+                        "hull-cordell" |
+                        ## Stettinius, Edward Reilly (in People > Secretaries of State)
+                        "stettinius-edward-reilly" |
+                        ## Byrnes, James Francis (in People > Secretaries of State)
+                        "byrnes-james-francis" |
+                        ## Marshall, George Catlett (in People > Secretaries of State)
+                        "marshall-george-catlett" |
+                        ## Acheson, Dean Gooderham (in People > Secretaries of State)
+                        "acheson-dean-gooderham" |
+                        ## Dulles, John Foster (in People > Secretaries of State)
+                        "dulles-john-foster" |
+                        ## Herter, Christian Archibald (in People > Secretaries of State)
+                        "herter-christian-archibald" |
+                        ## Rusk, David Dean (in People > Secretaries of State)
+                        "rusk-david-dean" |
+                        ## Rogers, William Pierce (in People > Secretaries of State)
+                        "rogers-william-pierce" |
+                        ## Kissinger, Henry A. (in People > Secretaries of State)
+                        "kissinger-henry-a" |
+                        ## Vance, Cyrus Roberts (in People > Secretaries of State)
+                        "vance-cyrus-roberts" |
+                        ## Muskie, Edmund Sixtus (in People > Secretaries of State)
+                        "muskie-edmund-sixtus" |
+                        ## Haig, Alexander Meigs (in People > Secretaries of State)
+                        "haig-alexander-meigs" |
+                        ## Shultz, George Pratt (in People > Secretaries of State)
+                        "shultz-george-pratt" |
+                        ## Baker, James Addison (in People > Secretaries of State)
+                        "baker-james-addison" |
+                        ## Eagleburger, Lawrence Sidney (in People > Secretaries of State)
+                        "eagleburger-lawrence-sidney" |
+                        ## Christopher, Warren Minor (in People > Secretaries of State)
+                        "christopher-warren-minor" |
+                        ## Albright, Madeleine Korbel (in People > Secretaries of State)
+                        "albright-madeleine-korbel" |
+                        ## Powell, Colin Luther (in People > Secretaries of State)
+                        "powell-colin-luther" |
+                        ## Rice, Condoleezza (in People > Secretaries of State)
+                        "rice-condoleezza" |
+                        ## Clinton, Hillary Rodham (in People > Secretaries of State)
+                        "clinton-hillary-rodham" |
+                        ## Places: Territories on today's map of the world, as classified by status and region by the Bureau of Intelligence and Research, U.S. Department of State. (The current list was taken from Independent States and Dependencies, accessed on January 3, 2013.)
+                        "places" |
+                        ## Sovereign Territories (in Places)
+                        "sovereign-territories" |
+                        ## Sub-Saharan Africa (in Places > Sovereign Territories)
+                        "sub-saharan-africa" |
+                        ## Angola (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "angola" |
+                        ## Benin (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "benin" |
+                        ## Botswana (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "botswana" |
+                        ## Burkina Faso (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "burkina-faso" |
+                        ## Burundi (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "burundi" |
+                        ## Cameroon (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "cameroon" |
+                        ## Cape Verde (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "cape-verde" |
+                        ## Central African Republic (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "central-african-republic" |
+                        ## Chad (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "chad" |
+                        ## Comoros (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "comoros" |
+                        ## Congo (Brazzaville) (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "congo-brazzaville" |
+                        ## Cote d’Ivoire (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "cote-divoire" |
+                        ## Democratic Republic of the Congo (Kinshasa) (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "democratic-republic-of-the-congo-kinshasa" |
+                        ## Djibouti (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "djibouti" |
+                        ## Equatorial Guinea (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "equatorial-guinea" |
+                        ## Ethiopia (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "ethiopia" |
+                        ## Eritrea (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "eritrea" |
+                        ## Gabon (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "gabon" |
+                        ## The Gambia (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "the-gambia" |
+                        ## Ghana (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "ghana" |
+                        ## Guinea (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "guinea" |
+                        ## Guinea-Bissau (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "guinea-bissau" |
+                        ## Kenya (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "kenya" |
+                        ## Lesotho (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "lesotho" |
+                        ## Liberia (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "liberia" |
+                        ## Madagascar (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "madagascar" |
+                        ## Malawi (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "malawi" |
+                        ## Mali (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "mali" |
+                        ## Mauritania (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "mauritania" |
+                        ## Mauritius (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "mauritius" |
+                        ## Mozambique (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "mozambique" |
+                        ## Namibia (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "namibia" |
+                        ## Niger (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "niger" |
+                        ## Nigeria (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "nigeria" |
+                        ## Rwanda (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "rwanda" |
+                        ## Sao Tome and Principe (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "sao-tome-and-principe" |
+                        ## Senegal (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "senegal" |
+                        ## Seychelles (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "seychelles" |
+                        ## Sierra Leone (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "sierra-leone" |
+                        ## Somalia (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "somalia" |
+                        ## South Africa (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "south-africa" |
+                        ## South Sudan (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "south-sudan" |
+                        ## Sudan (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "sudan" |
+                        ## Swaziland (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "swaziland" |
+                        ## Tanzania (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "tanzania" |
+                        ## Togo (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "togo" |
+                        ## Uganda (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "uganda" |
+                        ## Zambia (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "zambia" |
+                        ## Zimbabwe (in Places > Sovereign Territories > Sub-Saharan Africa)
+                        "zimbabwe" |
+                        ## East Asia and Pacific (in Places > Sovereign Territories)
+                        "east-asia-and-pacific" |
+                        ## Australia (in Places > Sovereign Territories > East Asia and Pacific)
+                        "australia" |
+                        ## Brunei (in Places > Sovereign Territories > East Asia and Pacific)
+                        "brunei" |
+                        ## Burma (in Places > Sovereign Territories > East Asia and Pacific)
+                        "burma" |
+                        ## Cambodia (in Places > Sovereign Territories > East Asia and Pacific)
+                        "cambodia" |
+                        ## China (in Places > Sovereign Territories > East Asia and Pacific)
+                        "china" |
+                        ## The Federated States of Micronesia (in Places > Sovereign Territories > East Asia and Pacific)
+                        "the-federated-states-of-micronesia" |
+                        ## Fiji (in Places > Sovereign Territories > East Asia and Pacific)
+                        "fiji" |
+                        ## Indonesia (in Places > Sovereign Territories > East Asia and Pacific)
+                        "indonesia" |
+                        ## Japan (in Places > Sovereign Territories > East Asia and Pacific)
+                        "japan" |
+                        ## Kiribati (in Places > Sovereign Territories > East Asia and Pacific)
+                        "kiribati" |
+                        ## Laos (in Places > Sovereign Territories > East Asia and Pacific)
+                        "laos" |
+                        ## Malaysia (in Places > Sovereign Territories > East Asia and Pacific)
+                        "malaysia" |
+                        ## Marshall Islands (in Places > Sovereign Territories > East Asia and Pacific)
+                        "marshall-islands" |
+                        ## Mongolia (in Places > Sovereign Territories > East Asia and Pacific)
+                        "mongolia" |
+                        ## Nauru (in Places > Sovereign Territories > East Asia and Pacific)
+                        "nauru" |
+                        ## New Zealand (in Places > Sovereign Territories > East Asia and Pacific)
+                        "new-zealand" |
+                        ## North Korea (in Places > Sovereign Territories > East Asia and Pacific)
+                        "north-korea" |
+                        ## Palau (in Places > Sovereign Territories > East Asia and Pacific)
+                        "palau" |
+                        ## Papua New Guinea (in Places > Sovereign Territories > East Asia and Pacific)
+                        "papua-new-guinea" |
+                        ## Philippines (in Places > Sovereign Territories > East Asia and Pacific)
+                        "philippines" |
+                        ## Samoa (in Places > Sovereign Territories > East Asia and Pacific)
+                        "samoa" |
+                        ## Singapore (in Places > Sovereign Territories > East Asia and Pacific)
+                        "singapore" |
+                        ## Solomon Islands (in Places > Sovereign Territories > East Asia and Pacific)
+                        "solomon-islands" |
+                        ## South Korea (in Places > Sovereign Territories > East Asia and Pacific)
+                        "south-korea" |
+                        ## Taiwan (in Places > Sovereign Territories > East Asia and Pacific)
+                        "taiwan" |
+                        ## Thailand (in Places > Sovereign Territories > East Asia and Pacific)
+                        "thailand" |
+                        ## Timor-Leste (in Places > Sovereign Territories > East Asia and Pacific)
+                        "timor-leste" |
+                        ## Tonga (in Places > Sovereign Territories > East Asia and Pacific)
+                        "tonga" |
+                        ## Tuvalu (in Places > Sovereign Territories > East Asia and Pacific)
+                        "tuvalu" |
+                        ## Vanuatu (in Places > Sovereign Territories > East Asia and Pacific)
+                        "vanuatu" |
+                        ## Vietnam (in Places > Sovereign Territories > East Asia and Pacific)
+                        "vietnam" |
+                        ## Europe (in Places > Sovereign Territories)
+                        "europe" |
+                        ## Albania (in Places > Sovereign Territories > Europe)
+                        "albania" |
+                        ## Andorra (in Places > Sovereign Territories > Europe)
+                        "andorra" |
+                        ## Armenia (in Places > Sovereign Territories > Europe)
+                        "armenia" |
+                        ## Austria (in Places > Sovereign Territories > Europe)
+                        "austria" |
+                        ## Azerbaijan (in Places > Sovereign Territories > Europe)
+                        "azerbaijan" |
+                        ## Belarus (in Places > Sovereign Territories > Europe)
+                        "belarus" |
+                        ## Belgium (in Places > Sovereign Territories > Europe)
+                        "belgium" |
+                        ## Bosnia and Herzegovina (in Places > Sovereign Territories > Europe)
+                        "bosnia-and-herzegovina" |
+                        ## Bulgaria (in Places > Sovereign Territories > Europe)
+                        "bulgaria" |
+                        ## Croatia (in Places > Sovereign Territories > Europe)
+                        "croatia" |
+                        ## Cyprus (in Places > Sovereign Territories > Europe)
+                        "cyprus" |
+                        ## Czech Republic (in Places > Sovereign Territories > Europe)
+                        "czech-republic" |
+                        ## Denmark (in Places > Sovereign Territories > Europe)
+                        "denmark" |
+                        ## Estonia (in Places > Sovereign Territories > Europe)
+                        "estonia" |
+                        ## Finland (in Places > Sovereign Territories > Europe)
+                        "finland" |
+                        ## France (in Places > Sovereign Territories > Europe)
+                        "france" |
+                        ## Georgia (in Places > Sovereign Territories > Europe)
+                        "georgia" |
+                        ## Germany (in Places > Sovereign Territories > Europe)
+                        "germany" |
+                        ## Greece (in Places > Sovereign Territories > Europe)
+                        "greece" |
+                        ## Holy See (in Places > Sovereign Territories > Europe)
+                        "holy-see" |
+                        ## Hungary (in Places > Sovereign Territories > Europe)
+                        "hungary" |
+                        ## Iceland (in Places > Sovereign Territories > Europe)
+                        "iceland" |
+                        ## Ireland (in Places > Sovereign Territories > Europe)
+                        "ireland" |
+                        ## Italy (in Places > Sovereign Territories > Europe)
+                        "italy" |
+                        ## Kosovo (in Places > Sovereign Territories > Europe)
+                        "kosovo" |
+                        ## Latvia (in Places > Sovereign Territories > Europe)
+                        "latvia" |
+                        ## Liechtenstein (in Places > Sovereign Territories > Europe)
+                        "liechtenstein" |
+                        ## Lithuania (in Places > Sovereign Territories > Europe)
+                        "lithuania" |
+                        ## Luxembourg (in Places > Sovereign Territories > Europe)
+                        "luxembourg" |
+                        ## Macedonia (in Places > Sovereign Territories > Europe)
+                        "macedonia" |
+                        ## Malta (in Places > Sovereign Territories > Europe)
+                        "malta" |
+                        ## Moldova (in Places > Sovereign Territories > Europe)
+                        "moldova" |
+                        ## Monaco (in Places > Sovereign Territories > Europe)
+                        "monaco" |
+                        ## Montenegro (in Places > Sovereign Territories > Europe)
+                        "montenegro" |
+                        ## Netherlands (in Places > Sovereign Territories > Europe)
+                        "netherlands" |
+                        ## Norway (in Places > Sovereign Territories > Europe)
+                        "norway" |
+                        ## Poland (in Places > Sovereign Territories > Europe)
+                        "poland" |
+                        ## Portugal (in Places > Sovereign Territories > Europe)
+                        "portugal" |
+                        ## Romania (in Places > Sovereign Territories > Europe)
+                        "romania" |
+                        ## Russia (in Places > Sovereign Territories > Europe)
+                        "russia" |
+                        ## San Marino (in Places > Sovereign Territories > Europe)
+                        "san-marino" |
+                        ## Serbia (in Places > Sovereign Territories > Europe)
+                        "serbia" |
+                        ## Slovakia (in Places > Sovereign Territories > Europe)
+                        "slovakia" |
+                        ## Slovenia (in Places > Sovereign Territories > Europe)
+                        "slovenia" |
+                        ## Spain (in Places > Sovereign Territories > Europe)
+                        "spain" |
+                        ## Sweden (in Places > Sovereign Territories > Europe)
+                        "sweden" |
+                        ## Switzerland (in Places > Sovereign Territories > Europe)
+                        "switzerland" |
+                        ## Turkey (in Places > Sovereign Territories > Europe)
+                        "turkey" |
+                        ## Ukraine (in Places > Sovereign Territories > Europe)
+                        "ukraine" |
+                        ## United Kingdom (in Places > Sovereign Territories > Europe)
+                        "united-kingdom" |
+                        ## Near East (in Places > Sovereign Territories)
+                        "near-east" |
+                        ## Algeria (in Places > Sovereign Territories > Near East)
+                        "algeria" |
+                        ## Bahrain (in Places > Sovereign Territories > Near East)
+                        "bahrain" |
+                        ## Egypt (in Places > Sovereign Territories > Near East)
+                        "egypt" |
+                        ## Iran (in Places > Sovereign Territories > Near East)
+                        "iran" |
+                        ## Iraq (in Places > Sovereign Territories > Near East)
+                        "iraq" |
+                        ## Israel (in Places > Sovereign Territories > Near East)
+                        "israel" |
+                        ## Jordan (in Places > Sovereign Territories > Near East)
+                        "jordan" |
+                        ## Kuwait (in Places > Sovereign Territories > Near East)
+                        "kuwait" |
+                        ## Lebanon (in Places > Sovereign Territories > Near East)
+                        "lebanon" |
+                        ## Libya (in Places > Sovereign Territories > Near East)
+                        "libya" |
+                        ## Morocco (in Places > Sovereign Territories > Near East)
+                        "morocco" |
+                        ## Oman (in Places > Sovereign Territories > Near East)
+                        "oman" |
+                        ## Qatar (in Places > Sovereign Territories > Near East)
+                        "qatar" |
+                        ## Saudi Arabia (in Places > Sovereign Territories > Near East)
+                        "saudi-arabia" |
+                        ## Syria (in Places > Sovereign Territories > Near East)
+                        "syria" |
+                        ## Tunisia (in Places > Sovereign Territories > Near East)
+                        "tunisia" |
+                        ## United Arab Emirates (in Places > Sovereign Territories > Near East)
+                        "united-arab-emirates" |
+                        ## Yemen (in Places > Sovereign Territories > Near East)
+                        "yemen" |
+                        ## South and Central Asia (in Places > Sovereign Territories)
+                        "south-and-central-asia" |
+                        ## Afghanistan (in Places > Sovereign Territories > South and Central Asia)
+                        "afghanistan" |
+                        ## Bangladesh (in Places > Sovereign Territories > South and Central Asia)
+                        "bangladesh" |
+                        ## Bhutan (in Places > Sovereign Territories > South and Central Asia)
+                        "bhutan" |
+                        ## India (in Places > Sovereign Territories > South and Central Asia)
+                        "india" |
+                        ## Kyrgyzstan (in Places > Sovereign Territories > South and Central Asia)
+                        "kyrgyzstan" |
+                        ## Kazakhstan (in Places > Sovereign Territories > South and Central Asia)
+                        "kazakhstan" |
+                        ## Maldives (in Places > Sovereign Territories > South and Central Asia)
+                        "maldives" |
+                        ## Nepal (in Places > Sovereign Territories > South and Central Asia)
+                        "nepal" |
+                        ## Pakistan (in Places > Sovereign Territories > South and Central Asia)
+                        "pakistan" |
+                        ## Sri Lanka (in Places > Sovereign Territories > South and Central Asia)
+                        "sri-lanka" |
+                        ## Tajikistan (in Places > Sovereign Territories > South and Central Asia)
+                        "tajikistan" |
+                        ## Turkmenistan (in Places > Sovereign Territories > South and Central Asia)
+                        "turkmenistan" |
+                        ## Uzbekistan (in Places > Sovereign Territories > South and Central Asia)
+                        "uzbekistan" |
+                        ## Western Hemisphere (in Places > Sovereign Territories)
+                        "western-hemisphere" |
+                        ## Antigua and Barbuda (in Places > Sovereign Territories > Western Hemisphere)
+                        "antigua-and-barbuda" |
+                        ## Argentina (in Places > Sovereign Territories > Western Hemisphere)
+                        "argentina" |
+                        ## The Bahamas (in Places > Sovereign Territories > Western Hemisphere)
+                        "the-bahamas" |
+                        ## Barbados (in Places > Sovereign Territories > Western Hemisphere)
+                        "barbados" |
+                        ## Belize (in Places > Sovereign Territories > Western Hemisphere)
+                        "belize" |
+                        ## Brazil (in Places > Sovereign Territories > Western Hemisphere)
+                        "brazil" |
+                        ## Bolivia (in Places > Sovereign Territories > Western Hemisphere)
+                        "bolivia" |
+                        ## Canada (in Places > Sovereign Territories > Western Hemisphere)
+                        "canada" |
+                        ## Chile (in Places > Sovereign Territories > Western Hemisphere)
+                        "chile" |
+                        ## Colombia (in Places > Sovereign Territories > Western Hemisphere)
+                        "colombia" |
+                        ## Costa Rica (in Places > Sovereign Territories > Western Hemisphere)
+                        "costa-rica" |
+                        ## Cuba (in Places > Sovereign Territories > Western Hemisphere)
+                        "cuba" |
+                        ## Dominica (in Places > Sovereign Territories > Western Hemisphere)
+                        "dominica" |
+                        ## Dominican Republic (in Places > Sovereign Territories > Western Hemisphere)
+                        "dominican-republic" |
+                        ## Ecuador (in Places > Sovereign Territories > Western Hemisphere)
+                        "ecuador" |
+                        ## El Salvador (in Places > Sovereign Territories > Western Hemisphere)
+                        "el-salvador" |
+                        ## Grenada (in Places > Sovereign Territories > Western Hemisphere)
+                        "grenada" |
+                        ## Guatemala (in Places > Sovereign Territories > Western Hemisphere)
+                        "guatemala" |
+                        ## Guyana (in Places > Sovereign Territories > Western Hemisphere)
+                        "guyana" |
+                        ## Haiti (in Places > Sovereign Territories > Western Hemisphere)
+                        "haiti" |
+                        ## Honduras (in Places > Sovereign Territories > Western Hemisphere)
+                        "honduras" |
+                        ## Jamaica (in Places > Sovereign Territories > Western Hemisphere)
+                        "jamaica" |
+                        ## Mexico (in Places > Sovereign Territories > Western Hemisphere)
+                        "mexico" |
+                        ## Nicaragua (in Places > Sovereign Territories > Western Hemisphere)
+                        "nicaragua" |
+                        ## Panama (in Places > Sovereign Territories > Western Hemisphere)
+                        "panama" |
+                        ## Paraguay (in Places > Sovereign Territories > Western Hemisphere)
+                        "paraguay" |
+                        ## Peru (in Places > Sovereign Territories > Western Hemisphere)
+                        "peru" |
+                        ## St. Kitts and Nevis (in Places > Sovereign Territories > Western Hemisphere)
+                        "st-kitts-and-nevis" |
+                        ## St. Lucia (in Places > Sovereign Territories > Western Hemisphere)
+                        "st-lucia" |
+                        ## St. Vincent and the Grenadines (in Places > Sovereign Territories > Western Hemisphere)
+                        "st-vincent-and-the-grenadines" |
+                        ## Suriname (in Places > Sovereign Territories > Western Hemisphere)
+                        "suriname" |
+                        ## Trinidad and Tobago (in Places > Sovereign Territories > Western Hemisphere)
+                        "trinidad-and-tobago" |
+                        ## Uruguay (in Places > Sovereign Territories > Western Hemisphere)
+                        "uruguay" |
+                        ## Venezuela (in Places > Sovereign Territories > Western Hemisphere)
+                        "venezuela" |
+                        ## Dependencies and Areas of Special Sovereignty (in Places)
+                        "dependencies-and-areas-of-special-sovereignty" |
+                        ## Akrotiri (in Places > Dependencies and Areas of Special Sovereignty)
+                        "akrotiri" |
+                        ## American Samoa (in Places > Dependencies and Areas of Special Sovereignty)
+                        "american-samoa" |
+                        ## Anguilla (in Places > Dependencies and Areas of Special Sovereignty)
+                        "anguilla" |
+                        ## Aruba (in Places > Dependencies and Areas of Special Sovereignty)
+                        "aruba" |
+                        ## Ashmore and Cartier Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "ashmore-and-cartier-islands" |
+                        ## Azores (in Places > Dependencies and Areas of Special Sovereignty)
+                        "azores" |
+                        ## Baker Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "baker-island" |
+                        ## Bermuda (in Places > Dependencies and Areas of Special Sovereignty)
+                        "bermuda" |
+                        ## Bouvet Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "bouvet-island" |
+                        ## British Indian Ocean Territory (in Places > Dependencies and Areas of Special Sovereignty)
+                        "british-indian-ocean-territory" |
+                        ## Cayman Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "cayman-islands" |
+                        ## Christmas Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "christmas-island" |
+                        ## Clipperton Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "clipperton-island" |
+                        ## Cocos (Keeling) Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "cocos-keeling-islands" |
+                        ## Cook Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "cook-islands" |
+                        ## Coral Sea Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "coral-sea-islands" |
+                        ## Curacao (in Places > Dependencies and Areas of Special Sovereignty)
+                        "curacao" |
+                        ## Dhekelia (in Places > Dependencies and Areas of Special Sovereignty)
+                        "dhekelia" |
+                        ## Falkland Islands (Islas Malvinas) (in Places > Dependencies and Areas of Special Sovereignty)
+                        "falkland-islands-islas-malvinas" |
+                        ## Faroe Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "faroe-islands" |
+                        ## French Guiana (in Places > Dependencies and Areas of Special Sovereignty)
+                        "french-guiana" |
+                        ## French Polynesia (in Places > Dependencies and Areas of Special Sovereignty)
+                        "french-polynesia" |
+                        ## French Southern and Antarctic Lands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "french-southern-and-antarctic-lands" |
+                        ## Gibraltar (in Places > Dependencies and Areas of Special Sovereignty)
+                        "gibraltar" |
+                        ## Greenland (in Places > Dependencies and Areas of Special Sovereignty)
+                        "greenland" |
+                        ## Guadeloupe (in Places > Dependencies and Areas of Special Sovereignty)
+                        "guadeloupe" |
+                        ## Guam (in Places > Dependencies and Areas of Special Sovereignty)
+                        "guam" |
+                        ## Guernsey (in Places > Dependencies and Areas of Special Sovereignty)
+                        "guernsey" |
+                        ## Heard Island and McDonald Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "heard-island-and-mcdonald-islands" |
+                        ## Hong Kong (in Places > Dependencies and Areas of Special Sovereignty)
+                        "hong-kong" |
+                        ## Howland Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "howland-island" |
+                        ## Isle of Man (in Places > Dependencies and Areas of Special Sovereignty)
+                        "isle-of-man" |
+                        ## Jan Mayen (in Places > Dependencies and Areas of Special Sovereignty)
+                        "jan-mayen" |
+                        ## Jarvis Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "jarvis-island" |
+                        ## Jersey (in Places > Dependencies and Areas of Special Sovereignty)
+                        "jersey" |
+                        ## Johnson Atoll (in Places > Dependencies and Areas of Special Sovereignty)
+                        "johnson-atoll" |
+                        ## Kingman Reef (in Places > Dependencies and Areas of Special Sovereignty)
+                        "kingman-reef" |
+                        ## Macau (in Places > Dependencies and Areas of Special Sovereignty)
+                        "macau" |
+                        ## Martinique (in Places > Dependencies and Areas of Special Sovereignty)
+                        "martinique" |
+                        ## Mayotte (in Places > Dependencies and Areas of Special Sovereignty)
+                        "mayotte" |
+                        ## Midway Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "midway-islands" |
+                        ## Monterserrat (in Places > Dependencies and Areas of Special Sovereignty)
+                        "monterserrat" |
+                        ## Navassa Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "navassa-island" |
+                        ## New Caledonia (in Places > Dependencies and Areas of Special Sovereignty)
+                        "new-caledonia" |
+                        ## Niue (in Places > Dependencies and Areas of Special Sovereignty)
+                        "niue" |
+                        ## Norfolk Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "norfolk-island" |
+                        ## Northern Mariana Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "northern-mariana-islands" |
+                        ## Palmyra Atoll (in Places > Dependencies and Areas of Special Sovereignty)
+                        "palmyra-atoll" |
+                        ## Pitcairn Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "pitcairn-islands" |
+                        ## Puerto Rico (in Places > Dependencies and Areas of Special Sovereignty)
+                        "puerto-rico" |
+                        ## Reunion (in Places > Dependencies and Areas of Special Sovereignty)
+                        "reunion" |
+                        ## Saint Barthelemy (in Places > Dependencies and Areas of Special Sovereignty)
+                        "saint-barthelemy" |
+                        ## Saint Helena (in Places > Dependencies and Areas of Special Sovereignty)
+                        "saint-helena" |
+                        ## Saint Martin (in Places > Dependencies and Areas of Special Sovereignty)
+                        "saint-martin" |
+                        ## Saint Pierre and Miquelon (in Places > Dependencies and Areas of Special Sovereignty)
+                        "saint-pierre-and-miquelon" |
+                        ## Sint Maarten (in Places > Dependencies and Areas of Special Sovereignty)
+                        "sint-maarten" |
+                        ## South Georgia and the South Sandwich Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "south-georgia-and-the-south-sandwich-islands" |
+                        ## Svalbard (in Places > Dependencies and Areas of Special Sovereignty)
+                        "svalbard" |
+                        ## Tokelau (in Places > Dependencies and Areas of Special Sovereignty)
+                        "tokelau" |
+                        ## Turks and Caicos Islands (in Places > Dependencies and Areas of Special Sovereignty)
+                        "turks-and-caicos-islands" |
+                        ## Virgin Islands, British (in Places > Dependencies and Areas of Special Sovereignty)
+                        "virgin-islands-british" |
+                        ## Virgin Islands, U.S. (in Places > Dependencies and Areas of Special Sovereignty)
+                        "virgin-islands-u-s" |
+                        ## Wake Island (in Places > Dependencies and Areas of Special Sovereignty)
+                        "wake-island" |
+                        ## Wallis and Futuna (in Places > Dependencies and Areas of Special Sovereignty)
+                        "wallis-and-futuna" |
+                        ## Zanzibar (in Places > Dependencies and Areas of Special Sovereignty)
+                        "zanzibar" |
+                        ## Other (in Places)
+                        "other" |
+                        ## Antarctica (in Places > Other)
+                        "antarctica" |
+                        ## Palestine (in Places > Other)
+                        "palestine" |
+                        ## Paracel Islands (in Places > Other)
+                        "paracel-islands" |
+                        ## Spratly Islands (in Places > Other)
+                        "spratly-islands" |
+                        ## Western Sahara (in Places > Other)
+                        "western-sahara" |
+                        ## Topics
+                        "topics" |
+                        ## Arms Control and Disarmament (in Topics)
+                        "arms-control-and-disarmament" |
+                        ## Arms Embargoes (in Topics > Arms Control and Disarmament)
+                        "arms-embargoes" |
+                        ## Arms Transfers (in Topics > Arms Control and Disarmament)
+                        "arms-transfers" |
+                        ## Chemical and Bacteriological Warfare (in Topics > Arms Control and Disarmament)
+                        "chemical-and-bacteriological-warfare" |
+                        ## Collective Security: The general concept of collective security. Specific treaties and organizations have their own tags. (in Topics > Arms Control and Disarmament)
+                        "collective-security" |
+                        ## Confidence-Building Measures: Measures taken to reduce fear of attack. [Hint: These measures will usually be explicitly be labeled as such by negotiating partners.] (in Topics > Arms Control and Disarmament)
+                        "confidence-building-measures" |
+                        ## Nuclear Nonproliferation (in Topics > Arms Control and Disarmament)
+                        "nuclear-nonproliferation" |
+                        ## Nuclear Weapons (in Topics > Arms Control and Disarmament)
+                        "nuclear-weapons" |
+                        ## Department of State [Hint: Do not use as tag; this term is too general.] (in Topics)
+                        "department-of-state" |
+                        ## Buildings: Domestic (in Topics > Department of State)
+                        "buildings-domestic" |
+                        ## Buildings: Foreign (in Topics > Department of State)
+                        "buildings-foreign" |
+                        ## Congressional Relations (in Topics > Department of State)
+                        "congressional-relations" |
+                        ## Organization and Management: Internal management of the Department itself—i.e., rules, regulations, (re-)organization, etc.—rather than the management of foreign relations. (in Topics > Department of State)
+                        "organization-and-management" |
+                        ## Personnel: Civil Service (in Topics > Department of State)
+                        "personnel-civil-service" |
+                        ## Personnel: Demographics: Analyses or censuses of the composition of Department personnel—e.g., race, gender, educational background, etc. (in Topics > Department of State)
+                        "personnel-demographics" |
+                        ## Personnel: Foreign Service (in Topics > Department of State)
+                        "personnel-foreign-service" |
+                        ## Personnel: Locally Employed Staff (in Topics > Department of State)
+                        "personnel-locally-employed-staff" |
+                        ## Protection of Americans Abroad (in Topics > Department of State)
+                        "protection-of-americans-abroad" |
+                        ## Protocol (in Topics > Department of State)
+                        "protocol" |
+                        ## Foreign Economic Policy (in Topics)
+                        "foreign-economic-policy" |
+                        ## Agriculture (in Topics > Foreign Economic Policy)
+                        "agriculture" |
+                        ## Economic Sanctions (in Topics > Foreign Economic Policy)
+                        "economic-sanctions" |
+                        ## Economic Summit Meetings (in Topics > Foreign Economic Policy)
+                        "economic-summit-meetings" |
+                        ## Energy and Natural Resources (in Topics > Foreign Economic Policy)
+                        "energy-and-natural-resources" |
+                        ## Financial and Monetary Policy (in Topics > Foreign Economic Policy)
+                        "financial-and-monetary-policy" |
+                        ## Foreign Aid (in Topics > Foreign Economic Policy)
+                        "foreign-aid" |
+                        ## Foreign Investment (in Topics > Foreign Economic Policy)
+                        "foreign-investment" |
+                        ## Labor (in Topics > Foreign Economic Policy)
+                        "labor" |
+                        ## New International Economic Order: The proposal made in the 1970s by developing countries to replace the Bretton Woods system (in Topics > Foreign Economic Policy)
+                        "new-international-economic-order" |
+                        ## Trade and Commercial Policy/Agreements (in Topics > Foreign Economic Policy)
+                        "trade-and-commercial-policy-agreements" |
+                        ## Global Issues [Hint: Do not use as tag; this term is too general.] (in Topics)
+                        "global-issues" |
+                        ## Border Administration (in Topics > Global Issues)
+                        "border-administration" |
+                        ## Decolonization (in Topics > Global Issues)
+                        "decolonization" |
+                        ## Elections (in Topics > Global Issues)
+                        "elections" |
+                        ## Immigration (in Topics > Global Issues)
+                        "immigration" |
+                        ## Narcotics (in Topics > Global Issues)
+                        "narcotics" |
+                        ## Outer Space (in Topics > Global Issues)
+                        "outer-space" |
+                        ## Peace (in Topics > Global Issues)
+                        "peace" |
+                        ## Polar Affairs (in Topics > Global Issues)
+                        "polar-affairs" |
+                        ## Population Demographics (in Topics > Global Issues)
+                        "population-demographics" |
+                        ## Self-Determination (in Topics > Global Issues)
+                        "self-determination" |
+                        ## Human Rights (in Topics)
+                        "human-rights" |
+                        ## Asylum (in Topics > Human Rights)
+                        "asylum" |
+                        ## Detainees: People held in custody or confinement who are not accorded the legal status of other terms in this taxonomy—i.e., or (in Topics > Human Rights)
+                        "detainees" |
+                        ## Genocide (in Topics > Human Rights)
+                        "genocide" |
+                        ## Political Prisoners (in Topics > Human Rights)
+                        "political-prisoners" |
+                        ## Refugees (in Topics > Human Rights)
+                        "refugees" |
+                        ## Information Programs: U.S. information activity in foreign countries (in Topics)
+                        "information-programs" |
+                        ## International Law (in Topics)
+                        "international-law" |
+                        ## Domestic Protest against U.S. Activity (in Topics > International Law)
+                        "domestic-protest-against-u-s-activity" |
+                        ## Foreign Protest against U.S. Activity (in Topics > International Law)
+                        "foreign-protest-against-u-s-activity" |
+                        ## Law of the Sea (in Topics > International Law)
+                        "law-of-the-sea" |
+                        ## Property Claims (in Topics > International Law)
+                        "property-claims" |
+                        ## International Organizations: Organizations which do not have specific tags, or for general works on international organizations. [Hint: If an organization begins to appear frequently, please suggest a separate tag for the organization.] (in Topics)
+                        "international-organizations" |
+                        ## Association of Southeast Asian Nations (in Topics > International Organizations)
+                        "association-of-southeast-asian-nations" |
+                        ## Conference on Security and Cooperation in Europe (in Topics > International Organizations)
+                        "conference-on-security-and-cooperation-in-europe" |
+                        ## European Advisory Commission (in Topics > International Organizations)
+                        "european-advisory-commission" |
+                        ## European Economic Community (in Topics > International Organizations)
+                        "european-economic-community" |
+                        ## Far Eastern Commission (in Topics > International Organizations)
+                        "far-eastern-commission" |
+                        ## International Monetary Fund (in Topics > International Organizations)
+                        "international-monetary-fund" |
+                        ## League of Nations (in Topics > International Organizations)
+                        "league-of-nations" |
+                        ## International Atomic Energy Agency (in Topics > International Organizations)
+                        "international-atomic-energy-agency" |
+                        ## Non-governmental Organizations: Organizations which are not affiliated with governments—e.g., Red Cross, Human Rights Watch, Doctors without Borders. (in Topics > International Organizations)
+                        "non-governmental-organizations" |
+                        ## North Atlantic Treaty Organization (in Topics > International Organizations)
+                        "north-atlantic-treaty-organization" |
+                        ## Organization of American States (in Topics > International Organizations)
+                        "organization-of-american-states" |
+                        ## Organization of Petroleum Exporting Countries (in Topics > International Organizations)
+                        "organization-of-petroleum-exporting-countries" |
+                        ## Southeast Asia Treaty Organization (in Topics > International Organizations)
+                        "southeast-asia-treaty-organization" |
+                        ## United Nations (in Topics > International Organizations)
+                        "united-nations" |
+                        ## Universal Postal Union (in Topics > International Organizations)
+                        "universal-postal-union" |
+                        ## World Trade Organization (in Topics > International Organizations)
+                        "world-trade-organization" |
+                        ## Politico-Military issues [Hint: Do not use as tag; this term is too general.] (in Topics)
+                        "politico-military-issues" |
+                        ## Alliances (in Topics > Politico-Military issues)
+                        "alliances" |
+                        ## Armistices (in Topics > Politico-Military issues)
+                        "armistices" |
+                        ## Covert Actions (in Topics > Politico-Military issues)
+                        "covert-actions" |
+                        ## Diplomatic Recognition (in Topics > Politico-Military issues)
+                        "diplomatic-recognition" |
+                        ## Military Bases (in Topics > Politico-Military issues)
+                        "military-bases" |
+                        ## Military Intervention, Presence and Withdrawal: Military action not covered by a specific tag under (in Topics > Politico-Military issues)
+                        "military-intervention-presence-and-withdrawal" |
+                        ## National Security Council (in Topics > Politico-Military issues)
+                        "national-security-council" |
+                        ## National Security Policy (in Topics > Politico-Military issues)
+                        "national-security-policy" |
+                        ## Quarantine (Blockade) (in Topics > Politico-Military issues)
+                        "quarantine-blockade" |
+                        ## Terrorism (in Topics > Politico-Military issues)
+                        "terrorism" |
+                        ## Science and Technology (in Topics)
+                        "science-and-technology" |
+                        ## Atomic Energy (in Topics > Science and Technology)
+                        "atomic-energy" |
+                        ## Warfare (in Topics)
+                        "warfare" |
+                        ## Afghanistan Conflict (2001): U.S. military presence in Afghanistan post-2001 (in Topics > Warfare)
+                        "afghanistan-conflict-2001" |
+                        ## American Revolutionary War (in Topics > Warfare)
+                        "american-revolutionary-war" |
+                        ## Arab-Israeli Dispute: The ongoing conflict in the Middle East (in Topics > Warfare)
+                        "arab-israeli-dispute" |
+                        ## Civil War (U.S.) (in Topics > Warfare)
+                        "civil-war-u-s" |
+                        ## Cuban Missile Crisis (in Topics > Warfare)
+                        "cuban-missile-crisis" |
+                        ## Geneva Convention (in Topics > Warfare)
+                        "geneva-convention" |
+                        ## Iraq War (2003): U.S. military presence in Iraq post-2003 (in Topics > Warfare)
+                        "iraq-war-2003" |
+                        ## Korean War (in Topics > Warfare)
+                        "korean-war" |
+                        ## Mexican-American War (in Topics > Warfare)
+                        "mexican-american-war" |
+                        ## Neutrality (in Topics > Warfare)
+                        "neutrality" |
+                        ## Prisoners of War (in Topics > Warfare)
+                        "prisoners-of-war" |
+                        ## Spanish-American War (in Topics > Warfare)
+                        "spanish-american-war" |
+                        ## Suez Canal: Suez Crisis of 1956 (in Topics > Warfare)
+                        "suez-canal" |
+                        ## Vietnam Conflict (in Topics > Warfare)
+                        "vietnam-conflict" |
+                        ## War Crimes and War Criminals (in Topics > Warfare)
+                        "war-crimes-and-war-criminals" |
+                        ## War of 1812 (in Topics > Warfare)
+                        "war-of-1812" |
+                        ## World War I (in Topics > Warfare)
+                        "world-war-i" |
+                        ## World War II (in Topics > Warfare)
+                        "world-war-ii"
+                    }
+                }+
+            },
+            element unofficial-tags-tbd {
+                element tag { text }*
+            }
+        }+
+    }
