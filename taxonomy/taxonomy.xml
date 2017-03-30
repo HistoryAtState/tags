@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <taxonomy>
     <title>Office of the Historian Subject Taxonomy of the History of U.S. Foreign Relations</title>
     <description>
@@ -19,7 +19,8 @@
     <category created-by="cozensef" created-date="2013-04-08">
         <id>people</id>
         <label>People</label>
-        <definition>Contains lists of Presidents and Secretaries of State in chronological order.</definition>
+        <definition>Contains lists of Presidents and Secretaries of State in chronological
+            order.</definition>
         <usage-hint>For people named in resources, only use a person tag if the resource is relevant
             to their service as President or Secretary.</usage-hint>
         <category created-by="cozensef" created-date="2013-04-08">
@@ -209,9 +210,10 @@
         <category created-by="cozensef" created-date="2013-04-08">
             <id>secretaries-of-state</id>
             <label>Secretaries of State</label>
-            <definition>Secretaries of State in chronological order. (S) is appended to a Secretary's
-                name in cases where the Secretary also served as President. A range of years is
-                appended in cases where the Secretary served non-consecutively.</definition>
+            <definition>Secretaries of State in chronological order. (S) is appended to a
+                Secretary's name in cases where the Secretary also served as President. A range of
+                years is appended in cases where the Secretary served
+                non-consecutively.</definition>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>jefferson-thomas-s</id>
                 <label>Jefferson, Thomas (S)</label>
@@ -1607,13 +1609,15 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>collective-security</id>
                 <label>Collective Security</label>
-                <definition>The general concept of collective security. Specific treaties and organizations have their own tags.</definition>
+                <definition>The general concept of collective security. Specific treaties and
+                    organizations have their own tags.</definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>confidence-building-measures</id>
                 <label>Confidence-Building Measures</label>
                 <definition>Measures taken to reduce fear of attack.</definition>
-                <usage-hint>These measures will usually be explicitly be labeled as such by negotiating partners.</usage-hint>
+                <usage-hint>These measures will usually be explicitly be labeled as such by
+                    negotiating partners.</usage-hint>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>nuclear-nonproliferation</id>
@@ -1643,7 +1647,9 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>organization-and-management</id>
                 <label>Organization and Management</label>
-                <definition>Internal management of the Department itself—i.e., rules, regulations, (re-)organization, etc.—rather than the management of foreign relations.</definition>
+                <definition>Internal management of the Department itself—i.e., rules, regulations,
+                    (re-)organization, etc.—rather than the management of foreign
+                    relations.</definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>personnel-civil-service</id>
@@ -1652,7 +1658,8 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>personnel-demographics</id>
                 <label>Personnel: Demographics</label>
-                <definition>Analyses or censuses of the composition of Department personnel—e.g., race, gender, educational background, etc.</definition>
+                <definition>Analyses or censuses of the composition of Department personnel—e.g.,
+                    race, gender, educational background, etc.</definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>personnel-foreign-service</id>
@@ -1709,7 +1716,8 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>new-international-economic-order</id>
                 <label>New International Economic Order</label>
-                <definition>The proposal made in the 1970s by developing countries to replace the Bretton Woods system</definition>
+                <definition>The proposal made in the 1970s by developing countries to replace the
+                    Bretton Woods system</definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>trade-and-commercial-policy-agreements</id>
@@ -1771,7 +1779,9 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>detainees</id>
                 <label>Detainees</label>
-                <definition>People held in custody or confinement who are not accorded the legal status of other terms in this taxonomy—i.e., <ptr target="asylum"/> or <ptr target="refugees"/>
+                <definition>People held in custody or confinement who are not accorded the legal
+                    status of other terms in this taxonomy—i.e., <ptr target="asylum"/> or <ptr
+                        target="refugees"/>
                 </definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
@@ -1787,7 +1797,8 @@
                 <label>Refugees</label>
             </tag>
         </tag>
-        <tag created-by="cozensef" created-date="2013-04-08" last-updated-by="wicentowskijc" last-updated-date="2013-10-30">
+        <tag created-by="cozensef" created-date="2013-04-08" last-updated-by="wicentowskijc"
+            last-updated-date="2013-10-30">
             <id>information-programs</id>
             <label>Information Programs</label>
             <definition>U.S. information activity in foreign countries</definition>
@@ -1815,8 +1826,10 @@
         <tag created-by="cozensef" created-date="2013-04-08">
             <id>international-organizations</id>
             <label>International Organizations</label>
-            <definition>Organizations which do not have specific tags, or for general works on international organizations.</definition>
-            <usage-hint>If an organization begins to appear frequently, please suggest a separate tag for the organization.</usage-hint>
+            <definition>Organizations which do not have specific tags, or for general works on
+                international organizations.</definition>
+            <usage-hint>If an organization begins to appear frequently, please suggest a separate
+                tag for the organization.</usage-hint>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>association-of-southeast-asian-nations</id>
                 <label>Association of Southeast Asian Nations</label>
@@ -1852,7 +1865,8 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>non-governmental-organizations</id>
                 <label>Non-governmental Organizations</label>
-                <definition>Organizations which are not affiliated with governments—e.g., Red Cross, Human Rights Watch, Doctors without Borders.</definition>
+                <definition>Organizations which are not affiliated with governments—e.g., Red Cross,
+                    Human Rights Watch, Doctors without Borders.</definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>north-atlantic-treaty-organization</id>
@@ -1910,7 +1924,8 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>military-intervention-presence-and-withdrawal</id>
                 <label>Military Intervention, Presence and Withdrawal</label>
-                <definition>Military action not covered by a specific tag under <ptr target="warfare"/>
+                <definition>Military action not covered by a specific tag under <ptr
+                        target="warfare"/>
                 </definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
