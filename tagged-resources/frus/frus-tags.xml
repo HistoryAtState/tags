@@ -23626,6 +23626,50 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>FRUS, 1977-1980, volume XXII, Southeast Asia and the Pacific</title>
+        <link>https://history.state.gov/historicaldocuments/frus1977-80v22</link>
+        <tags>
+            <tag id="carter-jimmy"/>
+            <tag id="shultz-george-pratt"/>
+            <tag id="australia"/>
+            <tag id="burma"/>
+            <tag id="cambodia"/>
+            <tag id="china"/>
+            <tag id="fiji"/>
+            <tag id="indonesia"/>
+            <tag id="japan"/>
+            <tag id="laos"/>
+            <tag id="malaysia"/>
+            <tag id="new-zealand"/>
+            <tag id="palau"/>
+            <tag id="papua-new-guinea"/>
+            <tag id="philippines"/>
+            <tag id="singapore"/>
+            <tag id="thailand"/>
+            <tag id="tuvalu"/>
+            <tag id="vanuatu"/>
+            <tag id="vietnam"/>
+            <tag id="asylum"/>
+            <tag id="detainees"/>
+            <tag id="genocide"/>
+            <tag id="political-prisoners"/>
+            <tag id="refugees"/>
+            <tag id="association-of-southeast-asian-nations"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="military-bases"/>
+            <tag id="prisoners-of-war"/>
+            <tag id="vietnam-conflict"/>
+            <tag id="war-crimes-and-war-criminals"/>
+        </tags>
+        <unofficial-tags-tbd>
+            <tag>OECD</tag>
+        </unofficial-tags-tbd>
+    </study>  
+    
+    
+    
+    
+    <study>
         <title>FRUS, 1977-80, volume XXVI, Arms Control</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v26</link>
         <tags>
@@ -23734,6 +23778,52 @@
             <tag id="information-programs"/>
             <tag id="united-nations"/>
             <tag id="north-atlantic-treaty-organization"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
+        <title>FRUS, 1981-88, volume VI, Soviet Union, October 1986-January 1989</title>
+        <link>https://history.state.gov/historicaldocuments/frus1981-88v06</link>
+        <tags>
+            <tag id="reagan-ronald"/>
+            <tag id="bush-george-h-w"/>
+            <tag id="shultz-george-pratt"/>
+            <tag id="angola"/>
+            <tag id="namibia"/>
+            <tag id="europe"/>
+            <tag id="russia"/>
+            <tag id="united-kingdom"/>
+            <tag id="germany"/>
+            <tag id="el-salvador"/>
+            <tag id="cuba"/>
+            <tag id="china"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="nicaragua"/>
+            <tag id="western-hemisphere"/>
+            <tag id="east-asia-and-pacific"/>
+            <tag id="alliances"/>
+            <tag id="national-security-council"/>
+            <tag id="national-security-policy"/>
+            <tag id="human-rights"/>
+            <tag id="economic-sanctions"/>
+            <tag id="information-programs"/>
+            <tag id="united-nations"/>
+            <tag id="cambodia"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="vietnam"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="afghanistan"/>
+            <tag id="honduras"/>
+            <tag id="chemical-and-bacteriological-warfare"/>
+            <tag id="outer-space"/>
+            <tag id="covert-actions"/>
+            <tag id="terrorism"/>
+            <tag id="powell-colin-luther"/>
+            <tag id="baker-james-addison"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
