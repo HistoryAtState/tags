@@ -4197,6 +4197,36 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>Foreign Relations of the United States, 1917-1972, Volume VI, Public Diplomacy,
+            1961-1963</title>
+        <link>https://history.state.gov/historicaldocuments/frus1917-72PubDipv06</link>
+        <tags>
+            <tag id="kennedy-john-f"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="acheson-dean-gooderham"/>
+            <tag id="rusk-david-dean"/>
+            <tag id="congressional-relations"/>
+            <tag id="organization-and-management"/>
+            <tag id="united-nations"/>
+            <tag id="cuban-missile-crisis"/>
+            <tag id="cuba"/>
+            <tag id="foreign-aid"/>
+            <tag id="vietnam-conflict"/>
+            <tag id="vietnam"/>
+            <tag id="germany"/>
+            <tag id="european-economic-community"/>
+            <tag id="international-monetary-fund"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="foreign-protest-against-u-s-activity"/>
+            <tag id="peace"/>
+        </tags>
+
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
         <title>FRUS, 1917, The World War, Supplement 1</title>
         <link>https://history.state.gov/historicaldocuments/frus1917Supp01v01</link>
         <tags>
@@ -12443,7 +12473,7 @@
             <tag id="energy-and-natural-resources"/>
             <tag id="covert-actions"/>
         </tags>
-        <unofficial-tags-tbd></unofficial-tags-tbd>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1952-1954, Guatemala</title>
@@ -23532,7 +23562,7 @@
             <tag id="international-organizations"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="national-security-council"/>
-         </tags>
+        </tags>
         <unofficial-tags-tbd/>
     </study>
     <study>
@@ -23684,11 +23714,11 @@
         <unofficial-tags-tbd>
             <tag>OECD</tag>
         </unofficial-tags-tbd>
-    </study>  
-    
-    
-    
-    
+    </study>
+
+
+
+
     <study>
         <title>FRUS, 1977-80, volume XXVI, Arms Control</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v26</link>
@@ -23881,7 +23911,7 @@
         </tags>
         <unofficial-tags-tbd/>
     </study>
-    
+
     <study>
         <title>FRUS, 1981-88, volume XLI, Global Issues II</title>
         <link>https://history.state.gov/historicaldocuments/frus1981-88v41</link>
@@ -23897,9 +23927,9 @@
             <tag id="south-and-central-asia"/>
             <tag id="global-issues"/>
             <tag id="human-rights"/>
-            <tag id="international-law"/>       
+            <tag id="international-law"/>
         </tags>
         <unofficial-tags-tbd/>
-    </study> 
-    
+    </study>
+
 </studies>
