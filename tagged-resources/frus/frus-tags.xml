@@ -22423,6 +22423,25 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>FRUS, 1969-1976, volume XLII, Vietnam: The Kissinger-Le Duc Tho Negotiations, August 1969–December
+            1973</title>
+        <link>https://history.state.gov/historicaldocuments/frus1969-76v42</link>
+        <tags>
+            <tag id="vietnam"/>
+            <tag id="vietnam-conflict"/>
+            <tag id="cambodia"/>
+            <tag id="armistices"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="france"/>
+            <tag id="kissinger-henry-a"/>
+            <tag id="laos"/>
+            <tag id="peace"/>
+            <tag id="nixon-richard"/>
+            <tag id="prisoners-of-war"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>       
+    <study>
         <title>FRUS, 1969-1976, volume E-1, Documents on Global Issues, 1969-1972</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76ve01</link>
         <tags>
@@ -23715,10 +23734,31 @@
             <tag>OECD</tag>
         </unofficial-tags-tbd>
     </study>
-
-
-
-
+    <study>
+        <title>FRUS, 1977-1980, volume XXIV, South America; Latin America Region</title>
+        <link>https://history.state.gov/historicaldocuments/frus1977-80v24</link>
+        <tags>
+            <tag id="carter-jimmy"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="argentina"/>
+            <tag id="brazil"/>
+            <tag id="bolivia"/>
+            <tag id="chile"/>
+            <tag id="colombia"/>
+            <tag id="ecuador"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="uruguay"/>
+            <tag id="venezuela"/>
+            <tag id="arms-transfers"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="human-rights"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="atomic-energy"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study> 
     <study>
         <title>FRUS, 1977-80, volume XXVI, Arms Control</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v26</link>
