@@ -21182,6 +21182,20 @@
             <tag>U.S.S.R.</tag>
         </unofficial-tags-tbd>
     </study>
+    
+    <study>
+        <title>FRUS, 1969-1976, volume XIX, part 2, Japan, 1969-1972</title>
+        <link>https://history.state.gov/historicaldocuments/frus1969-76v19p2</link>
+        <tags>
+            <tag id="indonesia"/>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="russia"/>
+            <tag id="nixon-richard"/>
+            <tag id="rogers-william-pierce"/>
+        </tags>
+    </study>
+    
     <study>
         <title>FRUS, 1969-1976, volume XX, Southeast Asia, 1969-1972</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76v20</link>
