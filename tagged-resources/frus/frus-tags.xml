@@ -23844,16 +23844,36 @@
             <tag id="bolivia"/>
             <tag id="chile"/>
             <tag id="colombia"/>
+            <tag id="cuba"/>
             <tag id="ecuador"/>
+            <tag id="el-salvador"/>
+            <tag id="honduras"/>
+            <tag id="nicaragua"/>
             <tag id="paraguay"/>
             <tag id="peru"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="western-hemisphere"/>
             <tag id="arms-transfers"/>
             <tag id="nuclear-nonproliferation"/>
             <tag id="human-rights"/>
             <tag id="organization-of-american-states"/>
             <tag id="atomic-energy"/>
+            <tag id="congressional-relations"/>
+            <tag id="foreign-aid"/>
+            <tag id="foreign-investment"/>
+            <tag id="border-administration"/>
+            <tag id="elections"/>
+            <tag id="narcotics"/>
+            <tag id="peace"/>
+            <tag id="detainees"/>
+            <tag id="political-prisoners"/>
+            <tag id="refugees"/>
+            <tag id="international-monetary-fund"/>
+            <tag id="non-governmental-organizations"/>
+            <tag id="united-nations"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="terrorism"/>
         </tags>
         <unofficial-tags-tbd/>
     </study> 
