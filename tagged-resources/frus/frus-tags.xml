@@ -12460,7 +12460,7 @@
             <tag>Yugoslavia</tag>
         </unofficial-tags-tbd>
     </study>
-    
+
     <study>
         <title>FRUS, 1951-1954, Iran</title>
         <link>https://history.state.gov/historicaldocuments/frus1951-54Iran</link>
@@ -12476,7 +12476,7 @@
         </tags>
         <unofficial-tags-tbd/>
     </study>
-    
+
     <study>
         <title>FRUS, 1951-1954, Iran, Second Edition</title>
         <link>https://history.state.gov/historicaldocuments/frus1951-54IranEd2</link>
@@ -12492,7 +12492,7 @@
         </tags>
         <unofficial-tags-tbd/>
     </study>
-    
+
     <study>
         <title>FRUS, 1952-1954, Guatemala</title>
         <link>https://history.state.gov/historicaldocuments/frus1952-54Guat</link>
@@ -21200,7 +21200,7 @@
             <tag>U.S.S.R.</tag>
         </unofficial-tags-tbd>
     </study>
-    
+
     <study>
         <title>FRUS, 1969-1976, volume XIX, part 2, Japan, 1969-1972</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76v19p2</link>
@@ -21213,7 +21213,7 @@
             <tag id="rogers-william-pierce"/>
         </tags>
     </study>
-    
+
     <study>
         <title>FRUS, 1969-1976, volume XX, Southeast Asia, 1969-1972</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76v20</link>
@@ -22455,8 +22455,8 @@
         </unofficial-tags-tbd>
     </study>
     <study>
-        <title>FRUS, 1969-1976, volume XLII, Vietnam: The Kissinger-Le Duc Tho Negotiations, August 1969–December
-            1973</title>
+        <title>FRUS, 1969-1976, volume XLII, Vietnam: The Kissinger-Le Duc Tho Negotiations, August
+            1969–December 1973</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76v42</link>
         <tags>
             <tag id="vietnam"/>
@@ -22472,7 +22472,7 @@
             <tag id="prisoners-of-war"/>
         </tags>
         <unofficial-tags-tbd/>
-    </study>       
+    </study>
     <study>
         <title>FRUS, 1969-1976, volume E-1, Documents on Global Issues, 1969-1972</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76ve01</link>
@@ -23495,6 +23495,37 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>FRUS, 1977-80, volume XII, Afghanistan</title>
+        <link>https://history.state.gov/historicaldocuments/frus1977-80v12</link>
+        <tags>
+            <tag id="carter-jimmy"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="afghanistan"/>
+            <tag id="pakistan"/>
+            <tag id="china"/>
+            <tag id="france"/>
+            <tag id="russia"/>
+            <tag id="united-kingdom"/>
+            <tag id="saudi-arabia"/>
+            <tag id="arms-transfers"/>
+            <tag id="personnel-foreign-service"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="foreign-aid"/>
+            <tag id="narcotics"/>
+            <tag id="refugees"/>
+            <tag id="information-programs"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="united-nations"/>
+            <tag id="covert-actions"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="national-security-council"/>
+            <tag id="terrorism"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
         <title>FRUS, 1977-1980, volume XIII, China</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v13</link>
         <tags>
@@ -23614,8 +23645,8 @@
         </tags>
         <unofficial-tags-tbd/>
     </study>
-    
-    
+
+
     <study>
         <title>FRUS, 1977-80, Volume XVII, Part 2, Sub-Saharan Africa</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v17p2</link>
@@ -23638,7 +23669,7 @@
             <tag id="senegal"/>
             <tag id="central-african-empire"/>
             <tag id="niger"/>
-            
+
             <tag id="ivory-coast"/>
             <tag id="mauritania"/>
             <tag id="ghana"/>
@@ -23651,17 +23682,17 @@
             <tag id="guinea-bissau"/>
             <tag id="chad"/>
             <tag id="benin"/>
-            
+
             <tag id="gabon"/>
             <tag id="sahel"/>
-            
-            
+
+
 
         </tags>
         <unofficial-tags-tbd/>
-    </study> 
-    
-    
+    </study>
+
+
     <study>
         <title>FRUS, 1977-80, Volume XVII, Part 3, North Africa</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v17p3</link>
@@ -23876,7 +23907,7 @@
             <tag id="terrorism"/>
         </tags>
         <unofficial-tags-tbd/>
-    </study> 
+    </study>
     <study>
         <title>FRUS, 1977-80, volume XXVI, Arms Control</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v26</link>
