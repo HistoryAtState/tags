@@ -558,12 +558,12 @@
                     <label>Equatorial Guinea</label>
                 </tag>
                 <tag created-by="cozensef" created-date="2013-04-08">
-                    <id>ethiopia</id>
-                    <label>Ethiopia</label>
-                </tag>
-                <tag created-by="cozensef" created-date="2013-04-08">
                     <id>eritrea</id>
                     <label>Eritrea</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>ethiopia</id>
+                    <label>Ethiopia</label>
                 </tag>
                 <tag created-by="cozensef" created-date="2013-04-08">
                     <id>gabon</id>
@@ -1122,12 +1122,12 @@
                     <label>India</label>
                 </tag>
                 <tag created-by="cozensef" created-date="2013-04-08">
-                    <id>kyrgyzstan</id>
-                    <label>Kyrgyzstan</label>
-                </tag>
-                <tag created-by="cozensef" created-date="2013-04-08">
                     <id>kazakhstan</id>
                     <label>Kazakhstan</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>kyrgyzstan</id>
+                    <label>Kyrgyzstan</label>
                 </tag>
                 <tag created-by="cozensef" created-date="2013-04-08">
                     <id>maldives</id>
