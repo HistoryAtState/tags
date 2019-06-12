@@ -1182,12 +1182,12 @@
                     <label>Belize</label>
                 </tag>
                 <tag created-by="cozensef" created-date="2013-04-08">
-                    <id>brazil</id>
-                    <label>Brazil</label>
-                </tag>
-                <tag created-by="cozensef" created-date="2013-04-08">
                     <id>bolivia</id>
                     <label>Bolivia</label>
+                </tag>
+                <tag created-by="cozensef" created-date="2013-04-08">
+                    <id>brazil</id>
+                    <label>Brazil</label>
                 </tag>
                 <tag created-by="cozensef" created-date="2013-04-08">
                     <id>canada</id>
