@@ -33,7 +33,7 @@
         <id>organizations</id>
         <label>Organizations</label>
         <definition>Corporate bodies, non-governmental organizations, collectives, and other groups
-            of persons that is identifiable by a particular name and may act as an
+            of persons that are identifiable by a particular name and may act as an
             entity.</definition>
         <usage-hint/>
     </category>
@@ -506,13 +506,711 @@
             </tag>
         </category>
     </category>
-    <category created-by="cozensef" created-date="2013-04-08">
+    <category created-by="rossat" created-date="2019-06-25">
         <id>places</id>
         <label>Places</label>
         <definition>Territories on today's map of the world, as classified by status and region by
-            the Bureau of Intelligence and Research, U.S. Department of State. (The current list was
-            taken from <a href="http://www.state.gov/s/inr/states/index.htm">Independent States and
-                Dependencies</a>, accessed on January 3, 2013.)</definition>
+            the Office of The Geographer and Global Issues, Bureau of Intelligence and Research,
+            U.S. Department of State.</definition>
+        <source label="Source Note">The current Places list was taken from the factsheets <a
+                href="https://www.state.gov/independent-states-in-the-world/">Independent States in
+                the World</a> and <a
+                href="https://www.state.gov/dependencies-and-areas-of-special-sovereignty/"
+                >Dependencies and Areas of Special Sovereignty</a>, accessed online on June 25,
+            2019.</source>
+        <authority id="us-dos-inr">Office of The Geographer and Global Issues, Bureau of
+            Intelligence and Research, U.S. Department of State, Washington, DC.</authority>
+
+        <category created-by="rossat" created-date="2019-06-25"
+            lastDateTimeVerified="2019-06-25T16:48:38-04:00">
+            <id>independent-states</id>
+            <label>Independent States</label>
+            <!-- Afghanistan -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T17:18:59-04:00">
+                <id source="us-dos-fsi-oh"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en"
+                    >Afghanistan</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Islamic Republic of
+                    Afghanistan</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Kabul</narrower>
+                <hasBroaderConcept label="Geographic Region" id="south-and-central-asia"
+                    source="us-dos-fsi-oh" xml:lang="en">South and Central Asia</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AF" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="AFG" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af.html"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Afghanistan</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Afghanistan</sameAs>
+                <sameAs type="placesPrevious" id="afghanistan" source="us-dos-inr"
+                    >Afghanistan</sameAs>
+            </tag>
+            <!-- Albania -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T17:23:16-04:00">
+                <id source="us-dos-fsi-oh"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Albania</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Albania</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Tirana</narrower>
+                <hasBroaderConcept label="Geographic Region" id="europe" source="us-dos-fsi-oh"
+                    >Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AL" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="ALB" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aa"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Albania</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-aa.html"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Albania</sameAs>
+                <sameAs type="placesPrevious" id="albania" source="us-dos-inr">Albania</sameAs>
+            </tag>
+            <!-- Algeria -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T17:25:41-04:00">
+                <id source="us-dos-fsi-oh"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Algeria</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">People’s Democratic
+                    Republic of Algeria</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Algiers</narrower>
+                <hasBroaderConcept label="Geographic Region" id="near-east" source="us-dos-fsi-oh"
+                    xml:lang="en">Near East</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="DZ" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="DZA" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id=""
+                    source="http://id.loc.gov/vocabulary/countries/af" xml:lang="en"
+                    >Algeria</sameAs>
+                <sameAs type="marc-geographic-areas" id=""
+                    source="http://id.loc.gov/vocabulary/gacs/a-af" xml:lang="en">Algeria</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Andorra -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T17:27:23-04:00">
+                <id source="us-dos-fsi-oh"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Andorra</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Principality of
+                    Andorra</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Andorra la
+                    Vella</narrower>
+                <hasBroaderConcept label="Geographic Region" id="europe" source="us-dos-fsi-oh"
+                    >Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AD" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="AND" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/an"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Andorra</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-an"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Andorra</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Angola -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T17:31:26-04:00">
+                <id source="us-dos-fsi-oh"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Angola</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Angola</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Luanda</narrower>
+                <hasBroaderConcept label="Geographic Region" id="sub-saharan-africa"
+                    source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AO" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="AGO" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Angola</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-ao"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Angola</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Antigua and Barbuda -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:04:56-04:00">
+                <id source="us-dos-fsi-oh" id="93873c4d-007e-4028-949c-6e6174d63175"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Antigua and
+                    Barbuda</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Antigua and
+                    Barbuda</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Saint
+                    John’s</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
+                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AG" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="ATG" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aq"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Antigua and Barbuda</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwaq"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Antigua and Barbuda</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+                <useFor>Antigua</useFor>
+                <useFor>Barbuda</useFor>
+            </tag>
+            <!-- Argentina -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:09:15-04:00">
+                <id source="us-dos-fsi-oh" id="8643ac2f-10ac-461a-9185-65929868518a"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Argentina</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Argentine
+                    Republic</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Buenos
+                    Aires</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
+                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AR" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="ARG" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/geographicAreas/s-ag"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Argentina</sameAs>
+                <sameAs type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/ag"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Argentina</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Armenia -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:13:26-04:00">
+                <id source="us-dos-fsi-oh" id="03d36fc0-967a-4623-bb23-39134628ad96"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Armenia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Armenia</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
+                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AM" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="ARM" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ai"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Armenia</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-ai"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Armenia</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Australia -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:14:50-04:00">
+                <id source="us-dos-fsi-oh" id="96954dc2-18ea-487b-b7d3-824edbd8236d"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Australia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Commonwealth of
+                    Australia</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Canberra</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-eap"
+                    source="us-dos-fsi-oh" xml:lang="en">East Asia and Pacific</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AU" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="AUS" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/at"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Australia</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/u-at"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Australia</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Austria -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:16:47-04:00">
+                <id source="us-dos-fsi-oh" id="61b084b4-e5bb-4412-b849-d892848f5505"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Austria</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Austria</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Vienna</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
+                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AT" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="AUT" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/au"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Austria</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-au"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Austria</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Azerbaijan -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:21:46-04:00">
+                <id source="us-dos-fsi-oh" id="b6a3d5a6-f091-4486-9cbd-7bc1266369f2"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Azerbaijan</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Azerbaijan</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Baku</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
+                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="AZ" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="AZE" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aj"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Azerbaijan</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-aj"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Azerbaijan</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- The Bahamas -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:49:07-04:00">
+                <id source="us-dos-fsi-oh" id="aaa8c7c7-d6ed-4f9d-ac3a-c671506164d8"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">The
+                    Bahamas</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Commonwealth of The
+                    Bahamas</prefLabel>
+                <altLabel type="filing">Bahamas, The</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Nassau</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
+                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BS" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BHS" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bf"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Bahamas</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwbf"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bahamas</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Bahrain -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:50:48-04:00">
+                <id source="us-dos-fsi-oh" id="0d069332-f120-4291-8e5b-994d76bd7eb5"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bahrain</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                    Bahrain</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Manama</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-ne"
+                    source="us-dos-fsi-oh" xml:lang="en">Near East</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BH" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BHR" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ba"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Bahrain</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-ba"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bahrain</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Bangladesh -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:52:52-04:00">
+                <id source="us-dos-fsi-oh" id="07286337-7c22-41fa-b2b7-e4af9843c056"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bangladesh</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">People’s Republic of
+                    Bangladesh</prefLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-sca"
+                    source="us-dos-fsi-oh" xml:lang="en">South and Central Asia</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BD" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BGD" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bg"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Bangladesh</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-bg"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bangladesh</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Barbados -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T18:55:14-04:00">
+                <id source="us-dos-fsi-oh" id="5928edcf-cf84-4a4b-a177-d47b0899a160"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Barbados</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Barbados</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Barbados</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en"
+                    >Bridgetown</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
+                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BB" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BRB" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
+                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwbb"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Belarus -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T19:01:25-04:00">
+                <id source="us-dos-fsi-oh" id="cb8c5cab-e22b-4106-b64c-6c49e1a19db3"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belarus</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Belarus</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belarus</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Minsk</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
+                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BY" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BLR" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bw"
+                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-bw"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Belgium -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T19:10:12-04:00">
+                <id source="us-dos-fsi-oh" id="40d282e9-af9e-4244-8512-66aa967a0613"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belgium</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                    Belgium</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belgium</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Brussels</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
+                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BE" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BEL" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/be"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Belgium</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-be"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Belgium</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Belize -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T19:14:03-04:00">
+                <id source="us-dos-fsi-oh" id="af30d7ea-2129-4412-b6b6-9d6102ff25df"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belize</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Belize</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belize</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
+                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BZ" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Benin -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T19:14:52-04:00">
+                <id source="us-dos-fsi-oh" id="6c991b25-7075-4368-817b-b752b126bab6"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Benin</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Benin</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Benin, Republic
+                    of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en"
+                    >Porto-Novo</narrower>
+                <narrower type="seat-of-government" source="us-dos-inr" xml:lang="en"
+                    >Cotonou</narrower>
+                <hasBroaderConcept label="Geographic Region" id="geo-region-af"
+                    source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</hasBroaderConcept>
+                <sameAs type="genc-2a-code" id="BJ" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BEN" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Bhutan -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T19:22:06-04:00">
+                <id source="us-dos-fsi-oh" id="3dd432a1-875d-49b5-a595-1d889511c97c"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bhutan</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                    Bhutan</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bhutan, Kingdom
+                    of</altLabel>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Thimphu</narrower>
+                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                    xml:lang="en">South and Central Asia</broader>
+                <sameAs type="genc-2a-code" id="BT" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BTN" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Bolivia -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T19:23:34-04:00">
+                <id source="us-dos-fsi-oh" id="7a31492d-e4ba-4dfc-9173-39507c846ffc"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bolivia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Plurinational State of
+                    Bolivia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bolivia, Plurinational
+                    State of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="administrative-seat" source="us-dos-inr" xml:lang="en">La
+                    Paz</narrower>
+                <narrower type="legislative-judiciary" source="us-dos-inr" xml:lang="en"
+                    >Sucre</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <sameAs type="genc-2a-code" id="" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+
+        </category>
+
+        <!--
+        Bosnia and
+        Herzegovina 	Diplomatic relations with the United States		Member of United Nations		Bosnia and Herzegovina	BA	BIH	Sarajevo
+        Botswana 	Diplomatic relations with the United States		Member of United Nations		Republic of Botswana	BW	BWA	Gaborone
+        Brazil 	Diplomatic relations with the United States		Member of United Nations		Federative Republic of Brazil	BR	BRA	Brasília
+        Brunei 	Diplomatic relations with the United States		Member of United Nations		Brunei Darussalam	BN	BRN	Bandar Seri Begawan
+        Bulgaria 	Diplomatic relations with the United States		Member of United Nations		Republic of Bulgaria	BG	BGR	Sofia
+        Burkina Faso 	Diplomatic relations with the United States		Member of United Nations		Burkina Faso	BF	BFA	Ouagadougou
+        Burma 	Diplomatic relations with the United States		Member of United Nations		Union of Burma	MM	MMR	Rangoon
+        Nay Pyi Taw (administrative)
+        Burundi 	Diplomatic relations with the United States		Member of United Nations		Republic of Burundi	BI	BDI	Bujumbura
+        Cabo Verde 	Diplomatic relations with the United States		Member of United Nations		Republic of Cabo Verde	CV	CPV	Praia
+        Cambodia 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Cambodia	KH	KHM	Phnom Penh
+        Cameroon 	Diplomatic relations with the United States		Member of United Nations		Republic of Cameroon	CM	CMR	Yaoundé
+        Canada 	Diplomatic relations with the United States		Member of United Nations		Canada	CA	CAN	Ottawa
+        Central
+        African Republic 	Diplomatic relations with the United States		Member of United Nations		Central African Republic	CF	CAF	Bangui
+        Chad 	Diplomatic relations with the United States		Member of United Nations		Republic of Chad	TD	TCD	N’Djamena
+        Chile 	Diplomatic relations with the United States		Member of United Nations		Republic of Chile	CL	CHL	Santiago
+        China 	Diplomatic relations with the United States		Member of United Nations	 (see note 3)	People’s Republic of China	CN	CHN	Beijing
+        Colombia 	Diplomatic relations with the United States		Member of United Nations		Republic of Colombia	CO	COL	Bogotá
+        Comoros 	Diplomatic relations with the United States		Member of United Nations		Union of the Comoros	KM	COM	Moroni
+        Congo (Brazzaville) 	Diplomatic relations with the United States		Member of United Nations	
+        (see note 4)	Republic of the Congo	CG	COG	Brazzaville
+        Congo (Kinshasa) 	Diplomatic relations with the United States		Member of United Nations	
+        (see note 4)	Democratic Republic
+        of the Congo	CD	COD	Kinshasa
+        Costa Rica 	Diplomatic relations with the United States		Member of United Nations		Republic of Costa Rica	CR	CRI	San José
+        Côte d’Ivoire 	Diplomatic relations with the United States		Member of United Nations		Republic of Côte d’Ivoire	CI	CIV	Yamoussoukro
+        Croatia 	Diplomatic relations with the United States		Member of United Nations		Republic of Croatia	HR	HRV	Zagreb
+        Cuba 	Diplomatic relations with the United States		Member of United Nations		Republic of Cuba	CU	CUB	Havana
+        Cyprus 	Diplomatic relations with the United States		Member of United Nations		Republic of Cyprus	CY	CYP	Nicosia
+        Czechia 	Diplomatic relations with the United States		Member of United Nations		Czech Republic	CZ	CZE	Prague
+        Denmark 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Denmark	DK	DNK	Copenhagen
+        Djibouti 	Diplomatic relations with the United States		Member of United Nations		Republic of Djibouti	DJ	DJI	Djibouti
+        Dominica 	Diplomatic relations with the United States		Member of United Nations		Commonwealth of Dominica	DM	DMA	Roseau
+        Dominican Republic 	Diplomatic relations with the United States		Member of United Nations		Dominican Republic	DO	DOM	Santo Domingo
+        Ecuador 	Diplomatic relations with the United States		Member of United Nations		Republic of Ecuador	EC	ECU	Quito
+        Egypt 	Diplomatic relations with the United States		Member of United Nations		Arab Republic of Egypt	EG	EGY	Cairo
+        El Salvador 	Diplomatic relations with the United States		Member of United Nations		Republic of El Salvador	SV	SLV	San Salvador
+        Equatorial Guinea 	Diplomatic relations with the United States		Member of United Nations		Republic of Equatorial Guinea	GQ	GNQ	Malabo
+        Eritrea 	Diplomatic relations with the United States		Member of United Nations		State of Eritrea	ER	ERI	Asmara
+        Estonia 	Diplomatic relations with the United States		Member of United Nations		Republic of Estonia	EE	EST	Tallinn
+        
+        Eswatini 	Diplomatic relations with the United States		Member of United Nations	
+        Kingdom of Eswatini	  SZ	  SWZ	Mbabane (administrative)
+        Lobamba (legislative)
+        Ethiopia 	Diplomatic relations with the United States		Member of United Nations		Federal Democratic
+        Republic of Ethiopia	ET	ETH	Addis Ababa
+        Fiji 	Diplomatic relations with the United States		Member of United Nations		Republic of Fiji	FJ	FJI	Suva
+        Finland 	Diplomatic relations with the United States		Member of United Nations		Republic of Finland	FI	FIN	Helsinki
+        France 	Diplomatic relations with the United States		Member of United Nations		French Republic	FR	FRA	Paris
+        Gabon 	Diplomatic relations with the United States		Member of United Nations		Gabonese Republic	GA	GAB	Libreville
+        Gambia, The 	Diplomatic relations with the United States		Member of United Nations		Republic of The Gambia	GM	GMB	Banjul
+        Georgia 	Diplomatic relations with the United States		Member of United Nations		Georgia	GE	GEO	Tbilisi
+        Germany 	Diplomatic relations with the United States		Member of United Nations		Federal Republic of Germany	DE	DEU	Berlin
+        Ghana 	Diplomatic relations with the United States		Member of United Nations		Republic of Ghana	GH	GHA	Accra
+        Greece 	Diplomatic relations with the United States		Member of United Nations		Hellenic Republic	GR	GRC	Athens
+        Grenada 	Diplomatic relations with the United States		Member of United Nations		Grenada	GD	GRD	Saint George’s
+        Guatemala 	Diplomatic relations with the United States		Member of United Nations		Republic of Guatemala	GT	GTM	Guatemala City
+        Guinea 	Diplomatic relations with the United States		Member of United Nations		Republic of Guinea	GN	GIN	Conakry
+        Guinea-Bissau 	Diplomatic relations with the United States		Member of United Nations		Republic of Guinea-Bissau	GW	GNB	Bissau
+        Guyana 	Diplomatic relations with the United States		Member of United Nations		Co-operative Republic of Guyana	GY	GUY	Georgetown
+        Haiti 	Diplomatic relations with the United States		Member of United Nations		Republic of Haiti	HT	HTI	Port-au-Prince
+        Holy See 	Diplomatic relations with the United States		Holy See	VA	VAT	Vatican City
+        Honduras 	Diplomatic relations with the United States		Member of United Nations		Republic of Honduras	HN	HND	Tegucigalpa
+        Hungary 	Diplomatic relations with the United States		Member of United Nations		Hungary	HU	HUN	Budapest
+        Iceland 	Diplomatic relations with the United States		Member of United Nations		Republic of Iceland	IS	ISL	Reykjavík
+        India 	Diplomatic relations with the United States		Member of United Nations		Republic of India	IN	IND	New Delhi
+        Indonesia 	Diplomatic relations with the United States		Member of United Nations		Republic of Indonesia	ID	IDN	Jakarta
+        Iran 	Member of United Nations		Islamic Republic of Iran	IR	IRN	Tehran
+        Iraq 	Diplomatic relations with the United States		Member of United Nations		Republic of Iraq	IQ	IRQ	Baghdad
+        Ireland 	Diplomatic relations with the United States		Member of United Nations		Ireland	IE	IRL	Dublin
+        Israel 	Diplomatic relations with the United States		Member of United Nations		State of Israel	IL	ISR	Jerusalem
+        Italy 	Diplomatic relations with the United States		Member of United Nations		Italian Republic	IT	ITA	Rome
+        Jamaica 	Diplomatic relations with the United States		Member of United Nations		Jamaica	JM	JAM	Kingston
+        Japan 	Diplomatic relations with the United States		Member of United Nations		Japan	JP	JPN	Tokyo
+        Jordan 	Diplomatic relations with the United States		Member of United Nations		Hashemite
+        Kingdom of Jordan	JO	JOR	Amman
+        Kazakhstan 	Diplomatic relations with the United States		Member of United Nations		Republic of Kazakhstan	KZ	KAZ	! Nur-Sultan
+        Kenya 	Diplomatic relations with the United States		Member of United Nations		Republic of Kenya	KE	KEN	Nairobi
+        Kiribati 	Diplomatic relations with the United States		Member of United Nations		Republic of Kiribati	KI	KIR	Tarawa
+        Korea, North 	Member of United Nations		Democratic People’s Republic of Korea	KP	PRK	Pyongyang
+        Korea, South 	Diplomatic relations with the United States		Member of United Nations		Republic of Korea	KR	KOR	Seoul
+        Kosovo 	Diplomatic relations with the United States		Republic of Kosovo	XK	XKS	Pristina
+        Kuwait 	Diplomatic relations with the United States		Member of United Nations		State of Kuwait	KW	KWT	Kuwait City
+        Kyrgyzstan 	Diplomatic relations with the United States		Member of United Nations		Kyrgyz Republic	KG	KGZ	Bishkek
+        Laos 	Diplomatic relations with the United States		Member of United Nations		Lao People’s
+        Democratic Republic	LA	LAO	Vientiane
+        Latvia 	Diplomatic relations with the United States		Member of United Nations		Republic of Latvia	LV	LVA	Riga
+        Lebanon 	Diplomatic relations with the United States		Member of United Nations		Lebanese Republic	LB	LBN	Beirut
+        Lesotho 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Lesotho	LS	LSO	Maseru
+        Liberia 	Diplomatic relations with the United States		Member of United Nations		Republic of Liberia	LR	LBR	Monrovia
+        Libya 	Diplomatic relations with the United States		Member of United Nations		State of Libya	LY	LBY	Tripoli
+        Liechtenstein 	Diplomatic relations with the United States		Member of United Nations		Principality of Liechtenstein	LI	LIE	Vaduz
+        Lithuania 	Diplomatic relations with the United States		Member of United Nations		Republic of Lithuania	LT	LTU	Vilnius
+        Luxembourg 	Diplomatic relations with the United States		Member of United Nations		Grand Duchy of Luxembourg	LU	LUX	Luxembourg
+        Madagascar 	Diplomatic relations with the United States		Member of United Nations		Republic of Madagascar	MG	MDG	Antananarivo
+        Malawi 	Diplomatic relations with the United States		Member of United Nations		Republic of Malawi	MW	MWI	Lilongwe
+        Malaysia 	Diplomatic relations with the United States		Member of United Nations		Malaysia	MY	MYS	Kuala Lumpur
+        Maldives 	Diplomatic relations with the United States		Member of United Nations		Republic of Maldives	MV	MDV	Male
+        Mali 	Diplomatic relations with the United States		Member of United Nations		Republic of Mali	ML	MLI	Bamako
+        Malta 	Diplomatic relations with the United States		Member of United Nations		Republic of Malta	MT	MLT	Valletta
+        Marshall Islands 	Diplomatic relations with the United States		Member of United Nations		Republic of the
+        Marshall Islands	MH	MHL	Majuro
+        Mauritania 	Diplomatic relations with the United States		Member of United Nations		Islamic Republic
+        of Mauritania	MR	MRT	Nouakchott
+        Mauritius 	Diplomatic relations with the United States		Member of United Nations		Republic of Mauritius	MU	MUS	Port Louis
+        Mexico 	Diplomatic relations with the United States		Member of United Nations		United Mexican States	MX	MEX	Mexico City
+        Micronesia,
+        Federated States of 	Diplomatic relations with the United States		Member of United Nations		Federated States
+        of Micronesia	FM	FSM	Palikir
+        Moldova 	Diplomatic relations with the United States		Member of United Nations		Republic of Moldova	MD	MDA	Chisinau
+        Monaco 	Diplomatic relations with the United States		Member of United Nations		Principality of Monaco	MC	MCO	Monaco
+        Mongolia 	Diplomatic relations with the United States		Member of United Nations		Mongolia	MN	MNG	Ulaanbaatar
+        Montenegro 	Diplomatic relations with the United States		Member of United Nations		Montenegro	ME	MNE	Podgorica
+        Morocco 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Morocco	MA	MAR	Rabat
+        Mozambique 	Diplomatic relations with the United States		Member of United Nations		Republic of Mozambique	MZ	MOZ	Maputo
+        Namibia 	Diplomatic relations with the United States		Member of United Nations		Republic of Namibia	NA	NAM	Windhoek
+        Nauru 	Diplomatic relations with the United States		Member of United Nations		Republic of Nauru	NR	NRU	Yaren District
+        (no capital city)
+        Nepal 	Diplomatic relations with the United States		Member of United Nations		Federal Democratic Republic of Nepal	NP	NPL	Kathmandu
+        Netherlands 	Diplomatic relations with the United States		Member of United Nations		Kingdom of the Netherlands	NL	NLD	Amsterdam
+        The Hague (seat of government)
+        New Zealand 	Diplomatic relations with the United States		Member of United Nations		New Zealand	NZ	NZL	Wellington
+        Nicaragua 	Diplomatic relations with the United States		Member of United Nations		Republic of Nicaragua	NI	NIC	Managua
+        Niger 	Diplomatic relations with the United States		Member of United Nations		Republic of Niger	NE	NER	Niamey
+        Nigeria 	Diplomatic relations with the United States		Member of United Nations		Federal Republic of Nigeria	NG	NGA	Abuja
+        North Macedonia 	Diplomatic relations with the United States		Member of United Nations		Republic of North Macedonia	MK	MKD	Skopje
+        Norway 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Norway	NO	NOR	Oslo
+        Oman 	Diplomatic relations with the United States		Member of United Nations		Sultanate of Oman	OM	OMN	Muscat
+        Pakistan 	Diplomatic relations with the United States		Member of United Nations		Islamic Republic of Pakistan	PK	PAK	Islamabad
+        Palau 	Diplomatic relations with the United States		Member of United Nations		Republic of Palau	PW	PLW	Ngerulmud
+        Panama 	Diplomatic relations with the United States		Member of United Nations		Republic of Panama	PA	PAN	Panama City
+        Papua New Guinea 	Diplomatic relations with the United States		Member of United Nations		Independent State
+        of Papua New Guinea	PG	PNG	Port Moresby
+        Paraguay 	Diplomatic relations with the United States		Member of United Nations		Republic of Paraguay	PY	PRY	Asunción
+        Peru 	Diplomatic relations with the United States		Member of United Nations		Republic of Peru	PE	PER	Lima
+        Philippines 	Diplomatic relations with the United States		Member of United Nations		Republic of the Philippines	PH	PHL	Manila
+        Poland 	Diplomatic relations with the United States		Member of United Nations		Republic of Poland	PL	POL	Warsaw
+        Portugal 	Diplomatic relations with the United States		Member of United Nations		Portuguese Republic	PT	PRT	Lisbon
+        Qatar 	Diplomatic relations with the United States		Member of United Nations		State of Qatar	QA	QAT	Doha
+        Romania 	Diplomatic relations with the United States		Member of United Nations		Romania	RO	ROU	Bucharest
+        Russia 	Diplomatic relations with the United States		Member of United Nations		Russian Federation	RU	RUS	Moscow
+        Rwanda 	Diplomatic relations with the United States		Member of United Nations		Republic of Rwanda	RW	RWA	Kigali
+        Saint Kitts and Nevis 	Diplomatic relations with the United States		Member of United Nations		Federation of Saint Kitts and Nevis	KN	KNA	Basseterre
+        Saint Lucia 	Diplomatic relations with the United States		Member of United Nations		Saint Lucia	LC	LCA	Castries
+        Saint Vincent and the Grenadines 	Diplomatic relations with the United States		Member of United Nations		Saint Vincent and the Grenadines	VC	VCT	Kingstown
+        Samoa 	Diplomatic relations with the United States		Member of United Nations		Independent State of Samoa	WS	WSM	Apia
+        San Marino 	Diplomatic relations with the United States		Member of United Nations		Republic of San Marino	SM	SMR	San Marino
+        Sao Tome and Principe 	Diplomatic relations with the United States		Member of United Nations		Democratic Republic of
+        Sao Tome and Principe	ST	STP	São Tomé
+        Saudi Arabia 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Saudi Arabia	SA	SAU	Riyadh
+        Senegal 	Diplomatic relations with the United States		Member of United Nations		Republic of Senegal	SN	SEN	Dakar
+        Serbia 	Diplomatic relations with the United States		Member of United Nations		Republic of Serbia	RS	SRB	Belgrade
+        Seychelles 	Diplomatic relations with the United States		Member of United Nations		Republic of Seychelles	SC	SYC	Victoria
+        Sierra Leone 	Diplomatic relations with the United States		Member of United Nations		Republic of Sierra Leone	SL	SLE	Freetown
+        Singapore 	Diplomatic relations with the United States		Member of United Nations		Republic of Singapore	SG	SGP	Singapore
+        Slovakia 	Diplomatic relations with the United States		Member of United Nations		Slovak Republic	SK	SVK	Bratislava
+        Slovenia 	Diplomatic relations with the United States		Member of United Nations		Republic of Slovenia	SI	SVN	Ljubljana
+        Solomon Islands 	Diplomatic relations with the United States		Member of United Nations		Solomon Islands	SB	SLB	Honiara
+        Somalia 	Diplomatic relations with the United States		Member of United Nations		Federal Republic of Somalia	SO	SOM	Mogadishu
+        South Africa 	Diplomatic relations with the United States		Member of United Nations		Republic of South Africa	ZA	ZAF	Pretoria (administrative)
+        Cape Town (legislative)
+        Bloemfontein (judiciary)
+        South Sudan 	Diplomatic relations with the United States		Member of United Nations		Republic of South Sudan	SS	SSD	Juba
+        Spain 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Spain	ES	ESP	Madrid
+        Sri Lanka 	Diplomatic relations with the United States		Member of United Nations		Democratic Socialist
+        Republic of Sri Lanka	LK	LKA	Colombo
+        Sri Jayewardenepura Kotte (legislative)
+        Sudan 	Diplomatic relations with the United States		Member of United Nations		Republic of the Sudan	SD	SDN	Khartoum
+        Suriname 	Diplomatic relations with the United States		Member of United Nations		Republic of Suriname	SR	SUR	Paramaribo
+        Sweden 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Sweden	SE	SWE	Stockholm
+        Switzerland 	Diplomatic relations with the United States		Member of United Nations		Swiss Confederation	CH	CHE	Bern
+        Syria 	Diplomatic relations with the United States		Member of United Nations		Syrian Arab Republic	SY	SYR	Damascus
+        Tajikistan 	Diplomatic relations with the United States		Member of United Nations		Republic of Tajikistan	TJ	TJK	Dushanbe
+        Tanzania 	Diplomatic relations with the United States		Member of United Nations		United Republic of Tanzania	TZ	TZA	Dar es Salaam
+        Dodoma (legislative)
+        Thailand 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Thailand	TH	THA	Bangkok
+        Timor-Leste 	Diplomatic relations with the United States		Member of United Nations		Democratic Republic of Timor-Leste	TL	TLS	Dili
+        Togo 	Diplomatic relations with the United States		Member of United Nations		Togolese Republic	TG	TGO	Lomé
+        Tonga 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Tonga	TO	TON	Nuku’alofa
+        Trinidad and Tobago 	Diplomatic relations with the United States		Member of United Nations		Republic of
+        Trinidad and Tobago	TT	TTO	Port of Spain
+        Tunisia 	Diplomatic relations with the United States		Member of United Nations		Republic of Tunisia	TN	TUN	Tunis
+        Turkey 	Diplomatic relations with the United States		Member of United Nations		Republic of Turkey	TR	TUR	Ankara
+        Turkmenistan 	Diplomatic relations with the United States		Member of United Nations		Turkmenistan	TM	TKM	Ashgabat
+        Tuvalu 	Diplomatic relations with the United States		Member of United Nations		Tuvalu	TV	TUV	Funafuti
+        Uganda 	Diplomatic relations with the United States		Member of United Nations		Republic of Uganda	UG	UGA	Kampala
+        Ukraine 	Diplomatic relations with the United States		Member of United Nations		Ukraine	UA	UKR	Kyiv
+        United Arab Emirates 	Diplomatic relations with the United States		Member of United Nations		United Arab Emirates	AE	ARE	Abu Dhabi
+        United Kingdom 	Diplomatic relations with the United States		Member of United Nations		United Kingdom of Great Britain and Northern Ireland	GB	GBR	London
+        United States 	Member of United Nations		United States of America	US	USA	Washington, DC
+        Uruguay 	Diplomatic relations with the United States		Member of United Nations		Oriental Republic of Uruguay	UY	URY	Montevideo
+        Uzbekistan 	Diplomatic relations with the United States		Member of United Nations		Republic of Uzbekistan	UZ	UZB	Tashkent
+        Vanuatu 	Diplomatic relations with the United States		Member of United Nations		Republic of Vanuatu	VU	VUT	Port-Vila
+        Venezuela 	Diplomatic relations with the United States		Member of United Nations		Bolivarian Republic of Venezuela	VE	VEN	Caracas
+        Vietnam 	Diplomatic relations with the United States		Member of United Nations		Socialist Republic of Vietnam	VN	VNM	Hanoi
+        Yemen 	Diplomatic relations with the United States		Member of United Nations		Republic of Yemen	YE	YEM	Sanaa
+        Zambia 	Diplomatic relations with the United States		Member of United Nations		Republic of Zambia	ZM	ZMB	Lusaka
+        Zimbabwe 	Diplomatic relations with the United States		Member of United Nations		Republic of Zimbabwe	ZW	ZWE	Harare
+        -->
+        <!--
         <category created-by="cozensef" created-date="2013-04-08">
             <id>sovereign-territories</id>
             <label>Sovereign Territories</label>
@@ -1609,7 +2307,9 @@
                 <label>Western Sahara</label>
             </tag>
         </category>
+        -->
     </category>
+
 
     <category created-by="rossat" created-date="2019-06-25">
         <id>presidential-administrations</id>
