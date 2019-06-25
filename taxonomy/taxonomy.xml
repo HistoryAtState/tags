@@ -32,7 +32,9 @@
     <category created-by="rossat" created-date="2019-06-25">
         <id>organizations</id>
         <label>Organizations</label>
-        <definition>Corporate bodies, collectives, and other groups.</definition>
+        <definition>Corporate bodies, non-governmental organizations, collectives, and other groups
+            of persons that is identifiable by a particular name and may act as an
+            entity.</definition>
         <usage-hint/>
     </category>
 
