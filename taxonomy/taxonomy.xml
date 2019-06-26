@@ -536,7 +536,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Kabul</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Kabul</narrower>
                 <hasBroaderConcept label="Geographic Region" id="south-and-central-asia"
                     source="us-dos-fsi-oh" xml:lang="en">South and Central Asia</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AF" source="us-dos-inr"/>
@@ -559,7 +559,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Tirana</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Tirana</narrower>
                 <hasBroaderConcept label="Geographic Region" id="europe" source="us-dos-fsi-oh"
                     >Europe</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AL" source="us-dos-inr"/>
@@ -581,7 +581,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Algiers</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Algiers</narrower>
                 <hasBroaderConcept label="Geographic Region" id="near-east" source="us-dos-fsi-oh"
                     xml:lang="en">Near East</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="DZ" source="us-dos-inr"/>
@@ -603,7 +603,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Andorra la
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Andorra la
                     Vella</narrower>
                 <hasBroaderConcept label="Geographic Region" id="europe" source="us-dos-fsi-oh"
                     >Europe</hasBroaderConcept>
@@ -626,7 +626,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Luanda</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Luanda</narrower>
                 <hasBroaderConcept label="Geographic Region" id="sub-saharan-africa"
                     source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AO" source="us-dos-inr"/>
@@ -649,8 +649,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Saint
-                    John’s</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Saint John’s</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
                     source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AG" source="us-dos-inr"/>
@@ -674,8 +673,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Buenos
-                    Aires</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Buenos Aires</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
                     source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AR" source="us-dos-inr"/>
@@ -696,7 +694,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
                     source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AM" source="us-dos-inr"/>
@@ -718,7 +716,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Canberra</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Canberra</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-eap"
                     source="us-dos-fsi-oh" xml:lang="en">East Asia and Pacific</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AU" source="us-dos-inr"/>
@@ -740,7 +738,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Vienna</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Vienna</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
                     source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AT" source="us-dos-inr"/>
@@ -762,7 +760,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Baku</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Baku</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
                     source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="AZ" source="us-dos-inr"/>
@@ -786,7 +784,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Nassau</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Nassau</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
                     source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BS" source="us-dos-inr"/>
@@ -808,7 +806,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Manama</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Manama</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-ne"
                     source="us-dos-fsi-oh" xml:lang="en">Near East</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BH" source="us-dos-inr"/>
@@ -830,7 +828,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-sca"
                     source="us-dos-fsi-oh" xml:lang="en">South and Central Asia</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BD" source="us-dos-inr"/>
@@ -852,8 +850,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en"
-                    >Bridgetown</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bridgetown</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
                     source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BB" source="us-dos-inr"/>
@@ -876,7 +873,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Minsk</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Minsk</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
                     source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BY" source="us-dos-inr"/>
@@ -899,7 +896,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Brussels</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Brussels</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
                     source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BE" source="us-dos-inr"/>
@@ -921,7 +918,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
                     source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
                 <sameAs type="genc-2a-code" id="BZ" source="us-dos-inr"/>
@@ -944,8 +941,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en"
-                    >Porto-Novo</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Porto-Novo</narrower>
                 <narrower type="seat-of-government" source="us-dos-inr" xml:lang="en"
                     >Cotonou</narrower>
                 <hasBroaderConcept label="Geographic Region" id="geo-region-af"
@@ -968,7 +964,7 @@
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bhutan, Kingdom
                     of</altLabel>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Thimphu</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Thimphu</narrower>
                 <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
                 <sameAs type="genc-2a-code" id="BT" source="us-dos-inr"/>
@@ -991,37 +987,304 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="administrative-seat" source="us-dos-inr" xml:lang="en">La
+                <narrower type="administrative-capital" source="us-dos-inr" xml:lang="en">La
                     Paz</narrower>
-                <narrower type="legislative-judiciary" source="us-dos-inr" xml:lang="en"
-                    >Sucre</narrower>
+                <narrower type="legislative-capital judiciary-capital" source="us-dos-inr"
+                    xml:lang="en">Sucre</narrower>
                 <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <sameAs type="genc-2a-code" id="" source="us-dos-inr"/>
-                <sameAs type="genc-3a-code" id="" source="us-dos-inr"/>
+                <sameAs type="genc-2a-code" id="BO" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BOL" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bo"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Bolivia</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/s-bo"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bolivia</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Bosnia and Herzegovina -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:10:54-04:00">
+                <id source="us-dos-fsi-oh" id="c0306051-85a4-48f6-864d-4f5b8c02004d"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bosnia and
+                    Herzegovina</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Bosnia and
+                    Herzegovina</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bosnia and
+                    Herzegovina</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Sarajevo</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <sameAs type="genc-2a-code" id="BA" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BIH" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bn"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Bosnia and
+                    Herzegovina</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-bn"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bosnia and Herzegovina</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+                <useFor>Bosnia</useFor>
+                <useFor>Bosnia and Hercegovina</useFor>
+                <useFor>Hercegovina</useFor>
+                <useFor>Herzegovina</useFor>
+                <useFor>Yugoslavia</useFor>
+            </tag>
+            <!-- Botswana -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:16:53-04:00">
+                <id source="us-dos-fsi-oh" id="39c958ab-87b3-467b-9133-b6c666198dec"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Botswana</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Botswana</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Botswana, Republic
+                    of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Gaborone</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <sameAs type="genc-2a-code" id="BW" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BWA" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bs"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Botswana</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-bs"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Brazil -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:26:36-04:00">
+                <id source="us-dos-fsi-oh" id="f974ae58-399a-4f2c-a418-5df5e7c909d4"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Brazil</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federative Republic of
+                    Brazil</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Brazil, Federative
+                    Republic of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Brasília</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <sameAs type="genc-2a-code" id="BR" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BRA" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bl"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Brazil</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/s-bl"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Brazil</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Brunei -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:39:32-04:00">
+                <id source="us-dos-fsi-oh" id="c117bbca-1a95-400b-bd35-18d521361572"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Brunei</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Brunei
+                    Darussalam</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Brunei
+                    Darussalam</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bandar Seri
+                    Begawan</narrower>
+                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                    xml:lang="en">East Asia and Pacific</broader>
+                <sameAs type="genc-2a-code" id="BN" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BRN" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bx"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Brunei</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-bx"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Brunei</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Bulgaria -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:41:51-04:00">
+                <id source="us-dos-fsi-oh" id="b0b5cf38-5c2a-4c36-af43-048984785e6a"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bulgaria</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Bulgaria</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bulgaria, Republic
+                    of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Sofia</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <sameAs type="genc-2a-code" id="BG" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BGR" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                    xml:lang="en"/>
+                    xml:lang="en">Bulgaria</sameAs>
                 <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                    xml:lang="en"/>
+                    xml:lang="en">Bulgaria</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Burkina Faso -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:45:01-04:00">
+                <id source="us-dos-fsi-oh" id="44a39071-a521-4a37-8903-8dee16bf7fb2"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burkina
+                    Faso</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Burkina
+                    Faso</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burkina Faso</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Ouagadougou</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <sameAs type="genc-2a-code" id="BF" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BFA" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
+                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-uv"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Burma -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:46:59-04:00">
+                <id source="us-dos-fsi-oh" id="14bc45fc-2d17-42f3-a933-36db00811fa1"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burma</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Union of
+                    Burma</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burma, Union
+                    of</altLabel>
+                <altLabel type="variant" source="us-loc" xml:lang="en">Myanmar</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Rangoon</narrower>
+                <narrower type="administrative-capital" source="us-dos-inr" xml:lang="en">Nay Pyi
+                    Taw</narrower>
+                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                    xml:lang="en">East Asia and Pacific</broader>
+                <sameAs type="genc-2a-code" id="MM" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="MMR" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en">Burma</sameAs>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en">Burma</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+                <useFor>Myanmar</useFor>
+            </tag>
+            <!-- Burundi -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:48:53-04:00">
+                <id source="us-dos-fsi-oh" id="f829e62a-4f7c-4c0e-af1a-51b8c7ea1bb6"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burundi</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Burundi</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burundi, Republic
+                    of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bujumbura</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <sameAs type="genc-2a-code" id="BI" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="BDI" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bd"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Burundi</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-bd"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Burundi</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Cabo Verde -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T21:54:57-04:00">
+                <id source="us-dos-fsi-oh" id="0b7c61a2-9e12-4cea-98b8-49d743f7f1da"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cabo Verde</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Cabo
+                    Verde</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cabo Verde, Republic
+                    of</altLabel>
+                <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en">Cape Verde</altLabel>
+                <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en">Republic of Cape
+                    Verde</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Praia</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <sameAs type="genc-2a-code" id="CV" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="CPV" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cv"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Cabo Verde</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/lncv"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cabo Verde</sameAs>
+                <sameAs type="placesPrevious" id="cape-verde" source="us-dos-inr">Cape
+                    Verde</sameAs>
+            </tag>
+            <!-- Cambodia -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T22:01:57-04:00">
+                <id source="us-dos-fsi-oh" id="3a5c2804-8c38-4e64-93f5-ad4a1c0b0d5f"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cambodia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                    Cambodia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cambodia, Kingdom
+                    of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Phnom
+                    Penh</narrower>
+                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                    xml:lang="en">South and Central Asia</broader>
+                <sameAs type="genc-2a-code" id="KH" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="KHM" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cb"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Cambodia</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-cb"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cambodia</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </tag>
+            <!-- Cameroon -->
+            <tag created-by="rossat" created-date="2019-06-25"
+                lastDateTimeVerified="2019-06-25T22:04:31-04:00">
+                <id source="us-dos-fsi-oh" id="44ebac7e-dc03-4cfb-b2ff-dc53214530b8"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cameroon</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Cameroon</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cameroon, Republic
+                    of</altLabel>
+                <diplomaticRelationsWith source="us-dos-inr" id="">United
+                    States</diplomaticRelationsWith>
+                <memberOf source="us-dos-inr" id="">United Nations</memberOf>
+                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Yaoundé</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <sameAs type="genc-2a-code" id="CM" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="CMR" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cm"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Cameroon</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-cm"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cameroon</sameAs>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </tag>
 
         </category>
 
         <!--
-        Bosnia and
-        Herzegovina 	Diplomatic relations with the United States		Member of United Nations		Bosnia and Herzegovina	BA	BIH	Sarajevo
-        Botswana 	Diplomatic relations with the United States		Member of United Nations		Republic of Botswana	BW	BWA	Gaborone
-        Brazil 	Diplomatic relations with the United States		Member of United Nations		Federative Republic of Brazil	BR	BRA	Brasília
-        Brunei 	Diplomatic relations with the United States		Member of United Nations		Brunei Darussalam	BN	BRN	Bandar Seri Begawan
-        Bulgaria 	Diplomatic relations with the United States		Member of United Nations		Republic of Bulgaria	BG	BGR	Sofia
-        Burkina Faso 	Diplomatic relations with the United States		Member of United Nations		Burkina Faso	BF	BFA	Ouagadougou
-        Burma 	Diplomatic relations with the United States		Member of United Nations		Union of Burma	MM	MMR	Rangoon
-        Nay Pyi Taw (administrative)
-        Burundi 	Diplomatic relations with the United States		Member of United Nations		Republic of Burundi	BI	BDI	Bujumbura
-        Cabo Verde 	Diplomatic relations with the United States		Member of United Nations		Republic of Cabo Verde	CV	CPV	Praia
-        Cambodia 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Cambodia	KH	KHM	Phnom Penh
-        Cameroon 	Diplomatic relations with the United States		Member of United Nations		Republic of Cameroon	CM	CMR	Yaoundé
         Canada 	Diplomatic relations with the United States		Member of United Nations		Canada	CA	CAN	Ottawa
         Central
         African Republic 	Diplomatic relations with the United States		Member of United Nations		Central African Republic	CF	CAF	Bangui
