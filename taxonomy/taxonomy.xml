@@ -1434,7 +1434,7 @@
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Canada</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Canada</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Canada</altLabel>x
-                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Ottawa</narrower>
@@ -1444,83 +1444,123 @@
                     source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="CA" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="CAN" source="us-dos-inr"/>
-                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxc" source="lc/vocabulary/countries/af"
-                    xml:lang="en">Canada</sameAs>
-                <sameAs type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/geographicAreas/n-cn" source="lc/vocabulary/gacs/a-af"
-                    xml:lang="en">Canada</sameAs>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxc"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Canada</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/n-cn"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Canada</sameAs>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
-            <concept type="place" created-by="rossat" created-date="2019-06-26" lastDateTimeVerified="2019-06-26T12:55:49-04:00">
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:55:49-04:00">
                 <id source="us-dos-fsi-oh" id="fe1427a7-2ba0-41c4-a73f-fe132ca1f38f"/>
-                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Central African Republic</prefLabel>
-                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Central African Republic</prefLabel>
-                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Central African Republic</altLabel>
-    <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United States</related>
-    <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Central African
+                    Republic</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Central African
+                    Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Central African
+                    Republic</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Bangui</narrower>
-    <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</broader>
-    <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent states</broader>
-    <sameAs type="genc-2a-code" id="CF" source="us-dos-inr"/>
-    <sameAs type="genc-3a-code" id="CAF" source="us-dos-inr"/>
-                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cx" source="lc/vocabulary/countries/af" xml:lang="en">Central African Republic</sameAs>
-                <sameAs type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/geographicAreas/f-cx" source="lc/vocabulary/gacs/a-af" xml:lang="en">Central African Republic</sameAs>
-    <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
-</concept>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <sameAs type="genc-2a-code" id="CF" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="CAF" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cx"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Central African
+                    Republic</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-cx"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Central African Republic</sameAs>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </concept>
             <!-- Chad -->
-            <concept type="place" created-by="rossat" created-date="2019-06-26" lastDateTimeVerified="2019-06-26T13:02:52-04:00">
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T13:02:52-04:00">
                 <id source="us-dos-fsi-oh" id="35274c76-7d10-4900-994c-d593cff1ebe1"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Chad</prefLabel>
-                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Chad</prefLabel>
-                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Chad, Republic of</altLabel>
-    <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United States</related>
-    <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Chad</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Chad, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">N’Djamena</narrower>
-    <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</broader>
-    <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent states</broader>
-    <sameAs type="genc-2a-code" id="TD" source="us-dos-inr"/>
-    <sameAs type="genc-3a-code" id="TCD" source="us-dos-inr"/>
-    <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af" xml:lang="en"></sameAs>
-    <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af" xml:lang="en"></sameAs>
-    <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
-</concept>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <sameAs type="genc-2a-code" id="TD" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="TCD" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </concept>
             <!-- Chile -->
-            <concept type="place" created-by="rossat" created-date="2019-06-26" lastDateTimeVerified="2019-06-26T13:07:24-04:00">
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T13:07:24-04:00">
                 <id source="us-dos-fsi-oh" id="fc47a4f2-42ae-4b00-9281-6b39925ba3d1"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Chile</prefLabel>
-                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Chile</prefLabel>
-                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Chile, Republic of</altLabel>
-                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United States</related>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Chile</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Chile, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Santiago</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent states</broader>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="CL" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="CHL" source="us-dos-inr"/>
-                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cl" source="lc/vocabulary/countries/af" xml:lang="en">Chile</sameAs>
-                <sameAs type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/geographicAreas/s-cl" source="lc/vocabulary/gacs/a-af" xml:lang="en">Chile</sameAs>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cl"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Chile</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/s-cl"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Chile</sameAs>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- China -->
-            <concept type="place" created-by="rossat" created-date="2019-06-26" lastDateTimeVerified="2019-06-26T13:10:49-04:00">
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T13:10:49-04:00">
                 <id source="us-dos-fsi-oh" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">China</prefLabel>
-                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">People’s Republic of China</prefLabel>
-                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">China, People’s Republic of </altLabel>
-                
-    <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United States
-        <note type="historical diplomatic">With the establishment of diplomatic relations with China on January 1, 1979, the US Government recognized the People’s Republic of China as the sole legal government of China and acknowledged the Chinese position that there is only one China and that Taiwan is part of China.</note>
-    </related>
-    <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">People’s Republic of
+                    China</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">China, People’s
+                    Republic of </altLabel>
+
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United States
+                        <note type="historical diplomatic">With the establishment of diplomatic
+                        relations with China on January 1, 1979, the US Government recognized the
+                        People’s Republic of China as the sole legal government of China and
+                        acknowledged the Chinese position that there is only one China and that
+                        Taiwan is part of China.</note>
+                </related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Beijing</narrower>
-    <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh" xml:lang="en">East Asia and Pacific</broader>
-    <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent states</broader>
-    <sameAs type="genc-2a-code" id="CN" source="us-dos-inr"/>
-    <sameAs type="genc-3a-code" id="CHN" source="us-dos-inr"/>
-    <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af" xml:lang="en"></sameAs>
-    <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af" xml:lang="en"></sameAs>
-    <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
-</concept>
-            
+                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                    xml:lang="en">East Asia and Pacific</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <sameAs type="genc-2a-code" id="CN" source="us-dos-inr"/>
+                <sameAs type="genc-3a-code" id="CHN" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                    xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+            </concept>
+
         </collection>
 
         <!--
