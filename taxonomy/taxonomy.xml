@@ -566,7 +566,7 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Kabul</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Kabul</narrower>
                 <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
                 <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
@@ -581,18 +581,23 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Albania -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T17:23:16-04:00">
-                <id source="us-dos-fsi-oh"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:31:28-04:00">
+                <id source="us-dos-fsi-oh" id="7c8f5894-8c2e-40a2-8cc8-963fcb1a23d4"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Albania</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Albania</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Tirana</narrower>
-                <hasBroaderConcept label="Geographic Region" id="europe" source="us-dos-fsi-oh"
-                    >Europe</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AL" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="ALB" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aa"
@@ -603,41 +608,49 @@
                 <sameAs type="placesPrevious" id="albania" source="us-dos-inr">Albania</sameAs>
             </concept>
             <!-- Algeria -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T17:25:41-04:00">
-                <id source="us-dos-fsi-oh"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:32:59-04:00">
+                <id source="us-dos-fsi-oh" id="a7302f1c-1a6a-45a5-a7c0-1d5e46fdb0e8"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Algeria</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">People’s Democratic
                     Republic of Algeria</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Algeria, People’s
+                    Democratic Republic of </altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Algiers</narrower>
-                <hasBroaderConcept label="Geographic Region" id="near-east" source="us-dos-fsi-oh"
-                    xml:lang="en">Near East</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                    xml:lang="en">Near East</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="DZ" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="DZA" source="us-dos-inr"/>
-                <sameAs type="marc-countries" id=""
-                    source="http://id.loc.gov/vocabulary/countries/af" xml:lang="en"
-                    >Algeria</sameAs>
-                <sameAs type="marc-geographic-areas" id=""
-                    source="http://id.loc.gov/vocabulary/gacs/a-af" xml:lang="en">Algeria</sameAs>
-                <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
+                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <sameAs type="placesPrevious" id="http://id.loc.gov/vocabulary/gacs/a-af"
+                    source="us-dos-inr"/>
             </concept>
             <!-- Andorra -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T17:27:23-04:00">
-                <id source="us-dos-fsi-oh"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:37:40-04:00">
+                <id source="us-dos-fsi-oh" id="e1ffab4d-cad2-4a8f-b15b-a71138cc2a93"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Andorra</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Principality of
                     Andorra</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Andorra, Principality
+                    of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Andorra la
                     Vella</narrower>
-                <hasBroaderConcept label="Geographic Region" id="europe" source="us-dos-fsi-oh"
-                    >Europe</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AD" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="AND" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/an"
@@ -648,18 +661,22 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Angola -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T17:31:26-04:00">
-                <id source="us-dos-fsi-oh"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:40:20-04:00">
+                <id source="us-dos-fsi-oh" id="42391b65-4890-4f37-a3c1-f55e23dadfd2"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Angola</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Angola</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Angola, Republic
+                    of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Luanda</narrower>
-                <hasBroaderConcept label="Geographic Region" id="sub-saharan-africa"
-                    source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AO" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="AGO" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
@@ -670,15 +687,15 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Antigua and Barbuda -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:04:56-04:00">
-                <id source="us-dos-fsi-oh" id="93873c4d-007e-4028-949c-6e6174d63175"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:42:17-04:00">
+                <id source="us-dos-fsi-oh" id="7c52cb84-6eab-4b54-b0a1-6fddcc1ced05"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Antigua and
                     Barbuda</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Antigua and
                     Barbuda</prefLabel>
-                <prefLabel type="filing" source="us-dos-inr" xml:lang="en">Antigua and
-                    Barbuda</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Antigua and
+                    Barbuda</altLabel>
                 <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en">Antigua</hiddenLabel>
                 <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en">Barbuda</hiddenLabel>
                 <useFor>Antigua</useFor>
@@ -687,8 +704,10 @@
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Saint John’s</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
-                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AG" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="ATG" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aq"
@@ -699,18 +718,21 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Argentina -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:09:15-04:00">
-                <id source="us-dos-fsi-oh" id="8643ac2f-10ac-461a-9185-65929868518a"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:44:05-04:00">
+                <id source="us-dos-fsi-oh" id="978cfd19-a02c-4ce9-97bf-abb04e6c9d69"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Argentina</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Argentine
                     Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Argentina</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Buenos Aires</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
-                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AR" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="ARG" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/geographicAreas/s-ag"
@@ -720,18 +742,22 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Armenia -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:13:26-04:00">
-                <id source="us-dos-fsi-oh" id="03d36fc0-967a-4623-bb23-39134628ad96"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:46:11-04:00">
+                <id source="us-dos-fsi-oh" id="27323f9e-09da-4bf9-af5a-0ca3ff5405d9"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Armenia</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Armenia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Armenia, Republic
+                    of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
-                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AM" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="ARM" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ai"
@@ -742,18 +768,22 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Australia -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:14:50-04:00">
-                <id source="us-dos-fsi-oh" id="96954dc2-18ea-487b-b7d3-824edbd8236d"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:49:02-04:00">
+                <id source="us-dos-fsi-oh" id="6cb342e0-a44a-4d4f-860a-0a8374ecce31"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Australia</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Commonwealth of
                     Australia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Australia, Commonwealth
+                    of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Canberra</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-eap"
-                    source="us-dos-fsi-oh" xml:lang="en">East Asia and Pacific</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                    xml:lang="en">East Asia and Pacific</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AU" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="AUS" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/at"
@@ -764,18 +794,24 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Austria -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:16:47-04:00">
-                <id source="us-dos-fsi-oh" id="61b084b4-e5bb-4412-b849-d892848f5505"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:50:30-04:00">
+                <id source="us-dos-fsi-oh" id="71db3e2c-f467-4a1d-b238-96da4f1aa2c5"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Austria</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Austria</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Armenia, Republic
+                    of</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Vienna</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
-                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="AT" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="AUT" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/au"
@@ -786,19 +822,22 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Azerbaijan -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:21:46-04:00">
-                <id source="us-dos-fsi-oh" id="b6a3d5a6-f091-4486-9cbd-7bc1266369f2"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:51:41-04:00">
+                <id source="us-dos-fsi-oh" id="6b93b962-a8c9-42ff-925f-d34c178031a0"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Azerbaijan</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Azerbaijan</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Azerbaijan, Republic
+                    of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Baku</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
-                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
-                <sameAs type="genc-2a-code" id="AZ" source="us-dos-inr"/>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-3a-code" id="AZE" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aj"
                     source="lc/vocabulary/countries/af" xml:lang="en">Azerbaijan</sameAs>
@@ -808,20 +847,23 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- The Bahamas -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:49:07-04:00">
-                <id source="us-dos-fsi-oh" id="aaa8c7c7-d6ed-4f9d-ac3a-c671506164d8"/>
+
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T10:53:44-04:00">
+                <id source="us-dos-fsi-oh" id="f76c71da-52af-48fd-87bd-cf1200399980"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">The
                     Bahamas</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Commonwealth of The
                     Bahamas</prefLabel>
-                <altLabel type="filing">Bahamas, The</altLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bahamas, The</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Nassau</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
-                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BS" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BHS" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bf"
@@ -832,18 +874,22 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Bahrain -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:50:48-04:00">
-                <id source="us-dos-fsi-oh" id="0d069332-f120-4291-8e5b-994d76bd7eb5"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:00:10-04:00">
+                <id source="us-dos-fsi-oh" id="4f234361-d200-48e2-a13f-eccb17b0c62d"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bahrain</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
                     Bahrain</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bahrain, Kingdom
+                    of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Manama</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-ne"
-                    source="us-dos-fsi-oh" xml:lang="en">Near East</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                    xml:lang="en">Near East</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BH" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BHR" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ba"
@@ -854,18 +900,22 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Bangladesh -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:52:52-04:00">
-                <id source="us-dos-fsi-oh" id="07286337-7c22-41fa-b2b7-e4af9843c056"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:01:23-04:00">
+                <id source="us-dos-fsi-oh" id="c7493e8f-4e31-40a7-9c0d-923e5c75bfba"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bangladesh</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">People’s Republic of
                     Bangladesh</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bangladesh, People’s
+                    Republic of</altLabel>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-sca"
-                    source="us-dos-fsi-oh" xml:lang="en">South and Central Asia</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                    xml:lang="en">South and Central Asia</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BD" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BGD" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bg"
@@ -876,9 +926,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Barbados -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T18:55:14-04:00">
-                <id source="us-dos-fsi-oh" id="5928edcf-cf84-4a4b-a177-d47b0899a160"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:02:32-04:00">
+                <id source="us-dos-fsi-oh" id="8b352182-6552-4cb2-a33c-319547a40156"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Barbados</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Barbados</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Barbados</altLabel>
@@ -886,8 +936,10 @@
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Bridgetown</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
-                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BB" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BRB" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
@@ -898,19 +950,24 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Belarus -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T19:01:25-04:00">
-                <id source="us-dos-fsi-oh" id="cb8c5cab-e22b-4106-b64c-6c49e1a19db3"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:03:14-04:00">
+                <id source="us-dos-fsi-oh" id="c44cad54-4956-4665-b158-6975542043f8"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belarus</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Belarus</prefLabel>
-                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belarus</altLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belarus, Republic
+                    of</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Minsk</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
-                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BY" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BLR" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bw"
@@ -921,19 +978,25 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Belgium -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T19:10:12-04:00">
-                <id source="us-dos-fsi-oh" id="40d282e9-af9e-4244-8512-66aa967a0613"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:04:09-04:00">
+                <id source="us-dos-fsi-oh" id="4660d12a-a228-47c4-97e4-77a06df6eb7b"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belgium</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
                     Belgium</prefLabel>
-                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belgium</altLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belgium, Kingdom
+                    of</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"
+                    >Belgium</hiddenLabel>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Brussels</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-eur"
-                    source="us-dos-fsi-oh" xml:lang="en">Europe</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BE" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BEL" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/be"
@@ -944,9 +1007,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Belize -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T19:14:03-04:00">
-                <id source="us-dos-fsi-oh" id="af30d7ea-2129-4412-b6b6-9d6102ff25df"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:09:02-04:00">
+                <id source="us-dos-fsi-oh" id="968e4c1f-2471-4fcd-943d-2f626dc559fe"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belize</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Belize</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belize</altLabel>
@@ -954,8 +1017,10 @@
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-wh"
-                    source="us-dos-fsi-oh" xml:lang="en">Western Hemisphere</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BZ" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -965,9 +1030,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Benin -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T19:14:52-04:00">
-                <id source="us-dos-fsi-oh" id="6c991b25-7075-4368-817b-b752b126bab6"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:09:45-04:00">
+                <id source="us-dos-fsi-oh" id="f89926cf-8c8c-474e-b703-89f3d74d24b0"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Benin</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Benin</prefLabel>
@@ -979,20 +1044,23 @@
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Porto-Novo</narrower>
                 <narrower type="seat-of-government" source="us-dos-inr" xml:lang="en"
                     >Cotonou</narrower>
-                <hasBroaderConcept label="Geographic Region" id="geo-region-af"
-                    source="us-dos-fsi-oh" xml:lang="en">Sub-Saharan Africa</hasBroaderConcept>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BJ" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BEN" source="us-dos-inr"/>
-                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                    xml:lang="en"/>
-                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                    xml:lang="en"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dm"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Benin</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-dm"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Benin</sameAs>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Bhutan -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T19:22:06-04:00">
-                <id source="us-dos-fsi-oh" id="3dd432a1-875d-49b5-a595-1d889511c97c"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:08:09-04:00">
+                <id source="us-dos-fsi-oh" id="d9ec6367-997c-47a5-ab05-d711bb382b69"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bhutan</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
                     Bhutan</prefLabel>
@@ -1002,18 +1070,21 @@
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Thimphu</narrower>
                 <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BT" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BTN" source="us-dos-inr"/>
-                <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                    xml:lang="en"/>
-                <sameAs type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                    xml:lang="en"/>
+                <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bt"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Bhutan</sameAs>
+                <sameAs type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-bt"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Bolivia -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T19:23:34-04:00">
-                <id source="us-dos-fsi-oh" id="7a31492d-e4ba-4dfc-9173-39507c846ffc"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:09:55-04:00">
+                <id source="us-dos-fsi-oh" id="3de1938d-db7d-4235-9080-5c7ef13bf865"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bolivia</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Plurinational State of
                     Bolivia</prefLabel>
@@ -1022,12 +1093,13 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="administrative-capital" source="us-dos-inr" xml:lang="en">La
+                <narrower type="seat-of-government" source="us-dos-inr" xml:lang="en">La
                     Paz</narrower>
-                <narrower type="legislative-capital judiciary-capital" source="us-dos-inr"
-                    xml:lang="en">Sucre</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Sucre</narrower>
                 <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BO" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BOL" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bo"
@@ -1038,16 +1110,15 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Bosnia and Herzegovina -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:10:54-04:00">
-                <id source="us-dos-fsi-oh" id="c0306051-85a4-48f6-864d-4f5b8c02004d"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T11:16:19-04:00">
+                <id source="us-dos-fsi-oh" id="76857467-4f6c-43de-9765-d7e79115788b"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bosnia and
                     Herzegovina</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Bosnia and
                     Herzegovina</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bosnia and
                     Herzegovina</altLabel>
-
                 <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en">Bosnia</hiddenLabel>
                 <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en">Bosnia and
                     Hercegovina</hiddenLabel>
@@ -1057,19 +1128,19 @@
                     >Herzegovina</hiddenLabel>
                 <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en"
                     >Yugoslavia</hiddenLabel>
-
                 <useFor>Bosnia</useFor>
                 <useFor>Bosnia and Hercegovina</useFor>
                 <useFor>Hercegovina</useFor>
                 <useFor>Herzegovina</useFor>
                 <useFor>Yugoslavia</useFor>
-
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Sarajevo</narrower>
                 <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BA" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BIH" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bn"
@@ -1081,44 +1152,52 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Botswana -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:16:53-04:00">
-                <id source="us-dos-fsi-oh" id="39c958ab-87b3-467b-9133-b6c666198dec"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:26:47-04:00">
+                <id source="us-dos-fsi-oh" id="396690f2-3fe5-48c7-b4fd-431ee8bfdd93"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Botswana</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Botswana</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Botswana, Republic
                     of</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Gaborone</narrower>
                 <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BW" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BWA" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bs"
                     source="lc/vocabulary/countries/af" xml:lang="en">Botswana</sameAs>
                 <sameAs type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-bs"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Botswana</sameAs>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Brazil -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:26:36-04:00">
-                <id source="us-dos-fsi-oh" id="f974ae58-399a-4f2c-a418-5df5e7c909d4"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:28:44-04:00">
+                <id source="us-dos-fsi-oh" id="08718943-d4ad-4b84-9f5d-ada5add3dc7f"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Brazil</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federative Republic of
                     Brazil</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Brazil, Federative
                     Republic of</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Brasília</narrower>
                 <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BR" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BRA" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bl"
@@ -1129,9 +1208,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Brunei -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:39:32-04:00">
-                <id source="us-dos-fsi-oh" id="c117bbca-1a95-400b-bd35-18d521361572"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:31:27-04:00">
+                <id source="us-dos-fsi-oh" id="9e6970fe-d67e-4595-8522-729d76f67719"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Brunei</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Brunei
                     Darussalam</prefLabel>
@@ -1144,6 +1223,8 @@
                     Begawan</narrower>
                 <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BN" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BRN" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bx"
@@ -1154,9 +1235,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Bulgaria -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:41:51-04:00">
-                <id source="us-dos-fsi-oh" id="b0b5cf38-5c2a-4c36-af43-048984785e6a"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:32:47-04:00">
+                <id source="us-dos-fsi-oh" id="b32824b5-1d05-4a20-8b26-16dab850ed73"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Bulgaria</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Bulgaria</prefLabel>
@@ -1168,6 +1249,8 @@
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Sofia</narrower>
                 <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BG" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BGR" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -1177,20 +1260,24 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Burkina Faso -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:45:01-04:00">
-                <id source="us-dos-fsi-oh" id="44a39071-a521-4a37-8903-8dee16bf7fb2"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:33:49-04:00">
+                <id source="us-dos-fsi-oh" id="82a3bda9-1310-481d-8547-a123af211f79"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burkina
                     Faso</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Burkina
                     Faso</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burkina Faso</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Ouagadougou</narrower>
                 <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BF" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BFA" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
@@ -1201,15 +1288,16 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Burma -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:46:59-04:00">
-                <id source="us-dos-fsi-oh" id="14bc45fc-2d17-42f3-a933-36db00811fa1"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:34:35-04:00">
+                <id source="us-dos-fsi-oh" id="36ad1818-9306-4b30-9420-ec78056d3c1f"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burma</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Union of
                     Burma</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burma, Union
                     of</altLabel>
-                <altLabel type="variant" source="us-loc" xml:lang="en">Myanmar</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"
+                    >Myanmar</hiddenLabel>
                 <useFor>Myanmar</useFor>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
@@ -1219,6 +1307,8 @@
                     Taw</narrower>
                 <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="MM" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="MMR" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -1228,9 +1318,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Burundi -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:48:53-04:00">
-                <id source="us-dos-fsi-oh" id="f829e62a-4f7c-4c0e-af1a-51b8c7ea1bb6"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:37:44-04:00">
+                <id source="us-dos-fsi-oh" id="91b35346-020e-4b1c-9277-59344d7926da"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burundi</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Burundi</prefLabel>
@@ -1242,7 +1332,8 @@
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Bujumbura</narrower>
                 <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" source="us-dos-inr">state</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="BI" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="BDI" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bd"
@@ -1253,9 +1344,9 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Cabo Verde -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T21:54:57-04:00">
-                <id source="us-dos-fsi-oh" id="0b7c61a2-9e12-4cea-98b8-49d743f7f1da"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:44:10-04:00">
+                <id source="us-dos-fsi-oh" id="ad960357-93cf-403d-b0f0-fb8676f90cf8"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cabo Verde</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Cabo
                     Verde</prefLabel>
@@ -1270,6 +1361,8 @@
                 <narrower type="capital" source="us-dos-inr" xml:lang="en">Praia</narrower>
                 <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="CV" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="CPV" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cv"
@@ -1281,9 +1374,9 @@
                     Verde</sameAs>
             </concept>
             <!-- Cambodia -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T22:01:57-04:00">
-                <id source="us-dos-fsi-oh" id="3a5c2804-8c38-4e64-93f5-ad4a1c0b0d5f"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:45:34-04:00">
+                <id source="us-dos-fsi-oh" id="63d7e74b-5611-4809-a31a-7bf711979e97"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cambodia</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
                     Cambodia</prefLabel>
@@ -1292,10 +1385,11 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Phnom
-                    Penh</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Phnom Penh</narrower>
                 <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="KH" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="KHM" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cb"
@@ -1306,20 +1400,24 @@
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
             <!-- Cameroon -->
-            <concept created-by="rossat" created-date="2019-06-25"
-                lastDateTimeVerified="2019-06-25T22:04:31-04:00">
-                <id source="us-dos-fsi-oh" id="44ebac7e-dc03-4cfb-b2ff-dc53214530b8"/>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T12:46:38-04:00">
+                <id source="us-dos-fsi-oh" id="b0d7a890-c62b-4dbc-91c3-ff28f6bf2801"/>
                 <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cameroon</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                     Cameroon</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cameroon, Republic
                     of</altLabel>
+                <hiddenLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital-city" source="us-dos-inr" xml:lang="en">Yaoundé</narrower>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Yaoundé</narrower>
                 <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
                 <sameAs type="genc-2a-code" id="CM" source="us-dos-inr"/>
                 <sameAs type="genc-3a-code" id="CMR" source="us-dos-inr"/>
                 <sameAs type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cm"
@@ -1329,7 +1427,6 @@
                     source="lc/vocabulary/gacs/a-af" xml:lang="en">Cameroon</sameAs>
                 <sameAs type="placesPrevious" id="" source="us-dos-inr"/>
             </concept>
-
         </collection>
 
         <!--
