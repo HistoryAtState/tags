@@ -1665,25 +1665,365 @@
                     source="lc/vocabulary/gacs/a-af" xml:lang="en">Congo (Brazzaville)</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
+            <!-- Democratic Republic of the Congo -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T14:34:03-04:00">
+                <id source="us-dos-fsi-oh" id="7d113e66-e959-410a-a861-332e3d28163a"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Congo (Kinshasa)<note
+                        type="semantic" source="us-dos-inr">“Congo” is the official short-form name
+                        for both the Republic of the Congo and the Democratic Republic of the Congo.
+                        To distinguish one from the other, the U.S. Department of State adds the
+                        capital in parentheses. This practice is unofficial and provisional.</note>
+                </prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Democratic Republic of
+                    the Congo</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Kinshasa</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="CD" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="COD" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cg"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Congo (Democratic
+                    Republic)</exactMatch>
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en"/>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Costa Rica -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:17:46-04:00">
+                <id source="us-dos-fsi-oh" id="37d251ca-bad8-486d-bc7b-12b8f5ffcf81"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Costa Rica</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Costa
+                    Rica</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Costa Rica, Republic
+                    of</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">San José</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="CR" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="CRI" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Costa Rica</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nccr"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Costa Rica</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Côte d’Ivoire -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:19:40-04:00">
+                <id source="us-dos-fsi-oh" id="1cdeb32c-10a7-42ea-b671-3292898aafac"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Côte
+                    d’Ivoire</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Côte
+                    d’Ivoire</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Côte d’Ivoire, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Yamoussoukro</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="CI" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="CIV" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Côte d’Ivoire</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-iv"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Côte d’Ivoire</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Croatia -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:21:36-04:00">
+                <id source="us-dos-fsi-oh" id="6e34aad0-396d-4f73-a3c8-5c66e4892dcb"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Croatia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Croatia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Croatia, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Zagreb</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="HR" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="HRV" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ci"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Croatia</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-ci"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Croatia</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Cuba -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:27:26-04:00">
+                <id source="us-dos-fsi-oh" id="fcbbe2ee-c4b8-43a2-ba8b-90b646288e92"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cuba</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Cuba</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cuba, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Havana</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="CU" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="CUB" source="us-dos-inr"/>
+                <exactMatch type="marc-countries"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwcu"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Cuba</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/countries/cu" source="lc/vocabulary/gacs/a-af"
+                    xml:lang="en">Cuba</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Cyprus -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:29:21-04:00">
+                <id source="us-dos-fsi-oh" id="b656c4b3-0910-4b52-9998-366146ee3054"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Cyprus</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Cyprus</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cyprus, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Nicosia</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="CY" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="CYP" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cy"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Cyprus</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-cy"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cyprus</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Czechia -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:31:25-04:00">
+                <id source="us-dos-fsi-oh" id="de99827c-0f9d-41b1-b00d-7fdad4796e07"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Czechia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Czech
+                    Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Czech
+                    Republic</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Prague</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="CZ" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="CZE" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xr"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Czech Republic</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-xr"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Czech Republic</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Denmark -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:33:58-04:00">
+                <id source="us-dos-fsi-oh" id="51166ca1-3327-4eec-bad1-3fa377c1a9d6"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Denmark</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                    Denmark</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Denmark, Kingdom
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Copenhagen</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="DK" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="DNK" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dk"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Denmark</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-dk"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Denmark</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Djibouti -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:35:48-04:00">
+                <id source="us-dos-fsi-oh" id="f2793ee5-572e-4495-a273-cb9c40c8d5be"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Djibouti</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Djibouti</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Djibouti, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Djibouti</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="DJ" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="DJI" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ft"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Djibouti</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-ft"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Djibouti</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Dominica -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:38:06-04:00">
+                <id source="us-dos-fsi-oh" id="250c3e00-ac1b-4cf9-9203-e97dd77cfdc1"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Dominica</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Commonwealth of
+                    Dominica</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Dominica, Commonwealth
+                    of</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Roseau</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="DM" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="DMA" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dq"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Dominica</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwdq"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Dominica</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Dominican Republic -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:47:18-04:00">
+                <id source="us-dos-fsi-oh" id="fa7fd4e3-d104-4804-b21b-247e2a963027"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Dominican
+                    Republic</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Dominican
+                    Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Dominican
+                    Republic</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Santo Domingo</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="DO" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="DOM" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dr"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Dominican
+                    Republic</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwdr"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Dominican Republic</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Ecuador -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:54:19-04:00">
+                <id source="us-dos-fsi-oh" id="f16b97dc-c425-4995-86b9-00b394b9d70b"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Ecuador</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Ecuador</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ecuador, Republic
+                    of</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Quito</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="EC" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="ECU" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ec"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Ecuador</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/s-ec"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Ecuador</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Egypt -->
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T15:56:38-04:00">
+                <id source="us-dos-fsi-oh" id="4884995f-347c-4378-a7ee-1541ad4f889b"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Egypt</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Arab Republic of
+                    Egypt</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Egypt, Arab Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Cairo</narrower>
+                <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                    xml:lang="en">Near East</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="EG" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="EGY" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ua"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Egypt</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-ua"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Egypt</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+
 
         </collection>
 
-        <!--
-        Congo (Kinshasa) 	Diplomatic relations with the United States		Member of United Nations	
-        (see note 4)	Democratic Republic
-        of the Congo	CD	COD	Kinshasa
-        Costa Rica 	Diplomatic relations with the United States		Member of United Nations		Republic of Costa Rica	CR	CRI	San José
-        Côte d’Ivoire 	Diplomatic relations with the United States		Member of United Nations		Republic of Côte d’Ivoire	CI	CIV	Yamoussoukro
-        Croatia 	Diplomatic relations with the United States		Member of United Nations		Republic of Croatia	HR	HRV	Zagreb
-        Cuba 	Diplomatic relations with the United States		Member of United Nations		Republic of Cuba	CU	CUB	Havana
-        Cyprus 	Diplomatic relations with the United States		Member of United Nations		Republic of Cyprus	CY	CYP	Nicosia
-        Czechia 	Diplomatic relations with the United States		Member of United Nations		Czech Republic	CZ	CZE	Prague
-        Denmark 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Denmark	DK	DNK	Copenhagen
-        Djibouti 	Diplomatic relations with the United States		Member of United Nations		Republic of Djibouti	DJ	DJI	Djibouti
-        Dominica 	Diplomatic relations with the United States		Member of United Nations		Commonwealth of Dominica	DM	DMA	Roseau
-        Dominican Republic 	Diplomatic relations with the United States		Member of United Nations		Dominican Republic	DO	DOM	Santo Domingo
-        Ecuador 	Diplomatic relations with the United States		Member of United Nations		Republic of Ecuador	EC	ECU	Quito
-        Egypt 	Diplomatic relations with the United States		Member of United Nations		Arab Republic of Egypt	EG	EGY	Cairo
+        <!--	
         El Salvador 	Diplomatic relations with the United States		Member of United Nations		Republic of El Salvador	SV	SLV	San Salvador
         Equatorial Guinea 	Diplomatic relations with the United States		Member of United Nations		Republic of Equatorial Guinea	GQ	GNQ	Malabo
         Eritrea 	Diplomatic relations with the United States		Member of United Nations		State of Eritrea	ER	ERI	Asmara
