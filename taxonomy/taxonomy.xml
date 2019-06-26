@@ -2019,12 +2019,37 @@
                     source="lc/vocabulary/gacs/a-af" xml:lang="en">Egypt</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
+            <concept type="place" created-by="rossat" created-date="2019-06-26"
+                lastDateTimeVerified="2019-06-26T18:02:44-04:00">
+                <id source="us-dos-fsi-oh" id="ad450fb9-8889-459c-bdbf-10f91810758b"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">El
+                    Salvador</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of El
+                    Salvador</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">El Salvador, Republic
+                    of El Salvador</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">San Salvador</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="SV" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="SLV" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/es"
+                    source="lc/vocabulary/countries/af" xml:lang="en">El Salvador</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nces"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
 
 
         </collection>
 
-        <!--	
-        El Salvador 	Diplomatic relations with the United States		Member of United Nations		Republic of El Salvador	SV	SLV	San Salvador
+        <!--			
         Equatorial Guinea 	Diplomatic relations with the United States		Member of United Nations		Republic of Equatorial Guinea	GQ	GNQ	Malabo
         Eritrea 	Diplomatic relations with the United States		Member of United Nations		State of Eritrea	ER	ERI	Asmara
         Estonia 	Diplomatic relations with the United States		Member of United Nations		Republic of Estonia	EE	EST	Tallinn
