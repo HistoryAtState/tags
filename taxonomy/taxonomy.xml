@@ -2045,45 +2045,828 @@
                     source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
+            <!-- Equatorial Guinea -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T09:54:00-04:00">
+                <id source="us-dos-fsi-oh" id="890d4d62-0002-46a9-be0f-2b9eddc2b12a"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Equatorial
+                    Guinea</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of Equatorial
+                    Guinea</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Equatorial Guinea,
+                    Republic of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Malabo</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GQ" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GNQ" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/eg"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Equatorial Guinea</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-eg"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Equatorial Guinea</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Eritrea -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T09:56:29-04:00">
+                <id source="us-dos-fsi-oh" id="91b56dfd-4124-4f66-ab24-54d5505b4847"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Eritrea</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of
+                    Eritrea</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Eritrea, State
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Asmara</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="ER" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="ERI" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ea"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Eritrea</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-ea"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Eritrea</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Estonia -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T09:58:22-04:00">
+                <id source="us-dos-fsi-oh" id="2b95e959-c434-45e5-82e3-3129ffcc06a6"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Estonia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Estonia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Estonia, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Tallinn</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="EE" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="EST" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/er"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Estonia</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-er"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Estonia</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Eswatini -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:00:38-04:00">
+                <id source="us-dos-fsi-oh" id="e305897b-2ffc-47c3-8864-e51d200c0ad5"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Eswatini</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                    Eswatini</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Eswatini, Kingdom
+                    of</altLabel>
+                <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en">Swaziland</altLabel>
+                <useFor>Swaziland</useFor>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="administrative-capital" source="us-dos-inr" xml:lang="en"
+                    >Mbabane</narrower>
+                <narrower type="seat-of-legislation" source="us-dos-inr" xml:lang="en"
+                    >Lobamba</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="SZ" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="SWZ" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sq"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Eswatini</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-sq"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Eswatini</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Ethiopia -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:03:40-04:00">
+                <id source="us-dos-fsi-oh" id="eacd779d-8cd7-487a-8486-30e261395879"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Ethiopia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federal Democratic
+                    Republic of Ethiopia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ethiopia, Federal
+                    Democratic Republic of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Addis Ababa</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="ET" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="ETH" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/et"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Ethiopia</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-et"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Ethiopia</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Fiji -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:09:50-04:00">
+                <id source="us-dos-fsi-oh" id="6569cd8d-9e8f-4d86-9c96-c02da7ce8468"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Fiji</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Fiji</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Fiji, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Suva</narrower>
+                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                    xml:lang="en">East Asia and Pacific</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="FJ" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="FJI" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fj"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Fiji</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/pofj"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Fiji</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Finland -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:11:29-04:00">
+                <id source="us-dos-fsi-oh" id="2bf24f24-f375-4679-9e1f-a46488e2ffc0"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Finland</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Finland</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Finland, Republic
+                    of</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useFor/>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Helsinki</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="FI" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="FIN" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fi"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Finland</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-fi"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Finland</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- France -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:25:06-04:00">
+                <id source="us-dos-fsi-oh" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en"/>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">French
+                    Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">France</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
+                    France</hiddenLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Paris</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="FR" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="FRA" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fr"
+                    source="lc/vocabulary/countries/af" xml:lang="en">France</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-fr"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">France</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Gabon -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:31:15-04:00">
+                <id source="us-dos-fsi-oh" id="abd7d918-ba04-4366-b849-734fb75a5fbe"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Gabon</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Gabonese
+                    Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Gabonese
+                    Republic</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Gabon
+                    Republic</hiddenLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
+                    Gabon</hiddenLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Libreville</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GA" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GAB" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/go"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Gabon</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-go"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Gabon</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- The Gambia -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:33:55-04:00">
+                <id source="us-dos-fsi-oh" id="3d8fed4d-8435-4acb-b4b1-41a9913a0ccf"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Gambia,
+                    The</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of The
+                    Gambia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Gambia, Republic of
+                    The</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Banjul</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GM" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GMB" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gm"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Gambia</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-gm"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Gambia</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Georgia -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T10:36:38-04:00">
+                <id source="us-dos-fsi-oh" id="3757cfe5-445b-499c-8e1e-d2558776767c"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Georgia</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Georgia</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Georgia</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Tbilisi</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GE" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GEO" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gs"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Georgia
+                    (Republic)</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-gs"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Georgia (Republic)</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Germany -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T11:07:10-04:00">
+                <id source="us-dos-fsi-oh" id="8867e91f-40c5-4fb1-9614-81a7042c01ad"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Germany</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federal Republic of
+                    Germany</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Germany, Federal
+                    Republic of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Berlin</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="DE" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="DEU" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gw"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Germany</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-gx"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Germany</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- http://id.loc.gov/vocabulary/countries/gw -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T11:09:14-04:00">
+                <id source="us-dos-fsi-oh" id="0b712af2-5af8-4016-a2b3-763d90e3790c"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Ghana</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                    Ghana</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ghana, Republic
+                    of</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Accra</narrower>
+                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                    xml:lang="en">Sub-Saharan Africa</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GH" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GHA" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gh"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Ghana</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-gh"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Ghana</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Greece -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T11:10:55-04:00">
+                <id source="us-dos-fsi-oh" id="8ae6b361-4cf5-4b3b-87e7-47088ba16629"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Greece</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Hellenic
+                    Republic</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Greece</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
+                    Greece</hiddenLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Athens</narrower>
+                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                    xml:lang="en">Europe</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GR" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GRC" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gr"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Greece</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-gr"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Greece</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
+            <!-- Grenada -->
+            <concept type="place" created-by="rossat" created-date="2019-06-28"
+                lastDateTimeVerified="2019-06-28T11:13:14-04:00">
+                <id source="us-dos-fsi-oh" id="68969a71-0be3-46cd-9f51-629c299fab6b"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Grenada</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Grenada</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Grenada</altLabel>
+                <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                    States</related>
+                <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+                <narrower type="capital" source="us-dos-inr" xml:lang="en">Saint George’s</narrower>
+                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                    xml:lang="en">Western Hemisphere</broader>
+                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                    source="us-dos-inr">independent states</broader>
+                <exactMatch type="genc-2a-code" id="GD" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="GRD" source="us-dos-inr"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gd"
+                    source="lc/vocabulary/countries/af" xml:lang="en">Grenada</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/nwgd"
+                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Grenada</exactMatch>
+                <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+            </concept>
 
         </collection>
+        <!-- Guatemala -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:17:03-04:00">
+            <id source="us-dos-fsi-oh" id="47af9560-fe1e-490c-8c29-e514e7b440f9"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Guatemala</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Guatemala</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guatemala, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Guatemala City</narrower>
+            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="GT" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="GTM" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                xml:lang="en">Guatemala</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                xml:lang="en">Guatemala</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Guinea -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:23:24-04:00">
+            <id source="us-dos-fsi-oh" id="6dfc4645-843e-4db6-a94d-bde98c08cb9a"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Guinea</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Guinea</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guinea, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Conakry</narrower>
+            <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="GN" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="GIN" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gv"
+                source="lc/vocabulary/countries/af" xml:lang="en">Guinea</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-gv"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Guinea</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Guinea-Bissau -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:25:58-04:00">
+            <id source="us-dos-fsi-oh" id="1ffc10ba-0515-4290-8c72-1814f7ff19a9"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Guinea-Bissau</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Guinea-Bissau</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guinea-Bissau, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Bissau</narrower>
+            <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="GW" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="GNB" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/pg"
+                source="lc/vocabulary/countries/af" xml:lang="en">Guinea-Bissau</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-pg"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Guinea-Bissau</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
 
-        <!--			
-        Equatorial Guinea 	Diplomatic relations with the United States		Member of United Nations		Republic of Equatorial Guinea	GQ	GNQ	Malabo
-        Eritrea 	Diplomatic relations with the United States		Member of United Nations		State of Eritrea	ER	ERI	Asmara
-        Estonia 	Diplomatic relations with the United States		Member of United Nations		Republic of Estonia	EE	EST	Tallinn
-        
-        Eswatini 	Diplomatic relations with the United States		Member of United Nations	
-        Kingdom of Eswatini	  SZ	  SWZ	Mbabane (administrative)
-        Lobamba (legislative)
-        Ethiopia 	Diplomatic relations with the United States		Member of United Nations		Federal Democratic
-        Republic of Ethiopia	ET	ETH	Addis Ababa
-        Fiji 	Diplomatic relations with the United States		Member of United Nations		Republic of Fiji	FJ	FJI	Suva
-        Finland 	Diplomatic relations with the United States		Member of United Nations		Republic of Finland	FI	FIN	Helsinki
-        France 	Diplomatic relations with the United States		Member of United Nations		French Republic	FR	FRA	Paris
-        Gabon 	Diplomatic relations with the United States		Member of United Nations		Gabonese Republic	GA	GAB	Libreville
-        Gambia, The 	Diplomatic relations with the United States		Member of United Nations		Republic of The Gambia	GM	GMB	Banjul
-        Georgia 	Diplomatic relations with the United States		Member of United Nations		Georgia	GE	GEO	Tbilisi
-        Germany 	Diplomatic relations with the United States		Member of United Nations		Federal Republic of Germany	DE	DEU	Berlin
-        Ghana 	Diplomatic relations with the United States		Member of United Nations		Republic of Ghana	GH	GHA	Accra
-        Greece 	Diplomatic relations with the United States		Member of United Nations		Hellenic Republic	GR	GRC	Athens
-        Grenada 	Diplomatic relations with the United States		Member of United Nations		Grenada	GD	GRD	Saint George’s
-        Guatemala 	Diplomatic relations with the United States		Member of United Nations		Republic of Guatemala	GT	GTM	Guatemala City
-        Guinea 	Diplomatic relations with the United States		Member of United Nations		Republic of Guinea	GN	GIN	Conakry
-        Guinea-Bissau 	Diplomatic relations with the United States		Member of United Nations		Republic of Guinea-Bissau	GW	GNB	Bissau
-        Guyana 	Diplomatic relations with the United States		Member of United Nations		Co-operative Republic of Guyana	GY	GUY	Georgetown
-        Haiti 	Diplomatic relations with the United States		Member of United Nations		Republic of Haiti	HT	HTI	Port-au-Prince
-        Holy See 	Diplomatic relations with the United States		Holy See	VA	VAT	Vatican City
-        Honduras 	Diplomatic relations with the United States		Member of United Nations		Republic of Honduras	HN	HND	Tegucigalpa
-        Hungary 	Diplomatic relations with the United States		Member of United Nations		Hungary	HU	HUN	Budapest
-        Iceland 	Diplomatic relations with the United States		Member of United Nations		Republic of Iceland	IS	ISL	Reykjavík
-        India 	Diplomatic relations with the United States		Member of United Nations		Republic of India	IN	IND	New Delhi
-        Indonesia 	Diplomatic relations with the United States		Member of United Nations		Republic of Indonesia	ID	IDN	Jakarta
-        Iran 	Member of United Nations		Islamic Republic of Iran	IR	IRN	Tehran
-        Iraq 	Diplomatic relations with the United States		Member of United Nations		Republic of Iraq	IQ	IRQ	Baghdad
-        Ireland 	Diplomatic relations with the United States		Member of United Nations		Ireland	IE	IRL	Dublin
-        Israel 	Diplomatic relations with the United States		Member of United Nations		State of Israel	IL	ISR	Jerusalem
-        Italy 	Diplomatic relations with the United States		Member of United Nations		Italian Republic	IT	ITA	Rome
+        <!-- Guyana -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:27:31-04:00">
+            <id source="us-dos-fsi-oh" id="57a2b49e-fc23-4bdf-a396-069945ddefa6"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Guyana</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Co-operative Republic of
+                Guyana</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guyana, Co-operative
+                Republic of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Georgetown</narrower>
+            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="GY" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="GUY" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gy"
+                source="lc/vocabulary/countries/af" xml:lang="en">Guyana</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/s-gy"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Guyana</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Haiti -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:29:36-04:00">
+            <id source="us-dos-fsi-oh" id="effd787f-b7b3-412c-b5d0-9e9fa1a1f1d8"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Haiti</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Haiti</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Haiti, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Port-au-Prince</narrower>
+            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="HT" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="HTI" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ht"
+                source="lc/vocabulary/countries/af" xml:lang="en">Haiti</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwht"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Haiti</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Holy See -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:31:17-04:00">
+            <id source="us-dos-fsi-oh" id="a33adbc5-c709-4c07-bdb2-ba55c8af0b35"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Holy See</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Holy See</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Holy See</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Vatican</hiddenLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Vatican City</narrower>
+            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="VA" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="VAT" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/vc"
+                source="lc/vocabulary/countries/af" xml:lang="en">Vatican City</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-vc"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Vatican City</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Honduras -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:37:10-04:00">
+            <id source="us-dos-fsi-oh" id="64d46f54-3e0b-48f6-8bb6-7aeb2f203f0a"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Honduras</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Honduras</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Honduras, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Tegucigalpa</narrower>
+            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="HN" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="HND" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ho"
+                source="lc/vocabulary/countries/af" xml:lang="en">Honduras</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/ncho"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Honduras</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Hungary -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:43:46-04:00">
+            <id source="us-dos-fsi-oh" id="2c7d5239-8cf1-4b7c-bc48-85f225f52cbf"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Hungary</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Hungary</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Hungary</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Budapest</narrower>
+            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="HU" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="HUN" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/hu"
+                source="lc/vocabulary/countries/af" xml:lang="en">Hungary</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-hu"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Hungary</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Iceland -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:45:14-04:00">
+            <id source="us-dos-fsi-oh" id="10eff574-e2d4-4365-a530-e5fecb0a3be7"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Iceland</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Iceland</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Iceland, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Reykjavík</narrower>
+            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="IS" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="ISL" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ic"
+                source="lc/vocabulary/countries/af" xml:lang="en">Iceland</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-ic"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Iceland</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- India -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:47:04-04:00">
+            <id source="us-dos-fsi-oh" id="240265bb-81bc-4f27-a66e-7563ecb96fdd"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">India</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                India</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">India, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">New Delhi</narrower>
+            <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                xml:lang="en">South and Central Asia</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="IN" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="IND" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ii"
+                source="lc/vocabulary/countries/af" xml:lang="en">India</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ii"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">India</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Indonesia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:51:36-04:00">
+            <id source="us-dos-fsi-oh" id="1aebd8a6-a10d-422e-b6e9-850c07374c29"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Indonesia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Indonesia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Indonesia, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Jakarta</narrower>
+            <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="ID" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="IDN" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/io"
+                source="lc/vocabulary/countries/af" xml:lang="en">Indonesia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-io"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Indonesia</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Iran -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:53:19-04:00">
+            <id source="us-dos-fsi-oh" id="7d87f50e-c1fc-485a-a085-73e5dfa43568"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Iran</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Islamic Republic of
+                Iran</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Iran, Islamic Republic of
+                Iran</altLabel>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Tehran</narrower>
+            <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ir"
+                source="lc/vocabulary/countries/af" xml:lang="en">Iran</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ir"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Iran</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!--  Iraq-->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:54:42-04:00">
+            <id source="us-dos-fsi-oh" id="8d31fc41-72fe-44bd-abe3-263fbbdabe58"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Iraq</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Iraq</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Iraq, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Baghdad</narrower>
+            <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="IQ" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="IRQ" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/iq"
+                source="lc/vocabulary/countries/af" xml:lang="en">Iraq</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-iq"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Iraq</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Ireland -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:57:19-04:00">
+            <id source="us-dos-fsi-oh" id="17d548cd-df3c-4958-835b-bbae5fc050b4"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Ireland</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Ireland</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ireland</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Dublin</narrower>
+            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="IE" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="IRL" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ie"
+                source="lc/vocabulary/countries/af" xml:lang="en">Ireland</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-ie"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Ireland</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Israel -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T11:58:44-04:00">
+            <id source="us-dos-fsi-oh" id="bea09f57-45ee-4779-92a4-11b8139f9510"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Israel</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Israel</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Israel, State of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Jerusalem</narrower>
+            <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="IL" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="ISR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/is"
+                source="lc/vocabulary/countries/af" xml:lang="en">Israel</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-is"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Israel</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Italy -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T12:09:29-04:00">
+            <id source="us-dos-fsi-oh" id="68d854c0-56b2-4b72-bb48-788cb824e5da"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Italy</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Italian
+                Republic</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Italian Republic</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
+                Italy</hiddenLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="capital" source="us-dos-inr" xml:lang="en">Rome</narrower>
+            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="IT" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="ITA" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/it"
+                source="lc/vocabulary/countries/af" xml:lang="en">Italy</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-it"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Italy</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+
+    </collection>
+    <!-- 		
+         		
         Jamaica 	Diplomatic relations with the United States		Member of United Nations		Jamaica	JM	JAM	Kingston
         Japan 	Diplomatic relations with the United States		Member of United Nations		Japan	JP	JPN	Tokyo
         Jordan 	Diplomatic relations with the United States		Member of United Nations		Hashemite
@@ -2211,7 +2994,7 @@
         Zambia 	Diplomatic relations with the United States		Member of United Nations		Republic of Zambia	ZM	ZMB	Lusaka
         Zimbabwe 	Diplomatic relations with the United States		Member of United Nations		Republic of Zimbabwe	ZW	ZWE	Harare
         -->
-        <!--
+    <!--
         <collection created-by="cozensef" created-date="2013-04-08">
             <id>sovereign-territories</id>
             <label>Sovereign Territories</label>
@@ -3307,9 +4090,7 @@
                 <id>western-sahara</id>
                 <label>Western Sahara</label>
             </concept>
-        </collection>
         -->
-    </collection>
 
 
     <collection created-by="rossat" created-date="2019-06-25">
