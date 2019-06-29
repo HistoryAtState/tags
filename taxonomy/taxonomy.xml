@@ -575,10 +575,10 @@
                 <exactMatch type="genc-2a-code" id="AF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AFG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Afghanistan</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Afghanistan</exactMatch>
                 <exactMatch type="marc-geographic-areas"
-                    id="http://id.loc.gov/vocabulary/geographicAreas/a"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Afghanistan</exactMatch>
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a" source="lc/vocabulary/gacs"
+                    xml:lang="en">Afghanistan</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Albania -->
@@ -603,10 +603,10 @@
                 <exactMatch type="genc-2a-code" id="AL" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ALB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aa"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Albania</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Albania</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-aa.html"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Albania</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Albania</exactMatch>
                 <exactMatch type="placesPrevious" id="albania" source="us-dos-inr"
                     >Albania</exactMatch>
             </concept>
@@ -631,8 +631,8 @@
                 <exactMatch type="genc-2a-code" id="DZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DZA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
-                    source="lc/vocabulary/countries/af" xml:lang="en"/>
-                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                    source="lc/vocabulary/countries" xml:lang="en"/>
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs"
                     xml:lang="en"/>
                 <exactMatch type="placesPrevious" id="http://id.loc.gov/vocabulary/gacs/a-af"
                     source="us-dos-inr"/>
@@ -659,10 +659,10 @@
                 <exactMatch type="genc-2a-code" id="AD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AND" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/an"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Andorra</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Andorra</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-an"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Andorra</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Andorra</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Angola -->
@@ -686,10 +686,10 @@
                 <exactMatch type="genc-2a-code" id="AO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AGO" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Angola</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Angola</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ao"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Angola</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Angola</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Antigua and Barbuda -->
@@ -719,11 +719,10 @@
                 <exactMatch type="genc-2a-code" id="AG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ATG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aq"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Antigua and
-                    Barbuda</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Antigua and Barbuda</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwaq"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Antigua and Barbuda</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Antigua and Barbuda</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Argentina -->
@@ -748,9 +747,9 @@
                 <exactMatch type="genc-3a-code" id="ARG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ag"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Argentina</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Argentina</exactMatch>
                 <exactMatch type="marc-geographic-areas"
-                    id="http://id.loc.gov/vocabulary/countries/ag" source="lc/vocabulary/gacs/a-af"
+                    id="http://id.loc.gov/vocabulary/countries/ag" source="lc/vocabulary/gacs"
                     xml:lang="en">Argentina</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -775,10 +774,10 @@
                 <exactMatch type="genc-2a-code" id="AM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ARM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ai"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Armenia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Armenia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-ai"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Armenia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Armenia</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Australia -->
@@ -802,10 +801,10 @@
                 <exactMatch type="genc-2a-code" id="AU" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AUS" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/at"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Australia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Australia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/u-at"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Australia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Australia</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Austria -->
@@ -831,10 +830,10 @@
                 <exactMatch type="genc-2a-code" id="AT" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AUT" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/au"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Austria</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Austria</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-au"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Austria</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Austria</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Azerbaijan -->
@@ -857,10 +856,10 @@
                     states</broader>
                 <exactMatch type="genc-3a-code" id="AZE" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aj"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Azerbaijan</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Azerbaijan</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-aj"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Azerbaijan</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Azerbaijan</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- The Bahamas -->
@@ -885,10 +884,10 @@
                 <exactMatch type="genc-2a-code" id="BS" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BHS" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bf"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Bahamas</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Bahamas</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwbf"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bahamas</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Bahamas</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Bahrain -->
@@ -912,10 +911,10 @@
                 <exactMatch type="genc-2a-code" id="BH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BHR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ba"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Bahrain</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Bahrain</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-ba"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bahrain</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Bahrain</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Bangladesh -->
@@ -939,10 +938,10 @@
                 <exactMatch type="genc-2a-code" id="BD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BGD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bg"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Bangladesh</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Bangladesh</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bg"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bangladesh</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Bangladesh</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Barbados -->
@@ -964,10 +963,10 @@
                 <exactMatch type="genc-2a-code" id="BB" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
-                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                    source="lc/vocabulary/countries" xml:lang="en"/>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwbb"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                    source="lc/vocabulary/gacs" xml:lang="en"/>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Belarus -->
@@ -993,10 +992,10 @@
                 <exactMatch type="genc-2a-code" id="BY" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BLR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bw"
-                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                    source="lc/vocabulary/countries" xml:lang="en"/>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-bw"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                    source="lc/vocabulary/gacs" xml:lang="en"/>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Belgium -->
@@ -1023,10 +1022,10 @@
                 <exactMatch type="genc-2a-code" id="BE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BEL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/be"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Belgium</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Belgium</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-be"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Belgium</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Belgium</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Belize -->
@@ -1047,9 +1046,9 @@
                     states</broader>
                 <exactMatch type="genc-2a-code" id="BZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries"
                     xml:lang="en"/>
-                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs"
                     xml:lang="en"/>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -1076,10 +1075,10 @@
                 <exactMatch type="genc-2a-code" id="BJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BEN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dm"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Benin</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Benin</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-dm"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Benin</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Benin</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Bhutan -->
@@ -1101,10 +1100,10 @@
                 <exactMatch type="genc-2a-code" id="BT" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BTN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bt"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Bhutan</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Bhutan</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bt"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                    source="lc/vocabulary/gacs" xml:lang="en"/>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Bolivia -->
@@ -1130,10 +1129,10 @@
                 <exactMatch type="genc-2a-code" id="BO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BOL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bo"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Bolivia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Bolivia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-bo"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bolivia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Bolivia</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Bosnia and Herzegovina -->
@@ -1172,12 +1171,11 @@
                 <exactMatch type="genc-2a-code" id="BA" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BIH" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bn"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Bosnia and
+                    source="lc/vocabulary/countries" xml:lang="en">Bosnia and
                     Herzegovina</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-bn"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Bosnia and
-                    Herzegovina</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Bosnia and Herzegovina</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Botswana -->
@@ -1203,10 +1201,10 @@
                 <exactMatch type="genc-2a-code" id="BW" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BWA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bs"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Botswana</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Botswana</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-bs"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Botswana</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Botswana</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Brazil -->
@@ -1232,10 +1230,10 @@
                 <exactMatch type="genc-2a-code" id="BR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bl"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Brazil</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Brazil</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-bl"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Brazil</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Brazil</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Brunei -->
@@ -1260,10 +1258,10 @@
                 <exactMatch type="genc-2a-code" id="BN" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bx"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Brunei</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Brunei</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bx"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Brunei</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Brunei</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Bulgaria -->
@@ -1286,9 +1284,9 @@
                     states</broader>
                 <exactMatch type="genc-2a-code" id="BG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BGR" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries"
                     xml:lang="en">Bulgaria</exactMatch>
-                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs"
                     xml:lang="en">Bulgaria</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -1315,10 +1313,10 @@
                 <exactMatch type="genc-2a-code" id="BF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BFA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
-                    source="lc/vocabulary/countries/af" xml:lang="en"/>
+                    source="lc/vocabulary/countries" xml:lang="en"/>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-uv"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                    source="lc/vocabulary/gacs" xml:lang="en"/>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Burma -->
@@ -1346,9 +1344,9 @@
                     states</broader>
                 <exactMatch type="genc-2a-code" id="MM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="MMR" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries"
                     xml:lang="en">Burma</exactMatch>
-                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs"
                     xml:lang="en">Burma</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -1373,10 +1371,10 @@
                 <exactMatch type="genc-2a-code" id="BI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BDI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bd"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Burundi</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Burundi</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-bd"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Burundi</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Burundi</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Cabo Verde -->
@@ -1403,10 +1401,10 @@
                 <exactMatch type="genc-2a-code" id="CV" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CPV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cv"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Cabo Verde</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Cabo Verde</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/lncv"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cabo Verde</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Cabo Verde</exactMatch>
                 <exactMatch type="placesPrevious" id="cape-verde" source="us-dos-inr">Cape
                     Verde</exactMatch>
             </concept>
@@ -1431,10 +1429,10 @@
                 <exactMatch type="genc-2a-code" id="KH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="KHM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cb"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Cambodia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Cambodia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-cb"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cambodia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Cambodia</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Cameroon -->
@@ -1460,10 +1458,10 @@
                 <exactMatch type="genc-2a-code" id="CM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CMR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cm"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Cameroon</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Cameroon</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-cm"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cameroon</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Cameroon</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Canada -->
@@ -1485,10 +1483,10 @@
                 <exactMatch type="genc-2a-code" id="CA" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CAN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxc"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Canada</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Canada</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/n-cn"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Canada</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Canada</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1512,12 +1510,11 @@
                 <exactMatch type="genc-2a-code" id="CF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CAF" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cx"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Central African
+                    source="lc/vocabulary/countries" xml:lang="en">Central African
                     Republic</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-cx"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Central African
-                    Republic</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Central African Republic</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Chad -->
@@ -1540,9 +1537,9 @@
                     states</broader>
                 <exactMatch type="genc-2a-code" id="TD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="TCD" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries"
                     xml:lang="en"/>
-                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs"
                     xml:lang="en"/>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -1567,10 +1564,10 @@
                 <exactMatch type="genc-2a-code" id="CL" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CHL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cl"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Chile</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Chile</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-cl"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Chile</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Chile</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- China -->
@@ -1600,13 +1597,13 @@
                 <exactMatch type="genc-2a-code" id="CN" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CHN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cc"
-                    source="lc/vocabulary/countries/af" xml:lang="en">China</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">China</exactMatch>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ch"
-                    source="lc/vocabulary/countries/af" xml:lang="en">China (Republic : 1949-
+                    source="lc/vocabulary/countries" xml:lang="en">China (Republic : 1949-
                     )</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-cc"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">China</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">China</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Colombia -->
@@ -1632,10 +1629,10 @@
                 <exactMatch type="genc-2a-code" id="CO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ck"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Colombia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Colombia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ck"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Colombia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Colombia</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Comoros -->
@@ -1661,15 +1658,15 @@
                 <exactMatch type="genc-2a-code" id="KM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ot"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Comoros</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Comoros</exactMatch>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cq"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Mayotte</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Mayotte</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/i-cq"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Comoros</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Comoros</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/i-my"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Mayotte</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Mayotte</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Republic of the Congo -->
@@ -1700,11 +1697,10 @@
                 <exactMatch type="genc-2a-code" id="CG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cf"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Congo
-                    (Brazzaville)</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Congo (Brazzaville)</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-cf"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Congo (Brazzaville)</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Congo (Brazzaville)</exactMatch>
                 <!-- <exactMatch type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Democratic Republic of the Congo -->
@@ -1734,9 +1730,9 @@
                 <exactMatch type="genc-2a-code" id="CD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cg"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Congo (Democratic
+                    source="lc/vocabulary/countries" xml:lang="en">Congo (Democratic
                     Republic)</exactMatch>
-                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs"
                     xml:lang="en"/>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -1763,10 +1759,10 @@
                 <exactMatch type="genc-2a-code" id="CR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CRI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Costa Rica</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Costa Rica</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nccr"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Costa Rica</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Costa Rica</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Côte d’Ivoire -->
@@ -1792,10 +1788,10 @@
                 <exactMatch type="genc-2a-code" id="CI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CIV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Côte d’Ivoire</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Côte d’Ivoire</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-iv"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Côte d’Ivoire</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Côte d’Ivoire</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Croatia -->
@@ -1819,10 +1815,10 @@
                 <exactMatch type="genc-2a-code" id="HR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="HRV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ci"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Croatia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Croatia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-ci"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Croatia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Croatia</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Cuba -->
@@ -1847,9 +1843,9 @@
                 <exactMatch type="genc-3a-code" id="CUB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwcu"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Cuba</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Cuba</exactMatch>
                 <exactMatch type="marc-geographic-areas"
-                    id="http://id.loc.gov/vocabulary/countries/cu" source="lc/vocabulary/gacs/a-af"
+                    id="http://id.loc.gov/vocabulary/countries/cu" source="lc/vocabulary/gacs"
                     xml:lang="en">Cuba</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
@@ -1874,10 +1870,10 @@
                 <exactMatch type="genc-2a-code" id="CY" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CYP" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cy"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Cyprus</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Cyprus</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-cy"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Cyprus</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Cyprus</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Czechia -->
@@ -1901,10 +1897,10 @@
                 <exactMatch type="genc-2a-code" id="CZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CZE" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xr"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Czech Republic</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Czech Republic</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-xr"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Czech Republic</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Czech Republic</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Denmark -->
@@ -1928,10 +1924,10 @@
                 <exactMatch type="genc-2a-code" id="DK" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DNK" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dk"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Denmark</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Denmark</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-dk"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Denmark</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Denmark</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Djibouti -->
@@ -1955,10 +1951,10 @@
                 <exactMatch type="genc-2a-code" id="DJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DJI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ft"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Djibouti</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Djibouti</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ft"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Djibouti</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Djibouti</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Dominica -->
@@ -1984,10 +1980,10 @@
                 <exactMatch type="genc-2a-code" id="DM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DMA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dq"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Dominica</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Dominica</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwdq"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Dominica</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Dominica</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Dominican Republic -->
@@ -2013,11 +2009,10 @@
                 <exactMatch type="genc-2a-code" id="DO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DOM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dr"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Dominican
-                    Republic</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Dominican Republic</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwdr"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Dominican Republic</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Dominican Republic</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Ecuador -->
@@ -2043,10 +2038,10 @@
                 <exactMatch type="genc-2a-code" id="EC" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ECU" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ec"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Ecuador</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Ecuador</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ec"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Ecuador</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Ecuador</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Egypt -->
@@ -2070,10 +2065,10 @@
                 <exactMatch type="genc-2a-code" id="EG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="EGY" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ua"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Egypt</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Egypt</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ua"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Egypt</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Egypt</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2098,10 +2093,10 @@
                 <exactMatch type="genc-2a-code" id="SV" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="SLV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/es"
-                    source="lc/vocabulary/countries/af" xml:lang="en">El Salvador</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">El Salvador</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nces"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en"/>
+                    source="lc/vocabulary/gacs" xml:lang="en"/>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Equatorial Guinea -->
@@ -2126,10 +2121,10 @@
                 <exactMatch type="genc-2a-code" id="GQ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GNQ" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/eg"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Equatorial Guinea</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Equatorial Guinea</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-eg"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Equatorial Guinea</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Equatorial Guinea</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Eritrea -->
@@ -2153,10 +2148,10 @@
                 <exactMatch type="genc-2a-code" id="ER" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ERI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ea"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Eritrea</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Eritrea</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ea"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Eritrea</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Eritrea</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Estonia -->
@@ -2180,10 +2175,10 @@
                 <exactMatch type="genc-2a-code" id="EE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="EST" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/er"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Estonia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Estonia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-er"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Estonia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Estonia</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Eswatini -->
@@ -2212,10 +2207,10 @@
                 <exactMatch type="genc-2a-code" id="SZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="SWZ" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sq"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Eswatini</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Eswatini</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-sq"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Eswatini</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Eswatini</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Ethiopia -->
@@ -2239,10 +2234,10 @@
                 <exactMatch type="genc-2a-code" id="ET" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ETH" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/et"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Ethiopia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Ethiopia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-et"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Ethiopia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Ethiopia</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Fiji -->
@@ -2266,10 +2261,10 @@
                 <exactMatch type="genc-2a-code" id="FJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FJI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fj"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Fiji</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Fiji</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/pofj"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Fiji</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Fiji</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Finland -->
@@ -2295,10 +2290,10 @@
                 <exactMatch type="genc-2a-code" id="FI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FIN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fi"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Finland</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Finland</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-fi"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Finland</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Finland</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- France -->
@@ -2323,10 +2318,10 @@
                 <exactMatch type="genc-2a-code" id="FR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FRA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fr"
-                    source="lc/vocabulary/countries/af" xml:lang="en">France</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">France</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-fr"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">France</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">France</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Gabon -->
@@ -2354,10 +2349,10 @@
                 <exactMatch type="genc-2a-code" id="GA" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GAB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/go"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Gabon</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Gabon</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-go"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Gabon</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Gabon</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- The Gambia -->
@@ -2381,10 +2376,10 @@
                 <exactMatch type="genc-2a-code" id="GM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GMB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gm"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Gambia</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Gambia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-gm"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Gambia</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Gambia</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Georgia -->
@@ -2406,11 +2401,10 @@
                 <exactMatch type="genc-2a-code" id="GE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GEO" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gs"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Georgia
-                    (Republic)</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Georgia (Republic)</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-gs"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Georgia (Republic)</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Georgia (Republic)</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Germany -->
@@ -2434,10 +2428,10 @@
                 <exactMatch type="genc-2a-code" id="DE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DEU" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gw"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Germany</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Germany</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-gx"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Germany</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Germany</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- http://id.loc.gov/vocabulary/countries/gw -->
@@ -2461,10 +2455,10 @@
                 <exactMatch type="genc-2a-code" id="GH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GHA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gh"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Ghana</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Ghana</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-gh"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Ghana</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Ghana</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Greece -->
@@ -2489,10 +2483,10 @@
                 <exactMatch type="genc-2a-code" id="GR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GRC" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gr"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Greece</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Greece</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-gr"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Greece</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Greece</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
             <!-- Grenada -->
@@ -2515,10 +2509,10 @@
                 <exactMatch type="genc-2a-code" id="GD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GRD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gd"
-                    source="lc/vocabulary/countries/af" xml:lang="en">Grenada</exactMatch>
+                    source="lc/vocabulary/countries" xml:lang="en">Grenada</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwgd"
-                    source="lc/vocabulary/gacs/a-af" xml:lang="en">Grenada</exactMatch>
+                    source="lc/vocabulary/gacs" xml:lang="en">Grenada</exactMatch>
                 <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
             </concept>
 
@@ -2542,10 +2536,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="GT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GTM" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                xml:lang="en">Guatemala</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                xml:lang="en">Guatemala</exactMatch>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries" xml:lang="en"
+                >Guatemala</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs" xml:lang="en"
+                >Guatemala</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Guinea -->
@@ -2568,10 +2562,10 @@
             <exactMatch type="genc-2a-code" id="GN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GIN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gv"
-                source="lc/vocabulary/countries/af" xml:lang="en">Guinea</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Guinea</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-gv"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Guinea</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-gv" source="lc/vocabulary/gacs"
+                xml:lang="en">Guinea</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Guinea-Bissau -->
@@ -2594,10 +2588,10 @@
             <exactMatch type="genc-2a-code" id="GW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GNB" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/pg"
-                source="lc/vocabulary/countries/af" xml:lang="en">Guinea-Bissau</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Guinea-Bissau</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-pg"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Guinea-Bissau</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-pg" source="lc/vocabulary/gacs"
+                xml:lang="en">Guinea-Bissau</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
 
@@ -2623,10 +2617,10 @@
             <exactMatch type="genc-2a-code" id="GY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUY" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gy"
-                source="lc/vocabulary/countries/af" xml:lang="en">Guyana</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Guyana</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/s-gy"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Guyana</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/s-gy" source="lc/vocabulary/gacs"
+                xml:lang="en">Guyana</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Haiti -->
@@ -2651,10 +2645,10 @@
             <exactMatch type="genc-2a-code" id="HT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HTI" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ht"
-                source="lc/vocabulary/countries/af" xml:lang="en">Haiti</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Haiti</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/nwht"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Haiti</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwht" source="lc/vocabulary/gacs"
+                xml:lang="en">Haiti</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Holy See -->
@@ -2676,10 +2670,10 @@
             <exactMatch type="genc-2a-code" id="VA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VAT" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/vc"
-                source="lc/vocabulary/countries/af" xml:lang="en">Vatican City</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Vatican City</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-vc"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Vatican City</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-vc" source="lc/vocabulary/gacs"
+                xml:lang="en">Vatican City</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Honduras -->
@@ -2702,10 +2696,10 @@
             <exactMatch type="genc-2a-code" id="HN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HND" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ho"
-                source="lc/vocabulary/countries/af" xml:lang="en">Honduras</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Honduras</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/ncho"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Honduras</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/ncho" source="lc/vocabulary/gacs"
+                xml:lang="en">Honduras</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Hungary -->
@@ -2726,10 +2720,10 @@
             <exactMatch type="genc-2a-code" id="HU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HUN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/hu"
-                source="lc/vocabulary/countries/af" xml:lang="en">Hungary</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Hungary</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-hu"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Hungary</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-hu" source="lc/vocabulary/gacs"
+                xml:lang="en">Hungary</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Iceland -->
@@ -2752,10 +2746,10 @@
             <exactMatch type="genc-2a-code" id="IS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ISL" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ic"
-                source="lc/vocabulary/countries/af" xml:lang="en">Iceland</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Iceland</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-ic"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Iceland</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-ic" source="lc/vocabulary/gacs"
+                xml:lang="en">Iceland</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- India -->
@@ -2780,10 +2774,10 @@
             <exactMatch type="genc-2a-code" id="IN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IND" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ii"
-                source="lc/vocabulary/countries/af" xml:lang="en">India</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">India</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ii"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">India</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ii" source="lc/vocabulary/gacs"
+                xml:lang="en">India</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Indonesia -->
@@ -2806,10 +2800,10 @@
             <exactMatch type="genc-2a-code" id="ID" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IDN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/io"
-                source="lc/vocabulary/countries/af" xml:lang="en">Indonesia</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Indonesia</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-io"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Indonesia</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-io" source="lc/vocabulary/gacs"
+                xml:lang="en">Indonesia</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Iran -->
@@ -2830,10 +2824,10 @@
             <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ir"
-                source="lc/vocabulary/countries/af" xml:lang="en">Iran</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Iran</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ir"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Iran</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ir" source="lc/vocabulary/gacs"
+                xml:lang="en">Iran</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!--  Iraq-->
@@ -2856,10 +2850,10 @@
             <exactMatch type="genc-2a-code" id="IQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IRQ" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/iq"
-                source="lc/vocabulary/countries/af" xml:lang="en">Iraq</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Iraq</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-iq"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Iraq</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-iq" source="lc/vocabulary/gacs"
+                xml:lang="en">Iraq</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Ireland -->
@@ -2880,10 +2874,10 @@
             <exactMatch type="genc-2a-code" id="IE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IRL" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ie"
-                source="lc/vocabulary/countries/af" xml:lang="en">Ireland</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Ireland</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-ie"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Ireland</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-ie" source="lc/vocabulary/gacs"
+                xml:lang="en">Ireland</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Israel -->
@@ -2904,10 +2898,10 @@
             <exactMatch type="genc-2a-code" id="IL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ISR" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/is"
-                source="lc/vocabulary/countries/af" xml:lang="en">Israel</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Israel</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-is"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Israel</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-is" source="lc/vocabulary/gacs"
+                xml:lang="en">Israel</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Italy -->
@@ -2931,10 +2925,10 @@
             <exactMatch type="genc-2a-code" id="IT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ITA" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/it"
-                source="lc/vocabulary/countries/af" xml:lang="en">Italy</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Italy</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-it"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Italy</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-it" source="lc/vocabulary/gacs"
+                xml:lang="en">Italy</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Jamaica -->
@@ -2955,10 +2949,10 @@
             <exactMatch type="genc-2a-code" id="JM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JAM" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/jm"
-                source="lc/vocabulary/countries/af" xml:lang="en">Jamaica</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Jamaica</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/nwjm"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Jamaica</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwjm" source="lc/vocabulary/gacs"
+                xml:lang="en">Jamaica</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Japan -->
@@ -2979,10 +2973,10 @@
             <exactMatch type="genc-2a-code" id="JP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JPN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ja"
-                source="lc/vocabulary/countries/af" xml:lang="en">Japan</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Japan</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ja"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Japan</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ja" source="lc/vocabulary/gacs"
+                xml:lang="en">Japan</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Jordan -->
@@ -3005,10 +2999,10 @@
             <exactMatch type="genc-2a-code" id="JO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JOR" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/jo"
-                source="lc/vocabulary/countries/af" xml:lang="en">Jordan</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Jordan</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-jo"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Jordan</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-jo" source="lc/vocabulary/gacs"
+                xml:lang="en">Jordan</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Kazakhstan -->
@@ -3031,10 +3025,10 @@
             <exactMatch type="genc-2a-code" id="KZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KAZ" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kz"
-                source="lc/vocabulary/countries/af" xml:lang="en">Kazakhstan</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Kazakhstan</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-kz"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kazakhstan</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kz" source="lc/vocabulary/gacs"
+                xml:lang="en">Kazakhstan</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Kenya -->
@@ -3059,10 +3053,10 @@
             <exactMatch type="genc-2a-code" id="KE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KEN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ke"
-                source="lc/vocabulary/countries/af" xml:lang="en">Kenya</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Kenya</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-ke"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kenya</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-ke" source="lc/vocabulary/gacs"
+                xml:lang="en">Kenya</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Kiribati -->
@@ -3087,10 +3081,10 @@
             <exactMatch type="genc-2a-code" id="KI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KIR" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gb"
-                source="lc/vocabulary/countries/af" xml:lang="en">Kiribati</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Kiribati</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/pokb"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kiribati</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/pokb" source="lc/vocabulary/gacs"
+                xml:lang="en">Kiribati</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Korea, North -->
@@ -3111,10 +3105,10 @@
             <exactMatch type="genc-2a-code" id="KP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PRK" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kn"
-                source="lc/vocabulary/countries/af" xml:lang="en">Korea (North)</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Korea (North)</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-kn"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Korea (North)</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kn" source="lc/vocabulary/gacs"
+                xml:lang="en">Korea (North)</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Korea, South -->
@@ -3138,10 +3132,10 @@
             <exactMatch type="genc-2a-code" id="KR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KOR" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ko"
-                source="lc/vocabulary/countries/af" xml:lang="en">Korea (South)</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Korea (South)</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ko"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Korea (South)</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ko" source="lc/vocabulary/gacs"
+                xml:lang="en">Korea (South)</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Kosovo -->
@@ -3164,10 +3158,10 @@
             <exactMatch type="genc-2a-code" id="XK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XKS" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kv"
-                source="lc/vocabulary/countries/af" xml:lang="en">Kosovo</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Kosovo</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-kv"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kosovo</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-kv" source="lc/vocabulary/gacs"
+                xml:lang="en">Kosovo</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Kuwait -->
@@ -3188,10 +3182,10 @@
             <exactMatch type="genc-2a-code" id="KW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KWT" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ku"
-                source="lc/vocabulary/countries/af" xml:lang="en">Kuwait</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Kuwait</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ku"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kuwait</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ku" source="lc/vocabulary/gacs"
+                xml:lang="en">Kuwait</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Kyrgyzstan -->
@@ -3212,10 +3206,10 @@
             <exactMatch type="genc-2a-code" id="KG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KGZ" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kg"
-                source="lc/vocabulary/countries/af" xml:lang="en">Kyrgyzstan</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Kyrgyzstan</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-kg"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kyrgyzstan</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kg" source="lc/vocabulary/gacs"
+                xml:lang="en">Kyrgyzstan</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Laos -->
@@ -3237,10 +3231,10 @@
             <exactMatch type="genc-2a-code" id="LA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LAO" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ls"
-                source="lc/vocabulary/countries/af" xml:lang="en">Laos</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Laos</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ls"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Laos</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ls" source="lc/vocabulary/gacs"
+                xml:lang="en">Laos</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Latvia -->
@@ -3263,10 +3257,10 @@
             <exactMatch type="genc-2a-code" id="LV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LVA" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lv"
-                source="lc/vocabulary/countries/af" xml:lang="en">Latvia</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Latvia</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-lv"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Latvia</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-lv" source="lc/vocabulary/gacs"
+                xml:lang="en">Latvia</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Lebanon -->
@@ -3288,10 +3282,10 @@
             <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/le"
-                source="lc/vocabulary/countries/af" xml:lang="en">Lebanon</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Lebanon</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-le"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Lebanon</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-le" source="lc/vocabulary/gacs"
+                xml:lang="en">Lebanon</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Lesotho -->
@@ -3313,10 +3307,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="LS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LSO" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                xml:lang="en">Lesotho</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                xml:lang="en">Lesotho</exactMatch>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries" xml:lang="en"
+                >Lesotho</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs" xml:lang="en"
+                >Lesotho</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Liberia -->
@@ -3338,10 +3332,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBR" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                xml:lang="en">Liberia</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                xml:lang="en">Liberia</exactMatch>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries" xml:lang="en"
+                >Liberia</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs" xml:lang="en"
+                >Liberia</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Libya -->
@@ -3364,10 +3358,10 @@
             <exactMatch type="genc-2a-code" id="LY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBY" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ly"
-                source="lc/vocabulary/countries/af" xml:lang="en">Libya</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Libya</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-ly"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Libya</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-ly" source="lc/vocabulary/gacs"
+                xml:lang="en">Libya</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Liechtenstein -->
@@ -3390,10 +3384,10 @@
             <exactMatch type="genc-2a-code" id="LI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LIE" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lh"
-                source="lc/vocabulary/countries/af" xml:lang="en">Liechtenstein</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Liechtenstein</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-lh"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Liechtenstein</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-lh" source="lc/vocabulary/gacs"
+                xml:lang="en">Liechtenstein</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Lithuania -->
@@ -3418,10 +3412,10 @@
             <exactMatch type="genc-2a-code" id="LT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LTU" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/li"
-                source="lc/vocabulary/countries/af" xml:lang="en">Lithuania</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Lithuania</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-li"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Lithuania</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-li" source="lc/vocabulary/gacs"
+                xml:lang="en">Lithuania</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Luxembourg -->
@@ -3444,10 +3438,10 @@
             <exactMatch type="genc-2a-code" id="LU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LUX" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lu"
-                source="lc/vocabulary/countries/af" xml:lang="en">Luxembourg</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Luxembourg</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-lu"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Luxembourg</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-lu" source="lc/vocabulary/gacs"
+                xml:lang="en">Luxembourg</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Madagascar -->
@@ -3470,10 +3464,10 @@
             <exactMatch type="genc-2a-code" id="MG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MDG" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mg"
-                source="lc/vocabulary/countries/af" xml:lang="en">Madagascar</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Madagascar</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-mg"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Madagascar</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mg" source="lc/vocabulary/gacs"
+                xml:lang="en">Madagascar</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Malawi -->
@@ -3496,10 +3490,10 @@
             <exactMatch type="genc-2a-code" id="MW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MWI" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mw"
-                source="lc/vocabulary/countries/af" xml:lang="en">Malawi</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Malawi</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-mw"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Malawi</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mw" source="lc/vocabulary/gacs"
+                xml:lang="en">Malawi</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
         <!-- Malaysia -->
@@ -3520,10 +3514,10 @@
             <exactMatch type="genc-2a-code" id="MY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MYS" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/my"
-                source="lc/vocabulary/countries/af" xml:lang="en">Malaysia</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Malaysia</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-my"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Malaysia</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-my" source="lc/vocabulary/gacs"
+                xml:lang="en">Malaysia</exactMatch>
             <exactMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85080109"
                 source="lc/authorities/sh" xml:lang="en">Malaysia</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
@@ -3548,9 +3542,9 @@
             <exactMatch type="genc-2a-code" id="MV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MDV" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xc"
-                source="lc/vocabulary/countries/af" xml:lang="en">Maldives</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                xml:lang="en">Maldives</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Maldives</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs" xml:lang="en"
+                >Maldives</exactMatch>
             <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/i-xc"
                 source="lc/authorities/sh" xml:lang="en">Maldives</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
@@ -3575,10 +3569,10 @@
             <exactMatch type="genc-2a-code" id="ML" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MLI" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ml"
-                source="lc/vocabulary/countries/af" xml:lang="en">Mali</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Mali</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-ml"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Mali</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-ml" source="lc/vocabulary/gacs"
+                xml:lang="en">Mali</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en">Mali</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
@@ -3604,10 +3598,10 @@
             <exactMatch type="genc-2a-code" id="MT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MLT" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mm"
-                source="lc/vocabulary/countries/af" xml:lang="en">Malta</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Malta</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/e-mm"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Malta</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-mm" source="lc/vocabulary/gacs"
+                xml:lang="en">Malta</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
                 >Malta</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
@@ -3632,9 +3626,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="MH" source="lc/vocabulary/countries/af"
-                xml:lang="en">Marshall Islands</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="MHL" source="lc/vocabulary/gacs/a-af"
+            <exactMatch type="marc-countries" id="MH" source="lc/vocabulary/countries" xml:lang="en"
+                >Marshall Islands</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="MHL" source="lc/vocabulary/gacs"
                 xml:lang="en">Marshall Islands</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en">Marshall
                 Islands</exactMatch>
@@ -3660,10 +3654,10 @@
             <exactMatch type="genc-2a-code" id="MR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MRT" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mu"
-                source="lc/vocabulary/countries/af" xml:lang="en">Mauritania</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Mauritania</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/f-mu"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Mauritania</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mu" source="lc/vocabulary/gacs"
+                xml:lang="en">Mauritania</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
                 >Mauritania</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
@@ -3690,10 +3684,10 @@
             <exactMatch type="genc-2a-code" id="MU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MUS" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mf"
-                source="lc/vocabulary/countries/af" xml:lang="en">Mauritius</exactMatch>
+                source="lc/vocabulary/countries" xml:lang="en">Mauritius</exactMatch>
             <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/i-mf"
-                source="lc/vocabulary/gacs/a-af" xml:lang="en">Mauritius</exactMatch>
+                id="http://id.loc.gov/vocabulary/geographicAreas/i-mf" source="lc/vocabulary/gacs"
+                xml:lang="en">Mauritius</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
                 >Mauritius</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
@@ -3716,29 +3710,290 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="MX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MEX" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
-                xml:lang="en">Mexico</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
-                xml:lang="en">Mexico</exactMatch>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries" xml:lang="en"
+                >Mexico</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs" xml:lang="en"
+                >Mexico</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
                 >Mexico</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
+        <!-- Micronesia, Federated States of  -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:03:48-04:00">
+            <id source="us-dos-fsi-oh" id="061eb8da-cfca-43ee-bc3e-051f1439c0eb"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Federated States of
+                Micronesia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federated States of
+                Micronesia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Micronesia, Federated
+                States of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Palikir</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="FM" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="FSM" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fm"
+                source="lc/vocabulary/countries" xml:lang="en">Micronesia (Federated
+                States)</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/pomi" source="lc/vocabulary/gacs"
+                xml:lang="en">Micronesia (Federated States)</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Moldova -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:18:46-04:00">
+            <id source="us-dos-fsi-oh" id="f1bf23fc-7f87-48e7-9e8b-9cf338188211"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Moldova</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Moldova</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Moldova, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Chisinau</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MD" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MDA" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mv"
+                source="lc/vocabulary/countries" xml:lang="en">Moldova</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-mv" source="lc/vocabulary/gacs"
+                xml:lang="en">Moldova</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Monaco -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:20:40-04:00">
+            <id source="us-dos-fsi-oh" id="8ef127af-72f2-4c68-ba56-9136b2f3be82"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Monaco</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Principality of
+                Monaco</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Monaco, Principality
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Monaco</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MC" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MCD" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mc"
+                source="lc/vocabulary/countries" xml:lang="en">Monaco</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-mc" source="lc/vocabulary/gacs"
+                xml:lang="en">Monaco</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Mongolia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:22:02-04:00">
+            <id source="us-dos-fsi-oh" id="c716cc08-271d-4659-ba69-ea7d66f8dd6e"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mongolia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Mongolia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mongolia</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ulaanbaatar</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MN" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MNG" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mp"
+                source="lc/vocabulary/countries" xml:lang="en">Mongolia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-mp" source="lc/vocabulary/gacs"
+                xml:lang="en">Mongolia</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Montenegro -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:23:20-04:00">
+            <id source="us-dos-fsi-oh" id="25b013fe-642b-4059-8dd9-9377e1eac46c"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Montenegro</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Montenegro</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Montenegro</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Podgorica</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="ME" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MNE" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mo"
+                source="lc/vocabulary/countries" xml:lang="en">Montenegro</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-mo" source="lc/vocabulary/gacs"
+                xml:lang="en">Montenegro</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Morocco -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:24:50-04:00">
+            <id source="us-dos-fsi-oh" id="b88e4f08-f3ea-456d-ba68-9a9ff0c08cd0"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Morocco</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                Morocco</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Morocco, Kingdom
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Rabat</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MA" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MAR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mr"
+                source="lc/vocabulary/countries" xml:lang="en">Morocco</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mr" source="lc/vocabulary/gacs"
+                xml:lang="en">Morocco</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Mozambique -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:30:36-04:00">
+            <id source="us-dos-fsi-oh" id="5649f238-86da-4345-9e9e-5e8804359c67"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mozambique</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Mozambique</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mozambique, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Maputo</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MZ" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MOZ" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mz"
+                source="lc/vocabulary/countries" xml:lang="en">Mozambique</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mz" source="lc/vocabulary/gacs"
+                xml:lang="en">Mozambique</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Namibia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:31:55-04:00">
+            <id source="us-dos-fsi-oh" id="25c9593e-0847-4891-b85a-1ba7b2eb2063"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Namibia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Namibia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Namibia, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Windhoek</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="NA" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="NAM" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sx"
+                source="lc/vocabulary/countries" xml:lang="en">Namibia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-sx" source="lc/vocabulary/gacs"
+                xml:lang="en">Namibia</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Nauru -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:33:34-04:00">
+            <id source="us-dos-fsi-oh" id="c49b7964-5aa6-4705-8219-7e1c0faba034"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Nauru</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Nauru</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Nauru, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yaren District<note
+                    source="us-dos-inr"/>(Nauru has no capital city)</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="NR" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="NRU" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/nu"
+                source="lc/vocabulary/countries" xml:lang="en">Nauru</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/ponu" source="lc/vocabulary/gacs"
+                xml:lang="en">Nauru</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Nepal -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:39:32-04:00">
+            <id source="us-dos-fsi-oh" id="99bea0b9-5c1a-416e-9e4a-d988edd77137"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Nepal</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federal Democratic Republic
+                of Nepal</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Nepal, Federal Democratic
+                Republic of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kathmandu</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
+                xml:lang="en">South and Central Asia</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="NP" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="NPL" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/np"
+                source="lc/vocabulary/countries" xml:lang="en">Nepal</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-np" source="lc/vocabulary/gacs"
+                xml:lang="en">Nepal</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+
     </collection>
-    <!--			
-        Micronesia,
-        Federated States of 	Diplomatic relations with the United States		Member of United Nations		Federated States
-        of Micronesia	FM	FSM	Palikir
-        Moldova 	Diplomatic relations with the United States		Member of United Nations		Republic of Moldova	MD	MDA	Chisinau
-        Monaco 	Diplomatic relations with the United States		Member of United Nations		Principality of Monaco	MC	MCO	Monaco
-        Mongolia 	Diplomatic relations with the United States		Member of United Nations		Mongolia	MN	MNG	Ulaanbaatar
-        Montenegro 	Diplomatic relations with the United States		Member of United Nations		Montenegro	ME	MNE	Podgorica
-        Morocco 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Morocco	MA	MAR	Rabat
-        Mozambique 	Diplomatic relations with the United States		Member of United Nations		Republic of Mozambique	MZ	MOZ	Maputo
-        Namibia 	Diplomatic relations with the United States		Member of United Nations		Republic of Namibia	NA	NAM	Windhoek
-        Nauru 	Diplomatic relations with the United States		Member of United Nations		Republic of Nauru	NR	NRU	Yaren District
-        (no capital city)
-        Nepal 	Diplomatic relations with the United States		Member of United Nations		Federal Democratic Republic of Nepal	NP	NPL	Kathmandu
+    <!-- 	
         Netherlands 	Diplomatic relations with the United States		Member of United Nations		Kingdom of the Netherlands	NL	NLD	Amsterdam
         The Hague (seat of government)
         New Zealand 	Diplomatic relations with the United States		Member of United Nations		New Zealand	NZ	NZL	Wellington
