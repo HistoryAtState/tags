@@ -4535,10 +4535,11 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="RU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="RUS" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/geographicAreas/e-ru"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ru"
                 source="lc/vocabulary/countries" xml:lang="en">Russia (Federation)</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/ru"
-                source="lc/vocabulary/gacs" xml:lang="en">Russia (Federation)</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-ru" source="lc/vocabulary/gacs"
+                xml:lang="en">Russia (Federation)</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
@@ -4561,20 +4562,141 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="RW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="RWA" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/geographicAreas/f-rw"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/rw"
                 source="lc/vocabulary/countries" xml:lang="en">Rwanda</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/rw"
-                source="lc/vocabulary/gacs" xml:lang="en">Rwanda</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-rw" source="lc/vocabulary/gacs"
+                xml:lang="en">Rwanda</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Saint Kitts and Nevis -->
+        <concept type="place" created-by="rossat" created-date="2019-06-29"
+            lastDateTimeVerified="2019-06-29T00:06:24-04:00">
+            <id source="us-dos-fsi-oh" id="cb98edd9-8621-4e51-a605-58d8ab78ad8c"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Saint Kitts and
+                Nevis</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Federation of Saint Kitts
+                and Nevis</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Kitts and Nevis,
+                Federation of </altLabel>
+            <useFor>Nevis</useFor>
+            <useFor>Saint Christopher</useFor>
+            <useFor>Saint Christopher Island</useFor>
+            <useFor>St. Christopher</useFor>
+            <useFor>St. Christopher Island</useFor>
+            <useFor>Saint Kitts</useFor>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Basseterre</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KN" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KNA" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xd"
+                source="lc/vocabulary/countries" xml:lang="en">Saint Kitts-Nevis</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwxi" source="lc/vocabulary/gacs"
+                xml:lang="en">Saint Kitts and Nevis</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+
+        <!-- Saint Lucia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-29"
+            lastDateTimeVerified="2019-06-29T00:16:34-04:00">
+            <id source="us-dos-fsi-oh" id="27d48167-f3fc-44dc-b44e-b88b7ec64584"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Saint Lucia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Lucia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Lucia</altLabel>
+            <altLabel type="variant" source="us-dos-inr" xml:lang="en">St. Lucia</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Castries</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LC" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LCA" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xk"
+                source="lc/vocabulary/countries" xml:lang="en">Saint Lucia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwxk" source="lc/vocabulary/gacs"
+                xml:lang="en">Saint Lucia</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Saint Vincent and the Grenadines -->
+        <concept type="place" created-by="rossat" created-date="2019-06-29"
+            lastDateTimeVerified="2019-06-29T00:19:11-04:00">
+            <id source="us-dos-fsi-oh" id="21448254-fc72-4c91-963f-3dc3446eeb22"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Saint Vincent and the
+                Grenadines</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Vincent and the
+                Grenadines</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Vincent and the
+                Grenadines</altLabel>
+            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en">St. Vincent and the
+                Grenadines</altLabel>
+            <useFor>Grenadine Islands</useFor>
+            <useFor>Grenadines</useFor>
+            <useFor>Saint Vincent</useFor>
+            <useFor>St. Vincent</useFor>
+
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kingstown</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="VC" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="VCT" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xm"
+                source="lc/vocabulary/countries" xml:lang="en">Saint Vincent and the
+                Grenadines</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwxm" source="lc/vocabulary/gacs"
+                xml:lang="en">Saint Vincent and the Grenadines</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Samoa -->
+        <concept type="place" created-by="rossat" created-date="2019-06-29"
+            lastDateTimeVerified="2019-06-29T00:24:00-04:00">
+            <id source="us-dos-fsi-oh" id="446eac80-a027-4ed9-b1d7-5239e1e87430"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Samoa</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Independent State of
+                Samoa</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Samoa, Independent State
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Apia</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="WS" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="WSM" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ws"
+                source="lc/vocabulary/countries" xml:lang="en">Samoa</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/pows" source="lc/vocabulary/gacs"
+                xml:lang="en">Samoa</exactMatch>
             <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"/>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
 
     </collection>
-    <!-- 					
-        Saint Kitts and Nevis 	Diplomatic relations with the United States		Member of United Nations		Federation of Saint Kitts and Nevis	KN	KNA	Basseterre
-        Saint Lucia 	Diplomatic relations with the United States		Member of United Nations		Saint Lucia	LC	LCA	Castries
-        Saint Vincent and the Grenadines 	Diplomatic relations with the United States		Member of United Nations		Saint Vincent and the Grenadines	VC	VCT	Kingstown
-        Samoa 	Diplomatic relations with the United States		Member of United Nations		Independent State of Samoa	WS	WSM	Apia
+    <!-- 
         San Marino 	Diplomatic relations with the United States		Member of United Nations		Republic of San Marino	SM	SMR	San Marino
         Sao Tome and Principe 	Diplomatic relations with the United States		Member of United Nations		Democratic Republic of
         Sao Tome and Principe	ST	STP	São Tomé
