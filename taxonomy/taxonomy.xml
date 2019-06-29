@@ -566,11 +566,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Kabul</narrower>
-                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kabul</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AFG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
@@ -593,11 +594,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Tirana</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tirana</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AL" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ALB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aa"
@@ -620,11 +622,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Algiers</narrower>
-                <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Algiers</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
                     xml:lang="en">Near East</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="DZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DZA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
@@ -646,12 +649,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Andorra la
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Andorra la
                     Vella</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AND" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/an"
@@ -673,11 +677,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Luanda</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Luanda</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AGO" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
@@ -704,11 +709,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Saint John’s</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Saint
+                    John’s</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ATG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aq"
@@ -730,11 +737,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Buenos Aires</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Buenos
+                    Aires</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ARG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries"
@@ -757,11 +766,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ARM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ai"
@@ -783,11 +793,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Canberra</narrower>
-                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Canberra</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AU" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AUS" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/at"
@@ -811,11 +822,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Vienna</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vienna</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="AT" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AUT" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/au"
@@ -837,11 +849,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Baku</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Baku</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-3a-code" id="AZE" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aj"
                     source="lc/vocabulary/countries/af" xml:lang="en">Azerbaijan</exactMatch>
@@ -863,11 +876,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Nassau</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nassau</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BS" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BHS" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bf"
@@ -889,11 +903,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Manama</narrower>
-                <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Manama</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
                     xml:lang="en">Near East</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BHR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ba"
@@ -915,11 +930,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
-                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BGD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bg"
@@ -939,11 +955,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bridgetown</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bridgetown</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BB" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
@@ -967,11 +984,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Minsk</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Minsk</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BY" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BLR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bw"
@@ -996,11 +1014,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Brussels</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Brussels</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BEL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/be"
@@ -1020,11 +1039,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -1045,13 +1065,14 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Porto-Novo</narrower>
-                <narrower type="seat-of-government" source="us-dos-inr" xml:lang="en"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Porto-Novo</narrower>
+                <narrower type="hasSeatOfGovernment" source="us-dos-inr" xml:lang="en"
                     >Cotonou</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BEN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dm"
@@ -1071,11 +1092,12 @@
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bhutan, Kingdom
                     of</altLabel>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Thimphu</narrower>
-                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Thimphu</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BT" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BTN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bt"
@@ -1097,13 +1119,14 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="seat-of-government" source="us-dos-inr" xml:lang="en">La
+                <narrower type="hasSeatOfGovernment" source="us-dos-inr" xml:lang="en">La
                     Paz</narrower>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Sucre</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sucre</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BOL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bo"
@@ -1140,11 +1163,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Sarajevo</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sarajevo</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BA" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BIH" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bn"
@@ -1170,11 +1194,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Gaborone</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Gaborone</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BW" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BWA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bs"
@@ -1198,11 +1223,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Brasília</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Brasília</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bl"
@@ -1224,12 +1250,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bandar Seri
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bandar Seri
                     Begawan</narrower>
-                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BN" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bx"
@@ -1251,11 +1278,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Sofia</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sofia</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BGR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -1278,11 +1306,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Ouagadougou</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ouagadougou</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BFA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
@@ -1307,13 +1336,14 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Rangoon</narrower>
-                <narrower type="administrative-capital" source="us-dos-inr" xml:lang="en">Nay Pyi
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Rangoon</narrower>
+                <narrower type="hasAdministrativeCapital" source="us-dos-inr" xml:lang="en">Nay Pyi
                     Taw</narrower>
-                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="MM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="MMR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -1334,11 +1364,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bujumbura</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bujumbura</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="BI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BDI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bd"
@@ -1363,11 +1394,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Praia</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Praia</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CV" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CPV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cv"
@@ -1390,11 +1422,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Phnom Penh</narrower>
-                <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Phnom Penh</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
                     xml:lang="en">South and Central Asia</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="KH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="KHM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cb"
@@ -1418,11 +1451,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Yaoundé</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yaoundé</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CMR" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cm"
@@ -1442,11 +1476,12 @@
                     <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Ottawa</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ottawa</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CA" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CAN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxc"
@@ -1468,11 +1503,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bangui</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bangui</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CAF" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cx"
@@ -1496,11 +1532,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">N’Djamena</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">N’Djamena</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="TD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="TCD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
@@ -1521,11 +1558,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Santiago</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Santiago</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CL" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CHL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cl"
@@ -1553,11 +1591,12 @@
                         Taiwan is part of China.</note>
                 </related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Beijing</narrower>
-                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Beijing</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CN" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CHN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cc"
@@ -1584,11 +1623,12 @@
                 <diplomaticRelationsWith source="us-dos-inr" id="">United
                     States</diplomaticRelationsWith>
                 <memberOf source="us-dos-inr" id="">United Nations</memberOf>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Bogotá</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bogotá</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COL" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ck"
@@ -1612,11 +1652,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Moroni</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Moroni</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="KM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ot"
@@ -1650,11 +1691,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Brazzaville</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Brazzaville</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COG" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cf"
@@ -1683,11 +1725,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Kinshasa</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kinshasa</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cg"
@@ -1711,11 +1754,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">San José</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">San José</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CRI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
@@ -1738,11 +1782,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Yamoussoukro</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en"
+                    >Yamoussoukro</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CIV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
@@ -1764,11 +1810,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Zagreb</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Zagreb</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="HR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="HRV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ci"
@@ -1790,11 +1837,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Havana</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Havana</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CU" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CUB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries"
@@ -1817,11 +1865,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Nicosia</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nicosia</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CY" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CYP" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cy"
@@ -1843,11 +1892,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Prague</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Prague</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="CZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CZE" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xr"
@@ -1869,11 +1919,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Copenhagen</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Copenhagen</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="DK" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DNK" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dk"
@@ -1895,11 +1946,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Djibouti</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Djibouti</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="DJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DJI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ft"
@@ -1923,11 +1975,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Roseau</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Roseau</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="DM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DMA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dq"
@@ -1950,11 +2003,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Santo Domingo</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Santo
+                    Domingo</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="DO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DOM" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dr"
@@ -1979,11 +2034,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Quito</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Quito</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="EC" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ECU" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ec"
@@ -2005,11 +2061,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Cairo</narrower>
-                <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Cairo</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
                     xml:lang="en">Near East</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="EG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="EGY" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ua"
@@ -2031,11 +2088,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">San Salvador</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">San
+                    Salvador</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="SV" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="SLV" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/es"
@@ -2058,11 +2117,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Malabo</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Malabo</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GQ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GNQ" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/eg"
@@ -2084,11 +2144,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Asmara</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Asmara</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="ER" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ERI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ea"
@@ -2110,11 +2171,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Tallinn</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tallinn</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="EE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="EST" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/er"
@@ -2138,14 +2200,15 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="administrative-capital" source="us-dos-inr" xml:lang="en"
+                <narrower type="hasAdministrativeCapital" source="us-dos-inr" xml:lang="en"
                     >Mbabane</narrower>
                 <narrower type="seat-of-legislation" source="us-dos-inr" xml:lang="en"
                     >Lobamba</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="SZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="SWZ" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sq"
@@ -2167,11 +2230,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Addis Ababa</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Addis Ababa</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="ET" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ETH" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/et"
@@ -2193,11 +2257,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Suva</narrower>
-                <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Suva</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
                     xml:lang="en">East Asia and Pacific</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="FJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FJI" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fj"
@@ -2221,11 +2286,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Helsinki</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Helsinki</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="FI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FIN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fi"
@@ -2248,11 +2314,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Paris</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Paris</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="FR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FRA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fr"
@@ -2278,11 +2345,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Libreville</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Libreville</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GA" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GAB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/go"
@@ -2296,8 +2364,7 @@
             <concept type="place" created-by="rossat" created-date="2019-06-28"
                 lastDateTimeVerified="2019-06-28T10:33:55-04:00">
                 <id source="us-dos-fsi-oh" id="3d8fed4d-8435-4acb-b4b1-41a9913a0ccf"/>
-                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Gambia,
-                    The</prefLabel>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">The Gambia</prefLabel>
                 <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of The
                     Gambia</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Gambia, Republic of
@@ -2305,11 +2372,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Banjul</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Banjul</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GMB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gm"
@@ -2329,11 +2397,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Tbilisi</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tbilisi</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GEO" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gs"
@@ -2356,11 +2425,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Berlin</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Berlin</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="DE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DEU" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gw"
@@ -2382,11 +2452,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Accra</narrower>
-                <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Accra</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                     xml:lang="en">Sub-Saharan Africa</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GHA" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gh"
@@ -2409,11 +2480,12 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Athens</narrower>
-                <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Athens</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                     xml:lang="en">Europe</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GRC" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gr"
@@ -2433,11 +2505,13 @@
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-                <narrower type="capital" source="us-dos-inr" xml:lang="en">Saint George’s</narrower>
-                <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+                <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Saint
+                    George’s</narrower>
+                <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                     xml:lang="en">Western Hemisphere</broader>
-                <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                    source="us-dos-inr">independent states</broader>
+                <broader type="isPartOf-geopoliticalCategory"
+                    id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
+                    states</broader>
                 <exactMatch type="genc-2a-code" id="GD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="GRD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gd"
@@ -2461,10 +2535,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Guatemala City</narrower>
-            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Guatemala City</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                 xml:lang="en">Western Hemisphere</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="GT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GTM" source="us-dos-inr"/>
@@ -2486,10 +2560,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Conakry</narrower>
-            <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Conakry</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                 xml:lang="en">Sub-Saharan Africa</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="GN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GIN" source="us-dos-inr"/>
@@ -2512,10 +2586,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Bissau</narrower>
-            <broader type="geographic-region" id="geo-region-af" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bissau</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
                 xml:lang="en">Sub-Saharan Africa</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="GW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GNB" source="us-dos-inr"/>
@@ -2541,10 +2615,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Georgetown</narrower>
-            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Georgetown</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                 xml:lang="en">Western Hemisphere</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="GY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUY" source="us-dos-inr"/>
@@ -2569,10 +2643,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Port-au-Prince</narrower>
-            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port-au-Prince</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                 xml:lang="en">Western Hemisphere</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="HT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HTI" source="us-dos-inr"/>
@@ -2594,10 +2668,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Vatican City</narrower>
-            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vatican City</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                 xml:lang="en">Europe</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="VA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VAT" source="us-dos-inr"/>
@@ -2620,10 +2694,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Tegucigalpa</narrower>
-            <broader type="geographic-region" id="geo-region-wh" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tegucigalpa</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
                 xml:lang="en">Western Hemisphere</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="HN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HND" source="us-dos-inr"/>
@@ -2644,10 +2718,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Budapest</narrower>
-            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Budapest</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                 xml:lang="en">Europe</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="HU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HUN" source="us-dos-inr"/>
@@ -2670,10 +2744,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Reykjavík</narrower>
-            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Reykjavík</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                 xml:lang="en">Europe</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="IS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ISL" source="us-dos-inr"/>
@@ -2698,10 +2772,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">New Delhi</narrower>
-            <broader type="geographic-region" id="geo-region-sca" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">New Delhi</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
                 xml:lang="en">South and Central Asia</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="IN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IND" source="us-dos-inr"/>
@@ -2724,10 +2798,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Jakarta</narrower>
-            <broader type="geographic-region" id="geo-region-eap" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Jakarta</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
                 xml:lang="en">East Asia and Pacific</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="ID" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IDN" source="us-dos-inr"/>
@@ -2748,10 +2822,10 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Iran, Islamic Republic of
                 Iran</altLabel>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Tehran</narrower>
-            <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tehran</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
                 xml:lang="en">Near East</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
@@ -2774,10 +2848,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Baghdad</narrower>
-            <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Baghdad</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
                 xml:lang="en">Near East</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="IQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IRQ" source="us-dos-inr"/>
@@ -2798,10 +2872,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Dublin</narrower>
-            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dublin</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                 xml:lang="en">Europe</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="IE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IRL" source="us-dos-inr"/>
@@ -2822,10 +2896,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Jerusalem</narrower>
-            <broader type="geographic-region" id="geo-region-ne" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Jerusalem</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
                 xml:lang="en">Near East</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="IL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ISR" source="us-dos-inr"/>
@@ -2849,10 +2923,10 @@
             <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                 States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="capital" source="us-dos-inr" xml:lang="en">Rome</narrower>
-            <broader type="geographic-region" id="geo-region-eur" source="us-dos-fsi-oh"
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Rome</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                 xml:lang="en">Europe</broader>
-            <broader type="geopolitical-category" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="IT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ITA" source="us-dos-inr"/>
@@ -2863,44 +2937,795 @@
                 source="lc/vocabulary/gacs/a-af" xml:lang="en">Italy</exactMatch>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
-
+        <!-- Jamaica -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:10:15-04:00">
+            <id source="us-dos-fsi-oh" id="abf76224-b24f-425a-b8b0-78be8f27a65a"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Jamaica</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Jamaica</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Jamaica</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kingston</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="JM" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="JAM" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/jm"
+                source="lc/vocabulary/countries/af" xml:lang="en">Jamaica</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/nwjm"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Jamaica</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Japan -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:14:55-04:00">
+            <id source="us-dos-fsi-oh" id="4bbacdee-b157-46d5-9624-9a648613e267"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Japan</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Japan</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Japan</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tokyo</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="JP" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="JPN" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ja"
+                source="lc/vocabulary/countries/af" xml:lang="en">Japan</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ja"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Japan</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Jordan -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:16:57-04:00">
+            <id source="us-dos-fsi-oh" id="a61545b0-3cbe-43b8-871a-828a470b10fc"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Jordan</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Hashemite Kingdom of
+                Jordan</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Jordan, Hashemite Kingdom
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Amman</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="JO" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="JOR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/jo"
+                source="lc/vocabulary/countries/af" xml:lang="en">Jordan</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-jo"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Jordan</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Kazakhstan -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:19:00-04:00">
+            <id source="us-dos-fsi-oh" id="870904d4-1f85-45cb-b293-4f91569403b4"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kazakhstan</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Kazakhstan</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kazakhstan, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nur-Sultan</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
+                xml:lang="en">South and Central Asia</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KZ" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KAZ" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kz"
+                source="lc/vocabulary/countries/af" xml:lang="en">Kazakhstan</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kz"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kazakhstan</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Kenya -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:21:30-04:00">
+            <id source="us-dos-fsi-oh" id="27369904-e5a8-4794-af4e-efc29ddf35fc"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kenya</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Kenya</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kenya, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nairobi</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KE" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KEN" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ke"
+                source="lc/vocabulary/countries/af" xml:lang="en">Kenya</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-ke"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kenya</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Kiribati -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:29:11-04:00">
+            <id source="us-dos-fsi-oh" id="68e9f7df-e43a-4d39-9a81-29fecdb7bf74"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kiribati</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Kiribati</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kiribati, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tarawa</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KI" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KIR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gb"
+                source="lc/vocabulary/countries/af" xml:lang="en">Kiribati</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/pokb"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kiribati</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Korea, North -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:39:11-04:00">
+            <id source="us-dos-fsi-oh" id="9f2bb2c3-69d6-4bc6-b009-5c630ea438d9"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">North Korea</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Democratic People’s
+                Republic of Korea</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">North Korea</altLabel>
+            <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (North)</hiddenLabel>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Pyongyang</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KP" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="PRK" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kn"
+                source="lc/vocabulary/countries/af" xml:lang="en">Korea (North)</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kn"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Korea (North)</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Korea, South -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:47:44-04:00">
+            <id source="us-dos-fsi-oh" id="b8f64161-39b3-44a2-ac11-e865599944d0"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">South Korea</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Korea</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Korea</altLabel>
+            <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (South)</hiddenLabel>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Seoul</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KR" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KOR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ko"
+                source="lc/vocabulary/countries/af" xml:lang="en">Korea (South)</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ko"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Korea (South)</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Kosovo -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:49:55-04:00">
+            <id source="us-dos-fsi-oh" id="80059f43-e4c3-4fc0-be7b-30ccb8052f0a"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kosovo</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Kosovo</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kosovo, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Pristina</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="XK" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="XKS" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kv"
+                source="lc/vocabulary/countries/af" xml:lang="en">Kosovo</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-kv"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kosovo</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Kuwait -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:53:38-04:00">
+            <id source="us-dos-fsi-oh" id="07e2f4f4-9ffc-432d-b849-b712ecfff88c"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kuwait</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Kuwait</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kuwait, State of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kuwait City</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KW" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KWT" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ku"
+                source="lc/vocabulary/countries/af" xml:lang="en">Kuwait</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ku"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kuwait</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Kyrgyzstan -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:59:41-04:00">
+            <id source="us-dos-fsi-oh" id="08a00b85-6898-4e07-a499-8747956da5f0"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kyrgyzstan</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kyrgyz Republic</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kyrgyzstan</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bishkek</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
+                xml:lang="en">South and Central Asia</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KG" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KGZ" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kg"
+                source="lc/vocabulary/countries/af" xml:lang="en">Kyrgyzstan</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kg"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Kyrgyzstan</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Laos -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T20:01:37-04:00">
+            <id source="us-dos-fsi-oh" id="7d2ed591-eb48-417e-812a-8ccfb250d32a"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Laos</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Lao People’s Democratic
+                Republic</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Laos</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vientiane</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LA" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LAO" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ls"
+                source="lc/vocabulary/countries/af" xml:lang="en">Laos</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ls"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Laos</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Latvia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T20:35:19-04:00">
+            <id source="us-dos-fsi-oh" id="e4c533ee-f731-4814-96bf-b00273ce3243"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Latvia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Latvia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Latvia, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Riga</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LV" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LVA" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lv"
+                source="lc/vocabulary/countries/af" xml:lang="en">Latvia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-lv"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Latvia</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Lebanon -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:00:21-04:00">
+            <id source="us-dos-fsi-oh" id="b72b813f-899a-42a1-8ce7-dc26907b0369"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Lebanon</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Lebanon
+                Republic</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Lebanon Republic</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Beirut</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LBN" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/le"
+                source="lc/vocabulary/countries/af" xml:lang="en">Lebanon</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-le"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Lebanon</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Lesotho -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:04:09-04:00">
+            <id source="us-dos-fsi-oh" id="d16a908e-28ca-4e0c-9b75-cb1dd82f6c17"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Lesotho</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kingdom of
+                Lesotho</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Lesotho, Kingdom
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Maseru</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LS" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LSO" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                xml:lang="en">Lesotho</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                xml:lang="en">Lesotho</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Liberia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:07:10-04:00">
+            <id source="us-dos-fsi-oh" id="7315c6d5-30fe-4ced-8730-2d697cc2fa0e"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Liberia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Liberia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Liberia, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Monrovia</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LBR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                xml:lang="en">Liberia</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                xml:lang="en">Liberia</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Libya -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:13:25-04:00">
+            <id source="us-dos-fsi-oh" id="7d2b290e-aa4b-45d9-bbaa-2f11b3c9f4f3"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Libya</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Libya</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Libya, State of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tripoli</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
+                xml:lang="en">Near East</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LY" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LBY" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ly"
+                source="lc/vocabulary/countries/af" xml:lang="en">Libya</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-ly"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Libya</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Liechtenstein -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:15:57-04:00">
+            <id source="us-dos-fsi-oh" id="fca3945d-4550-4a44-a19f-092df44a757f"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Liechtenstein</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Principality of
+                Liechtenstein</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Liechtenstein, Principality
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vaduz</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LI" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LIE" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lh"
+                source="lc/vocabulary/countries/af" xml:lang="en">Liechtenstein</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-lh"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Liechtenstein</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Lithuania -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:17:27-04:00">
+            <id source="us-dos-fsi-oh" id="c4565729-6a44-4cf0-b78c-9dd0de864584"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Lithuania</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Lithuania</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Lithuania, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vilnius</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LT" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LTU" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/li"
+                source="lc/vocabulary/countries/af" xml:lang="en">Lithuania</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-li"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Lithuania</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Luxembourg -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:38:40-04:00">
+            <id source="us-dos-fsi-oh" id="837bb302-0d20-40c3-91ba-6094fbf4c1d8"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Luxembourg</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Grand Duchy of
+                Luxembourg</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Luxembourg, Grand Duchy
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Luxembourg</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="LU" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="LUX" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lu"
+                source="lc/vocabulary/countries/af" xml:lang="en">Luxembourg</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-lu"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Luxembourg</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Madagascar -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:40:11-04:00">
+            <id source="us-dos-fsi-oh" id="e599881c-fc43-43fc-8e00-7f90c9b9420b"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Madagascar</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic
+                ofMadagascar</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Madagascar, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Antananarivo</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MG" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MDG" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mg"
+                source="lc/vocabulary/countries/af" xml:lang="en">Madagascar</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mg"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Madagascar</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Malawi -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:41:49-04:00">
+            <id source="us-dos-fsi-oh" id="2a9d737a-c8b4-493d-aec5-a6d142b44ff4"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Malawi</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Malawi</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Malawi, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Lilongwe</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MW" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MWI" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mw"
+                source="lc/vocabulary/countries/af" xml:lang="en">Malawi</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mw"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Malawi</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Malaysia -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:43:31-04:00">
+            <id source="us-dos-fsi-oh" id="a1411e2e-d086-4288-82ba-c04a387d8589"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Malaysia</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Malaysia</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Malaysia</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kuala Lumpur</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MY" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MYS" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/my"
+                source="lc/vocabulary/countries/af" xml:lang="en">Malaysia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-my"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Malaysia</exactMatch>
+            <exactMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85080109"
+                source="lc/authorities/sh" xml:lang="en">Malaysia</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Maldives -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:50:44-04:00">
+            <id source="us-dos-fsi-oh" id="802d6e3b-065d-45a8-acb0-46f233495125"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Maldives</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Maldives</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Maldives, Republic
+                of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Male</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
+                xml:lang="en">South and Central Asia</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MV" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MDV" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xc"
+                source="lc/vocabulary/countries/af" xml:lang="en">Maldives</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                xml:lang="en">Maldives</exactMatch>
+            <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/i-xc"
+                source="lc/authorities/sh" xml:lang="en">Maldives</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Mali -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:51:45-04:00">
+            <id source="us-dos-fsi-oh" id="8e9e1591-b7c6-4e97-9767-ecb1964c3151"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mali</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Mali</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mali</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bamako</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="ML" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MLI" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ml"
+                source="lc/vocabulary/countries/af" xml:lang="en">Mali</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-ml"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Mali</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en">Mali</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Malta -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:54:16-04:00">
+            <id source="us-dos-fsi-oh" id="9f81f3ab-601e-404c-9f56-2ae132ec3669"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Malta</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Malta</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Malta, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Valletta</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
+                xml:lang="en">Europe</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MT" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MLT" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mm"
+                source="lc/vocabulary/countries/af" xml:lang="en">Malta</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-mm"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Malta</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
+                >Malta</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Marshall Islands -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:55:54-04:00">
+            <id source="us-dos-fsi-oh" id="33718587-fdf4-4225-9774-96a7ab2c4836"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Marshall
+                Islands</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of the Marshall
+                Islands</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Marshall Islands, Republic
+                of the</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Majuro</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="MH" source="lc/vocabulary/countries/af"
+                xml:lang="en">Marshall Islands</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="MHL" source="lc/vocabulary/gacs/a-af"
+                xml:lang="en">Marshall Islands</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en">Marshall
+                Islands</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Mauritania -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:57:02-04:00">
+            <id source="us-dos-fsi-oh" id="f799b036-c337-4c3b-964c-7bfbe19e6491"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mauritania</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Islamic Republic of
+                Mauritania</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mauritania, Islamic
+                Republic of</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nouakchott</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MR" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MRT" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mu"
+                source="lc/vocabulary/countries/af" xml:lang="en">Mauritania</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-mu"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Mauritania</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
+                >Mauritania</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Mauritius -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T21:59:35-04:00">
+            <id source="us-dos-fsi-oh" id="28cb3f52-6a34-438b-b8ea-2fe7691b995d"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mauritius</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Mauritius</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mauritius, Republic
+                of</altLabel>
+            <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+            <useFor/>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port Louis</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
+                xml:lang="en">Sub-Saharan Africa</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MU" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MUS" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mf"
+                source="lc/vocabulary/countries/af" xml:lang="en">Mauritius</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/i-mf"
+                source="lc/vocabulary/gacs/a-af" xml:lang="en">Mauritius</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
+                >Mauritius</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Mexico -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T22:00:56-04:00">
+            <id source="us-dos-fsi-oh" id="069e916d-0847-4442-9fd3-8d3bebf0911e"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mexico</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">United Mexican
+                States</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mexico</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Mexico City</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
+                xml:lang="en">Western Hemisphere</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="MX" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="MEX" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="" source="lc/vocabulary/countries/af"
+                xml:lang="en">Mexico</exactMatch>
+            <exactMatch type="marc-geographic-areas" id="" source="lc/vocabulary/gacs/a-af"
+                xml:lang="en">Mexico</exactMatch>
+            <exactMatch type="lcsh" id="" source="lc/authorities/sh" xml:lang="en"
+                >Mexico</exactMatch>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
     </collection>
-    <!-- 		
-         		
-        Jamaica 	Diplomatic relations with the United States		Member of United Nations		Jamaica	JM	JAM	Kingston
-        Japan 	Diplomatic relations with the United States		Member of United Nations		Japan	JP	JPN	Tokyo
-        Jordan 	Diplomatic relations with the United States		Member of United Nations		Hashemite
-        Kingdom of Jordan	JO	JOR	Amman
-        Kazakhstan 	Diplomatic relations with the United States		Member of United Nations		Republic of Kazakhstan	KZ	KAZ	! Nur-Sultan
-        Kenya 	Diplomatic relations with the United States		Member of United Nations		Republic of Kenya	KE	KEN	Nairobi
-        Kiribati 	Diplomatic relations with the United States		Member of United Nations		Republic of Kiribati	KI	KIR	Tarawa
-        Korea, North 	Member of United Nations		Democratic People’s Republic of Korea	KP	PRK	Pyongyang
-        Korea, South 	Diplomatic relations with the United States		Member of United Nations		Republic of Korea	KR	KOR	Seoul
-        Kosovo 	Diplomatic relations with the United States		Republic of Kosovo	XK	XKS	Pristina
-        Kuwait 	Diplomatic relations with the United States		Member of United Nations		State of Kuwait	KW	KWT	Kuwait City
-        Kyrgyzstan 	Diplomatic relations with the United States		Member of United Nations		Kyrgyz Republic	KG	KGZ	Bishkek
-        Laos 	Diplomatic relations with the United States		Member of United Nations		Lao People’s
-        Democratic Republic	LA	LAO	Vientiane
-        Latvia 	Diplomatic relations with the United States		Member of United Nations		Republic of Latvia	LV	LVA	Riga
-        Lebanon 	Diplomatic relations with the United States		Member of United Nations		Lebanese Republic	LB	LBN	Beirut
-        Lesotho 	Diplomatic relations with the United States		Member of United Nations		Kingdom of Lesotho	LS	LSO	Maseru
-        Liberia 	Diplomatic relations with the United States		Member of United Nations		Republic of Liberia	LR	LBR	Monrovia
-        Libya 	Diplomatic relations with the United States		Member of United Nations		State of Libya	LY	LBY	Tripoli
-        Liechtenstein 	Diplomatic relations with the United States		Member of United Nations		Principality of Liechtenstein	LI	LIE	Vaduz
-        Lithuania 	Diplomatic relations with the United States		Member of United Nations		Republic of Lithuania	LT	LTU	Vilnius
-        Luxembourg 	Diplomatic relations with the United States		Member of United Nations		Grand Duchy of Luxembourg	LU	LUX	Luxembourg
-        Madagascar 	Diplomatic relations with the United States		Member of United Nations		Republic of Madagascar	MG	MDG	Antananarivo
-        Malawi 	Diplomatic relations with the United States		Member of United Nations		Republic of Malawi	MW	MWI	Lilongwe
-        Malaysia 	Diplomatic relations with the United States		Member of United Nations		Malaysia	MY	MYS	Kuala Lumpur
-        Maldives 	Diplomatic relations with the United States		Member of United Nations		Republic of Maldives	MV	MDV	Male
-        Mali 	Diplomatic relations with the United States		Member of United Nations		Republic of Mali	ML	MLI	Bamako
-        Malta 	Diplomatic relations with the United States		Member of United Nations		Republic of Malta	MT	MLT	Valletta
-        Marshall Islands 	Diplomatic relations with the United States		Member of United Nations		Republic of the
-        Marshall Islands	MH	MHL	Majuro
-        Mauritania 	Diplomatic relations with the United States		Member of United Nations		Islamic Republic
-        of Mauritania	MR	MRT	Nouakchott
-        Mauritius 	Diplomatic relations with the United States		Member of United Nations		Republic of Mauritius	MU	MUS	Port Louis
-        Mexico 	Diplomatic relations with the United States		Member of United Nations		United Mexican States	MX	MEX	Mexico City
+    <!--			
         Micronesia,
         Federated States of 	Diplomatic relations with the United States		Member of United Nations		Federated States
         of Micronesia	FM	FSM	Palikir
