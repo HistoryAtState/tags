@@ -552,6 +552,16 @@
                 <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">states</hiddenLabel>
                 <useFor>nations</useFor>
             </concept>
+            <concept type="place" created-by="rossat" created-date="2019-06-30"
+                lastDateTimeVerified="2019-06-30T17:31:21-04:00">
+                <id source="us-dos-fsi-oh" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"/>
+                <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">other</prefLabel>
+                <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">other</prefLabel>
+                <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">other</altLabel>
+                <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en"/>
+                <useForx/>
+            </concept>
+
 
             <!-- Afghanistan -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -5832,6 +5842,32 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-rh" source="us-loc" xml:lang="en"
                 >Zimbabwe</exactMatch>
+            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+            <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
+        </concept>
+        <!-- Taiwan -->
+        <concept type="place" created-by="rossat" created-date="2019-06-30"
+            lastDateTimeVerified="2019-06-30T17:20:27-04:00">
+            <id source="us-dos-fsi-oh" id="a22e6802-28b0-449c-8c55-0cf64b40f038"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Taiwan</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en"/>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Taiwan</altLabel>
+            <historyNote source="us-dos-inr">Claimed by both the Government of the People’s Republic
+                of China and the authorities on Taiwan. Administered by the authorities on
+                Taiwan.</historyNote>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Taipei</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
+                source="us-dos-inr">other</broader>
+            <exactMatch type="genc-2a-code" id="TW" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="TWN" source="us-dos-inr"/>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ch" source="us-loc" xml:lang="en"
+                >Taiwan</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
             <!-- <sameAs type="placesPrevious" id="" source="us-dos-inr"/> -->
         </concept>
