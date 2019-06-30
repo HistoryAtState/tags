@@ -551,6 +551,9 @@
                 <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">state</hiddenLabel>
                 <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">states</hiddenLabel>
                 <useFor>nations</useFor>
+                <definition source="us-dos-inr">In this taxonomy, the term “independent state”
+                    refers to a people politically organized into a sovereign state with a definite
+                    territory recognized as independent by the US.</definition>
             </concept>
             <concept type="place" created-by="rossat" created-date="2019-06-30"
                 lastDateTimeVerified="2019-06-30T17:31:21-04:00">
