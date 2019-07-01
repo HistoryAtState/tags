@@ -1934,8 +1934,11 @@
                     states</broader>
                 <exactMatch type="genc-2a-code" id="TD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="TCD" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"/>
-                <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"/>
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cd"
+                    source="us-loc" xml:lang="en">Chad</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-cd" source="us-loc"
+                    xml:lang="en">Chad</exactMatch>
                 <exactMatch type="placesPrevious" id="chad" source="us-dos-fsi-oh">Chad</exactMatch>
             </concept>
             <!-- Chile -->
@@ -2126,7 +2129,9 @@
                 <exactMatch type="genc-3a-code" id="COD" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cg"
                     source="us-loc" xml:lang="en">Congo (Democratic Republic)</exactMatch>
-                <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"/>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-cg" source="us-loc"
+                    xml:lang="en">Congo (Democratic Republic)</exactMatch>
                 <exactMatch type="placesPrevious" id="democratic-republic-of-the-congo-kinshasa"
                     source="us-dos-fsi-oh">Democratic Republic of the Congo (Kinshasa)</exactMatch>
             </concept>
@@ -2947,9 +2952,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="GT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GTM" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                >Guatemala</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gt"
+                source="us-loc" xml:lang="en">Guatemala</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/ncgt" source="us-loc" xml:lang="en"
                 >Guatemala</exactMatch>
             <exactMatch type="placesPrevious" id="guatemala" source="us-dos-fsi-oh"
                 >Guatemala</exactMatch>
@@ -3670,9 +3676,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="LS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LSO" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                >Lesotho</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lo"
+                source="us-loc" xml:lang="en">Lesotho</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-lo" source="us-loc" xml:lang="en"
                 >Lesotho</exactMatch>
             <exactMatch type="placesPrevious" id="lesotho" source="us-dos-fsi-oh"
                 >Lesotho</exactMatch>
@@ -3696,9 +3703,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBR" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                >Liberia</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lb"
+                source="us-loc" xml:lang="en">Liberia</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-lb" source="us-loc" xml:lang="en"
                 >Liberia</exactMatch>
             <exactMatch type="placesPrevious" id="liberia" source="us-dos-fsi-oh"
                 >Liberia</exactMatch>
@@ -3909,10 +3917,10 @@
             <exactMatch type="genc-3a-code" id="MDV" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xc"
                 source="us-loc" xml:lang="en">Maldives</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/i-xc" source="us-loc" xml:lang="en"
                 >Maldives</exactMatch>
-            <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/i-xc"
-                source="us-loc" xml:lang="en">Maldives</exactMatch>
+            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Maldives</exactMatch>
             <exactMatch type="placesPrevious" id="maldives" source="us-dos-fsi-oh"
                 >Maldives</exactMatch>
         </concept>
@@ -4071,9 +4079,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="MX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MEX" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                >Mexico</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mx"
+                source="us-loc" xml:lang="en">Mexico</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/n-mx" source="us-loc" xml:lang="en"
                 >Mexico</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Mexico</exactMatch>
             <exactMatch type="placesPrevious" id="mexico" source="us-dos-fsi-oh">Mexico</exactMatch>
@@ -4569,9 +4578,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="NO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NOR" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                >Norway</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/no"
+                source="us-loc" xml:lang="en">Norway</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/e-no" source="us-loc" xml:lang="en"
                 >Norway</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
             <exactMatch type="placesPrevious" id="norway" source="us-dos-fsi-oh">Norway</exactMatch>
@@ -4679,10 +4689,10 @@
             <exactMatch type="genc-3a-code" id="PAN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/pn"
                 source="us-loc" xml:lang="en">Panama</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/ncpn" source="us-loc" xml:lang="en"
                 >Panama</exactMatch>
-            <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/ncpn"
-                source="us-loc" xml:lang="en">Panama</exactMatch>
+            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Panama</exactMatch>
             <exactMatch type="placesPrevious" id="panama" source="us-dos-fsi-oh">Panama</exactMatch>
         </concept>
         <!-- Papua New Guinea -->
@@ -5406,10 +5416,10 @@
             <exactMatch type="genc-3a-code" id="SOM" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/so"
                 source="us-loc" xml:lang="en">Somalia</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/f-so" source="us-loc" xml:lang="en"
                 >Somalia</exactMatch>
-            <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/f-so"
-                source="us-loc" xml:lang="en"/>
+            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
             <exactMatch type="placesPrevious" id="somalia" source="us-dos-fsi-oh"
                 >Somalia</exactMatch>
         </concept>
@@ -5710,9 +5720,10 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="genc-2a-code" id="TJ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TJK" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                >Tajikistan</exactMatch>
-            <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ta"
+                source="us-loc" xml:lang="en">Tajikistan</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ta" source="us-loc" xml:lang="en"
                 >Tajikistan</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
             <exactMatch type="placesPrevious" id="tajikistan" source="us-dos-fsi-oh"
