@@ -837,16 +837,29 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="argentina" source="us-dos-fsi-oh"
+                    >Argentina</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ARG" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ag" source="us-loc"
                     xml:lang="en">Argentina</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/countries/ag" source="us-loc" xml:lang="en"
                     >Argentina</exactMatch>
-                <exactMatch type="placesPrevious" id="argentina" source="us-dos-fsi-oh"
-                    >Argentina</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79070134"
+                    source="us-loc" xml:lang="en">Argentina</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/146499420" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205614" source="oclc"
+                    xml:lang="en">Argentina</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q414"
+                    source="wikimedia" xml:lang="en">Argentina</closeMatch>
             </concept>
             <!-- Armenia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -866,15 +879,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="armenia" source="us-dos-fsi-oh"
+                    >Armenia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ARM" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ai"
                     source="us-loc" xml:lang="en">Armenia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-ai" source="us-loc"
                     xml:lang="en">Armenia</exactMatch>
-                <exactMatch type="placesPrevious" id="armenia" source="us-dos-fsi-oh"
-                    >Armenia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79111504"
+                    source="us-loc" xml:lang="en">Armenia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/136032216" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://www.wikidata.org/entity/Q328518" source="oclc"
+                    xml:lang="en">Asia--Armenia</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q328518"
+                    source="wikimedia" xml:lang="en">Armenia</closeMatch>
             </concept>
             <!-- Australia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -894,15 +920,29 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+
+                <exactMatch type="placesPrevious" id="australia" source="us-dos-fsi-oh"
+                    >Australia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AU" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AUS" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/at"
                     source="us-loc" xml:lang="en">Australia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/u-at" source="us-loc"
                     xml:lang="en">Australia</exactMatch>
-                <exactMatch type="placesPrevious" id="australia" source="us-dos-fsi-oh"
-                    >Australia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79021326"
+                    source="us-loc" xml:lang="en">Australia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/128919823" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1204543" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q408"
+                    source="wikimedia" xml:lang="en"/>
             </concept>
             <!-- Austria -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -922,15 +962,29 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+
+                <exactMatch type="placesPrevious" id="austria" source="us-dos-fsi-oh"
+                    >Austria</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AT" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AUT" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/au"
                     source="us-loc" xml:lang="en">Austria</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-au" source="us-loc"
                     xml:lang="en">Austria</exactMatch>
-                <exactMatch type="placesPrevious" id="austria" source="us-dos-fsi-oh"
-                    >Austria</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79040121"
+                    source="us-loc" xml:lang="en">Austria</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/148842731" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1204901" source="oclc"
+                    xml:lang="en">Austria</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q40"
+                    source="wikimedia" xml:lang="en">Austria</closeMatch>
             </concept>
             <!-- Azerbaijan -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -950,17 +1004,30 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="azerbaijan" source="us-dos-fsi-oh"
+                    >Azerbaijan</exactMatch>
+
+                <exactMatch type="genc-2a-code" id="AZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AZE" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aj"
                     source="us-loc" xml:lang="en">Azerbaijan</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-aj" source="us-loc"
                     xml:lang="en">Azerbaijan</exactMatch>
-                <exactMatch type="placesPrevious" id="azerbaijan" source="us-dos-fsi-oh"
-                    >Azerbaijan</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n92000010"
+                    source="us-loc" xml:lang="en">Azerbaijan</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/139695406" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1260665" source="oclc"
+                    xml:lang="en">Azerbaijan</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q227"
+                    source="wikimedia" xml:lang="en">Azerbaijan</closeMatch>
             </concept>
             <!-- The Bahamas -->
-
             <concept type="place" created-by="rossat" created-date="2019-06-26"
                 lastDateTimeVerified="2019-06-26T10:53:44-04:00">
                 <id source="us-dos-fsi-oh" id="f76c71da-52af-48fd-87bd-cf1200399980"/>
@@ -978,15 +1045,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="the-bahamas" source="us-dos-fsi-oh">The
+                    Bahamas</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BS" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BHS" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bf"
                     source="us-loc" xml:lang="en">Bahamas</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwbf" source="us-loc"
                     xml:lang="en">Bahamas</exactMatch>
-                <exactMatch type="placesPrevious" id="the-bahamas" source="us-dos-fsi-oh">The
-                    Bahamas</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79081362"
+                    source="us-loc" xml:lang="en">Bahamas</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/131337264" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205834" source="oclc"
+                    xml:lang="en">Bahamas</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q778"
+                    source="wikimedia" xml:lang="en">Bahamas</closeMatch>
             </concept>
             <!-- Bahrain -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1006,15 +1086,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="bahrain" source="us-dos-fsi-oh"
+                    >Bahrain</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BHR" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ba"
                     source="us-loc" xml:lang="en">Bahrain</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-ba" source="us-loc"
                     xml:lang="en">Bahrain</exactMatch>
-                <exactMatch type="placesPrevious" id="bahrain" source="us-dos-fsi-oh"
-                    >Bahrain</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79118921"
+                    source="us-loc" xml:lang="en">Bahrain</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/131340012" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1206601" source="oclc"
+                    xml:lang="en">Bahrain</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q398"
+                    source="wikimedia" xml:lang="en">Bahrain</closeMatch>
             </concept>
             <!-- Bangladesh -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1034,15 +1127,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="bangladesh" source="us-dos-fsi-oh"
+                    >Bangladesh</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BGD" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bg"
                     source="us-loc" xml:lang="en">Bangladesh</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bg" source="us-loc"
                     xml:lang="en">Bangladesh</exactMatch>
-                <exactMatch type="placesPrevious" id="bangladesh" source="us-dos-fsi-oh"
-                    >Bangladesh</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81063207"
+                    source="us-loc" xml:lang="en">Bangladesh</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/153614928" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1213724" source="oclc"
+                    xml:lang="en">Bangladesh</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q902"
+                    source="wikimedia" xml:lang="en">Bangladesh</closeMatch>
             </concept>
             <!-- Barbados -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1060,15 +1166,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="barbados" source="us-dos-fsi-oh"
+                    >Barbados</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BB" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRB" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
                     source="us-loc" xml:lang="en">Barbados</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwbb" source="us-loc"
                     xml:lang="en">Barbados</exactMatch>
-                <exactMatch type="placesPrevious" id="barbados" source="us-dos-fsi-oh"
-                    >Barbados</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79066542"
+                    source="us-loc" xml:lang="en">Barbados</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/146498747" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205547" source="oclc"
+                    xml:lang="en">Barbados</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q244"
+                    source="wikimedia" xml:lang="en">Barbados</closeMatch>
             </concept>
             <!-- Belarus -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1088,15 +1207,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="belarus" source="us-dos-fsi-oh"
+                    >Belarus</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BY" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BLR" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bw"
                     source="us-loc" xml:lang="en"/>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-bw" source="us-loc"
                     xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="belarus" source="us-dos-fsi-oh"
-                    >Belarus</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n91128701"
+                    source="us-loc" xml:lang="en">Belarus</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/122714179" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1260637" source="oclc"
+                    xml:lang="en">Belarus</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q184"
+                    source="wikimedia" xml:lang="en">Belarus</closeMatch>
             </concept>
             <!-- Belgium -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1116,15 +1248,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="belgium" source="us-dos-fsi-oh"
+                    >Belgium</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BEL" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/be"
                     source="us-loc" xml:lang="en">Belgium</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-be" source="us-loc"
                     xml:lang="en">Belgium</exactMatch>
-                <exactMatch type="placesPrevious" id="belgium" source="us-dos-fsi-oh"
-                    >Belgium</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80126041"
+                    source="us-loc" xml:lang="en">Belgium</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/144248059" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1210278" source="oclc"
+                    xml:lang="en">Belgium</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q31"
+                    source="wikimedia" xml:lang="en">Belgium</closeMatch>
             </concept>
             <!-- Belize -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1142,12 +1287,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
-                <exactMatch type="genc-2a-code" id="BZ" source="us-dos-inr"/>
-                <exactMatch type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"/>
-                <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"/>
+
                 <exactMatch type="placesPrevious" id="belize" source="us-dos-fsi-oh"
                     >Belize</exactMatch>
+
+                <exactMatch type="genc-2a-code" id="BZ" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
+
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bh"
+                    source="us-loc" xml:lang="en">Belize</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/ncbh" source="us-loc"
+                    xml:lang="en">Belize</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79126944"
+                    source="us-loc" xml:lang="en">Belize</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/132456691" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1206799" source="oclc"
+                    xml:lang="en">Belize</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q242"
+                    source="wikimedia" xml:lang="en">Belize</closeMatch>
             </concept>
             <!-- Benin -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1169,15 +1330,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="benin" source="us-dos-fsi-oh"
+                    >Benin</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BEN" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dm"
                     source="us-loc" xml:lang="en">Benin</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-dm" source="us-loc"
                     xml:lang="en">Benin</exactMatch>
-                <exactMatch type="placesPrevious" id="benin" source="us-dos-fsi-oh"
-                    >Benin</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79110959"
+                    source="us-loc" xml:lang="en">Benin</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/133637392" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1206464" source="oclc"
+                    xml:lang="en">Benin</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q962"
+                    source="wikimedia" xml:lang="en">Benin</closeMatch>
             </concept>
             <!-- Bhutan -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1195,15 +1369,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="bhutan" source="us-dos-fsi-oh"
+                    >Bhutan</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BT" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BTN" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bt"
                     source="us-loc" xml:lang="en">Bhutan</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bt" source="us-loc"
+                    xml:lang="en">Bhutan</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79149023"
+                    source="us-loc" xml:lang="en">Bhutan</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/128953352" source="oclc"
                     xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="bhutan" source="us-dos-fsi-oh"
-                    >Bhutan</exactMatch>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1207216" source="oclc"
+                    xml:lang="en">Bhutan</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q917"
+                    source="wikimedia" xml:lang="en">Bhutan</closeMatch>
             </concept>
             <!-- Bolivia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1225,15 +1412,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="bolivia" source="us-dos-fsi-oh"
+                    >Bolivia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BOL" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bo"
                     source="us-loc" xml:lang="en">Bolivia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-bo" source="us-loc"
                     xml:lang="en">Bolivia</exactMatch>
-                <exactMatch type="placesPrevious" id="bolivia" source="us-dos-fsi-oh"
-                    >Bolivia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79066590"
+                    source="us-loc" xml:lang="en">Bolivia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/130756130" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205549" source="oclc"
+                    xml:lang="en">Bolivia</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q750"
+                    source="wikimedia" xml:lang="en">Bolivia</closeMatch>
             </concept>
             <!-- Bosnia and Herzegovina -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1277,6 +1477,15 @@
                     xml:lang="en">Bosnia and Herzegovina</exactMatch>
                 <exactMatch type="placesPrevious" id="bosnia-and-herzegovina" source="us-dos-fsi-oh"
                     >Bosnia and Herzegovina</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n00024384"
+                    source="us-loc" xml:lang="en">Bosnia and Herzegovina</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/126120141" source="oclc"
+                    xml:lang="en"/>
+
+                <!-- 
+                <closeMatch type="fast" id="" source="oclc" xml:lang="en"></closeMatch>
+                <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en"></closeMatch>  -->
             </concept>
             <!-- Botswana -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1296,15 +1505,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="botswana" source="us-dos-fsi-oh"
+                    >Botswana</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BW" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BWA" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bs"
                     source="us-loc" xml:lang="en">Botswana</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-bs" source="us-loc"
                     xml:lang="en">Botswana</exactMatch>
-                <exactMatch type="placesPrevious" id="botswana" source="us-dos-fsi-oh"
-                    >Botswana</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79079238"
+                    source="us-loc" xml:lang="en">Botswana</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/128459392" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205793" source="oclc"
+                    xml:lang="en">Botswana</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q963"
+                    source="wikimedia" xml:lang="en">Botswana</closeMatch>
             </concept>
             <!-- Brazil -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1324,15 +1546,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="brazil" source="us-dos-fsi-oh"
+                    >Brazil</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRA" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bl"
                     source="us-loc" xml:lang="en">Brazil</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-bl" source="us-loc"
                     xml:lang="en">Brazil</exactMatch>
-                <exactMatch type="placesPrevious" id="brazil" source="us-dos-fsi-oh"
-                    >Brazil</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79128015"
+                    source="us-loc" xml:lang="en">Brazil</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/142985214" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1206830" source="oclc"
+                    xml:lang="en">Brazil</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q155"
+                    source="wikimedia" xml:lang="en">Brazil</closeMatch>
             </concept>
             <!-- Brunei -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1353,15 +1588,23 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+                <exactMatch type="placesPrevious" id="brunei" source="us-dos-fsi-oh"
+                    >Brunei</exactMatch>
                 <exactMatch type="genc-2a-code" id="BN" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRN" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bx"
                     source="us-loc" xml:lang="en">Brunei</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bx" source="us-loc"
-                    xml:lang="en">Brunei</exactMatch>
-                <exactMatch type="placesPrevious" id="brunei" source="us-dos-fsi-oh"
+                    xml:lang="en">Brunei</exactMatch>  <exactMatch type="lcnaf"
+                    id="http://id.loc.gov/authorities/names/n81131874" source="us-loc" xml:lang="en"
                     >Brunei</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/124267318" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1216469" source="oclc"
+                    xml:lang="en">Brunei</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q921"
+                    source="wikimedia" xml:lang="en">Brunei</closeMatch>
             </concept>
             <!-- Bulgaria -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1381,14 +1624,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
-                <exactMatch type="genc-2a-code" id="BG" source="us-dos-inr"/>
-                <exactMatch type="genc-3a-code" id="BGR" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                    >Bulgaria</exactMatch>
-                <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
-                    >Bulgaria</exactMatch>
+
                 <exactMatch type="placesPrevious" id="bulgaria" source="us-dos-fsi-oh"
                     >Bulgaria</exactMatch>
+
+                <exactMatch type="genc-2a-code" id="BG" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="BGR" source="us-dos-inr"/>
+
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bu"
+                    source="us-loc" xml:lang="en">Bulgaria</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/e-bu" source="us-loc"
+                    xml:lang="en">Bulgaria</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81032254"
+                    source="us-loc" xml:lang="en">Bulgaria</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/157021581" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1212489/" source="oclc"
+                    xml:lang="en">Bulgaria</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q219"
+                    source="wikimedia" xml:lang="en">Bulgaria</closeMatch>
             </concept>
             <!-- Burkina Faso -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1408,15 +1665,26 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
-                <exactMatch type="genc-2a-code" id="BF" source="us-dos-inr"/>
-                <exactMatch type="genc-3a-code" id="BFA" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
-                    source="us-loc" xml:lang="en"/>
-                <exactMatch type="marc-geographic-areas"
-                    id="http://id.loc.gov/vocabulary/geographicAreas/f-uv" source="us-loc"
-                    xml:lang="en"/>
+
                 <exactMatch type="placesPrevious" id="burkina-faso" source="us-dos-fsi-oh">Burkina
                     Faso</exactMatch>
+
+                <exactMatch type="genc-2a-code" id="BF" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="BFA" source="us-dos-inr"/>
+
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
+                    source="us-loc" xml:lang="en">Burkina Faso</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/f-uv" source="us-loc"
+                    xml:lang="en">Burkina Faso</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n84112192"
+                    source="us-loc" xml:lang="en">Burkina Faso</exactMatch>
+                <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+                <closeMatch type="fast" id="" source="oclc" xml:lang="en">Burkina Faso</closeMatch>
+                <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en">Burkina
+                    Faso</closeMatch>
             </concept>
             <!-- Burma -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1441,14 +1709,29 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
-                <exactMatch type="genc-2a-code" id="MM" source="us-dos-inr"/>
-                <exactMatch type="genc-3a-code" id="MMR" source="us-dos-inr"/>
-                <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"
-                    >Burma</exactMatch>
-                <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
-                    >Burma</exactMatch>
+
                 <exactMatch type="placesPrevious" id="burma" source="us-dos-fsi-oh"
                     >Burma</exactMatch>
+
+                <exactMatch type="genc-2a-code" id="MM" source="us-dos-inr"/>
+                <exactMatch type="genc-3a-code" id="MMR" source="us-dos-inr"/>
+
+                <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/br"
+                    source="us-loc" xml:lang="en">Burma</exactMatch>
+                <exactMatch type="marc-geographic-areas"
+                    id="http://id.loc.gov/vocabulary/geographicAreas/a-br" source="us-loc"
+                    xml:lang="en">Burma</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80021691"
+                    source="us-loc" xml:lang="en">Burma</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/130916366" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1207835" source="oclc"
+                    xml:lang="en">Burma</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q836"
+                    source="wikimedia" xml:lang="en">Myanmar</closeMatch>
+
             </concept>
             <!-- Burundi -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1468,15 +1751,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="burundi" source="us-dos-fsi-oh"
+                    >Burundi</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="BI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BDI" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bd"
                     source="us-loc" xml:lang="en">Burundi</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-bd" source="us-loc"
                     xml:lang="en">Burundi</exactMatch>
-                <exactMatch type="placesPrevious" id="burundi" source="us-dos-fsi-oh"
-                    >Burundi</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81025977"
+                    source="us-loc" xml:lang="en">Burundi</exactMatch>
+                <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1212359" source="oclc"
+                    xml:lang="en">Burundi</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q967"
+                    source="wikimedia" xml:lang="en">Burundi</closeMatch>
             </concept>
             <!-- Cabo Verde -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
