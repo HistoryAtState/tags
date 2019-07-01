@@ -739,7 +739,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwaq" source="us-loc"
                     xml:lang="en">Antigua and Barbuda</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="antigua-and-barbuda" source="us-dos-fsi-oh"
+                    >Antigua and Barbuda</exactMatch>
             </concept>
             <!-- Argentina -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -767,7 +768,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/countries/ag" source="us-loc" xml:lang="en"
                     >Argentina</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="argentina" source="us-dos-fsi-oh"
+                    >Argentina</exactMatch>
             </concept>
             <!-- Armenia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -906,7 +908,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwbf" source="us-loc"
                     xml:lang="en">Bahamas</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="the-bahamas" source="us-dos-fsi-oh">The
+                    Bahamas</exactMatch>
             </concept>
             <!-- Bahrain -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -983,11 +986,12 @@
                 <exactMatch type="genc-2a-code" id="BB" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="BRB" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
-                    source="us-loc" xml:lang="en"/>
+                    source="us-loc" xml:lang="en">Barbados</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwbb" source="us-loc"
-                    xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                    xml:lang="en">Barbados</exactMatch>
+                <exactMatch type="placesPrevious" id="barbados" source="us-dos-fsi-oh"
+                    >Barbados</exactMatch>
             </concept>
             <!-- Belarus -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1065,7 +1069,8 @@
                 <exactMatch type="genc-3a-code" id="BLZ" source="us-dos-inr"/>
                 <exactMatch type="marc-countries" id="" source="us-loc" xml:lang="en"/>
                 <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="belize" source="us-dos-fsi-oh"
+                    >Belize</exactMatch>
             </concept>
             <!-- Benin -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1150,7 +1155,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-bo" source="us-loc"
                     xml:lang="en">Bolivia</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="bolivia" source="us-dos-fsi-oh"
+                    >Bolivia</exactMatch>
             </concept>
             <!-- Bosnia and Herzegovina -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1248,7 +1254,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-bl" source="us-loc"
                     xml:lang="en">Brazil</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="brazil" source="us-dos-fsi-oh"
+                    >Brazil</exactMatch>
             </concept>
             <!-- Brunei -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1504,7 +1511,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/n-cn" source="us-loc"
                     xml:lang="en">Canada</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="canada" source="us-dos-fsi-oh"
+                    >Canada</exactMatch>
             </concept>
             <concept type="place" created-by="rossat" created-date="2019-06-26"
                 lastDateTimeVerified="2019-06-26T12:55:49-04:00">
@@ -1583,7 +1591,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-cl" source="us-loc"
                     xml:lang="en">Chile</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="chile" source="us-dos-fsi-oh"
+                    >Chile</exactMatch>
             </concept>
             <!-- China -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1646,7 +1655,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ck" source="us-loc"
                     xml:lang="en">Colombia</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="colombia" source="us-dos-fsi-oh"
+                    >Colombia</exactMatch>
             </concept>
             <!-- Comoros -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1773,7 +1783,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nccr" source="us-loc"
                     xml:lang="en">Costa Rica</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="costa-rica" source="us-dos-fsi-oh">Costa
+                    Rica</exactMatch>
             </concept>
             <!-- Côte d’Ivoire -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1859,7 +1870,7 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/countries/cu" source="us-loc" xml:lang="en"
                     >Cuba</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="cuba" source="us-dos-fsi-oh">Cuba</exactMatch>
             </concept>
             <!-- Cyprus -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1998,7 +2009,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwdq" source="us-loc"
                     xml:lang="en">Dominica</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="dominica" source="us-dos-fsi-oh"
+                    >Dominica</exactMatch>
             </concept>
             <!-- Dominican Republic -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2027,7 +2039,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwdr" source="us-loc"
                     xml:lang="en">Dominican Republic</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="dominican-republic" source="us-dos-fsi-oh"
+                    >Dominican Republic</exactMatch>
             </concept>
             <!-- Ecuador -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2054,7 +2067,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ec" source="us-loc"
                     xml:lang="en">Ecuador</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="ecuador" source="us-dos-fsi-oh"
+                    >Ecuador</exactMatch>
             </concept>
             <!-- Egypt -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2109,8 +2123,9 @@
                     source="us-loc" xml:lang="en">El Salvador</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nces" source="us-loc"
-                    xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                    xml:lang="en">El Salvador</exactMatch>
+                <exactMatch type="placesPrevious" id="el-salvador" source="us-dos-fsi-oh">El
+                    Salvador</exactMatch>
             </concept>
             <!-- Equatorial Guinea -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2536,7 +2551,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwgd" source="us-loc"
                     xml:lang="en">Grenada</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="grenada" source="us-dos-fsi-oh"
+                    >Grenada</exactMatch>
             </concept>
 
         </collection>
@@ -2563,7 +2579,8 @@
                 >Guatemala</exactMatch>
             <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
                 >Guatemala</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="guatemala" source="us-dos-fsi-oh"
+                >Guatemala</exactMatch>
         </concept>
         <!-- Guinea -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2643,7 +2660,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-gy" source="us-loc" xml:lang="en"
                 >Guyana</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="guyana" source="us-dos-fsi-oh">Guyana</exactMatch>
         </concept>
         <!-- Haiti -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2669,7 +2686,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwht" source="us-loc" xml:lang="en"
                 >Haiti</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="haiti" source="us-dos-fsi-oh">Haiti</exactMatch>
         </concept>
         <!-- Holy See -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2721,7 +2738,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncho" source="us-loc" xml:lang="en"
                 >Honduras</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="honduras" source="us-dos-fsi-oh"
+                >Honduras</exactMatch>
         </concept>
         <!-- Hungary -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2976,7 +2994,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwjm" source="us-loc" xml:lang="en"
                 >Jamaica</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="jamaica" source="us-dos-fsi-oh"
+                >Jamaica</exactMatch>
         </concept>
         <!-- Japan -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3737,7 +3756,7 @@
             <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
                 >Mexico</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Mexico</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="mexico" source="us-dos-fsi-oh">Mexico</exactMatch>
         </concept>
         <!-- Micronesia, Federated States of  -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4095,7 +4114,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncnq" source="us-loc" xml:lang="en"
                 >Nicaragua</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="nicaragua" source="us-dos-fsi-oh"
+                >Nicaragua</exactMatch>
         </concept>
         <!-- Niger -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4317,8 +4337,8 @@
             <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
                 >Panama</exactMatch>
             <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/ncpn"
-                source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                source="us-loc" xml:lang="en">Panama</exactMatch>
+            <exactMatch type="placesPrevious" id="panama" source="us-dos-fsi-oh">Panama</exactMatch>
         </concept>
         <!-- Papua New Guinea -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4374,7 +4394,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-py" source="us-loc" xml:lang="en"
                 >Paraguay</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="paraguay" source="us-dos-fsi-oh"
+                >Paraguay</exactMatch>
         </concept>
         <!-- Peru -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4401,7 +4422,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-pe" source="us-loc" xml:lang="en"
                 >Peru</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="peru" source="us-dos-fsi-oh">Peru</exactMatch>
         </concept>
         <!-- Philippines -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4622,7 +4643,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwxi" source="us-loc" xml:lang="en"
                 >Saint Kitts and Nevis</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="st-kitts-and-nevis" source="us-dos-fsi-oh">St.
+                Kitts and Nevis</exactMatch>
         </concept>
 
         <!-- Saint Lucia -->
@@ -4649,7 +4671,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwxk" source="us-loc" xml:lang="en"
                 >Saint Lucia</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="st-lucia" source="us-dos-fsi-oh">St.
+                Lucia</exactMatch>
         </concept>
         <!-- Saint Vincent and the Grenadines -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -4684,7 +4707,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwxm" source="us-loc" xml:lang="en"
                 >Saint Vincent and the Grenadines</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="st-vincent-and-the-grenadines"
+                source="us-dos-fsi-oh">St. Vincent and the Grenadines</exactMatch>
         </concept>
         <!-- Samoa -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5212,7 +5236,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-sr" source="us-loc" xml:lang="en"
                 >Suriname</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="suriname" source="us-dos-fsi-oh"
+                >Suriname</exactMatch>
         </concept>
         <!-- Sweden -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5487,7 +5512,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwtr" source="us-loc" xml:lang="en"
                 >Trinidad and Tobago</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="trinidad-and-tobago" source="us-dos-fsi-oh"
+                >Trinidad and Tobago</exactMatch>
         </concept>
         <!-- Tunisia -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5770,7 +5796,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-uy" source="us-loc" xml:lang="en"
                 >Uruguay</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="uruguay" source="us-dos-fsi-oh"
+                >Uruguay</exactMatch>
         </concept>
         <!-- Uzbekistan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5853,7 +5880,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-ve" source="us-loc" xml:lang="en"
                 >Venezuela</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="venezuela" source="us-dos-fsi-oh"
+                >Venezuela</exactMatch>
         </concept>
         <!-- Vietnam -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
