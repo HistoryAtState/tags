@@ -599,11 +599,11 @@
                     xml:lang="en">Afghanistan</exactMatch>
                 <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79063030"
                     source="us-loc" xml:lang="en">Afghanistan</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/138292433" source="oclc"
+                    xml:lang="en"/>
 
                 <closeMatch type="fast" id="http://id.worldcat.org/fast/1205406" source="oclc"
                     xml:lang="en">Afghanistan</closeMatch>
-                <closeMatch type="viaf" id="http://viaf.org/viaf/138292433" source="oclc"
-                    xml:lang="en"/>
                 <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q889"
                     source="wikimedia" xml:lang="en">Afghanistan</closeMatch>
             </concept>
@@ -638,11 +638,11 @@
                     xml:lang="en">Albania</exactMatch>
                 <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n83221467"
                     source="us-loc" xml:lang="en">Albania</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/130228708" source="oclc"
+                    xml:lang="en"/>
 
                 <closeMatch type="fast" id="http://id.worldcat.org/fast/1226682" source="oclc"
                     >Albania</closeMatch>
-                <closeMatch type="viaf" id="http://viaf.org/viaf/130228708" source="oclc"
-                    xml:lang="en"/>
                 <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q222"
                     source="wikidata">Albania</closeMatch>
             </concept>
@@ -664,15 +664,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="algeria" source="us-dos-fsi-oh"
+                    >Algeria</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="DZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DZA" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ae"
                     source="us-loc" xml:lang="en">Algeria</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ae" source="us-loc"
                     xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="algeria" source="us-dos-fsi-oh"
-                    >Algeria</exactMatch>
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79064760"
+                    source="us-loc" xml:lang="en">Algeria</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/1144898516950291388" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205459" source="oclc"
+                    xml:lang="en">Algeria</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q262"
+                    source="wikimedia" xml:lang="en">Algeria</closeMatch>
             </concept>
             <!-- Andorra -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -693,15 +705,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="andorra" source="us-dos-fsi-oh"
+                    >Andorra</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AND" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/an"
                     source="us-loc" xml:lang="en">Andorra</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-an" source="us-loc"
                     xml:lang="en">Andorra</exactMatch>
-                <exactMatch type="placesPrevious" id="andorra" source="us-dos-fsi-oh"
-                    >Andorra</exactMatch>
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80113598"
+                    source="us-loc" xml:lang="en">Andorra</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/123100743" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1209980" source="oclc"
+                    xml:lang="en">Andorra</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q228"
+                    source="wikimedia" xml:lang="en">Andorra</closeMatch>
             </concept>
             <!-- Angola -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -721,15 +745,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="angola" source="us-dos-fsi-oh"
+                    >Angola</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AGO" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
                     source="us-loc" xml:lang="en">Angola</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ao" source="us-loc"
                     xml:lang="en">Angola</exactMatch>
-                <exactMatch type="placesPrevious" id="angola" source="us-dos-fsi-oh"
-                    >Angola</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80046439"
+                    source="us-loc" xml:lang="en">Angola</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/152395020" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1208401" source="oclc"
+                    xml:lang="en">Angola</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q916"
+                    source="wikimedia" xml:lang="en">Angola</closeMatch>
             </concept>
             <!-- Antigua and Barbuda -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -755,15 +792,32 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="antigua-and-barbuda" source="us-dos-fsi-oh"
+                    >Antigua and Barbuda</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ATG" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aq"
                     source="us-loc" xml:lang="en">Antigua and Barbuda</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwaq" source="us-loc"
                     xml:lang="en">Antigua and Barbuda</exactMatch>
-                <exactMatch type="placesPrevious" id="antigua-and-barbuda" source="us-dos-fsi-oh"
-                    >Antigua and Barbuda</exactMatch>
+
+                <closeMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n50078110"
+                    source="us-loc" xml:lang="en">Antigua</closeMatch>
+                <closeMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81008535"
+                    source="us-loc" xml:lang="en">Barbuda</closeMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/124921812" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1225425" source="oclc"
+                    xml:lang="en">Antigua and Barbuda</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q316390"
+                    source="wikimedia" xml:lang="en">Antigua</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q238752"
+                    source="wikimedia" xml:lang="en">Barbuda</closeMatch>
             </concept>
             <!-- Argentina -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
