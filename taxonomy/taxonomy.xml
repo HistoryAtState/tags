@@ -3127,58 +3127,6 @@
             <exactMatch type="placesPrevious" id="kiribati" source="us-dos-fsi-oh"
                 >Kiribati</exactMatch>
         </concept>
-        <!-- Korea, North -->
-        <concept type="place" created-by="rossat" created-date="2019-06-28"
-            lastDateTimeVerified="2019-06-28T19:39:11-04:00">
-            <id source="us-dos-fsi-oh" id="9f2bb2c3-69d6-4bc6-b009-5c630ea438d9"/>
-            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">North Korea</prefLabel>
-            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Democratic People’s
-                Republic of Korea</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">North Korea</altLabel>
-            <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (North)</hiddenLabel>
-            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Pyongyang</narrower>
-            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
-                xml:lang="en">East Asia and Pacific</broader>
-            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                source="us-dos-inr">independent states</broader>
-            <exactMatch type="genc-2a-code" id="KP" source="us-dos-inr"/>
-            <exactMatch type="genc-3a-code" id="PRK" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kn"
-                source="us-loc" xml:lang="en">Korea (North)</exactMatch>
-            <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-kn" source="us-loc" xml:lang="en"
-                >Korea (North)</exactMatch>
-            <exactMatch type="placesPrevious" id="north-korea" source="us-dos-fsi-oh">North
-                Korea</exactMatch>
-        </concept>
-        <!-- Korea, South -->
-        <concept type="place" created-by="rossat" created-date="2019-06-28"
-            lastDateTimeVerified="2019-06-28T19:47:44-04:00">
-            <id source="us-dos-fsi-oh" id="b8f64161-39b3-44a2-ac11-e865599944d0"/>
-            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">South Korea</prefLabel>
-            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
-                Korea</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Korea</altLabel>
-            <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (South)</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
-            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
-            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Seoul</narrower>
-            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
-                xml:lang="en">East Asia and Pacific</broader>
-            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
-                source="us-dos-inr">independent states</broader>
-            <exactMatch type="genc-2a-code" id="KR" source="us-dos-inr"/>
-            <exactMatch type="genc-3a-code" id="KOR" source="us-dos-inr"/>
-            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ko"
-                source="us-loc" xml:lang="en">Korea (South)</exactMatch>
-            <exactMatch type="marc-geographic-areas"
-                id="http://id.loc.gov/vocabulary/geographicAreas/a-ko" source="us-loc" xml:lang="en"
-                >Korea (South)</exactMatch>
-            <exactMatch type="placesPrevious" id="south-korea" source="us-dos-fsi-oh">South
-                Korea</exactMatch>
-        </concept>
         <!-- Kosovo -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
             lastDateTimeVerified="2019-06-28T19:49:55-04:00">
@@ -4172,6 +4120,31 @@
             <exactMatch type="placesPrevious" id="nigeria" source="us-dos-fsi-oh"
                 >Nigeria</exactMatch>
         </concept>
+        <!-- North Korea -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:39:11-04:00">
+            <id source="us-dos-fsi-oh" id="9f2bb2c3-69d6-4bc6-b009-5c630ea438d9"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">North Korea</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Democratic People’s
+                Republic of Korea</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">North Korea</altLabel>
+            <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (North)</hiddenLabel>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Pyongyang</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KP" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="PRK" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kn"
+                source="us-loc" xml:lang="en">Korea (North)</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-kn" source="us-loc" xml:lang="en"
+                >Korea (North)</exactMatch>
+            <exactMatch type="placesPrevious" id="north-korea" source="us-dos-fsi-oh">North
+                Korea</exactMatch>
+        </concept>
         <!-- North Macedonia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
             lastDateTimeVerified="2019-06-28T22:54:35-04:00">
@@ -5100,6 +5073,33 @@
                 xml:lang="en">South Africa</exactMatch>
             <exactMatch type="placesPrevious" id="south-africa" source="us-dos-fsi-oh">South
                 Africa</exactMatch>
+        </concept>
+        <!-- South Korea -->
+        <concept type="place" created-by="rossat" created-date="2019-06-28"
+            lastDateTimeVerified="2019-06-28T19:47:44-04:00">
+            <id source="us-dos-fsi-oh" id="b8f64161-39b3-44a2-ac11-e865599944d0"/>
+            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">South Korea</prefLabel>
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
+                Korea</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Korea</altLabel>
+            <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (South)</hiddenLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
+                States</related>
+            <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
+            <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Seoul</narrower>
+            <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
+                xml:lang="en">East Asia and Pacific</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
+                source="us-dos-inr">independent states</broader>
+            <exactMatch type="genc-2a-code" id="KR" source="us-dos-inr"/>
+            <exactMatch type="genc-3a-code" id="KOR" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ko"
+                source="us-loc" xml:lang="en">Korea (South)</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/a-ko" source="us-loc" xml:lang="en"
+                >Korea (South)</exactMatch>
+            <exactMatch type="placesPrevious" id="south-korea" source="us-dos-fsi-oh">South
+                Korea</exactMatch>
         </concept>
         <!-- South Sudan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
