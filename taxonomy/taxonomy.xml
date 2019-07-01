@@ -566,7 +566,6 @@
                 <useFor/>
             </concept>
 
-
             <!-- Afghanistan -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
                 lastDateTimeVerified="2019-06-26T10:27:47-04:00">
@@ -586,15 +585,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="afghanistan" source="us-dos-fsi-oh"
+                    >Afghanistan</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AF" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="AFG" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
                     source="us-loc" xml:lang="en">Afghanistan</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a" source="us-loc"
                     xml:lang="en">Afghanistan</exactMatch>
-                <exactMatch type="placesPrevious" id="afghanistan" source="us-dos-fsi-oh"
-                    >Afghanistan</exactMatch>
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79063030"
+                    source="us-loc" xml:lang="en">Afghanistan</exactMatch>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205406" source="oclc"
+                    xml:lang="en">Afghanistan</closeMatch>
+                <closeMatch type="viaf" id="http://viaf.org/viaf/138292433" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q889"
+                    source="wikimedia" xml:lang="en">Afghanistan</closeMatch>
             </concept>
             <!-- Albania -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -613,15 +624,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="albania" source="us-dos-fsi-oh"
+                    >Albania</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="AL" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ALB" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aa"
                     source="us-loc" xml:lang="en">Albania</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-aa.html" source="us-loc"
                     xml:lang="en">Albania</exactMatch>
-                <exactMatch type="placesPrevious" id="albania" source="us-dos-inr"
-                    >Albania</exactMatch>
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n83221467"
+                    source="us-loc" xml:lang="en">Albania</exactMatch>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1226682" source="oclc"
+                    >Albania</closeMatch>
+                <closeMatch type="viaf" id="http://viaf.org/viaf/130228708" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q222"
+                    source="wikidata">Albania</closeMatch>
             </concept>
             <!-- Algeria -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1429,7 +1452,7 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/lncv" source="us-loc"
                     xml:lang="en">Cabo Verde</exactMatch>
-                <exactMatch type="placesPrevious" id="cape-verde" source="us-dos-inr">Cape
+                <exactMatch type="placesPrevious" id="cape-verde" source="us-dos-fsi-oh">Cape
                     Verde</exactMatch>
             </concept>
             <!-- Cambodia -->
