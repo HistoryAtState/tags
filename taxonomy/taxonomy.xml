@@ -593,7 +593,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a" source="us-loc"
                     xml:lang="en">Afghanistan</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="afghanistan" source="us-dos-fsi-oh"
+                    >Afghanistan</exactMatch>
             </concept>
             <!-- Albania -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -960,7 +961,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bg" source="us-loc"
                     xml:lang="en">Bangladesh</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="bangladesh" source="us-dos-fsi-oh"
+                    >Bangladesh</exactMatch>
             </concept>
             <!-- Barbados -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1118,7 +1120,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-bt" source="us-loc"
                     xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="bhutan" source="us-dos-fsi-oh"
+                    >Bhutan</exactMatch>
             </concept>
             <!-- Bolivia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2796,7 +2799,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ii" source="us-loc" xml:lang="en"
                 >India</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="india" source="us-dos-fsi-oh">India</exactMatch>
         </concept>
         <!-- Indonesia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3049,7 +3052,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-kz" source="us-loc" xml:lang="en"
                 >Kazakhstan</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="kazakhstan" source="us-dos-fsi-oh"
+                >Kazakhstan</exactMatch>
         </concept>
         <!-- Kenya -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3228,7 +3232,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-kg" source="us-loc" xml:lang="en"
                 >Kyrgyzstan</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="kyrgyzstan" source="us-dos-fsi-oh"
+                >Kyrgyzstan</exactMatch>
         </concept>
         <!-- Laos -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3569,7 +3574,8 @@
                 >Maldives</exactMatch>
             <exactMatch type="lcsh" id="http://id.loc.gov/vocabulary/geographicAreas/i-xc"
                 source="us-loc" xml:lang="en">Maldives</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="maldives" source="us-dos-fsi-oh"
+                >Maldives</exactMatch>
         </concept>
         <!-- Mali -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4006,7 +4012,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-np" source="us-loc" xml:lang="en"
                 >Nepal</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="nepal" source="us-dos-fsi-oh">Nepal</exactMatch>
         </concept>
         <!-- Netherlands -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4257,7 +4263,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-pk" source="us-loc" xml:lang="en"
                 >Pakistan</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="pakistan" source="us-dos-fsi-oh"
+                >Pakistan</exactMatch>
         </concept>
         <!-- Palau -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5152,7 +5159,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ce" source="us-loc" xml:lang="en"
                 >Sri Lanka</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="sri-lanka" source="us-dos-fsi-oh">Sri
+                Lanka</exactMatch>
         </concept>
         <!-- Sudan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5310,7 +5318,8 @@
             <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
                 >Tajikistan</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="tajikistan" source="us-dos-fsi-oh"
+                >Tajikistan</exactMatch>
         </concept>
         <!-- Tanzania -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5558,7 +5567,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-tk" source="us-loc" xml:lang="en"
                 >Turkmenistan</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="turkmenistan" source="us-dos-fsi-oh"
+                >Turkmenistan</exactMatch>
         </concept>
         <!-- Tuvalu -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5787,7 +5797,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-uz" source="us-loc" xml:lang="en"
                 >Uzbekistan</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="uzbekistan" source="us-dos-fsi-oh"
+                >Uzbekistan</exactMatch>
         </concept>
         <!-- Vanuatu -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
