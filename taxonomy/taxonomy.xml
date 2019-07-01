@@ -674,7 +674,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-an" source="us-loc"
                     xml:lang="en">Andorra</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="andorra" source="us-dos-fsi-oh"
+                    >Andorra</exactMatch>
             </concept>
             <!-- Angola -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -790,7 +791,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-ai" source="us-loc"
                     xml:lang="en">Armenia</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="armenia" source="us-dos-fsi-oh"
+                    >Armenia</exactMatch>
             </concept>
             <!-- Australia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -845,7 +847,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-au" source="us-loc"
                     xml:lang="en">Austria</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="austria" source="us-dos-fsi-oh"
+                    >Austria</exactMatch>
             </concept>
             <!-- Azerbaijan -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -871,7 +874,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-aj" source="us-loc"
                     xml:lang="en">Azerbaijan</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="azerbaijan" source="us-dos-fsi-oh"
+                    >Azerbaijan</exactMatch>
             </concept>
             <!-- The Bahamas -->
 
@@ -1005,7 +1009,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-bw" source="us-loc"
                     xml:lang="en"/>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="belarus" source="us-dos-fsi-oh"
+                    >Belarus</exactMatch>
             </concept>
             <!-- Belgium -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1032,7 +1037,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-be" source="us-loc"
                     xml:lang="en">Belgium</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="belgium" source="us-dos-fsi-oh"
+                    >Belgium</exactMatch>
             </concept>
             <!-- Belize -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1180,7 +1186,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-bn" source="us-loc"
                     xml:lang="en">Bosnia and Herzegovina</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="bosnia-and-herzegovina" source="us-dos-fsi-oh"
+                    >Bosnia and Herzegovina</exactMatch>
             </concept>
             <!-- Botswana -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1290,7 +1297,8 @@
                     >Bulgaria</exactMatch>
                 <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
                     >Bulgaria</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="bulgaria" source="us-dos-fsi-oh"
+                    >Bulgaria</exactMatch>
             </concept>
             <!-- Burkina Faso -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1816,7 +1824,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-ci" source="us-loc"
                     xml:lang="en">Croatia</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="croatia" source="us-dos-fsi-oh"
+                    >Croatia</exactMatch>
             </concept>
             <!-- Cuba -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1871,7 +1880,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-cy" source="us-loc"
                     xml:lang="en">Cyprus</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="cyprus" source="us-dos-fsi-oh"
+                    >Cyprus</exactMatch>
             </concept>
             <!-- Czechia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1898,7 +1908,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-xr" source="us-loc"
                     xml:lang="en">Czech Republic</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="czech-republic" source="us-dos-fsi-oh">Czech
+                    Republic</exactMatch>
             </concept>
             <!-- Denmark -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1925,7 +1936,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-dk" source="us-loc"
                     xml:lang="en">Denmark</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="denmark" source="us-dos-fsi-oh"
+                    >Denmark</exactMatch>
             </concept>
             <!-- Djibouti -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2174,7 +2186,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-er" source="us-loc"
                     xml:lang="en">Estonia</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="estonia" source="us-dos-fsi-oh"
+                    >Estonia</exactMatch>
             </concept>
             <!-- Eswatini -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2289,7 +2302,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-fi" source="us-loc"
                     xml:lang="en">Finland</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="finland" source="us-dos-fsi-oh"
+                    >Finland</exactMatch>
             </concept>
             <!-- France -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2317,7 +2331,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-fr" source="us-loc"
                     xml:lang="en">France</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="france" source="us-dos-fsi-oh"
+                    >France</exactMatch>
             </concept>
             <!-- Gabon -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2402,7 +2417,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-gs" source="us-loc"
                     xml:lang="en">Georgia (Republic)</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="georgia" source="us-dos-fsi-oh"
+                    >Georgia</exactMatch>
             </concept>
             <!-- Germany -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2429,7 +2445,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-gx" source="us-loc"
                     xml:lang="en">Germany</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="germany" source="us-dos-fsi-oh"
+                    >Germany</exactMatch>
             </concept>
             <!-- http://id.loc.gov/vocabulary/countries/gw -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2485,7 +2502,8 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-gr" source="us-loc"
                     xml:lang="en">Greece</exactMatch>
-                <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+                <exactMatch type="placesPrevious" id="greece" source="us-dos-fsi-oh"
+                    >Greece</exactMatch>
             </concept>
             <!-- Grenada -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2669,7 +2687,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-vc" source="us-loc" xml:lang="en"
                 >Vatican City</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="holy-see" source="us-dos-fsi-oh">Holy
+                See</exactMatch>
         </concept>
         <!-- Honduras -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2719,7 +2738,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-hu" source="us-loc" xml:lang="en"
                 >Hungary</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="hungary" source="us-dos-fsi-oh"
+                >Hungary</exactMatch>
         </concept>
         <!-- Iceland -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2745,7 +2765,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ic" source="us-loc" xml:lang="en"
                 >Iceland</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="iceland" source="us-dos-fsi-oh"
+                >Iceland</exactMatch>
         </concept>
         <!-- India -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2872,7 +2893,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ie" source="us-loc" xml:lang="en"
                 >Ireland</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="ireland" source="us-dos-fsi-oh"
+                >Ireland</exactMatch>
         </concept>
         <!-- Israel -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2923,7 +2945,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-it" source="us-loc" xml:lang="en"
                 >Italy</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="italy" source="us-dos-fsi-oh">Italy</exactMatch>
         </concept>
         <!-- Jamaica -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3154,7 +3176,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-kv" source="us-loc" xml:lang="en"
                 >Kosovo</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="kosovo" source="us-dos-fsi-oh">Kosovo</exactMatch>
         </concept>
         <!-- Kuwait -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3253,7 +3275,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-lv" source="us-loc" xml:lang="en"
                 >Latvia</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="latvia" source="us-dos-fsi-oh">Latvia</exactMatch>
         </concept>
         <!-- Lebanon -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3380,7 +3402,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-lh" source="us-loc" xml:lang="en"
                 >Liechtenstein</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="liechtenstein" source="us-dos-fsi-oh"
+                >Liechtenstein</exactMatch>
         </concept>
         <!-- Lithuania -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3406,7 +3429,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-li" source="us-loc" xml:lang="en"
                 >Lithuania</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="lithuania" source="us-dos-fsi-oh"
+                >Lithuania</exactMatch>
         </concept>
         <!-- Luxembourg -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3432,7 +3456,8 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-lu" source="us-loc" xml:lang="en"
                 >Luxembourg</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="luxembourg" source="us-dos-fsi-oh"
+                >Luxembourg</exactMatch>
         </concept>
         <!-- Madagascar -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3591,7 +3616,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mm" source="us-loc" xml:lang="en"
                 >Malta</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Malta</exactMatch>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="malta" source="us-dos-fsi-oh">Malta</exactMatch>
         </concept>
         <!-- Marshall Islands -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3757,7 +3782,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mv" source="us-loc" xml:lang="en"
                 >Moldova</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="moldova" source="us-dos-fsi-oh"
+                >Moldova</exactMatch>
         </concept>
         <!-- Monaco -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3784,7 +3810,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mc" source="us-loc" xml:lang="en"
                 >Monaco</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="monaco" source="us-dos-fsi-oh">Monaco</exactMatch>
         </concept>
         <!-- Mongolia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3835,7 +3861,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mo" source="us-loc" xml:lang="en"
                 >Montenegro</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="montenegro" source="us-dos-fsi-oh"
+                >Montenegro</exactMatch>
         </concept>
         <!-- Morocco -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4002,7 +4029,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ne" source="us-loc" xml:lang="en"
                 >Netherlands</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="netherlands" source="us-dos-fsi-oh"
+                >Netherlands</exactMatch>
         </concept>
         <!-- New Zealand -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4142,7 +4170,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xn" source="us-loc" xml:lang="en"
                 >North Macedonia</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="macedonia" source="us-dos-fsi-oh"
+                >Macedonia</exactMatch>
         </concept>
         <!-- Norway -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4168,7 +4197,7 @@
             <exactMatch type="marc-geographic-areas" id="" source="us-loc" xml:lang="en"
                 >Norway</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="norway" source="us-dos-fsi-oh">Norway</exactMatch>
         </concept>
         <!-- Oman -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4414,7 +4443,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-pl" source="us-loc" xml:lang="en"
                 >Poland</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="poland" source="us-dos-fsi-oh">Poland</exactMatch>
         </concept>
         <!-- Portugal -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4440,7 +4469,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-po" source="us-loc" xml:lang="en"
                 >Portugal</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="portugal" source="us-dos-fsi-oh"
+                >Portugal</exactMatch>
         </concept>
         <!-- Qatar -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4490,7 +4520,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-rm" source="us-loc" xml:lang="en"
                 >Romania</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="romania" source="us-dos-fsi-oh"
+                >Romania</exactMatch>
         </concept>
         <!-- Russia -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -4517,7 +4548,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ru" source="us-loc" xml:lang="en"
                 >Russia (Federation)</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="russia" source="us-dos-fsi-oh">Russia</exactMatch>
         </concept>
         <!-- Rwanda -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -4694,7 +4725,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sm" source="us-loc" xml:lang="en"
                 >San Marino</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="san-marino" source="us-dos-fsi-oh">San
+                Marino</exactMatch>
         </concept>
         <!-- Sao Tome and Principe -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -4805,7 +4837,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-rb" source="us-loc" xml:lang="en"
                 >Serbia</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="serbia" source="us-dos-fsi-oh">Serbia</exactMatch>
         </concept>
         <!-- Seychelles -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -4912,7 +4944,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xo" source="us-loc" xml:lang="en"
                 >Slovakia</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="slovakia" source="us-dos-fsi-oh"
+                >Slovakia</exactMatch>
         </concept>
         <!-- Slovenia -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -4939,7 +4972,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xv" source="us-loc" xml:lang="en"
                 >Slovenia</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="slovenia" source="us-dos-fsi-oh"
+                >Slovenia</exactMatch>
         </concept>
         <!-- Solomon Islands -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5082,7 +5116,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sp" source="us-loc" xml:lang="en"
                 >Spain</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="spain" source="us-dos-fsi-oh">Spain</exactMatch>
         </concept>
         <!-- Sri Lanka -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5190,7 +5224,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sw" source="us-loc" xml:lang="en"
                 >Sweden</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="sweden" source="us-dos-fsi-oh">Sweden</exactMatch>
         </concept>
         <!-- Switzerland -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5216,7 +5250,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sz" source="us-loc" xml:lang="en"
                 >Switzerland</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="switzerland" source="us-dos-fsi-oh"
+                >Switzerland</exactMatch>
         </concept>
         <!-- Syria -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5490,7 +5525,7 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-tu" source="us-loc" xml:lang="en"
                 >Turkey</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="turkey" source="us-dos-fsi-oh">Turkey</exactMatch>
         </concept>
         <!-- Turkmenistan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5592,7 +5627,8 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-un" source="us-loc" xml:lang="en"
                 >Ukraine</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="ukraine" source="us-dos-fsi-oh"
+                >Ukraine</exactMatch>
         </concept>
         <!-- United Arab Emirates -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -5658,7 +5694,8 @@
             <exactMatch type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/uk"
                 source="us-loc" xml:lang="en">United Kingdom</exactMatch>
             <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <exactMatch type="placesPrevious" id="united-kingdom" source="us-dos-fsi-oh">United
+                Kingdom</exactMatch>
         </concept>
         <!-- United States -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
