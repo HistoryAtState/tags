@@ -1794,15 +1794,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="cape-verde" source="us-dos-fsi-oh">Cape
+                    Verde</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CV" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CPV" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cv"
                     source="us-loc" xml:lang="en">Cabo Verde</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/lncv" source="us-loc"
                     xml:lang="en">Cabo Verde</exactMatch>
-                <exactMatch type="placesPrevious" id="cape-verde" source="us-dos-fsi-oh">Cape
-                    Verde</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81141822"
+                    source="us-loc" xml:lang="en">Cabo Verde</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/123091922 " source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1216993" source="oclc"
+                    xml:lang="en">Cabo Verde</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q1011"
+                    source="wikimedia" xml:lang="en">Cape Verde</closeMatch>
             </concept>
             <!-- Cambodia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1822,15 +1835,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="cambodia" source="us-dos-fsi-oh"
+                    >Cambodia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="KH" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="KHM" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cb"
                     source="us-loc" xml:lang="en">Cambodia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-cb" source="us-loc"
                     xml:lang="en">Cambodia</exactMatch>
-                <exactMatch type="placesPrevious" id="cambodia" source="us-dos-fsi-oh"
-                    >Cambodia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80014970"
+                    source="us-loc" xml:lang="en">Cambodia</exactMatch>
+                <exactMatch type="viaf" id="https://viaf.org/viaf/134861112/#skos:Concept"
+                    source="oclc" xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1207659" source="oclc"
+                    xml:lang="en">Cambodia</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q424"
+                    source="wikimedia" xml:lang="en">Cambodia</closeMatch>
             </concept>
             <!-- Cameroon -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1859,6 +1885,16 @@
                     xml:lang="en">Cameroon</exactMatch>
                 <exactMatch type="placesPrevious" id="cameroon" source="us-dos-fsi-oh"
                     >Cameroon</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035273"
+                    source="us-loc" xml:lang="en">Cameroon</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/147664051" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1212703" source="oclc"
+                    xml:lang="en">Cameroon</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1009"
+                    source="wikimedia" xml:lang="en">Cameroon</closeMatch>
             </concept>
             <!-- Canada -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1885,7 +1921,16 @@
                     xml:lang="en">Canada</exactMatch>
                 <exactMatch type="placesPrevious" id="canada" source="us-dos-fsi-oh"
                     >Canada</exactMatch>
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79007233"
+                    source="us-loc" xml:lang="en">Canada</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/136600716" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1204310" source="oclc"
+                    xml:lang="en">Canada</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q16"
+                    source="wikimedia" xml:lang="en">Canada</closeMatch>
             </concept>
+            <!-- Central African Republic -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
                 lastDateTimeVerified="2019-06-26T12:55:49-04:00">
                 <id source="us-dos-fsi-oh" id="fe1427a7-2ba0-41c4-a73f-fe132ca1f38f"/>
@@ -1913,6 +1958,16 @@
                     xml:lang="en">Central African Republic</exactMatch>
                 <exactMatch type="placesPrevious" id="central-african-republic"
                     source="us-dos-fsi-oh">Central African Republic</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78060051"
+                    source="us-loc" xml:lang="en">Central African Republic</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/138969798" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1203762" source="oclc"
+                    xml:lang="en">Central African Republic</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q929"
+                    source="wikimedia" xml:lang="en">Central African Republic</closeMatch>
             </concept>
             <!-- Chad -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1939,7 +1994,18 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-cd" source="us-loc"
                     xml:lang="en">Chad</exactMatch>
+
                 <exactMatch type="placesPrevious" id="chad" source="us-dos-fsi-oh">Chad</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79061242"
+                    source="us-loc" xml:lang="en">Chad</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/233665742" source="oclc"
+                    xml:lang="en">Chad</exactMatch>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205362" source="oclc"
+                    xml:lang="en">Chad</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q298"
+                    source="wikimedia" xml:lang="en">Chad</closeMatch>
             </concept>
             <!-- Chile -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1993,8 +2059,13 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="china" source="us-dos-fsi-oh"
+                    >China</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CN" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CHN" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cc"
                     source="us-loc" xml:lang="en">China</exactMatch>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ch"
@@ -2002,8 +2073,16 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/a-cc" source="us-loc"
                     xml:lang="en">China</exactMatch>
-                <exactMatch type="placesPrevious" id="china" source="us-dos-fsi-oh"
-                    >China</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79091151"
+                    source="us-loc" xml:lang="en">China</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/312762965" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1206073" source="oclc"
+                    xml:lang="en">China</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q148"
+                    source="wikimedia" xml:lang="en">People’s Republic of China</closeMatch>
             </concept>
             <!-- Colombia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2032,6 +2111,16 @@
                     xml:lang="en">Colombia</exactMatch>
                 <exactMatch type="placesPrevious" id="colombia" source="us-dos-fsi-oh"
                     >Colombia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79084451"
+                    source="us-loc" xml:lang="en">Colombia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/127757650" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205916" source="oclc"
+                    xml:lang="en">Colombia</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q739"
+                    source="wikimedia" xml:lang="en">Colombia</closeMatch>
             </concept>
             <!-- Comoros -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2053,8 +2142,13 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="comoros" source="us-dos-fsi-oh"
+                    >Comoros</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="KM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COM" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ot"
                     source="us-loc" xml:lang="en">Comoros</exactMatch>
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cq"
@@ -2065,8 +2159,15 @@
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/i-my" source="us-loc"
                     xml:lang="en">Mayotte</exactMatch>
-                <exactMatch type="placesPrevious" id="comoros" source="us-dos-fsi-oh"
-                    >Comoros</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80033810"
+                    source="us-loc" xml:lang="en">Comoros</exactMatch>
+                <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1208084" source="oclc"
+                    xml:lang="en">Comoros</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q970"
+                    source="wikimedia" xml:lang="en">Comoros</closeMatch>
             </concept>
             <!-- Republic of the Congo -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
