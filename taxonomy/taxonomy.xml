@@ -2526,15 +2526,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="denmark" source="us-dos-fsi-oh"
+                    >Denmark</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="DK" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DNK" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dk"
                     source="us-loc" xml:lang="en">Denmark</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-dk" source="us-loc"
                     xml:lang="en">Denmark</exactMatch>
-                <exactMatch type="placesPrevious" id="denmark" source="us-dos-fsi-oh"
-                    >Denmark</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79021597"
+                    source="us-loc" xml:lang="en">Denmark</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/150081023" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1204558" source="oclc"
+                    xml:lang="en">Denmark</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q35"
+                    source="wikimedia" xml:lang="en">Denmark</closeMatch>
             </concept>
             <!-- Djibouti -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2554,15 +2567,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="djibouti" source="us-dos-fsi-oh"
+                    >Djibouti</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="DJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DJI" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ft"
                     source="us-loc" xml:lang="en">Djibouti</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ft" source="us-loc"
                     xml:lang="en">Djibouti</exactMatch>
-                <exactMatch type="placesPrevious" id="djibouti" source="us-dos-fsi-oh"
-                    >Djibouti</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78080066"
+                    source="us-loc" xml:lang="en">Djibouti</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/155608529" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1203974" source="oclc"
+                    xml:lang="en">Djibouti</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q977"
+                    source="wikimedia" xml:lang="en">Djibouti</closeMatch>
             </concept>
             <!-- Dominica -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2582,15 +2608,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="dominica" source="us-dos-fsi-oh"
+                    >Dominica</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="DM" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DMA" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dq"
                     source="us-loc" xml:lang="en">Dominica</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwdq" source="us-loc"
                     xml:lang="en">Dominica</exactMatch>
-                <exactMatch type="placesPrevious" id="dominica" source="us-dos-fsi-oh"
-                    >Dominica</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n50065763"
+                    source="us-loc" xml:lang="en">Dominica</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/124281406" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1202945" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q784"
+                    source="wikimedia" xml:lang="en"/>
             </concept>
             <!-- Dominican Republic -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2612,15 +2651,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="dominican-republic" source="us-dos-fsi-oh"
+                    >Dominican Republic</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="DO" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="DOM" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dr"
                     source="us-loc" xml:lang="en">Dominican Republic</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwdr" source="us-loc"
                     xml:lang="en">Dominican Republic</exactMatch>
-                <exactMatch type="placesPrevious" id="dominican-republic" source="us-dos-fsi-oh"
-                    >Dominican Republic</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79094586"
+                    source="us-loc" xml:lang="en">Dominican Republic</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/157820855" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1206148" source="oclc"
+                    xml:lang="en">Dominican Republic</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q786"
+                    source="wikimedia" xml:lang="en">Dominican Republic</closeMatch>
             </concept>
             <!-- Ecuador -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
