@@ -2194,15 +2194,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="congo-brazzaville" source="us-dos-fsi-oh"
+                    >Congo (Brazzaville)</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COG" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cf"
                     source="us-loc" xml:lang="en">Congo (Brazzaville)</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-cf" source="us-loc"
                     xml:lang="en">Congo (Brazzaville)</exactMatch>
-                <exactMatch type="placesPrevious" id="congo-brazzaville" source="us-dos-fsi-oh"
-                    >Congo (Brazzaville)</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061151"
+                    source="us-loc" xml:lang="en">Congo (Brazzaville)</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/173167475" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1208750" source="oclc"
+                    xml:lang="en">Congo (Brazzaville)</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q971"
+                    source="wikimedia" xml:lang="en">Republic of the Congo</closeMatch>
             </concept>
             <!-- Democratic Republic of the Congo -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2226,15 +2239,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="democratic-republic-of-the-congo-kinshasa"
+                    source="us-dos-fsi-oh">Democratic Republic of the Congo (Kinshasa)</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CD" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="COD" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cg"
                     source="us-loc" xml:lang="en">Congo (Democratic Republic)</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-cg" source="us-loc"
                     xml:lang="en">Congo (Democratic Republic)</exactMatch>
-                <exactMatch type="placesPrevious" id="democratic-republic-of-the-congo-kinshasa"
-                    source="us-dos-fsi-oh">Democratic Republic of the Congo (Kinshasa)</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061022"
+                    source="us-loc" xml:lang="en">Congo (Democratic Republic)</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/134864542" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1208723" source="oclc"
+                    xml:lang="en">Congo (Democratic Republic)</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q974"
+                    source="wikimedia" xml:lang="en">Democratic Republic of the Congo</closeMatch>
             </concept>
             <!-- Costa Rica -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2245,6 +2271,7 @@
                     Rica</prefLabel>
                 <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Costa Rica, Republic
                     of</altLabel>
+                <useFor>Ivory Coast</useFor>
                 <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
                     States</related>
                 <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
@@ -2254,15 +2281,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="costa-rica" source="us-dos-fsi-oh">Costa
+                    Rica</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CRI" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
                     source="us-loc" xml:lang="en">Costa Rica</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nccr" source="us-loc"
                     xml:lang="en">Costa Rica</exactMatch>
-                <exactMatch type="placesPrevious" id="costa-rica" source="us-dos-fsi-oh">Costa
-                    Rica</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79070075"
+                    source="us-loc" xml:lang="en">Costa Rica</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/126073638" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205604" source="oclc"
+                    xml:lang="en">Costa Rica</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q800"
+                    source="wikimedia" xml:lang="en">Costa Rica</closeMatch>
             </concept>
             <!-- Côte d’Ivoire -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2284,15 +2324,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="cote-divoire" source="us-dos-fsi-oh">Cote
+                    d’Ivoire</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CI" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CIV" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
                     source="us-loc" xml:lang="en">Côte d’Ivoire</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-iv" source="us-loc"
                     xml:lang="en">Côte d’Ivoire</exactMatch>
-                <exactMatch type="placesPrevious" id="cote-divoire" source="us-dos-fsi-oh">Cote
-                    d’Ivoire</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82047825"
+                    source="us-loc" xml:lang="en">Côte d'Ivoire</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/144973547" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1219323" source="oclc"
+                    xml:lang="en">Côte d'Ivoire</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1008"
+                    source="wikimedia" xml:lang="en">Ivory Coast</closeMatch>
             </concept>
             <!-- Croatia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2312,15 +2365,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="croatia" source="us-dos-fsi-oh"
+                    >Croatia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="HR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="HRV" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ci"
                     source="us-loc" xml:lang="en">Croatia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-ci" source="us-loc"
                     xml:lang="en">Croatia</exactMatch>
-                <exactMatch type="placesPrevious" id="croatia" source="us-dos-fsi-oh"
-                    >Croatia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035140"
+                    source="us-loc" xml:lang="en">Croatia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/152376980" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1212674" source="oclc"
+                    xml:lang="en">Croatia</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q224"
+                    source="wikimedia" xml:lang="en">Croatia</closeMatch>
             </concept>
             <!-- Cuba -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2340,15 +2406,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="cuba" source="us-dos-fsi-oh">Cuba</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CU" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CUB" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries"
                     id="http://id.loc.gov/vocabulary/geographicAreas/nwcu" source="us-loc"
                     xml:lang="en">Cuba</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/countries/cu" source="us-loc" xml:lang="en"
                     >Cuba</exactMatch>
-                <exactMatch type="placesPrevious" id="cuba" source="us-dos-fsi-oh">Cuba</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79079435"
+                    source="us-loc" xml:lang="en">Cuba</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/127245163" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205805" source="oclc"
+                    xml:lang="en">Cuba</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q241"
+                    source="wikimedia" xml:lang="en">Cuba</closeMatch>
             </concept>
             <!-- Cyprus -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2377,6 +2456,16 @@
                     xml:lang="en">Cyprus</exactMatch>
                 <exactMatch type="placesPrevious" id="cyprus" source="us-dos-fsi-oh"
                     >Cyprus</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79055857"
+                    source="us-loc" xml:lang="en">Cyprus</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/130118559" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205213" source="oclc"
+                    xml:lang="en">Cyprus</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q229"
+                    source="wikimedia" xml:lang="en">Cyprus</closeMatch>
             </concept>
             <!-- Czechia -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2396,15 +2485,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="czech-republic" source="us-dos-fsi-oh">Czech
+                    Republic</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="CZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="CZE" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xr"
                     source="us-loc" xml:lang="en">Czech Republic</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-xr" source="us-loc"
                     xml:lang="en">Czech Republic</exactMatch>
-                <exactMatch type="placesPrevious" id="czech-republic" source="us-dos-fsi-oh">Czech
-                    Republic</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n90718759"
+                    source="us-loc" xml:lang="en">Czech Republic</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/137159957" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1256743" source="oclc"
+                    xml:lang="en">Czech Republic</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q213"
+                    source="wikimedia" xml:lang="en">Czech Republic</closeMatch>
             </concept>
             <!-- Denmark -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
