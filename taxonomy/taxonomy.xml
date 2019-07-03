@@ -4146,14 +4146,26 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="laos" source="us-dos-fsi-oh">Laos</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LAO" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ls"
                 source="us-loc" xml:lang="en">Laos</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ls" source="us-loc" xml:lang="en"
                 >Laos</exactMatch>
-            <exactMatch type="placesPrevious" id="laos" source="us-dos-fsi-oh">Laos</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80128712"
+                source="us-loc" xml:lang="en">Laos</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/122772641" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210322" source="oclc"
+                xml:lang="en">Laos</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q819" source="wikimedia"
+                xml:lang="en">Laos</closeMatch>
         </concept>
         <!-- Latvia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4172,14 +4184,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="latvia" source="us-dos-fsi-oh">Latvia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LVA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lv"
                 source="us-loc" xml:lang="en">Latvia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-lv" source="us-loc" xml:lang="en"
                 >Latvia</exactMatch>
-            <exactMatch type="placesPrevious" id="latvia" source="us-dos-fsi-oh">Latvia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80150219"
+                source="us-loc" xml:lang="en">Latvia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125422131" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210821" source="oclc"
+                xml:lang="en">Latvia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q211" source="wikimedia"
+                xml:lang="en">Latvia</closeMatch>
         </concept>
         <!-- Lebanon -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4197,15 +4221,27 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="lebanon" source="us-dos-fsi-oh"
+                >Lebanon</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/le"
                 source="us-loc" xml:lang="en">Lebanon</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-le" source="us-loc" xml:lang="en"
                 >Lebanon</exactMatch>
-            <exactMatch type="placesPrevious" id="lebanon" source="us-dos-fsi-oh"
-                >Lebanon</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79090014"
+                source="us-loc" xml:lang="en">Lebanon</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/127773968" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://www.wikidata.org/entity/Q822" source="oclc"
+                xml:lang="en">Lebanon</closeMatch>
+            <closeMatch type="wikidata" id="http://id.worldcat.org/fast/1206063" source="wikimedia"
+                xml:lang="en">Lebanon</closeMatch>
         </concept>
         <!-- Lesotho -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4233,6 +4269,15 @@
                 >Lesotho</exactMatch>
             <exactMatch type="placesPrevious" id="lesotho" source="us-dos-fsi-oh"
                 >Lesotho</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80049717"
+                source="us-loc" xml:lang="en">Lesotho</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/145998720" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208477" source="oclc"
+                xml:lang="en">Lesotho</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1013" source="wikimedia"
+                xml:lang="en">Lesotho</closeMatch>
         </concept>
         <!-- Liberia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4251,15 +4296,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="liberia" source="us-dos-fsi-oh"
+                >Liberia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lb"
                 source="us-loc" xml:lang="en">Liberia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-lb" source="us-loc" xml:lang="en"
                 >Liberia</exactMatch>
-            <exactMatch type="placesPrevious" id="liberia" source="us-dos-fsi-oh"
-                >Liberia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79060233"
+                source="us-loc" xml:lang="en">Liberia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/133677733" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205331" source="oclc"
+                xml:lang="en">Liberia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1014" source="wikimedia"
+                xml:lang="en">Liberia</closeMatch>
         </concept>
         <!-- Libya -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4276,14 +4333,26 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="libya" source="us-dos-fsi-oh">Libya</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LBY" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ly"
                 source="us-loc" xml:lang="en">Libya</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ly" source="us-loc" xml:lang="en"
                 >Libya</exactMatch>
-            <exactMatch type="placesPrevious" id="libya" source="us-dos-fsi-oh">Libya</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79066419"
+                source="us-loc" xml:lang="en">Libya</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/138308426" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205534" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1016" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Liechtenstein -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4302,15 +4371,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="liechtenstein" source="us-dos-fsi-oh"
+                >Liechtenstein</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LIE" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lh"
                 source="us-loc" xml:lang="en">Liechtenstein</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-lh" source="us-loc" xml:lang="en"
                 >Liechtenstein</exactMatch>
-            <exactMatch type="placesPrevious" id="liechtenstein" source="us-dos-fsi-oh"
-                >Liechtenstein</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names" source="us-loc"
+                xml:lang="en">Liechtenstein</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/133694435" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211042" source="oclc"
+                xml:lang="en">Liechtenstein</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q347" source="wikimedia"
+                xml:lang="en">Liechtenstein</closeMatch>
         </concept>
         <!-- Lithuania -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4329,15 +4410,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="lithuania" source="us-dos-fsi-oh"
+                >Lithuania</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LTU" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/li"
                 source="us-loc" xml:lang="en">Lithuania</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-li" source="us-loc" xml:lang="en"
                 >Lithuania</exactMatch>
-            <exactMatch type="placesPrevious" id="lithuania" source="us-dos-fsi-oh"
-                >Lithuania</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82209573"
+                source="us-loc" xml:lang="en">Lithuania</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125422022" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1227863" source="oclc"
+                xml:lang="en">Lithuania</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q37" source="wikimedia"
+                xml:lang="en">Lithuania</closeMatch>
         </concept>
         <!-- Luxembourg -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4356,15 +4449,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="luxembourg" source="us-dos-fsi-oh"
+                >Luxembourg</exactMatch>
+
             <exactMatch type="genc-2a-code" id="LU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="LUX" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lu"
                 source="us-loc" xml:lang="en">Luxembourg</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-lu" source="us-loc" xml:lang="en"
                 >Luxembourg</exactMatch>
-            <exactMatch type="placesPrevious" id="luxembourg" source="us-dos-fsi-oh"
-                >Luxembourg</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81018303"
+                source="us-loc" xml:lang="en">Luxembourg</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/134398983" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211813" source="oclc"
+                xml:lang="en">Luxembourg</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q32" source="wikimedia"
+                xml:lang="en">Luxembourg</closeMatch>
         </concept>
         <!-- Madagascar -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4383,15 +4488,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="madagascar" source="us-dos-fsi-oh"
+                >Madagascar</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MDG" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mg"
                 source="us-loc" xml:lang="en">Madagascar</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-mg" source="us-loc" xml:lang="en"
                 >Madagascar</exactMatch>
-            <exactMatch type="placesPrevious" id="madagascar" source="us-dos-fsi-oh"
-                >Madagascar</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80087494"
+                source="us-loc" xml:lang="en">Madagascar</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/255285986" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209332" source="oclc"
+                xml:lang="en">Madagascar</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1019" source="wikimedia"
+                xml:lang="en">Madagascar</closeMatch>
         </concept>
         <!-- Malawi -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4410,14 +4527,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="malawi" source="us-dos-fsi-oh">Malawi</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MWI" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mw"
                 source="us-loc" xml:lang="en">Malawi</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-mw" source="us-loc" xml:lang="en"
                 >Malawi</exactMatch>
-            <exactMatch type="placesPrevious" id="malawi" source="us-dos-fsi-oh">Malawi</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80089996"
+                source="us-loc" xml:lang="en">Malawi</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/137130855" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209421" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1020" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Malaysia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4434,8 +4563,13 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="malaysia" source="us-dos-fsi-oh"
+                >Malaysia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MYS" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/my"
                 source="us-loc" xml:lang="en">Malaysia</exactMatch>
             <exactMatch type="marc-geographic-areas"
@@ -4443,8 +4577,15 @@
                 >Malaysia</exactMatch>
             <exactMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85080109"
                 source="us-loc" xml:lang="en">Malaysia</exactMatch>
-            <exactMatch type="placesPrevious" id="malaysia" source="us-dos-fsi-oh"
-                >Malaysia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79022246"
+                source="us-loc" xml:lang="en">Malaysia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/145332698" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204590" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q833" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Maldives -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4463,6 +4604,10 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="maldives" source="us-dos-fsi-oh"
+                >Maldives</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MDV" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xc"
@@ -4470,9 +4615,15 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/i-xc" source="us-loc" xml:lang="en"
                 >Maldives</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Maldives</exactMatch>
-            <exactMatch type="placesPrevious" id="maldives" source="us-dos-fsi-oh"
-                >Maldives</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81139903"
+                source="us-loc" xml:lang="en">Maldives</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/173440507" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1216917" source="oclc"
+                xml:lang="en">Maldives</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q826" source="wikimedia"
+                xml:lang="en">Maldives</closeMatch>
         </concept>
         <!-- Mali -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4489,15 +4640,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="mali" source="us-dos-fsi-oh">Mali</exactMatch>
+
             <exactMatch type="genc-2a-code" id="ML" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MLI" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ml"
                 source="us-loc" xml:lang="en">Mali</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ml" source="us-loc" xml:lang="en"
                 >Mali</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Mali</exactMatch>
-            <exactMatch type="placesPrevious" id="mali" source="us-dos-fsi-oh">Mali</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79007504"
+                source="us-loc" xml:lang="en">Mali</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/266555391" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204327" source="oclc"
+                xml:lang="en">Mali</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q912" source="wikimedia"
+                xml:lang="en">Mali</closeMatch>
         </concept>
         <!-- Malta -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4516,15 +4678,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="malta" source="us-dos-fsi-oh">Malta</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MLT" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mm"
                 source="us-loc" xml:lang="en">Malta</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mm" source="us-loc" xml:lang="en"
                 >Malta</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Malta</exactMatch>
-            <exactMatch type="placesPrevious" id="malta" source="us-dos-fsi-oh">Malta</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79145770"
+                source="us-loc" xml:lang="en">Malta</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/147680224" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207170" source="oclc"
+                xml:lang="en">Malta</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q233" source="wikimedia"
+                xml:lang="en">Malta</closeMatch>
         </concept>
         <!-- Marshall Islands -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4544,16 +4717,26 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="marshall-islands" source="us-dos-fsi-oh">Marshall
+                Islands</exactMatch>
+
             <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="MH" source="us-loc" xml:lang="en">Marshall
                 Islands</exactMatch>
             <exactMatch type="marc-geographic-areas" id="MHL" source="us-loc" xml:lang="en">Marshall
                 Islands</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Marshall
-                Islands</exactMatch>
-            <exactMatch type="placesPrevious" id="marshall-islands" source="us-dos-fsi-oh">Marshall
-                Islands</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81100671"
+                source="us-loc" xml:lang="en">Marshall Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/122588295" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://www.wikidata.org/entity/Q709" source="oclc"
+                xml:lang="en">Marshall Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://id.worldcat.org/fast/1215147" source="wikimedia"
+                xml:lang="en">Marshall Islands</closeMatch>
         </concept>
         <!-- Mauritania -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4572,16 +4755,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="mauritania" source="us-dos-fsi-oh"
+                >Mauritania</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MRT" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mu"
                 source="us-loc" xml:lang="en">Mauritania</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-mu" source="us-loc" xml:lang="en"
                 >Mauritania</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Mauritania</exactMatch>
-            <exactMatch type="placesPrevious" id="mauritania" source="us-dos-fsi-oh"
-                >Mauritania</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79061287"
+                source="us-loc" xml:lang="en">Mauritania</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/143005264" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205364" source="oclc"
+                xml:lang="en">Mauritania</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1025" source="wikimedia"
+                xml:lang="en">Mauritania</closeMatch>
         </concept>
         <!-- Mauritius -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4600,16 +4794,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="mauritius" source="us-dos-fsi-oh"
+                >Mauritius</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MUS" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mf"
                 source="us-loc" xml:lang="en">Mauritius</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/i-mf" source="us-loc" xml:lang="en"
                 >Mauritius</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Mauritius</exactMatch>
-            <exactMatch type="placesPrevious" id="mauritius" source="us-dos-fsi-oh"
-                >Mauritius</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79060078"
+                source="us-loc" xml:lang="en">Mauritius</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/150028558" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205325" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1027" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Mexico -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4627,15 +4832,26 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="mexico" source="us-dos-fsi-oh">Mexico</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MEX" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mx"
                 source="us-loc" xml:lang="en">Mexico</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/n-mx" source="us-loc" xml:lang="en"
                 >Mexico</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Mexico</exactMatch>
-            <exactMatch type="placesPrevious" id="mexico" source="us-dos-fsi-oh">Mexico</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81013960"
+                source="us-loc" xml:lang="en">Mexico</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/154775570" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211700" source="oclc"
+                xml:lang="en">Mexico</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q96" source="wikimedia"
+                xml:lang="en">Mexico</closeMatch>
         </concept>
         <!-- Micronesia, Federated States of  -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4655,16 +4871,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="the-federated-states-of-micronesia"
+                source="us-dos-fsi-oh">The Federated States of Micronesia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="FM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="FSM" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fm"
                 source="us-loc" xml:lang="en">Micronesia (Federated States)</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/pomi" source="us-loc" xml:lang="en"
                 >Micronesia (Federated States)</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="the-federated-states-of-micronesia"
-                source="us-dos-fsi-oh">The Federated States of Micronesia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n83074223"
+                source="us-loc" xml:lang="en">Micronesia (Federated States)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128951635" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1225345" source="oclc"
+                xml:lang="en">Micronesia (Federated States)</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q702" source="wikimedia"
+                xml:lang="en">Federated States of Micronesia</closeMatch>
         </concept>
         <!-- Moldova -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4683,16 +4910,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="moldova" source="us-dos-fsi-oh"
+                >Moldova</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MD" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MDA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mv"
                 source="us-loc" xml:lang="en">Moldova</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mv" source="us-loc" xml:lang="en"
                 >Moldova</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="moldova" source="us-dos-fsi-oh"
-                >Moldova</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n90720192"
+                source="us-loc" xml:lang="en">Moldova</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/152364951" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1256791" source="oclc"
+                xml:lang="en">Moldova</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q217" source="wikimedia"
+                xml:lang="en">Moldova</closeMatch>
         </concept>
         <!-- Monaco -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4711,15 +4949,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="monaco" source="us-dos-fsi-oh">Monaco</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MCD" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mc"
                 source="us-loc" xml:lang="en">Monaco</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mc" source="us-loc" xml:lang="en"
                 >Monaco</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="monaco" source="us-dos-fsi-oh">Monaco</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81101064"
+                source="us-loc" xml:lang="en">Monaco</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130909670" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1215184" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q235" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Mongolia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4736,16 +4985,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="mongolia" source="us-dos-fsi-oh"
+                >Mongolia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MNG" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mp"
                 source="us-loc" xml:lang="en">Mongolia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-mp" source="us-loc" xml:lang="en"
                 >Mongolia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="mongolia" source="us-dos-fsi-oh"
-                >Mongolia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061189"
+                source="us-loc" xml:lang="en">Mongolia</exactMatch>
+            <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208752" source="oclc"
+                xml:lang="en">Mongolia</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q711" source="wikimedia"
+                xml:lang="en">Mongolia</closeMatch>
         </concept>
         <!-- Montenegro -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4762,16 +5022,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="montenegro" source="us-dos-fsi-oh"
+                >Montenegro</exactMatch>
+
             <exactMatch type="genc-2a-code" id="ME" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MNE" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mo"
                 source="us-loc" xml:lang="en">Montenegro</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-mo" source="us-loc" xml:lang="en"
                 >Montenegro</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="montenegro" source="us-dos-fsi-oh"
-                >Montenegro</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81032743"
+                source="us-loc" xml:lang="en">Montenegro</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/149551124" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1692600" source="oclc"
+                xml:lang="en">Montenegro</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q236" source="wikimedia"
+                xml:lang="en">Montenegro</closeMatch>
         </concept>
         <!-- Morocco -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4797,9 +5068,18 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-mr" source="us-loc" xml:lang="en"
                 >Morocco</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="morocco" source="us-dos-fsi-oh"
                 >Morocco</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79069715"
+                source="us-loc" xml:lang="en">Morocco</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/140638492" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205592" source="oclc"
+                xml:lang="en">Morocco</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1028" source="wikimedia"
+                xml:lang="en">Morocco</closeMatch>
         </concept>
         <!-- Mozambique -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4818,16 +5098,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="mozambique" source="us-dos-fsi-oh"
+                >Mozambique</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MOZ" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mz"
                 source="us-loc" xml:lang="en">Mozambique</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-mz" source="us-loc" xml:lang="en"
                 >Mozambique</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="placesPrevious" id="mozambique" source="us-dos-fsi-oh"
-                >Mozambique</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81082759"
+                source="us-loc" xml:lang="en">Mozambique</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130895295" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1214418" source="oclc"
+                xml:lang="en">Mozambique</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1029" source="wikimedia"
+                xml:lang="en">Mozambique</closeMatch>
         </concept>
         <!-- Namibia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -4853,7 +5144,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sx" source="us-loc" xml:lang="en"
                 >Namibia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="namibia" source="us-dos-fsi-oh"
                 >Namibia</exactMatch>
         </concept>
@@ -4882,7 +5173,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ponu" source="us-loc" xml:lang="en"
                 >Nauru</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="nauru" source="us-dos-fsi-oh">Nauru</exactMatch>
         </concept>
         <!-- Nepal -->
@@ -4909,7 +5200,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-np" source="us-loc" xml:lang="en"
                 >Nepal</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="nepal" source="us-dos-fsi-oh">Nepal</exactMatch>
         </concept>
         <!-- Netherlands -->
@@ -4938,7 +5229,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ne" source="us-loc" xml:lang="en"
                 >Netherlands</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="netherlands" source="us-dos-fsi-oh"
                 >Netherlands</exactMatch>
         </concept>
@@ -4964,7 +5255,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/u-nz" source="us-loc" xml:lang="en"
                 >New Zealand</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="new-zealand" source="us-dos-fsi-oh">New
                 Zealand</exactMatch>
         </concept>
@@ -4992,7 +5283,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncnq" source="us-loc" xml:lang="en"
                 >Nicaragua</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="nicaragua" source="us-dos-fsi-oh"
                 >Nicaragua</exactMatch>
         </concept>
@@ -5020,7 +5311,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ng" source="us-loc" xml:lang="en"
                 >Niger</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="niger" source="us-dos-fsi-oh">Niger</exactMatch>
         </concept>
         <!-- Nigeria -->
@@ -5047,7 +5338,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-nr" source="us-loc" xml:lang="en"
                 >Nigeria</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="nigeria" source="us-dos-fsi-oh"
                 >Nigeria</exactMatch>
         </concept>
@@ -5105,7 +5396,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xn" source="us-loc" xml:lang="en"
                 >North Macedonia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="macedonia" source="us-dos-fsi-oh"
                 >Macedonia</exactMatch>
         </concept>
@@ -5133,7 +5424,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-no" source="us-loc" xml:lang="en"
                 >Norway</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="norway" source="us-dos-fsi-oh">Norway</exactMatch>
         </concept>
         <!-- Oman -->
@@ -5160,7 +5451,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-mk" source="us-loc" xml:lang="en"
                 >Oman</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="oman" source="us-dos-fsi-oh">Oman</exactMatch>
         </concept>
         <!-- Pakistan -->
@@ -5187,7 +5478,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-pk" source="us-loc" xml:lang="en"
                 >Pakistan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="pakistan" source="us-dos-fsi-oh"
                 >Pakistan</exactMatch>
         </concept>
@@ -5215,7 +5506,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/popl" source="us-loc" xml:lang="en"
                 >Palau</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="palau" source="us-dos-fsi-oh">Palau</exactMatch>
         </concept>
         <!-- Panama -->
@@ -5242,7 +5533,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncpn" source="us-loc" xml:lang="en"
                 >Panama</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en">Panama</exactMatch>
             <exactMatch type="placesPrevious" id="panama" source="us-dos-fsi-oh">Panama</exactMatch>
         </concept>
         <!-- Papua New Guinea -->
@@ -5270,7 +5560,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-pp" source="us-loc" xml:lang="en"
                 >Papua New Guinea</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="papua-new-guinea" source="us-dos-fsi-oh">Papua New
                 Guinea</exactMatch>
         </concept>
@@ -5298,7 +5588,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-py" source="us-loc" xml:lang="en"
                 >Paraguay</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="paraguay" source="us-dos-fsi-oh"
                 >Paraguay</exactMatch>
         </concept>
@@ -5326,7 +5616,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-pe" source="us-loc" xml:lang="en"
                 >Peru</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="peru" source="us-dos-fsi-oh">Peru</exactMatch>
         </concept>
         <!-- Philippines -->
@@ -5353,7 +5643,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ph" source="us-loc" xml:lang="en"
                 >Philippines</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="philippines" source="us-dos-fsi-oh"
                 >Philippines</exactMatch>
         </concept>
@@ -5381,7 +5671,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-pl" source="us-loc" xml:lang="en"
                 >Poland</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="poland" source="us-dos-fsi-oh">Poland</exactMatch>
         </concept>
         <!-- Portugal -->
@@ -5407,7 +5697,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-po" source="us-loc" xml:lang="en"
                 >Portugal</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="portugal" source="us-dos-fsi-oh"
                 >Portugal</exactMatch>
         </concept>
@@ -5433,7 +5723,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-qa" source="us-loc" xml:lang="en"
                 >Qatar</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="qatar" source="us-dos-fsi-oh">Qatar</exactMatch>
         </concept>
         <!-- Romania -->
@@ -5458,7 +5748,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-rm" source="us-loc" xml:lang="en"
                 >Romania</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="romania" source="us-dos-fsi-oh"
                 >Romania</exactMatch>
         </concept>
@@ -5486,7 +5776,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ru" source="us-loc" xml:lang="en"
                 >Russia (Federation)</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="russia" source="us-dos-fsi-oh">Russia</exactMatch>
         </concept>
         <!-- Rwanda -->
@@ -5513,7 +5803,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-rw" source="us-loc" xml:lang="en"
                 >Rwanda</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="rwanda" source="us-dos-fsi-oh">Rwanda</exactMatch>
         </concept>
         <!-- Saint Kitts and Nevis -->
@@ -5547,7 +5837,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwxi" source="us-loc" xml:lang="en"
                 >Saint Kitts and Nevis</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="st-kitts-and-nevis" source="us-dos-fsi-oh">St.
                 Kitts and Nevis</exactMatch>
         </concept>
@@ -5575,7 +5865,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwxk" source="us-loc" xml:lang="en"
                 >Saint Lucia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="st-lucia" source="us-dos-fsi-oh">St.
                 Lucia</exactMatch>
         </concept>
@@ -5611,7 +5901,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwxm" source="us-loc" xml:lang="en"
                 >Saint Vincent and the Grenadines</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="st-vincent-and-the-grenadines"
                 source="us-dos-fsi-oh">St. Vincent and the Grenadines</exactMatch>
         </concept>
@@ -5639,7 +5929,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/pows" source="us-loc" xml:lang="en"
                 >Samoa</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="samoa" source="us-dos-fsi-oh">Samoa</exactMatch>
         </concept>
         <!-- San Marino -->
@@ -5666,7 +5956,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sm" source="us-loc" xml:lang="en"
                 >San Marino</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="san-marino" source="us-dos-fsi-oh">San
                 Marino</exactMatch>
         </concept>
@@ -5695,7 +5985,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sf" source="us-loc" xml:lang="en"
                 >Sao Tome and Principe</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="sao-tome-and-principe" source="us-dos-fsi-oh">Sao
                 Tome and Principe</exactMatch>
         </concept>
@@ -5723,7 +6013,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-su" source="us-loc" xml:lang="en"
                 >Saudi Arabia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="saudi-arabia" source="us-dos-fsi-oh">Saudi
                 Arabia</exactMatch>
         </concept>
@@ -5751,7 +6041,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sg" source="us-loc" xml:lang="en"
                 >Senegal</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="senegal" source="us-dos-fsi-oh"
                 >Senegal</exactMatch>
         </concept>
@@ -5779,7 +6069,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-rb" source="us-loc" xml:lang="en"
                 >Serbia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="serbia" source="us-dos-fsi-oh">Serbia</exactMatch>
         </concept>
         <!-- Seychelles -->
@@ -5804,7 +6094,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/i-se" source="us-loc" xml:lang="en"
                 >Seychelles</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="seychelles" source="us-dos-fsi-oh"
                 >Seychelles</exactMatch>
         </concept>
@@ -5832,7 +6122,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sl" source="us-loc" xml:lang="en"
                 >Sierra Leone</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="sierra-leone" source="us-dos-fsi-oh">Sierra
                 Leone</exactMatch>
         </concept>
@@ -5860,7 +6150,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-si" source="us-loc" xml:lang="en"
                 >Singapore</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="singapore" source="us-dos-fsi-oh"
                 >Singapore</exactMatch>
         </concept>
@@ -5886,7 +6176,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xo" source="us-loc" xml:lang="en"
                 >Slovakia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="slovakia" source="us-dos-fsi-oh"
                 >Slovakia</exactMatch>
         </concept>
@@ -5914,7 +6204,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xv" source="us-loc" xml:lang="en"
                 >Slovenia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="slovenia" source="us-dos-fsi-oh"
                 >Slovenia</exactMatch>
         </concept>
@@ -5941,7 +6231,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/pobp" source="us-loc" xml:lang="en"
                 >Solomon Islands</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="solomon-islands" source="us-dos-fsi-oh">Solomon
                 Islands</exactMatch>
         </concept>
@@ -5969,7 +6259,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-so" source="us-loc" xml:lang="en"
                 >Somalia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="somalia" source="us-dos-fsi-oh"
                 >Somalia</exactMatch>
         </concept>
@@ -6057,7 +6347,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sd" source="us-loc" xml:lang="en"
                 >South Sudan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="south-sudan" source="us-dos-fsi-oh">South
                 Sudan</exactMatch>
         </concept>
@@ -6085,7 +6375,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sp" source="us-loc" xml:lang="en"
                 >Spain</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="spain" source="us-dos-fsi-oh">Spain</exactMatch>
         </concept>
         <!-- Sri Lanka -->
@@ -6114,7 +6404,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ce" source="us-loc" xml:lang="en"
                 >Sri Lanka</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="sri-lanka" source="us-dos-fsi-oh">Sri
                 Lanka</exactMatch>
         </concept>
@@ -6142,7 +6432,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sj" source="us-loc" xml:lang="en"
                 >Sudan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="sudan" source="us-dos-fsi-oh">Sudan</exactMatch>
         </concept>
         <!-- Suriname -->
@@ -6167,7 +6457,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-sr" source="us-loc" xml:lang="en"
                 >Suriname</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="suriname" source="us-dos-fsi-oh"
                 >Suriname</exactMatch>
         </concept>
@@ -6195,7 +6485,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sw" source="us-loc" xml:lang="en"
                 >Sweden</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="sweden" source="us-dos-fsi-oh">Sweden</exactMatch>
         </concept>
         <!-- Switzerland -->
@@ -6221,7 +6511,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sz" source="us-loc" xml:lang="en"
                 >Switzerland</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="switzerland" source="us-dos-fsi-oh"
                 >Switzerland</exactMatch>
         </concept>
@@ -6248,7 +6538,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-sy" source="us-loc" xml:lang="en"
                 >Syria</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="syria" source="us-dos-fsi-oh">Syria</exactMatch>
         </concept>
         <!-- Tajikistan -->
@@ -6275,7 +6565,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ta" source="us-loc" xml:lang="en"
                 >Tajikistan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="tajikistan" source="us-dos-fsi-oh"
                 >Tajikistan</exactMatch>
         </concept>
@@ -6305,7 +6595,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-tz" source="us-loc" xml:lang="en"
                 >Tanzania</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="tanzania" source="us-dos-fsi-oh"
                 >Tanzania</exactMatch>
         </concept>
@@ -6333,7 +6623,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-th" source="us-loc" xml:lang="en"
                 >Thailand</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="thailand" source="us-dos-fsi-oh"
                 >Thailand</exactMatch>
         </concept>
@@ -6361,7 +6651,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-em" source="us-loc" xml:lang="en"
                 >Timor-Leste</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="timor-leste" source="us-dos-fsi-oh"
                 >Timor-Leste</exactMatch>
         </concept>
@@ -6389,7 +6679,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-tg" source="us-loc" xml:lang="en"
                 >Togo</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="togo" source="us-dos-fsi-oh">Togo</exactMatch>
         </concept>
         <!-- Tonga -->
@@ -6416,7 +6706,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/poto" source="us-loc" xml:lang="en"
                 >Tonga</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="tonga" source="us-dos-fsi-oh">Tonga</exactMatch>
         </concept>
         <!-- Trinidad and Tobago -->
@@ -6444,7 +6734,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwtr" source="us-loc" xml:lang="en"
                 >Trinidad and Tobago</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="trinidad-and-tobago" source="us-dos-fsi-oh"
                 >Trinidad and Tobago</exactMatch>
         </concept>
@@ -6472,7 +6762,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ti" source="us-loc" xml:lang="en"
                 >Tunisia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="tunisia" source="us-dos-fsi-oh"
                 >Tunisia</exactMatch>
         </concept>
@@ -6500,7 +6790,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-tu" source="us-loc" xml:lang="en"
                 >Turkey</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="turkey" source="us-dos-fsi-oh">Turkey</exactMatch>
         </concept>
         <!-- Turkmenistan -->
@@ -6525,7 +6815,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-tk" source="us-loc" xml:lang="en"
                 >Turkmenistan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="turkmenistan" source="us-dos-fsi-oh"
                 >Turkmenistan</exactMatch>
         </concept>
@@ -6551,7 +6841,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/potv" source="us-loc" xml:lang="en"
                 >Tuvalu</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="tuvalu" source="us-dos-fsi-oh">Tuvalu</exactMatch>
         </concept>
         <!-- Uganda -->
@@ -6578,7 +6868,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ug" source="us-loc" xml:lang="en"
                 >Uganda</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="uganda" source="us-dos-fsi-oh">Uganda</exactMatch>
         </concept>
         <!-- Ukraine -->
@@ -6603,7 +6893,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-un" source="us-loc" xml:lang="en"
                 >Ukraine</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="ukraine" source="us-dos-fsi-oh"
                 >Ukraine</exactMatch>
         </concept>
@@ -6632,7 +6922,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ts" source="us-loc" xml:lang="en"
                 >United Arab Emirates</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="united-arab-emirates" source="us-dos-fsi-oh"
                 >United Arab Emirates</exactMatch>
         </concept>
@@ -6671,7 +6961,7 @@
                 source="us-loc" xml:lang="en">United Kingdom</exactMatch>
             <exactMatch type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/uk"
                 source="us-loc" xml:lang="en">United Kingdom</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="united-kingdom" source="us-dos-fsi-oh">United
                 Kingdom</exactMatch>
         </concept>
@@ -6701,7 +6991,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/n-us" source="us-loc" xml:lang="en"
                 >United States</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
         </concept>
         <!-- Uruguay -->
@@ -6728,7 +7018,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-uy" source="us-loc" xml:lang="en"
                 >Uruguay</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="uruguay" source="us-dos-fsi-oh"
                 >Uruguay</exactMatch>
         </concept>
@@ -6756,7 +7046,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-uz" source="us-loc" xml:lang="en"
                 >Uzbekistan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="uzbekistan" source="us-dos-fsi-oh"
                 >Uzbekistan</exactMatch>
         </concept>
@@ -6784,7 +7074,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ponn" source="us-loc" xml:lang="en"
                 >Vanuatu</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="vanuatu" source="us-dos-fsi-oh"
                 >Vanuatu</exactMatch>
         </concept>
@@ -6812,7 +7102,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-ve" source="us-loc" xml:lang="en"
                 >Venezuela</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="venezuela" source="us-dos-fsi-oh"
                 >Venezuela</exactMatch>
         </concept>
@@ -6840,7 +7130,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-vt" source="us-loc" xml:lang="en"
                 >Vietnam</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="vietnam" source="us-dos-fsi-oh"
                 >Vietnam</exactMatch>
         </concept>
@@ -6867,7 +7157,7 @@
                 source="us-loc" xml:lang="en">Yemen</exactMatch>
             <exactMatch type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/ys"
                 source="us-loc" xml:lang="en">Yemen</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="yemen" source="us-dos-fsi-oh">Yemen</exactMatch>
         </concept>
         <!-- Zambia -->
@@ -6894,7 +7184,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-za" source="us-loc" xml:lang="en"
                 >Zambia</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="zambia" source="us-dos-fsi-oh">Zambia</exactMatch>
         </concept>
         <!-- Zimbabwe -->
@@ -6921,7 +7211,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-rh" source="us-loc" xml:lang="en"
                 >Zimbabwe</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="zimbabwe" source="us-dos-fsi-oh"
                 >Zimbabwe</exactMatch>
         </concept>
@@ -6948,7 +7238,7 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ch" source="us-loc" xml:lang="en"
                 >Taiwan</exactMatch>
-            <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en"/>
+
             <exactMatch type="placesPrevious" id="taiwan" source="us-dos-fsi-oh">Taiwan</exactMatch>
         </concept>
 
