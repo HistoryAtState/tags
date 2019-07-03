@@ -569,8 +569,8 @@
                 Afghanistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Afghanistan, Islamic
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kabul</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -606,8 +606,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Republic of
                 Albania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tirana</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -644,8 +644,8 @@
                 Republic of Algeria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Algeria, People’s
                 Democratic Republic of </altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Algiers</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -682,8 +682,8 @@
                 Andorra</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Andorra, Principality
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Andorra la
                 Vella</narrower>
@@ -721,8 +721,8 @@
                 Angola</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Angola, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Luanda</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -764,8 +764,8 @@
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en">Barbuda</hiddenLabel>
             <useFor>Antigua</useFor>
             <useFor>Barbuda</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Saint John’s</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -806,8 +806,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Argentine
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Argentina</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Buenos Aires</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -844,8 +844,8 @@
                 Armenia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Armenia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yerevan</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -883,8 +883,8 @@
                 Australia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Australia, Commonwealth
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Canberra</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -923,8 +923,8 @@
                 Austria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Armenia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vienna</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -963,8 +963,8 @@
                 Azerbaijan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Azerbaijan, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Baku</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -1001,8 +1001,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Commonwealth of The
                 Bahamas</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bahamas, The</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nassau</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -1040,8 +1040,8 @@
                 Bahrain</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bahrain, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Manama</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -1079,8 +1079,8 @@
                 Bangladesh</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bangladesh, People’s
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dhaka</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -1116,8 +1116,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Barbados</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Barbados</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Barbados</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bridgetown</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -1155,8 +1155,8 @@
                 Belarus</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belarus, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Minsk</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -1193,8 +1193,8 @@
                 Belgium</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belgium, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Brussels</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -1230,8 +1230,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Belize</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Belize</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Belize</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Belmopan</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -1268,8 +1268,8 @@
                 Benin</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Benin, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Porto-Novo</narrower>
             <narrower type="hasSeatOfGovernment" source="us-dos-inr" xml:lang="en"
@@ -1344,8 +1344,8 @@
                 Bolivia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bolivia, Plurinational
                 State of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasSeatOfGovernment" source="us-dos-inr" xml:lang="en">La Paz</narrower>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sucre</narrower>
@@ -1396,8 +1396,8 @@
             <useFor>Hercegovina</useFor>
             <useFor>Herzegovina</useFor>
             <useFor>Yugoslavia</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sarajevo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -1431,8 +1431,8 @@
                 Botswana</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Botswana, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Gaborone</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1470,8 +1470,8 @@
                 Brazil</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Brazil, Federative Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Brasília</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -1508,8 +1508,8 @@
                 Darussalam</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Brunei
                 Darussalam</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bandar Seri
                 Begawan</narrower>
@@ -1542,8 +1542,8 @@
                 Bulgaria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Bulgaria, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sofia</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -1579,8 +1579,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Burkina Faso</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Burkina Faso</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burkina Faso</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ouagadougou</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1617,8 +1617,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burma, Union of</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Myanmar</hiddenLabel>
             <useFor>Myanmar</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Rangoon</narrower>
             <narrower type="hasAdministrativeCapital" source="us-dos-inr" xml:lang="en">Nay Pyi
@@ -1658,8 +1658,8 @@
                 Burundi</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Burundi, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bujumbura</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1700,8 +1700,8 @@
             <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en">Cape Verde</altLabel>
             <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en">Republic of Cape
                 Verde</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Praia</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1739,8 +1739,8 @@
                 Cambodia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cambodia, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Phnom Penh</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -1779,8 +1779,8 @@
                 Cameroon</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cameroon, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yaoundé</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1846,8 +1846,8 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Central African
                 Republic</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bangui</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1882,8 +1882,8 @@
                 Chad</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Chad, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">N’Djamena</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -1919,8 +1919,8 @@
                 Chile</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Chile, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Santiago</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -1945,7 +1945,8 @@
                 China</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">China, People’s Republic of </altLabel>
 
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United States <note
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States <note
                     type="historical diplomatic">With the establishment of diplomatic relations with
                     China on January 1, 1979, the US Government recognized the People’s Republic of
                     China as the sole legal government of China and acknowledged the Chinese
@@ -2027,8 +2028,8 @@
                 the</altLabel>
             <hiddenLabel type="search" source="us-loc">Comoro Islands</hiddenLabel>
             <hiddenLabel type="search" source="us-loc">Mayotte</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Moroni</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2077,8 +2078,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Congo, Republic of
                 the</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en">Congo</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Brazzaville</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2120,8 +2121,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Democratic Republic of the
                 Congo</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kinshasa</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2160,8 +2161,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Costa Rica, Republic
                 of</altLabel>
             <useFor>Ivory Coast</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">San José</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -2199,8 +2200,8 @@
                 d’Ivoire</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Côte d’Ivoire, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yamoussoukro</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2238,8 +2239,8 @@
                 Croatia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Croatia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Zagreb</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2277,8 +2278,8 @@
                 Cuba</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cuba, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Havana</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -2314,8 +2315,8 @@
                 Cyprus</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Cyprus, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nicosia</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2347,8 +2348,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Czechia</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Czech Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Czech Republic</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Prague</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2386,8 +2387,8 @@
                 Denmark</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Denmark, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Copenhagen</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2425,8 +2426,8 @@
                 Djibouti</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Djibouti, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Djibouti</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2464,8 +2465,8 @@
                 Dominica</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Dominica, Commonwealth
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Roseau</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -2504,8 +2505,8 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Dominican
                 Republic</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Santo Domingo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -2543,8 +2544,8 @@
                 Ecuador</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ecuador, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Quito</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -2582,8 +2583,8 @@
                 Egypt</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Egypt, Arab Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Cairo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -2620,8 +2621,8 @@
                 Salvador</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">El Salvador, Republic of El
                 Salvador</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">San Salvador</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -2656,8 +2657,8 @@
                 Guinea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Equatorial Guinea, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Malabo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2690,8 +2691,8 @@
                 Eritrea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Eritrea, State
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Asmara</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2729,8 +2730,8 @@
                 Estonia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Estonia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tallinn</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2770,8 +2771,8 @@
                 of</altLabel>
             <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en">Swaziland</altLabel>
             <useFor>Swaziland</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasAdministrativeCapital" source="us-dos-inr" xml:lang="en"
                 >Mbabane</narrower>
@@ -2812,8 +2813,8 @@
                 of Ethiopia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ethiopia, Federal
                 Democratic Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Addis Ababa</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -2851,8 +2852,8 @@
                 Fiji</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Fiji, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Suva</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -2889,8 +2890,8 @@
                 Finland</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Finland, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Helsinki</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2925,8 +2926,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">France</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
                 France</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Paris</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -2967,8 +2968,8 @@
                 Republic</hiddenLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
                 Gabon</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Libreville</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -3005,8 +3006,8 @@
                 Gambia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Gambia, Republic of
                 The</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Banjul</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -3042,8 +3043,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Georgia</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Georgia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Georgia</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tbilisi</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3078,8 +3079,8 @@
                 Germany</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Germany, Federal Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Berlin</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3117,8 +3118,8 @@
                 Ghana</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ghana, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Accra</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -3155,8 +3156,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Greece</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
                 Greece</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Athens</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3188,8 +3189,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Grenada</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Grenada</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Grenada</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Saint George’s</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -3227,8 +3228,8 @@
                 Guatemala</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guatemala, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Guatemala City</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -3267,8 +3268,8 @@
                 Guinea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guinea, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Conakry</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -3305,8 +3306,8 @@
                 Guinea-Bissau</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guinea-Bissau, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bissau</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -3342,8 +3343,8 @@
                 Guyana</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guyana, Co-operative
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Georgetown</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -3380,8 +3381,8 @@
                 Haiti</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Haiti, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port-au-Prince</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -3417,8 +3418,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Holy See</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Holy See</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Vatican</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vatican City</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3456,8 +3457,8 @@
                 Honduras</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Honduras, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tegucigalpa</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -3490,8 +3491,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Hungary</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Hungary</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Hungary</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Budapest</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3526,8 +3527,8 @@
                 Iceland</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Iceland, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Reykjavík</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3564,8 +3565,8 @@
                 India</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">India, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">New Delhi</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -3599,8 +3600,8 @@
                 Indonesia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Indonesia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Jakarta</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -3674,8 +3675,8 @@
                 Iraq</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Iraq, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Baghdad</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -3711,8 +3712,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Ireland</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Ireland</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ireland</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dublin</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3736,8 +3737,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Israel</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Israel</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Israel, State of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Jerusalem</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -3775,8 +3776,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Italian Republic</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">Republic of
                 Italy</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Rome</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -3811,8 +3812,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Jamaica</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Jamaica</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Jamaica</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kingston</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -3848,8 +3849,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Japan</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Japan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Japan</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tokyo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -3886,8 +3887,8 @@
                 Jordan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Jordan, Hashemite Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Amman</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -3921,8 +3922,8 @@
                 Kazakhstan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kazakhstan, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nur-Sultan</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -3960,8 +3961,8 @@
                 Kenya</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kenya, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nairobi</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -3998,8 +3999,8 @@
                 Kiribati</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kiribati, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tarawa</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -4034,8 +4035,8 @@
                 Kosovo</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kosovo, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Pristina</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4067,8 +4068,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kuwait</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Kuwait</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kuwait, State of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kuwait City</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -4103,8 +4104,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Kyrgyzstan</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Kyrgyz Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Kyrgyzstan</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bishkek</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -4138,8 +4139,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Lao People’s Democratic
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Laos</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vientiane</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -4176,8 +4177,8 @@
                 Latvia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Latvia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Riga</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4213,8 +4214,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Lebanon
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Lebanon Republic</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Beirut</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -4252,8 +4253,8 @@
                 Lesotho</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Lesotho, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Maseru</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4288,8 +4289,8 @@
                 Liberia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Liberia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Monrovia</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4325,8 +4326,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Libya</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Libya</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Libya, State of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tripoli</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -4363,8 +4364,8 @@
                 Liechtenstein</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Liechtenstein, Principality
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vaduz</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4402,8 +4403,8 @@
                 Lithuania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Lithuania, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Vilnius</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4441,8 +4442,8 @@
                 Luxembourg</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Luxembourg, Grand Duchy
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Luxembourg</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4480,8 +4481,8 @@
                 ofMadagascar</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Madagascar, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Antananarivo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4519,8 +4520,8 @@
                 Malawi</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Malawi, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Lilongwe</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4555,8 +4556,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Malaysia</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Malaysia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Malaysia</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kuala Lumpur</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -4596,8 +4597,8 @@
                 Maldives</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Maldives, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Male</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -4632,8 +4633,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mali</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Mali</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mali</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bamako</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4670,8 +4671,8 @@
                 Malta</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Malta, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Valletta</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4709,8 +4710,8 @@
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Marshall Islands, Republic
                 of the</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Majuro</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -4747,8 +4748,8 @@
                 Mauritania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mauritania, Islamic
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nouakchott</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4786,8 +4787,8 @@
                 Mauritius</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mauritius, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port Louis</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -4824,8 +4825,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">United Mexican
                 States</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mexico</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Mexico City</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -4863,8 +4864,8 @@
                 Micronesia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Micronesia, Federated
                 States of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Palikir</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -4902,8 +4903,8 @@
                 Moldova</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Moldova, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Chisinau</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4941,8 +4942,8 @@
                 Monaco</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Monaco, Principality
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Monaco</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -4977,8 +4978,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mongolia</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Mongolia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mongolia</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ulaanbaatar</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -5014,8 +5015,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Montenegro</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Montenegro</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Montenegro</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Podgorica</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5053,8 +5054,8 @@
                 Morocco</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Morocco, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Rabat</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -5090,8 +5091,8 @@
                 Mozambique</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mozambique, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Maputo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -5129,8 +5130,8 @@
                 Namibia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Namibia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Windhoek</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -5166,8 +5167,8 @@
                 Nauru</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Nauru, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Yaren District<note
                     source="us-dos-inr"/>(Nauru has no capital city)</narrower>
@@ -5205,8 +5206,8 @@
                 of Nepal</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Nepal, Federal Democratic
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kathmandu</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -5243,8 +5244,8 @@
                 Netherlands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Netherlands, Kingdom of
                 the</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Amsterdam</narrower>
             <narrower type="hasSeatOfGovernment" source="us-dos-inr" xml:lang="en">The
@@ -5282,8 +5283,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">New Zealand</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">New Zealand</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">New Zealand</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Wellington</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -5321,8 +5322,8 @@
                 Nicaragua</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Nicaragua, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Managua</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -5360,8 +5361,8 @@
                 Niger</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Niger, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Niamey</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -5398,8 +5399,8 @@
                 Nigeria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Nigeria, Federal Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Abuja</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -5479,8 +5480,8 @@
             <hiddenLabel type="search" source="us-loc" xml:lang="en">Macedonia
                 (Republic)</hiddenLabel>
             <useFor type="former">Macedonia</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Skopje</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5518,8 +5519,8 @@
                 Norway</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Norway, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Oslo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5556,8 +5557,8 @@
                 Oman</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Oman, Sultanate
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Muscat</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -5594,8 +5595,8 @@
                 Pakistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Pakistan, Islamic Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Islamabad</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -5622,8 +5623,8 @@
                 Palau</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Palau, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ngerulmud</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -5649,8 +5650,8 @@
                 Panama</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Panama, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Panama City</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -5676,8 +5677,8 @@
                 New Guinea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Papua New Guinea,
                 Independent State of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port Moresby</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -5704,8 +5705,8 @@
                 Paraguay</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Paraguay, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Asunción</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -5732,8 +5733,8 @@
                 Peru</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Peru, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Lima</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -5759,8 +5760,8 @@
                 Philippines</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Philippines, Republic of
                 the</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Manila</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -5787,8 +5788,8 @@
                 Poland</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Poland, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Warsaw</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5813,8 +5814,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Portuguese
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Portugal</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Lisbon</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5839,8 +5840,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Qatar</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">State of Qatar</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Qatar, State of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Doha</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -5864,8 +5865,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Romania</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Romania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Romania</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bucharest</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5892,8 +5893,8 @@
                 Federation</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Russian
                 Federation</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Moscow</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -5919,8 +5920,8 @@
                 Rwanda</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Rwanda, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kigali</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -5953,8 +5954,8 @@
             <useFor>St. Christopher</useFor>
             <useFor>St. Christopher Island</useFor>
             <useFor>Saint Kitts</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Basseterre</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -5981,8 +5982,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Lucia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Lucia</altLabel>
             <altLabel type="variant" source="us-dos-inr" xml:lang="en">St. Lucia</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Castries</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -6017,8 +6018,8 @@
             <useFor>Saint Vincent</useFor>
             <useFor>St. Vincent</useFor>
 
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kingstown</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -6045,8 +6046,8 @@
                 Samoa</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Samoa, Independent State
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Apia</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6072,8 +6073,8 @@
                 Marino</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">San Marino, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">San Marino</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6101,8 +6102,8 @@
                 Tome and Principe</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Sao Tome and Principe,
                 Democratic Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">São Tomé</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6129,8 +6130,8 @@
                 Arabia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saudi Arabia, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Riyadh</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -6157,8 +6158,8 @@
                 Senegal</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Senegal, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dakar</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6185,8 +6186,8 @@
                 Serbia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Serbia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Belgrade</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6210,8 +6211,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Seychelles</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Seychelles</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Seychelles</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Victoria</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6238,8 +6239,8 @@
                 Leone</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Sierra Leone, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Freetown</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6266,8 +6267,8 @@
                 Singapore</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Singapore, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Singapore</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6292,8 +6293,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Slovakia</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Slovak Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Slovak Republic</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bratislava</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6320,8 +6321,8 @@
                 Slovenia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Slovenia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ljubljana</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6347,8 +6348,8 @@
                 Islands</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Solomon Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Solomon Islands</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Honiara</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6375,8 +6376,8 @@
                 Somalia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Somalia, Federal Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Mogadishu</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6403,8 +6404,8 @@
                 Africa</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Africa, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasAdministrativeSeat" source="us-dos-inr" xml:lang="en"/>
             <narrower type="hasLegislativeSeat" source="us-dos-inr" xml:lang="en">Cape
@@ -6436,8 +6437,8 @@
                 Korea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Korea</altLabel>
             <hiddenLabel type="search" source="us-loc" xml:lang="en">Korea (South)</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Seoul</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6463,8 +6464,8 @@
                 Sudan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Sudan, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Juba</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6491,8 +6492,8 @@
                 Spain</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Spain, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Madrid</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6518,8 +6519,8 @@
                 Republic of Sri Lanka</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Sri Lanka, Democratic
                 Socialist Republic</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Colombo</narrower>
             <narrower type="hasLegislativeSeat" source="us-dos-inr" xml:lang="en">Sri
@@ -6548,8 +6549,8 @@
                 Sudan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Sudan, Republic of
                 the</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Khartoum</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6575,8 +6576,8 @@
                 Suriname</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Suriname, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Paramaribo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -6601,8 +6602,8 @@
                 Sweden</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Sweden, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Stockholm</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6627,8 +6628,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Swiss
                 Confederation</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Switzerland</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bern</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6654,8 +6655,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Syrian Arab
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Syria</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Damascus</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -6681,8 +6682,8 @@
                 Tajikistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Tajikistan, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dushanbe</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -6709,8 +6710,8 @@
                 Tanzania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Tanzania, United Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dar es Salaam</narrower>
             <narrower type="hasAdministrativeSeat" source="us-dos-inr" xml:lang="en"
@@ -6739,8 +6740,8 @@
                 Thailand</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Thailand, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Bangkok</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6767,8 +6768,8 @@
                 Timor-Leste</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Timor-Leste, Democratic
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Dili</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6795,8 +6796,8 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Togo (Togolese
                 Republic)</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Lomé</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -6822,8 +6823,8 @@
                 Tonga</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Tonga, Kingdom
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Nuku’alofa</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6850,8 +6851,8 @@
                 Tobago</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Trinidad and Tobago,
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port of Spain</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -6878,8 +6879,8 @@
                 Tunisia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Tunisia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tunis</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -6906,8 +6907,8 @@
                 Turkey</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Turkey, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ankara</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -6931,8 +6932,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Turkmenistan</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Turkmenistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Turkmenistan</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Ashgabat</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -6957,8 +6958,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Tuvalu</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Tuvalu</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Tuvalu</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Funafuti</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -6984,8 +6985,8 @@
                 Uganda</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Uganda, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kampala</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -7009,8 +7010,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Ukraine</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Ukraine</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Ukraine</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Kyiv</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -7038,8 +7039,8 @@
                 Emirates</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">United Arab
                 Emirates</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Abu Dhabi</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -7078,8 +7079,8 @@
             <useFor>Northern Ireland</useFor>
             <useFor>Scotland</useFor>
             <useFor>Wales</useFor>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">London</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
@@ -7107,8 +7108,6 @@
                 America</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en">U.S.A.</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en">America</hiddenLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Washington, DC</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -7134,8 +7133,8 @@
                 Uruguay</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Uruguay, Oriental Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Montevideo</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -7162,8 +7161,8 @@
                 Uzbekistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Uzbekistan, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Tashkent</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-sca" source="us-dos-fsi-oh"
@@ -7190,8 +7189,8 @@
                 Vanuatu</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Vanuatu, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Port-Vila</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -7218,8 +7217,8 @@
                 Venezuela</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Venezuela, Bolivarian
                 Republic of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Caracas</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-wh" source="us-dos-fsi-oh"
@@ -7246,8 +7245,8 @@
                 Vietnam</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Vietnam, Socialist Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Hanoi</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -7274,8 +7273,8 @@
                 Yemen</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Yemen, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Sanaa</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-ne" source="us-dos-fsi-oh"
@@ -7300,8 +7299,8 @@
                 Zambia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Zambia, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Lusaka</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -7327,8 +7326,8 @@
                 Zimbabwe</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Zimbabwe, Republic
                 of</altLabel>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Harare</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-af" source="us-dos-fsi-oh"
@@ -7356,8 +7355,8 @@
             <historyNote source="us-dos-inr">Claimed by both the Government of the People’s Republic
                 of China and the authorities on Taiwan. Administered by the authorities on
                 Taiwan.</historyNote>
-            <related type="diplomaticRelationsWith" source="us-dos-inr" id="">United
-                States</related>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Taipei</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -7372,8 +7371,7 @@
 
             <exactMatch type="placesPrevious" id="taiwan" source="us-dos-fsi-oh">Taiwan</exactMatch>
         </concept>
-
-
+        
     </collection>
 
 
