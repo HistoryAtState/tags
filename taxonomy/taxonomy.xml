@@ -2692,15 +2692,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="ecuador" source="us-dos-fsi-oh"
+                    >Ecuador</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="EC" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ECU" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ec"
                     source="us-loc" xml:lang="en">Ecuador</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/s-ec" source="us-loc"
                     xml:lang="en">Ecuador</exactMatch>
-                <exactMatch type="placesPrevious" id="ecuador" source="us-dos-fsi-oh"
-                    >Ecuador</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79068415"
+                    source="us-loc" xml:lang="en">Ecuador</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/150084159" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205578" source="oclc"
+                    xml:lang="en">Ecuador</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q736"
+                    source="wikimedia" xml:lang="en">Ecuador</closeMatch>
             </concept>
             <!-- Egypt -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -2720,16 +2733,30 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="egypt" source="us-dos-fsi-oh"
+                    >Egypt</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="EG" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="EGY" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ua"
                     source="us-loc" xml:lang="en">Egypt</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ua" source="us-loc"
                     xml:lang="en">Egypt</exactMatch>
-                <exactMatch type="placesPrevious" id="egypt" source="us-dos-fsi-oh"
-                    >Egypt</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061791"
+                    source="us-loc" xml:lang="en">Egypt</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/130890862" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1208755" source="oclc"
+                    xml:lang="en">Egypt</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q79"
+                    source="wikimedia" xml:lang="en">Egypt</closeMatch>
             </concept>
+            <!-- El Salvador -->
             <concept type="place" created-by="rossat" created-date="2019-06-26"
                 lastDateTimeVerified="2019-06-26T18:02:44-04:00">
                 <id source="us-dos-fsi-oh" id="ad450fb9-8889-459c-bdbf-10f91810758b"/>
@@ -2758,6 +2785,15 @@
                     xml:lang="en">El Salvador</exactMatch>
                 <exactMatch type="placesPrevious" id="el-salvador" source="us-dos-fsi-oh">El
                     Salvador</exactMatch>
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79066409"
+                    source="us-loc" xml:lang="en">El Salvador</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/126625611" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205530" source="oclc"
+                    xml:lang="en">El Salvador</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q792"
+                    source="wikimedia" xml:lang="en">El Salvador</closeMatch>
             </concept>
             <!-- Equatorial Guinea -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2786,7 +2822,16 @@
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-eg" source="us-loc"
                     xml:lang="en">Equatorial Guinea</exactMatch>
                 <exactMatch type="placesPrevious" id="equatorial-guinea" source="us-dos-fsi-oh"
-                    >Equatorial Guinea</exactMatch>/exactMatch> </concept>
+                    >Equatorial Guinea</exactMatch>/exactMatch> <exactMatch type="lcnaf"
+                    id="http://id.loc.gov/authorities/names/n82047828" source="us-loc" xml:lang="en"
+                    >Equatorial Guinea</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/239001081" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1219325" source="oclc"
+                    xml:lang="en">Equatorial Guinea</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q983"
+                    source="wikimedia" xml:lang="en">Equatorial Guinea</closeMatch>
+            </concept>
             <!-- Eritrea -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
                 lastDateTimeVerified="2019-06-28T09:56:29-04:00">
@@ -2805,15 +2850,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="eritrea" source="us-dos-fsi-oh"
+                    >Eritrea</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="ER" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ERI" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ea"
                     source="us-loc" xml:lang="en">Eritrea</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-ea" source="us-loc"
                     xml:lang="en">Eritrea</exactMatch>
-                <exactMatch type="placesPrevious" id="eritrea" source="us-dos-fsi-oh"
-                    >Eritrea</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n93074182"
+                    source="us-loc" xml:lang="en">Eritrea</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/152381756" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1266183" source="oclc"
+                    xml:lang="en">Eritrea</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q986"
+                    source="wikimedia" xml:lang="en">Eritrea</closeMatch>
             </concept>
             <!-- Estonia -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2833,15 +2891,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="estonia" source="us-dos-fsi-oh"
+                    >Estonia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="EE" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="EST" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/er"
                     source="us-loc" xml:lang="en">Estonia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-er" source="us-loc"
                     xml:lang="en">Estonia</exactMatch>
-                <exactMatch type="placesPrevious" id="estonia" source="us-dos-fsi-oh"
-                    >Estonia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82253985"
+                    source="us-loc" xml:lang="en">Estonia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/134320092" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1223630" source="oclc"
+                    xml:lang="en">Estonia</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q191"
+                    source="wikimedia" xml:lang="en">Estonia</closeMatch>
             </concept>
             <!-- Eswatini -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2866,15 +2937,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="swaziland" source="us-dos-fsi-oh"
+                    >Swaziland</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="SZ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="SWZ" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sq"
                     source="us-loc" xml:lang="en">Eswatini</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-sq" source="us-loc"
                     xml:lang="en">Eswatini</exactMatch>
-                <exactMatch type="placesPrevious" id="swaziland" source="us-dos-fsi-oh"
-                    >Swaziland</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n2019008120"
+                    source="us-loc" xml:lang="en">Eswatini</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/140730092" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1214603" source="oclc"
+                    xml:lang="en">Eswatini</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q1050"
+                    source="wikimedia" xml:lang="en">Eswatini</closeMatch>
             </concept>
             <!-- Ethiopia -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -2894,15 +2978,28 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="ethiopia" source="us-dos-fsi-oh"
+                    >Ethiopia</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="ET" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="ETH" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/et"
                     source="us-loc" xml:lang="en">Ethiopia</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/f-et" source="us-loc"
                     xml:lang="en">Ethiopia</exactMatch>
-                <exactMatch type="placesPrevious" id="ethiopia" source="us-dos-fsi-oh"
-                    >Ethiopia</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79081279"
+                    source="us-loc" xml:lang="en">Ethiopia</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/132211363" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205830" source="oclc"
+                    xml:lang="en">Ethiopia</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q115"
+                    source="wikimedia" xml:lang="en">Ethiopia</closeMatch>
             </concept>
             <!-- Fiji -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
