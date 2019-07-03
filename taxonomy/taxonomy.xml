@@ -5147,6 +5147,15 @@
 
             <exactMatch type="placesPrevious" id="namibia" source="us-dos-fsi-oh"
                 >Namibia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79039884"
+                source="us-loc" xml:lang="en">Namibia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/140653407" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204890" source="oclc"
+                xml:lang="en">Namibia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1030" source="wikimedia"
+                xml:lang="en">Namibia</closeMatch>
         </concept>
         <!-- Nauru -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5166,15 +5175,26 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="nauru" source="us-dos-fsi-oh">Nauru</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NRU" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/nu"
                 source="us-loc" xml:lang="en">Nauru</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ponu" source="us-loc" xml:lang="en"
                 >Nauru</exactMatch>
 
-            <exactMatch type="placesPrevious" id="nauru" source="us-dos-fsi-oh">Nauru</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82076382"
+                source="us-loc" xml:lang="en"/>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/129027205" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1220266" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q697" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Nepal -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5193,15 +5213,26 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="nepal" source="us-dos-fsi-oh">Nepal</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NPL" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/np"
                 source="us-loc" xml:lang="en">Nepal</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-np" source="us-loc" xml:lang="en"
                 >Nepal</exactMatch>
 
-            <exactMatch type="placesPrevious" id="nepal" source="us-dos-fsi-oh">Nepal</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79091522"
+                source="us-loc" xml:lang="en"/>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/138363788" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206102" source="oclc"
+                xml:lang="en">Nepal</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q837" source="wikimedia"
+                xml:lang="en">Nepal</closeMatch>
         </concept>
         <!-- Netherlands -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5222,16 +5253,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="netherlands" source="us-dos-fsi-oh"
+                >Netherlands</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NLD" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ne"
                 source="us-loc" xml:lang="en">Netherlands</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ne" source="us-loc" xml:lang="en"
                 >Netherlands</exactMatch>
 
-            <exactMatch type="placesPrevious" id="netherlands" source="us-dos-fsi-oh"
-                >Netherlands</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78085423"
+                source="us-loc" xml:lang="en">Netherlands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/156652814" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204034" source="oclc"
+                xml:lang="en">Netherlands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q55" source="wikimedia"
+                xml:lang="en">Netherlands</closeMatch>
         </concept>
         <!-- New Zealand -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5248,16 +5290,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="new-zealand" source="us-dos-fsi-oh">New
+                Zealand</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NZL" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/nz"
                 source="us-loc" xml:lang="en">New Zealand</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/u-nz" source="us-loc" xml:lang="en"
                 >New Zealand</exactMatch>
 
-            <exactMatch type="placesPrevious" id="new-zealand" source="us-dos-fsi-oh">New
-                Zealand</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79021322"
+                source="us-loc" xml:lang="en">New Zealand</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130102165" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204542" source="oclc"
+                xml:lang="en">New Zealand</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q664" source="wikimedia"
+                xml:lang="en">New Zealand</closeMatch>
         </concept>
         <!-- Nicaragua -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5276,16 +5329,27 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="nicaragua" source="us-dos-fsi-oh"
+                >Nicaragua</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NIC" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/nq"
                 source="us-loc" xml:lang="en">Nicaragua</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncnq" source="us-loc" xml:lang="en"
                 >Nicaragua</exactMatch>
 
-            <exactMatch type="placesPrevious" id="nicaragua" source="us-dos-fsi-oh"
-                >Nicaragua</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80009698"
+                source="us-loc" xml:lang="en">Nicaragua</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/140638485" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1228307" source="oclc"
+                xml:lang="en">Nicaragua</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q811" source="wikimedia"
+                xml:lang="en">Nicaragua</closeMatch>
         </concept>
         <!-- Niger -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5304,15 +5368,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="niger" source="us-dos-fsi-oh">Niger</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NER" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ng"
                 source="us-loc" xml:lang="en">Niger</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ng" source="us-loc" xml:lang="en"
                 >Niger</exactMatch>
 
-            <exactMatch type="placesPrevious" id="niger" source="us-dos-fsi-oh">Niger</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79065240"
+                source="us-loc" xml:lang="en">Niger</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/153186877" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205480" source="oclc"
+                xml:lang="en">Niger</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1032" source="wikimedia"
+                xml:lang="en">Niger</closeMatch>
         </concept>
         <!-- Nigeria -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5331,16 +5406,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="nigeria" source="us-dos-fsi-oh"
+                >Nigeria</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NGA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/nr"
                 source="us-loc" xml:lang="en">Nigeria</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-nr" source="us-loc" xml:lang="en"
                 >Nigeria</exactMatch>
 
-            <exactMatch type="placesPrevious" id="nigeria" source="us-dos-fsi-oh"
-                >Nigeria</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79056412"
+                source="us-loc" xml:lang="en">Nigeria</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130803976" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205229" source="oclc"
+                xml:lang="en">Nigeria</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1033" source="wikimedia"
+                xml:lang="en">Nigeria</closeMatch>
         </concept>
         <!-- North Korea -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5357,15 +5443,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="north-korea" source="us-dos-fsi-oh">North
+                Korea</exactMatch>
+
             <exactMatch type="genc-2a-code" id="KP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PRK" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kn"
                 source="us-loc" xml:lang="en">Korea (North)</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-kn" source="us-loc" xml:lang="en"
                 >Korea (North)</exactMatch>
-            <exactMatch type="placesPrevious" id="north-korea" source="us-dos-fsi-oh">North
-                Korea</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81074720"
+                source="us-loc" xml:lang="en">Korea (North)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/142577143" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1214151" source="oclc"
+                xml:lang="en">Korea (North)</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q423" source="wikimedia"
+                xml:lang="en">North Korea</closeMatch>
         </concept>
         <!-- North Macedonia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5389,16 +5487,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="macedonia" source="us-dos-fsi-oh"
+                >Macedonia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="MK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MKD" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xn"
                 source="us-loc" xml:lang="en">North Macedonia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-xn" source="us-loc" xml:lang="en"
                 >North Macedonia</exactMatch>
 
-            <exactMatch type="placesPrevious" id="macedonia" source="us-dos-fsi-oh"
-                >Macedonia</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n2019008836"
+                source="us-loc" xml:lang="en">North Macedonia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/135978180" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1212818" source="oclc"
+                xml:lang="en">North Macedonia</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q221" source="wikimedia"
+                xml:lang="en">North Macedonia</closeMatch>
         </concept>
         <!-- Norway -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5417,15 +5526,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="norway" source="us-dos-fsi-oh">Norway</exactMatch>
+
             <exactMatch type="genc-2a-code" id="NO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NOR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/no"
                 source="us-loc" xml:lang="en">Norway</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-no" source="us-loc" xml:lang="en"
                 >Norway</exactMatch>
 
-            <exactMatch type="placesPrevious" id="norway" source="us-dos-fsi-oh">Norway</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79021528"
+                source="us-loc" xml:lang="en">Norway</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/155855229" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204556" source="oclc"
+                xml:lang="en">Norway</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q20" source="wikimedia"
+                xml:lang="en">Norway</closeMatch>
         </concept>
         <!-- Oman -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -5444,15 +5564,26 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="oman" source="us-dos-fsi-oh">Oman</exactMatch>
+
             <exactMatch type="genc-2a-code" id="OM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="OMN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/mk"
                 source="us-loc" xml:lang="en">Oman</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-mk" source="us-loc" xml:lang="en"
                 >Oman</exactMatch>
 
-            <exactMatch type="placesPrevious" id="oman" source="us-dos-fsi-oh">Oman</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035932"
+                source="us-loc" xml:lang="en">Oman</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/137795373" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1212768" source="oclc"
+                xml:lang="en">Oman</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q842" source="wikimedia"
+                xml:lang="en">Oman</closeMatch>
         </concept>
         <!-- Pakistan -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
