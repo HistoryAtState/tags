@@ -3019,14 +3019,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="fiji" source="us-dos-fsi-oh">Fiji</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="FJ" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FJI" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fj"
                     source="us-loc" xml:lang="en">Fiji</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/pofj" source="us-loc"
                     xml:lang="en">Fiji</exactMatch>
-                <exactMatch type="placesPrevious" id="fiji" source="us-dos-fsi-oh">Fiji</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80049723"
+                    source="us-loc" xml:lang="en">Fiji</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/158167302" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://www.wikidata.org/entity/Q712" source="oclc"
+                    xml:lang="en">Fiji</closeMatch>
+                <closeMatch type="wikidata" id="http://id.worldcat.org/fast/1208479"
+                    source="wikimedia" xml:lang="en">Fiji</closeMatch>
             </concept>
             <!-- Finland -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3055,6 +3068,16 @@
                     xml:lang="en">Finland</exactMatch>
                 <exactMatch type="placesPrevious" id="finland" source="us-dos-fsi-oh"
                     >Finland</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79065711"
+                    source="us-loc" xml:lang="en">Finland</exactMatch>
+                <exactMatch type="viaf" id="http://viaf.org/viaf/132440532" source="oclc"
+                    xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1205503" source="oclc"
+                    xml:lang="en">Finland</closeMatch>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q33"
+                    source="wikimedia" xml:lang="en">Finland</closeMatch>
             </concept>
             <!-- France -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3075,15 +3098,27 @@
                 <broader type="isPartOf-geopoliticalCategory"
                     id="a119d222-2c6f-4d49-867e-fc091b395d28" source="us-dos-inr">independent
                     states</broader>
+
+                <exactMatch type="placesPrevious" id="france" source="us-dos-fsi-oh"
+                    >France</exactMatch>
+
                 <exactMatch type="genc-2a-code" id="FR" source="us-dos-inr"/>
                 <exactMatch type="genc-3a-code" id="FRA" source="us-dos-inr"/>
+
                 <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fr"
                     source="us-loc" xml:lang="en">France</exactMatch>
                 <exactMatch type="marc-geographic-areas"
                     id="http://id.loc.gov/vocabulary/geographicAreas/e-fr" source="us-loc"
                     xml:lang="en">France</exactMatch>
-                <exactMatch type="placesPrevious" id="france" source="us-dos-fsi-oh"
-                    >France</exactMatch>
+
+                <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79006404"
+                    source="us-loc" xml:lang="en">France</exactMatch>
+                <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1204289" source="oclc"
+                    xml:lang="en"/>
+                <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q142"
+                    source="wikimedia" xml:lang="en"/>
             </concept>
             <!-- Gabon -->
             <concept type="place" created-by="rossat" created-date="2019-06-28"
