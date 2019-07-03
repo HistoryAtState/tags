@@ -3534,6 +3534,10 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="iceland" source="us-dos-fsi-oh"
+                >Iceland</exactMatch>
+
             <exactMatch type="genc-2a-code" id="IS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ISL" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ic"
@@ -3541,8 +3545,15 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-ic" source="us-loc" xml:lang="en"
                 >Iceland</exactMatch>
-            <exactMatch type="placesPrevious" id="iceland" source="us-dos-fsi-oh"
-                >Iceland</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80140759"
+                source="us-loc" xml:lang="en">Iceland</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/133608068" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210572" source="oclc"
+                xml:lang="en">Iceland</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q189" source="wikimedia"
+                xml:lang="en">Iceland</closeMatch>
         </concept>
         <!-- India -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3569,6 +3580,15 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ii" source="us-loc" xml:lang="en"
                 >India</exactMatch>
             <exactMatch type="placesPrevious" id="india" source="us-dos-fsi-oh">India</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80125948"
+                source="us-loc" xml:lang="en">India</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/135375457" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210276" source="oclc"
+                xml:lang="en">India</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q668" source="wikimedia"
+                xml:lang="en">India</closeMatch>
         </concept>
         <!-- Indonesia -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3587,15 +3607,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="indonesia" source="us-dos-fsi-oh"
+                >Indonesia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="ID" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IDN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/io"
                 source="us-loc" xml:lang="en">Indonesia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-io" source="us-loc" xml:lang="en"
                 >Indonesia</exactMatch>
-            <exactMatch type="placesPrevious" id="indonesia" source="us-dos-fsi-oh"
-                >Indonesia</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80083633"
+                source="us-loc" xml:lang="en">Indonesia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125405737" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209242" source="oclc"
+                xml:lang="en">Indonesia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q252" source="wikimedia"
+                xml:lang="en">Indonesia</closeMatch>
         </concept>
         <!-- Iran -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3612,14 +3644,26 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="iran" source="us-dos-fsi-oh">Iran</exactMatch>
+
             <exactMatch type="genc-2a-code" id="" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ir"
                 source="us-loc" xml:lang="en">Iran</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ir" source="us-loc" xml:lang="en"
                 >Iran</exactMatch>
-            <exactMatch type="placesPrevious" id="iran" source="us-dos-fsi-oh">Iran</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79039880"
+                source="us-loc" xml:lang="en">Iran</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/149669363" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204889" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q794" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!--  Iraq-->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3638,14 +3682,27 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="iraq" source="us-dos-fsi-oh">Iraq</exactMatch>
+
             <exactMatch type="genc-2a-code" id="IQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IRQ" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/iq"
                 source="us-loc" xml:lang="en">Iraq</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-iq" source="us-loc" xml:lang="en"
                 >Iraq</exactMatch>
-            <exactMatch type="placesPrevious" id="iraq" source="us-dos-fsi-oh">Iraq</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79077342"
+                source="us-loc" xml:lang="en">Iraq</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/8055148947783454950004" source="oclc"
+                xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205757" source="oclc"
+                xml:lang="en">Iraq</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q796" source="wikimedia"
+                xml:lang="en">Iraq</closeMatch>
         </concept>
         <!-- Ireland -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3687,14 +3744,26 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="israel" source="us-dos-fsi-oh">Israel</exactMatch>
+
             <exactMatch type="genc-2a-code" id="IL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ISR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/is"
                 source="us-loc" xml:lang="en">Israel</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-is" source="us-loc" xml:lang="en"
                 >Israel</exactMatch>
-            <exactMatch type="placesPrevious" id="israel" source="us-dos-fsi-oh">Israel</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79063445"
+                source="us-loc" xml:lang="en">Ireland</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/158208597" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205427" source="oclc"
+                xml:lang="en">Ireland</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q27" source="wikimedia"
+                xml:lang="en">Ireland</closeMatch>
         </concept>
         <!-- Italy -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3714,14 +3783,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="italy" source="us-dos-fsi-oh">Italy</exactMatch>
+
             <exactMatch type="genc-2a-code" id="IT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ITA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/it"
                 source="us-loc" xml:lang="en">Italy</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-it" source="us-loc" xml:lang="en"
                 >Italy</exactMatch>
-            <exactMatch type="placesPrevious" id="italy" source="us-dos-fsi-oh">Italy</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79021783"
+                source="us-loc" xml:lang="en">Italy</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/152361066" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204565" source="oclc"
+                xml:lang="en">Italy</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q38" source="wikimedia"
+                xml:lang="en">Italy</closeMatch>
         </concept>
         <!-- Jamaica -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3738,15 +3819,27 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="jamaica" source="us-dos-fsi-oh"
+                >Jamaica</exactMatch>
+
             <exactMatch type="genc-2a-code" id="JM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JAM" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/jm"
                 source="us-loc" xml:lang="en">Jamaica</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwjm" source="us-loc" xml:lang="en"
                 >Jamaica</exactMatch>
-            <exactMatch type="placesPrevious" id="jamaica" source="us-dos-fsi-oh"
-                >Jamaica</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81008540"
+                source="us-loc" xml:lang="en">Jamaica</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/126584662" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211575" source="oclc"
+                xml:lang="en">Jamaica</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q766" source="wikimedia"
+                xml:lang="en">Jamaica</closeMatch>
         </concept>
         <!-- Japan -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3763,14 +3856,26 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="japan" source="us-dos-fsi-oh">Japan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="JP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JPN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ja"
                 source="us-loc" xml:lang="en">Japan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ja" source="us-loc" xml:lang="en"
                 >Japan</exactMatch>
-            <exactMatch type="placesPrevious" id="japan" source="us-dos-fsi-oh">Japan</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78089021"
+                source="us-loc" xml:lang="en">Japan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/159367111" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204082" source="oclc"
+                xml:lang="en">Japan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q17" source="wikimedia"
+                xml:lang="en">Japan</closeMatch>
         </concept>
         <!-- Jordan -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3797,6 +3902,15 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-jo" source="us-loc" xml:lang="en"
                 >Jordan</exactMatch>
             <exactMatch type="placesPrevious" id="jordan" source="us-dos-fsi-oh">Jordan</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79072819"
+                source="us-loc" xml:lang="en">Jordan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/156488025" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205669" source="oclc"
+                xml:lang="en">Jordan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q810" source="wikimedia"
+                xml:lang="en">Jordan</closeMatch>
         </concept>
         <!-- Kazakhstan -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3815,15 +3929,27 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="kazakhstan" source="us-dos-fsi-oh"
+                >Kazakhstan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="KZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KAZ" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kz"
                 source="us-loc" xml:lang="en">Kazakhstan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-kz" source="us-loc" xml:lang="en"
                 >Kazakhstan</exactMatch>
-            <exactMatch type="placesPrevious" id="kazakhstan" source="us-dos-fsi-oh"
-                >Kazakhstan</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n92000005"
+                source="us-loc" xml:lang="en">Kazakhstan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/124906451" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260664" source="oclc"
+                xml:lang="en">Kazakhstan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q232" source="wikimedia"
+                xml:lang="en">Kazakhstan</closeMatch>
         </concept>
         <!-- Kenya -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3842,14 +3968,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="kenya" source="us-dos-fsi-oh">Kenya</exactMatch>
+
             <exactMatch type="genc-2a-code" id="KE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KEN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ke"
                 source="us-loc" xml:lang="en">Kenya</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ke" source="us-loc" xml:lang="en"
                 >Kenya</exactMatch>
-            <exactMatch type="placesPrevious" id="kenya" source="us-dos-fsi-oh">Kenya</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061011"
+                source="us-loc" xml:lang="en">Kenya</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128920262" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208718" source="oclc"
+                xml:lang="en">Kenya</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q114" source="wikimedia"
+                xml:lang="en">Kenya</closeMatch>
         </concept>
         <!-- Kiribati -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3877,6 +4015,15 @@
                 >Kiribati</exactMatch>
             <exactMatch type="placesPrevious" id="kiribati" source="us-dos-fsi-oh"
                 >Kiribati</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035232"
+                source="us-loc" xml:lang="en">Kiribati</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/147680945" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1212694" source="oclc"
+                xml:lang="en">Kiribati</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q710" source="wikimedia"
+                xml:lang="en">Kiribati</closeMatch>
         </concept>
         <!-- Kosovo -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3903,6 +4050,15 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-kv" source="us-loc" xml:lang="en"
                 >Kosovo</exactMatch>
             <exactMatch type="placesPrevious" id="kosovo" source="us-dos-fsi-oh">Kosovo</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n2008012665"
+                source="us-loc" xml:lang="en">Kosovo (Republic)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/132423103" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://www.wikidata.org/entity/Q1246" source="oclc"
+                xml:lang="en">Kosovo</closeMatch>
+            <closeMatch type="wikidata" id="http://id.worldcat.org/fast/1695919" source="wikimedia"
+                xml:lang="en">Kosovo (Republic)</closeMatch>
         </concept>
         <!-- Kuwait -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3919,14 +4075,26 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="kuwait" source="us-dos-fsi-oh">Kuwait</exactMatch>
+
             <exactMatch type="genc-2a-code" id="KW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KWT" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ku"
                 source="us-loc" xml:lang="en">Kuwait</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ku" source="us-loc" xml:lang="en"
                 >Kuwait</exactMatch>
-            <exactMatch type="placesPrevious" id="kuwait" source="us-dos-fsi-oh">Kuwait</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80053139"
+                source="us-loc" xml:lang="en">Kuwait</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/146527866" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208566" source="oclc"
+                xml:lang="en">Kuwait</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q817" source="wikimedia"
+                xml:lang="en">Kuwait</closeMatch>
         </concept>
         <!-- Kyrgyzstan -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3952,6 +4120,15 @@
                 >Kyrgyzstan</exactMatch>
             <exactMatch type="placesPrevious" id="kyrgyzstan" source="us-dos-fsi-oh"
                 >Kyrgyzstan</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n91129681"
+                source="us-loc" xml:lang="en">Kyrgyzstan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/148476223" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260659" source="oclc"
+                xml:lang="en">Kyrgyzstan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q813" source="wikimedia"
+                xml:lang="en">Kyrgyzstan</closeMatch>
         </concept>
         <!-- Laos -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
