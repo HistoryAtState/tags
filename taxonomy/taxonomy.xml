@@ -25,14 +25,14 @@
             "definition" element, if one already exists).</p>
             -->
     </description>
-    <collection created-by="rossat" created-date="2019-06-25">
+    <collection id="agreements-and-mandates" created-by="rossat" created-date="2019-06-25">
         <id>agreements-and-mandates</id>
         <label>Agreements and Mandates</label>
         <definition>Proposed and implemented legislation, laws, directives, and charters as well as
             bilateral and multilateral agreements such as treaties.</definition>
         <usage-hint/>
     </collection>
-    <collection created-by="rossat" created-date="2019-06-25">
+    <collection id="events" created-by="rossat" created-date="2019-06-25">
         <id>events</id>
         <label>Events</label>
         <definition>.</definition>
@@ -47,7 +47,7 @@
         <usage-hint/>
     </collection>
 
-    <collection created-by="cozensef" created-date="2013-04-08">
+    <collection id="people" created-by="cozensef" created-date="2013-04-08">
         <id>people</id>
         <label>People</label>
         <definition>Contains lists of Presidents and Secretaries of State in chronological
@@ -3235,15 +3235,28 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+
+            <exactMatch type="placesPrevious" id="guatemala" source="us-dos-fsi-oh"
+                >Guatemala</exactMatch>
+
             <exactMatch type="genc-2a-code" id="GT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GTM" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gt"
                 source="us-loc" xml:lang="en">Guatemala</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncgt" source="us-loc" xml:lang="en"
                 >Guatemala</exactMatch>
-            <exactMatch type="placesPrevious" id="guatemala" source="us-dos-fsi-oh"
-                >Guatemala</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79054016"
+                source="us-loc" xml:lang="en">Guatemala</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/133607895" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205154" source="oclc"
+                xml:lang="en">Guatemala</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q774" source="wikimedia"
+                xml:lang="en">Guatemala</closeMatch>
         </concept>
         <!-- Guinea -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3262,14 +3275,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="guinea" source="us-dos-fsi-oh">Guinea</exactMatch>
+
             <exactMatch type="genc-2a-code" id="GN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GIN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gv"
                 source="us-loc" xml:lang="en">Guinea</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-gv" source="us-loc" xml:lang="en"
                 >Guinea</exactMatch>
-            <exactMatch type="placesPrevious" id="guinea" source="us-dos-fsi-oh">Guinea</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79088885"
+                source="us-loc" xml:lang="en">Guinea</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128921681" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206005" source="oclc"
+                xml:lang="en">Guinea</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1006" source="wikimedia"
+                xml:lang="en">Guinea</closeMatch>
         </concept>
         <!-- Guinea-Bissau -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3297,6 +3322,15 @@
                 >Guinea-Bissau</exactMatch>
             <exactMatch type="placesPrevious" id="guinea-bissau" source="us-dos-fsi-oh"
                 >Guinea-Bissau</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061076"
+                source="us-loc" xml:lang="en">Guinea-Bissau</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125341622" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208732" source="oclc"
+                xml:lang="en">Guinea-Bissau</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1007" source="wikimedia"
+                xml:lang="en">Guinea-Bissau</closeMatch>
         </concept>
 
         <!-- Guyana -->
@@ -3316,14 +3350,26 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="guyana" source="us-dos-fsi-oh">Guyana</exactMatch>
+
             <exactMatch type="genc-2a-code" id="GY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUY" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gy"
                 source="us-loc" xml:lang="en">Guyana</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-gy" source="us-loc" xml:lang="en"
                 >Guyana</exactMatch>
-            <exactMatch type="placesPrevious" id="guyana" source="us-dos-fsi-oh">Guyana</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061018"
+                source="us-loc" xml:lang="en">Guyana</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/124902112" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208722" source="oclc"
+                xml:lang="en">Guyana</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q734" source="wikimedia"
+                xml:lang="en">Guyana</closeMatch>
         </concept>
         <!-- Haiti -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3342,14 +3388,26 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="haiti" source="us-dos-fsi-oh">Haiti</exactMatch>
+
             <exactMatch type="genc-2a-code" id="HT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HTI" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ht"
                 source="us-loc" xml:lang="en">Haiti</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwht" source="us-loc" xml:lang="en"
                 >Haiti</exactMatch>
-            <exactMatch type="placesPrevious" id="haiti" source="us-dos-fsi-oh">Haiti</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79053108"
+                source="us-loc" xml:lang="en">Haiti</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128919997" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205135" source="oclc"
+                xml:lang="en">Haiti</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q790" source="wikimedia"
+                xml:lang="en">Haiti</closeMatch>
         </concept>
         <!-- Holy See -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3367,15 +3425,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="holy-see" source="us-dos-fsi-oh">Holy
+                See</exactMatch>
+
             <exactMatch type="genc-2a-code" id="VA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VAT" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/vc"
                 source="us-loc" xml:lang="en">Vatican City</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-vc" source="us-loc" xml:lang="en"
                 >Vatican City</exactMatch>
-            <exactMatch type="placesPrevious" id="holy-see" source="us-dos-fsi-oh">Holy
-                See</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80053295"
+                source="us-loc" xml:lang="en">Vatican City</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/136038551" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208574" source="oclc"
+                xml:lang="en">Vatican City</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q237" source="wikimedia"
+                xml:lang="en">Vatican City</closeMatch>
         </concept>
         <!-- Honduras -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3403,6 +3473,15 @@
                 >Honduras</exactMatch>
             <exactMatch type="placesPrevious" id="honduras" source="us-dos-fsi-oh"
                 >Honduras</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79096785"
+                source="us-loc" xml:lang="en">Honduras</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/124882522" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206188" source="oclc"
+                xml:lang="en">Honduras</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q783" source="wikimedia"
+                xml:lang="en">Honduras</closeMatch>
         </concept>
         <!-- Hungary -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -3428,6 +3507,15 @@
                 >Hungary</exactMatch>
             <exactMatch type="placesPrevious" id="hungary" source="us-dos-fsi-oh"
                 >Hungary</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79053090"
+                source="us-loc" xml:lang="en">Hungary</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128544491" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205132" source="oclc"
+                xml:lang="en">Hungary</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q28" source="wikimedia"
+                xml:lang="en">Hungary</closeMatch>
         </concept>
         <!-- Iceland -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
