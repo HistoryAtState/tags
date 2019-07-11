@@ -6693,27 +6693,22 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
-
             <exactMatch type="placesPrevious" id="somalia" source="us-dos-fsi-oh"
                 >Somalia</exactMatch>
-
             <exactMatch type="genc-2a-code" id="SO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SOM" source="us-dos-inr"/>
-
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/so"
                 source="us-loc" xml:lang="en">Somalia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-so" source="us-loc" xml:lang="en"
                 >Somalia</exactMatch>
-
-            <!-- 
-            <exactMatch type="lcnaf" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
-
-            <closeMatch type="fast" id="" source="oclc" xml:lang="en"/>
-            <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en"/>
-             -->
-        </concept>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79060840"
+                source="us-loc" xml:lang="en">Somalia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/143001036" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205351" source="oclc"
+                xml:lang="en">Somalia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1045" source="wikimedia"
+                xml:lang="en">Somalia</closeMatch> --> </concept>
         <!-- South Africa -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
             lastDateTimeVerified="2019-06-29T17:50:14-04:00">
@@ -6750,13 +6745,14 @@
             <exactMatch type="lcsh" id="http://id.loc.gov/authorities/sh85125452" source="us-loc"
                 xml:lang="en">South Africa</exactMatch>
 
-            <!--
-            <exactMatch type="lcnaf" id="" source="us-loc" xml:lang="en"/>
-            <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79023005"
+                source="us-loc" xml:lang="en">South Africa</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/159069376" source="oclc" xml:lang="en"/>
 
-            <closeMatch type="fast" id="" source="oclc" xml:lang="en"/>
-            <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en"/>
-            -->
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204616" source="oclc"
+                xml:lang="en">South Africa</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q258" source="wikimedia"
+                xml:lang="en">South Africa</closeMatch>
         </concept>
         <!-- South Korea -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
@@ -6775,15 +6771,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="south-korea" source="us-dos-fsi-oh">South
+                Korea</exactMatch>
+
             <exactMatch type="genc-2a-code" id="KR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="KOR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ko"
                 source="us-loc" xml:lang="en">Korea (South)</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ko" source="us-loc" xml:lang="en"
                 >Korea (South)</exactMatch>
-            <exactMatch type="placesPrevious" id="south-korea" source="us-dos-fsi-oh">South
-                Korea</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79126802"
+                source="us-loc" xml:lang="en">Korea (South)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/132441370" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206791" source="oclc"
+                xml:lang="en">Korea (South)</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q884" source="wikimedia"
+                xml:lang="en">South Korea</closeMatch>
         </concept>
         <!-- South Sudan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6802,16 +6810,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="south-sudan" source="us-dos-fsi-oh">South
+                Sudan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="SS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SSD" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sd"
                 source="us-loc" xml:lang="en">South Sudan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sd" source="us-loc" xml:lang="en"
                 >South Sudan</exactMatch>
 
-            <exactMatch type="placesPrevious" id="south-sudan" source="us-dos-fsi-oh">South
-                Sudan</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/no2011104475"
+                source="us-loc" xml:lang="en">South Sudan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/173031028" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1773109" source="oclc"
+                xml:lang="en">South Sudan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q958" source="wikimedia"
+                xml:lang="en">South Sudan</closeMatch>
         </concept>
         <!-- Spain -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6839,6 +6858,15 @@
                 >Spain</exactMatch>
 
             <exactMatch type="placesPrevious" id="spain" source="us-dos-fsi-oh">Spain</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79006971"
+                source="us-loc" xml:lang="en">Spain</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/133609710" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204303" source="oclc"
+                xml:lang="en">Spain</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q29" source="wikimedia"
+                xml:lang="en">Spain</closeMatch>
         </concept>
         <!-- Sri Lanka -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6869,6 +6897,15 @@
 
             <exactMatch type="placesPrevious" id="sri-lanka" source="us-dos-fsi-oh">Sri
                 Lanka</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061039"
+                source="us-loc" xml:lang="en">Sri Lanka</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/126600002" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208730" source="oclc"
+                xml:lang="en">Sri Lanka</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q854" source="wikimedia"
+                xml:lang="en">Sri Lanka</closeMatch>
         </concept>
         <!-- Sudan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6887,15 +6924,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="sudan" source="us-dos-fsi-oh">Sudan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="SD" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SDN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sj"
                 source="us-loc" xml:lang="en">Sudan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-sj" source="us-loc" xml:lang="en"
                 >Sudan</exactMatch>
 
-            <exactMatch type="placesPrevious" id="sudan" source="us-dos-fsi-oh">Sudan</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79022301"
+                source="us-loc" xml:lang="en">Sudan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/150756275" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204591" source="oclc"
+                xml:lang="en">Sudan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1049" source="wikimedia"
+                xml:lang="en">Sudan</closeMatch>
         </concept>
         <!-- Suriname -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6914,14 +6962,25 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="suriname" source="us-dos-fsi-oh"
+                >Suriname</exactMatch>
+
             <exactMatch type="genc-2a-code" id="SR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SUR" source="us-dos-inr"/>
+
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-sr" source="us-loc" xml:lang="en"
                 >Suriname</exactMatch>
 
-            <exactMatch type="placesPrevious" id="suriname" source="us-dos-fsi-oh"
-                >Suriname</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79022986"
+                source="us-loc" xml:lang="en">Suriname</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128955856" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204607" source="oclc"
+                xml:lang="en">Suriname</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q730" source="wikimedia"
+                xml:lang="en">Suriname</closeMatch>
         </concept>
         <!-- Sweden -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6949,6 +7008,13 @@
                 >Sweden</exactMatch>
 
             <exactMatch type="placesPrevious" id="sweden" source="us-dos-fsi-oh">Sweden</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79021184"
+                source="us-loc" xml:lang="en">Sweden</exactMatch>
+            <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="" source="oclc" xml:lang="en">Sweden</closeMatch>
+            <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en">Sweden</closeMatch>
         </concept>
         <!-- Switzerland -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6966,16 +7032,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="switzerland" source="us-dos-fsi-oh"
+                >Switzerland</exactMatch>
+
             <exactMatch type="genc-2a-code" id="CH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CHE" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sz"
                 source="us-loc" xml:lang="en">Switzerland</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-sz" source="us-loc" xml:lang="en"
                 >Switzerland</exactMatch>
 
-            <exactMatch type="placesPrevious" id="switzerland" source="us-dos-fsi-oh"
-                >Switzerland</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79062978"
+                source="us-loc" xml:lang="en">Switzerland</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/159363991" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205401" source="oclc"
+                xml:lang="en">Switzerland</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q39" source="wikimedia"
+                xml:lang="en">Switzerland</closeMatch>
         </concept>
         <!-- Syria -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -6993,15 +7070,26 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="syria" source="us-dos-fsi-oh">Syria</exactMatch>
+
             <exactMatch type="genc-2a-code" id="SY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SYR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sy"
                 source="us-loc" xml:lang="en">Syria</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-sy" source="us-loc" xml:lang="en"
                 >Syria</exactMatch>
 
-            <exactMatch type="placesPrevious" id="syria" source="us-dos-fsi-oh">Syria</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061798"
+                source="us-loc" xml:lang="en">Syria</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/154701530" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208757" source="oclc"
+                xml:lang="en">Syria</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q858" source="wikimedia"
+                xml:lang="en">Syria</closeMatch>
         </concept>
         <!-- Tajikistan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7020,16 +7108,27 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="tajikistan" source="us-dos-fsi-oh"
+                >Tajikistan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TJ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TJK" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ta"
                 source="us-loc" xml:lang="en">Tajikistan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ta" source="us-loc" xml:lang="en"
                 >Tajikistan</exactMatch>
 
-            <exactMatch type="placesPrevious" id="tajikistan" source="us-dos-fsi-oh"
-                >Tajikistan</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n91129915"
+                source="us-loc" xml:lang="en">Tajikistan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/123087939" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260661" source="oclc"
+                xml:lang="en">Tajikistan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q863" source="wikimedia"
+                xml:lang="en">Tajikistan</closeMatch>
         </concept>
         <!-- Tanzania -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7050,16 +7149,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="tanzania" source="us-dos-fsi-oh"
+                >Tanzania</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TZA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/tz"
                 source="us-loc" xml:lang="en">Tanzania</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-tz" source="us-loc" xml:lang="en"
                 >Tanzania</exactMatch>
 
-            <exactMatch type="placesPrevious" id="tanzania" source="us-dos-fsi-oh"
-                >Tanzania</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80121275"
+                source="us-loc" xml:lang="en">Tanzania</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/131265957" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210143" source="oclc"
+                xml:lang="en">Tanzania</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q924" source="wikimedia"
+                xml:lang="en">Tanzania</closeMatch>
         </concept>
         <!-- Thailand -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7078,16 +7188,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="thailand" source="us-dos-fsi-oh"
+                >Thailand</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="THA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/th"
                 source="us-loc" xml:lang="en">Thailand</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-th" source="us-loc" xml:lang="en"
                 >Thailand</exactMatch>
 
-            <exactMatch type="placesPrevious" id="thailand" source="us-dos-fsi-oh"
-                >Thailand</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79059683"
+                source="us-loc" xml:lang="en">Thailand</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/138308059" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205310" source="oclc"
+                xml:lang="en">Thailand</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q869" source="wikimedia"
+                xml:lang="en">Thailand</closeMatch>
         </concept>
         <!-- Timor-Leste -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7098,6 +7219,7 @@
                 Timor-Leste</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Timor-Leste, Democratic
                 Republic of</altLabel>
+            <useFor>East Timor</useFor>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
@@ -7106,16 +7228,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="timor-leste" source="us-dos-fsi-oh"
+                >Timor-Leste</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TLS" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/em"
                 source="us-loc" xml:lang="en">Timor-Leste</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-em" source="us-loc" xml:lang="en"
                 >Timor-Leste</exactMatch>
 
-            <exactMatch type="placesPrevious" id="timor-leste" source="us-dos-fsi-oh"
-                >Timor-Leste</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n2002021667"
+                source="us-loc" xml:lang="en">Timor-Leste</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/261956400" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1733528" source="oclc"
+                xml:lang="en">Timor-Leste</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q574" source="wikimedia"
+                xml:lang="en">East Timor</closeMatch>
         </concept>
         <!-- Togo -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7134,15 +7267,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="togo" source="us-dos-fsi-oh">Togo</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TGO" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/tg"
                 source="us-loc" xml:lang="en">Togo</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-tg" source="us-loc" xml:lang="en"
                 >Togo</exactMatch>
 
-            <exactMatch type="placesPrevious" id="togo" source="us-dos-fsi-oh">Togo</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80061115"
+                source="us-loc" xml:lang="en"/>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130758453" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208739" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q945" source="wikimedia"
+                xml:lang="en"/>
         </concept>
         <!-- Tonga -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7161,15 +7305,26 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="tonga" source="us-dos-fsi-oh">Tonga</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TON" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/to"
                 source="us-loc" xml:lang="en">Tonga</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/poto" source="us-loc" xml:lang="en"
                 >Tonga</exactMatch>
 
-            <exactMatch type="placesPrevious" id="tonga" source="us-dos-fsi-oh">Tonga</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80106710"
+                source="us-loc" xml:lang="en">Tonga</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/126844352" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209803" source="oclc"
+                xml:lang="en">Tonga</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q678" source="wikimedia"
+                xml:lang="en">Tonga</closeMatch>
         </concept>
         <!-- Trinidad and Tobago -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7189,16 +7344,27 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="trinidad-and-tobago" source="us-dos-fsi-oh"
+                >Trinidad and Tobago</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TTO" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/tr"
                 source="us-loc" xml:lang="en">Trinidad and Tobago</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/nwtr" source="us-loc" xml:lang="en"
                 >Trinidad and Tobago</exactMatch>
 
-            <exactMatch type="placesPrevious" id="trinidad-and-tobago" source="us-dos-fsi-oh"
-                >Trinidad and Tobago</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81008555"
+                source="us-loc" xml:lang="en">Trinidad and Tobago</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/122737458" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211577" source="oclc"
+                xml:lang="en">Trinidad and Tobago</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q754" source="wikimedia"
+                xml:lang="en">Trinidad and Tobago</closeMatch>
         </concept>
         <!-- Tunisia -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7217,16 +7383,25 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="tunisia" source="us-dos-fsi-oh"
+                >Tunisia</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TUN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ti"
                 source="us-loc" xml:lang="en">Tunisia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ti" source="us-loc" xml:lang="en"
                 >Tunisia</exactMatch>
 
-            <exactMatch type="placesPrevious" id="tunisia" source="us-dos-fsi-oh"
-                >Tunisia</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79065220"
+                source="us-loc" xml:lang="en">Tunisia</exactMatch>
+            <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="" source="oclc" xml:lang="en">Tunisia</closeMatch>
+            <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en">Tunisia</closeMatch>
         </concept>
         <!-- Turkey -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7245,15 +7420,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="turkey" source="us-dos-fsi-oh">Turkey</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TUR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/tu"
                 source="us-loc" xml:lang="en">Turkey</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-tu" source="us-loc" xml:lang="en"
                 >Turkey</exactMatch>
 
-            <exactMatch type="placesPrevious" id="turkey" source="us-dos-fsi-oh">Turkey</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80070818"
+                source="us-loc" xml:lang="en">Turkey</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/154313685" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1208963" source="oclc"
+                xml:lang="en">Turkey</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q43" source="wikimedia"
+                xml:lang="en">Turkey</closeMatch>
         </concept>
         <!-- Turkmenistan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7270,16 +7456,27 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="turkmenistan" source="us-dos-fsi-oh"
+                >Turkmenistan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TKM" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/tk"
                 source="us-loc" xml:lang="en">Turkmenistan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-tk" source="us-loc" xml:lang="en"
                 >Turkmenistan</exactMatch>
 
-            <exactMatch type="placesPrevious" id="turkmenistan" source="us-dos-fsi-oh"
-                >Turkmenistan</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n91129790"
+                source="us-loc" xml:lang="en">Turkmenistan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/144179578" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260658" source="oclc"
+                xml:lang="en">Turkmenistan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q874" source="wikimedia"
+                xml:lang="en">Turkmenistan</closeMatch>
         </concept>
         <!-- Tuvalu -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7288,6 +7485,8 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Tuvalu</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Tuvalu</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Tuvalu</altLabel>
+            <useFor>Ellice Islands</useFor>
+
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-inr" id="">United Nations</related>
@@ -7296,15 +7495,26 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="tuvalu" source="us-dos-fsi-oh">Tuvalu</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TUV" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/tv"
                 source="us-loc" xml:lang="en">Tuvalu</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/potv" source="us-loc" xml:lang="en"
                 >Tuvalu</exactMatch>
 
-            <exactMatch type="placesPrevious" id="tuvalu" source="us-dos-fsi-oh">Tuvalu</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035231"
+                source="us-loc" xml:lang="en">Tuvalu</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/143074390" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1212693" source="oclc"
+                xml:lang="en">Tuvalu</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q672" source="wikimedia"
+                xml:lang="en">Tuvalu</closeMatch>
         </concept>
         <!-- Uganda -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
