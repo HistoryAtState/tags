@@ -7720,8 +7720,10 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
-            <exactMatch type="genc-2a-code" id="YUS" source="us-dos-inr"/>
+
+            <exactMatch type="genc-2a-code" id="US" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="USA" source="us-nga"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxu"
                 source="us-loc" xml:lang="en">United States</exactMatch>
             <exactMatch type="marc-geographic-areas"
@@ -7756,8 +7758,10 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
             <exactMatch type="genc-2a-code" id="UY" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="URY" source="us-nga"/>
+            
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uy"
                 source="us-loc" xml:lang="en">Uruguay</exactMatch>
             <exactMatch type="marc-geographic-areas"
