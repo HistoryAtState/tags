@@ -7533,15 +7533,26 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="uganda" source="us-dos-fsi-oh">Uganda</exactMatch>
+
             <exactMatch type="genc-2a-code" id="UG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="UGA" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ug"
                 source="us-loc" xml:lang="en">Uganda</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-ug" source="us-loc" xml:lang="en"
                 >Uganda</exactMatch>
 
-            <exactMatch type="placesPrevious" id="uganda" source="us-dos-fsi-oh">Uganda</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80126332"
+                source="us-loc" xml:lang="en">Uganda</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/157051895" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210282" source="oclc"
+                xml:lang="en">Uganda</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1036" source="wikimedia"
+                xml:lang="en">Uganda</closeMatch>
         </concept>
         <!-- Ukraine -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7558,16 +7569,27 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="ukraine" source="us-dos-fsi-oh"
+                >Ukraine</exactMatch>
+
             <exactMatch type="genc-2a-code" id="UA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="UKR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/un"
                 source="us-loc" xml:lang="en">Ukraine</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-un" source="us-loc" xml:lang="en"
                 >Ukraine</exactMatch>
 
-            <exactMatch type="placesPrevious" id="ukraine" source="us-dos-fsi-oh"
-                >Ukraine</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81017756"
+                source="us-loc" xml:lang="en">Ukraine</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/134334037" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211738" source="oclc"
+                xml:lang="en">Ukraine</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q212" source="wikimedia"
+                xml:lang="en">Ukraine</closeMatch>
         </concept>
         <!-- United Arab Emirates -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7587,16 +7609,27 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="united-arab-emirates" source="us-dos-fsi-oh"
+                >United Arab Emirates</exactMatch>
+
             <exactMatch type="genc-2a-code" id="AE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ARE" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ts"
                 source="us-loc" xml:lang="en">United Arab Emirates</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ts" source="us-loc" xml:lang="en"
                 >United Arab Emirates</exactMatch>
 
-            <exactMatch type="placesPrevious" id="united-arab-emirates" source="us-dos-fsi-oh"
-                >United Arab Emirates</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79086806"
+                source="us-loc" xml:lang="en">United Arab Emirates</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/255510393" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205954" source="oclc"
+                xml:lang="en">United Arab Emirates</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q878" source="wikimedia"
+                xml:lang="en">United Arab Emirates</closeMatch>
         </concept>
         <!-- United Kingdom -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7627,15 +7660,26 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="united-kingdom" source="us-dos-fsi-oh">United
+                Kingdom</exactMatch>
+
             <exactMatch type="genc-2a-code" id="GB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GBR" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxk"
                 source="us-loc" xml:lang="en">United Kingdom</exactMatch>
             <exactMatch type="marc-geographic-areas" id="http://id.loc.gov/vocabulary/countries/uk"
                 source="us-loc" xml:lang="en">United Kingdom</exactMatch>
 
-            <exactMatch type="placesPrevious" id="united-kingdom" source="us-dos-fsi-oh">United
-                Kingdom</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79023147"
+                source="us-loc" xml:lang="en">Great Britain</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/127756949" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204623" source="oclc"
+                xml:lang="en">Great Britain</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q145" source="wikimedia"
+                xml:lang="en">United Kingdom</closeMatch>
         </concept>
         <!-- United States -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7662,7 +7706,16 @@
                 id="http://id.loc.gov/vocabulary/geographicAreas/n-us" source="us-loc" xml:lang="en"
                 >United States</exactMatch>
 
-            <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/>
+            <!-- <exactMatch type="placesPrevious" id="" source="us-dos-fsi-oh"/> -->
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78095330"
+                source="us-loc" xml:lang="en">United States</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130168302" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204155" source="oclc"
+                xml:lang="en">United States</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q30" source="wikimedia"
+                xml:lang="en">United States of America</closeMatch>
         </concept>
         <!-- Uruguay -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7691,6 +7744,15 @@
 
             <exactMatch type="placesPrevious" id="uruguay" source="us-dos-fsi-oh"
                 >Uruguay</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n50000647"
+                source="us-loc" xml:lang="en">Uruguay</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/129569873" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1202667" source="oclc"
+                xml:lang="en">Uruguay</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q77" source="wikimedia"
+                xml:lang="en">Uruguay</closeMatch>
         </concept>
         <!-- Uzbekistan -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7709,16 +7771,27 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="uzbekistan" source="us-dos-fsi-oh"
+                >Uzbekistan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="UZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="UZB" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uz"
                 source="us-loc" xml:lang="en">Uzbekistan</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-uz" source="us-loc" xml:lang="en"
                 >Uzbekistan</exactMatch>
 
-            <exactMatch type="placesPrevious" id="uzbekistan" source="us-dos-fsi-oh"
-                >Uzbekistan</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n91129869"
+                source="us-loc" xml:lang="en">Uzbekistan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130982800" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260657" source="oclc"
+                xml:lang="en">Uzbekistan</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q265" source="wikimedia"
+                xml:lang="en">Uzbekistan</closeMatch>
         </concept>
         <!-- Vanuatu -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7737,16 +7810,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="vanuatu" source="us-dos-fsi-oh"
+                >Vanuatu</exactMatch>
+
             <exactMatch type="genc-2a-code" id="VU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VUT" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/nn"
                 source="us-loc" xml:lang="en">Vanuatu</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ponn" source="us-loc" xml:lang="en"
                 >Vanuatu</exactMatch>
 
-            <exactMatch type="placesPrevious" id="vanuatu" source="us-dos-fsi-oh"
-                >Vanuatu</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81088147"
+                source="us-loc" xml:lang="en">Vanuatu</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/142471172" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1214612" source="oclc"
+                xml:lang="en">Vanuatu</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q686" source="wikimedia"
+                xml:lang="en">Vanuatu</closeMatch>
         </concept>
         <!-- Venezuela -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7765,16 +7849,27 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="venezuela" source="us-dos-fsi-oh"
+                >Venezuela</exactMatch>
+
             <exactMatch type="genc-2a-code" id="VE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VEN" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ve"
                 source="us-loc" xml:lang="en">Venezuela</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-ve" source="us-loc" xml:lang="en"
                 >Venezuela</exactMatch>
 
-            <exactMatch type="placesPrevious" id="venezuela" source="us-dos-fsi-oh"
-                >Venezuela</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78095508"
+                source="us-loc" xml:lang="en">Venezuela</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/275556947" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204166" source="oclc"
+                xml:lang="en">Venezuela</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q717" source="wikimedia"
+                xml:lang="en">Venezuela</closeMatch>
         </concept>
         <!-- Vietnam -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7793,16 +7888,27 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="vietnam" source="us-dos-fsi-oh"
+                >Vietnam</exactMatch>
+
             <exactMatch type="genc-2a-code" id="VN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VNM" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/vm"
                 source="us-loc" xml:lang="en">Vietnam</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-vt" source="us-loc" xml:lang="en"
                 >Vietnam</exactMatch>
 
-            <exactMatch type="placesPrevious" id="vietnam" source="us-dos-fsi-oh"
-                >Vietnam</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79032186"
+                source="us-loc" xml:lang="en">Vietnam</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/155871049" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204778" source="oclc"
+                xml:lang="en">Vietnam</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q881" source="wikimedia"
+                xml:lang="en">Vietnam</closeMatch>
         </concept>
         <!-- Yemen -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7829,6 +7935,15 @@
                 source="us-loc" xml:lang="en">Yemen</exactMatch>
 
             <exactMatch type="placesPrevious" id="yemen" source="us-dos-fsi-oh">Yemen</exactMatch>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81053408"
+                source="us-loc" xml:lang="en">Yemen (Republic)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/123663509" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1309629" source="oclc"
+                xml:lang="en">Yemen (Republic)</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q805" source="wikimedia"
+                xml:lang="en">Yemen</closeMatch>
         </concept>
         <!-- Zambia -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7847,15 +7962,25 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="zambia" source="us-dos-fsi-oh">Zambia</exactMatch>
             <exactMatch type="genc-2a-code" id="ZM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ZMB" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/za"
                 source="us-loc" xml:lang="en">Zambia</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-za" source="us-loc" xml:lang="en"
                 >Zambia</exactMatch>
 
-            <exactMatch type="placesPrevious" id="zambia" source="us-dos-fsi-oh">Zambia</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80089997"
+                source="us-loc" xml:lang="en">Zambia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/151203068" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209422" source="oclc"
+                xml:lang="en">Zambia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q953" source="wikimedia"
+                xml:lang="en">Zambia</closeMatch>
         </concept>
         <!-- Zimbabwe -->
         <concept type="place" created-by="rossat" created-date="2019-06-29"
@@ -7874,16 +7999,27 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+
+            <exactMatch type="placesPrevious" id="zimbabwe" source="us-dos-fsi-oh"
+                >Zimbabwe</exactMatch>
+
             <exactMatch type="genc-2a-code" id="ZW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ZWE" source="us-dos-inr"/>
+
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/rh"
                 source="us-loc" xml:lang="en">Zimbabwe</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-rh" source="us-loc" xml:lang="en"
                 >Zimbabwe</exactMatch>
 
-            <exactMatch type="placesPrevious" id="zimbabwe" source="us-dos-fsi-oh"
-                >Zimbabwe</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80089993"
+                source="us-loc" xml:lang="en">Zimbabwe</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128940544" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209419" source="oclc"
+                xml:lang="en">Zimbabwe</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q954" source="wikimedia"
+                xml:lang="en">Zimbabwe</closeMatch>
         </concept>
         <!-- Taiwan -->
         <concept type="place" created-by="rossat" created-date="2019-06-30"
@@ -7903,13 +8039,24 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
                 source="us-dos-inr">other</broader>
+
+            <exactMatch type="placesPrevious" id="taiwan" source="us-dos-fsi-oh">Taiwan</exactMatch>
+
             <exactMatch type="genc-2a-code" id="TW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TWN" source="us-dos-inr"/>
+
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ch" source="us-loc" xml:lang="en"
                 >Taiwan</exactMatch>
 
-            <exactMatch type="placesPrevious" id="taiwan" source="us-dos-fsi-oh">Taiwan</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80022631"
+                source="us-loc" xml:lang="en">Taiwan</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/128920774" source="oclc" xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207854" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q865" source="wikimedia"
+                xml:lang="en">Taiwan</closeMatch>
         </concept>
 
     </collection>
