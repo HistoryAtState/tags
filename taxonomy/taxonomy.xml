@@ -7449,15 +7449,18 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Akrotiri</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Akrotiri</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Akrotiri</altLabel>
-                <scopeNote source="us-dos-inr">United Kingdom sovereign base area on the island of
-                Cyprus.</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
-                xml:lang="en">Episkopi<note>The joint force headquarters, under the Commander of the
-                    British Forces Cyprus, administers both sovereign base areas from
-                    Episkopi.</note></related>
+            <scopeNote source="us-dos-inr">United Kingdom sovereign base area on the island of
+                Cyprus.</scopeNote>
+            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+                    >Episkopi<note>The joint force headquarters, under the Commander of the British
+                    Forces Cyprus, administers both sovereign base areas from
+                Episkopi.</note></related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="akrotiri" source="us-dos-fsi-oh"
+                >Akrotiri</exactMatch>
             <exactMatch type="genc-2a-code" id="QZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XQZ" source="us-dos-inr"/>
         </concept>
@@ -7476,6 +7479,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="american-samoa" source="us-dos-fsi-oh">American
+                Samoa</exactMatch>
             <exactMatch type="genc-2a-code" id="AS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ASM" source="us-dos-inr"/>
         </concept>
@@ -7492,6 +7497,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/anguilla"
+                source="us-dos-fsi-oh">Anguilla</exactMatch>
             <exactMatch type="genc-2a-code" id="AI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="AIA" source="us-dos-inr"/>
         </concept>
@@ -7502,13 +7509,15 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Antarctica</prefLabel>
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Antarctica</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Antarctica</altLabel>
-                <scopeNote source="us-dos-inr">Antarctica consists of the territory south of 60
-                degrees south latitude. This area includes claims by Argentina, Australia, Chile,
-                France, New Zealand, Norway, and the United Kingdom, the legal status of which
-                remains in suspense under the terms of the Antarctic Treaty of 1959. The United
-                States recognizes no claims to Antarctica.</scopeNote> <broader
-                type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
+            <scopeNote source="us-dos-inr">Antarctica consists of the territory south of 60 degrees
+                south latitude. This area includes claims by Argentina, Australia, Chile, France,
+                New Zealand, Norway, and the United Kingdom, the legal status of which remains in
+                suspense under the terms of the Antarctic Treaty of 1959. The United States
+                recognizes no claims to Antarctica.</scopeNote>
+            <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/antarctica"
+                source="us-dos-fsi-oh">Antarctica</exactMatch>
             <exactMatch type="genc-2a-code" id="AQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ATA" source="us-dos-inr"/>
         </concept>
@@ -7525,6 +7534,8 @@
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/aruba"
+                source="us-dos-fsi-oh">Aruba</exactMatch>
             <exactMatch type="genc-2a-code" id="AW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ABW" source="us-dos-inr"/>
         </concept>
@@ -7544,9 +7555,13 @@
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/ashmore-and-cartier-islands"
+                source="us-dos-fsi-oh">Ashmore and Cartier Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XAC" source="us-dos-inr"/>
         </concept>
+        <!-- Azores | https://history.state.gov/tags/azores deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07 -->
         <!-- Baker Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
             lastDateTimeVerified="2019-07-11T18:44:07-04:00">
@@ -7560,6 +7575,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/baker-island"
+                source="us-dos-fsi-oh">Baker Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XB" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XBK" source="us-dos-inr"/>
         </concept>
@@ -7576,6 +7593,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bermuda"
+                source="us-dos-fsi-oh">Bermuda</exactMatch>
             <exactMatch type="genc-2a-code" id="BM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BMU" source="us-dos-inr"/>
         </concept>
@@ -7591,6 +7610,8 @@
                 id="3eee1546-738e-4717-8f98-7143fe74266f">Norway</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bouvet-island"
+                source="us-dos-fsi-oh">Bouvet Island</exactMatch>
             <exactMatch type="genc-2a-code" id="BV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BVT" source="us-dos-inr"/>
         </concept>
@@ -7605,13 +7626,17 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">British Indian Ocean
                 Territory</altLabel>
             <useFor>Chagos Archipelago</useFor>
-            <useFor>Diego Garcia</useFor> <scopeNote source="us-dos-inr">The British Indian Ocean
-                Territory includes the seven atolls of Chagos Archipelago, containing over one
-                thousand islands. The largest of these islands is Diego Garcia.</scopeNote> <broader
-                type="sovereigntyAssertedBy" source="us-dos-inr"
+            <useFor>Diego Garcia</useFor>
+            <scopeNote source="us-dos-inr">The British Indian Ocean Territory includes the seven
+                atolls of Chagos Archipelago, containing over one thousand islands. The largest of
+                these islands is Diego Garcia.</scopeNote>
+            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/british-indian-ocean-territory"
+                source="us-dos-fsi-oh">British Indian Ocean Territory</exactMatch>
             <exactMatch type="genc-2a-code" id="IO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IOT" source="us-dos-inr"/>
         </concept>
@@ -7628,6 +7653,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cayman-islands"
+                source="us-dos-fsi-oh">Cayman Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="KY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CYM" source="us-dos-inr"/>
         </concept>
@@ -7647,6 +7674,8 @@
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/christmas-island"
+                source="us-dos-fsi-oh">Christmas Island</exactMatch>
             <exactMatch type="genc-2a-code" id="CX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CXR " source="us-dos-inr"/>
         </concept>
@@ -7666,6 +7695,8 @@
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/clipperton-island"
+                source="us-dos-fsi-oh">Clipperton Island</exactMatch>
             <exactMatch type="genc-2a-code" id="CP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CPT" source="us-dos-inr"/>
         </concept>
@@ -7685,6 +7716,9 @@
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/cocos-keeling-islands" source="us-dos-fsi-oh"
+                >Cocos (Keeling) Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="CC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CCK" source="us-dos-inr"/>
         </concept>
@@ -7701,10 +7735,12 @@
                 id="25329a67-f53f-451d-b950-ebc659b05615">New Zealand</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cook-islands"
+                source="us-dos-fsi-oh">Cook Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="CK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="COK" source="us-dos-inr"/>
         </concept>
-        <!-- Coral Sea Islands -->  <concept type="place" created-by="rossat"
+        <!-- Coral Sea Islands -->   <concept type="place" created-by="rossat"
             created-date="2019-07-11" lastDateTimeVerified="2019-07-11T19:00:25-04:00">
             <id source="us-dos-fsi-oh" id="eacdda0d-ebd0-4de9-b110-711c6d084a78"/>
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Coral Sea
@@ -7719,6 +7755,8 @@
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/coral-sea-islands"
+                source="us-dos-fsi-oh">Coral Sea Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XCS" source="us-dos-inr"/>
         </concept>
@@ -7729,16 +7767,19 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Curaçao</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Land Curaçao</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Curaçao, Land</altLabel>
-                <scopeNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10,
-                2010. Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin)
-                became autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and
-                Sint Eustatius now fall under the direct administration of the
-                Netherlands.</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
-                xml:lang="en">Willemstad</related>
+            <altLabel type="variant" source="us-dos-fsi-oh">Curacao</altLabel>
+            <scopeNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10, 2010.
+                Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became
+                autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint
+                Eustatius now fall under the direct administration of the Netherlands.</scopeNote>
+            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+                >Willemstad</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/curacao"
+                source="us-dos-fsi-oh">Curacao</exactMatch>
             <exactMatch type="genc-2a-code" id="CW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CUW" source="us-dos-inr"/>
         </concept>
@@ -7757,6 +7798,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/dhekelia"
+                source="us-dos-fsi-oh">Dhekelia</exactMatch>
             <exactMatch type="genc-2a-code" id="XD" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XXD" source="us-dos-inr"/>
         </concept>
@@ -7779,6 +7822,9 @@
                     Territory (also claimed by Argentina).</note></broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/falkland-islands-islas-malvinas"
+                source="us-dos-fsi-oh">Falkland Islands (Islas Malvinas)</exactMatch>
             <exactMatch type="genc-2a-code" id="FK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="FLK" source="us-dos-inr"/>
         </concept>
@@ -7795,6 +7841,8 @@
                 id="51166ca1-3327-4eec-bad1-3fa377c1a9d6">Denmark</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/faroe-islands"
+                source="us-dos-fsi-oh">Faroe Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="FO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="FRO" source="us-dos-inr"/>
         </concept>
@@ -7805,12 +7853,15 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">French Guiana</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">French Guiana</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">French Guiana</altLabel>
-                <scopeNote source="us-dos-inr">French Guiana is a first-order administrative
-                division of overseas France, and are therefore not dependencies or areas of special
-                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
-                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
+            <scopeNote source="us-dos-inr">French Guiana is a first-order administrative division of
+                overseas France, and are therefore not dependencies or areas of special
+                sovereignty.</scopeNote>
+            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
+                >France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/french-guiana"
+                source="us-dos-fsi-oh">French Guiana</exactMatch>
             <exactMatch type="genc-2a-code" id="GF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUF" source="us-dos-inr"/>
         </concept>
@@ -7829,6 +7880,8 @@
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/french-polynesia"
+                source="us-dos-fsi-oh">French Polynesia</exactMatch>
             <exactMatch type="genc-2a-code" id="PF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PYF" source="us-dos-inr"/>
         </concept>
@@ -7841,18 +7894,22 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">French Southern and
                 Antarctic Lands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">French Southern and
-                Antarctic Lands</altLabel> <scopeNote source="us-dos-inr">The French Southern and
-                Antarctic Lands includes Île Amsterdam, Île Saint-Paul, Îles Crozet, and Îles
-                Kerguelen in the southern Indian Ocean; the “Iles Eparses” (Bassas da India, Europa
-                Island, Glorioso Islands, Juan de Nova Island and Tromelin Island) in the Mozambique
-                Channel and western Indian Ocean; and the French-claimed sector of Antarctica,
-                “Terre Adélie.” The United States does not recognize the French claim to “Terre
-                Adélie.”</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
-                xml:lang="en">Paris</related>
+                Antarctic Lands</altLabel>
+            <scopeNote source="us-dos-inr">The French Southern and Antarctic Lands includes Île
+                Amsterdam, Île Saint-Paul, Îles Crozet, and Îles Kerguelen in the southern Indian
+                Ocean; the “Iles Eparses” (Bassas da India, Europa Island, Glorioso Islands, Juan de
+                Nova Island and Tromelin Island) in the Mozambique Channel and western Indian Ocean;
+                and the French-claimed sector of Antarctica, “Terre Adélie.” The United States does
+                not recognize the French claim to “Terre Adélie.”</scopeNote>
+            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+                >Paris</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/french-southern-and-antarctic-lands"
+                source="us-dos-fsi-oh">French Southern and Antarctic Lands</exactMatch>
             <exactMatch type="genc-2a-code" id="TF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ATF" source="us-dos-inr"/>
         </concept>
@@ -7869,6 +7926,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/gibraltar"
+                source="us-dos-fsi-oh">Gibraltar</exactMatch>
             <exactMatch type="genc-2a-code" id="GI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GIB" source="us-dos-inr"/>
         </concept>
@@ -7885,6 +7944,8 @@
                 id="51166ca1-3327-4eec-bad1-3fa377c1a9d6">Denmark</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/greenland"
+                source="us-dos-fsi-oh">Greenland</exactMatch>
             <exactMatch type="genc-2a-code" id="GL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GRL" source="us-dos-inr"/>
         </concept>
@@ -7895,17 +7956,19 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Guadeloupe</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Guadeloupe</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guadeloupe</altLabel>
-                <scopeNote source="us-dos-inr">Guadeloupe is a first-order administrative divisions
-                of overseas France, and are therefore not a dependency or area of special
-                sovereignty. The Department of Guadeloupe includes the nearby islands of
-                Marie-Galante, La Desirade, and Iles des Saintes.</scopeNote> <broader
-                type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
+            <scopeNote source="us-dos-inr">Guadeloupe is a first-order administrative divisions of
+                overseas France, and are therefore not a dependency or area of special sovereignty.
+                The Department of Guadeloupe includes the nearby islands of Marie-Galante, La
+                Desirade, and Iles des Saintes.</scopeNote>
+            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
                 >France</broader>
             <!-- 
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"></related>
              -->
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guadeloupe"
+                source="us-dos-fsi-oh">Guadeloupe</exactMatch>
             <exactMatch type="genc-2a-code" id="GP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GLP" source="us-dos-inr"/>
         </concept>
@@ -7924,6 +7987,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guam"
+                source="us-dos-fsi-oh">Guam</exactMatch>
             <exactMatch type="genc-2a-code" id="GU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUM" source="us-dos-inr"/>
         </concept>
@@ -7935,13 +8000,16 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Bailiwick of
                 Guernsey</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guernsey, Bailiwick
-                of</altLabel> <scopeNote source="us-dos-inr">The Bailiwick of Guernsey includes the
-                islands of Alderney, Guernsey, Herm, Sark, and nearby smaller islands.</scopeNote>
-                <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en">Saint
-                Peter Port</related>
+                of</altLabel>
+            <scopeNote source="us-dos-inr">The Bailiwick of Guernsey includes the islands of
+                Alderney, Guernsey, Herm, Sark, and nearby smaller islands.</scopeNote>
+            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en">Saint Peter
+                Port</related>
             <broader type="dependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guernsey"
+                source="us-dos-fsi-oh">Guernsey</exactMatch>
             <exactMatch type="genc-2a-code" id="GG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GGY" source="us-dos-inr"/>
         </concept>
@@ -7961,6 +8029,9 @@
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/heard-island-and-mcdonald-islands"
+                source="us-dos-fsi-oh">Heard Island and McDonald Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="HM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HMD" source="us-dos-inr"/>
         </concept>
@@ -7977,6 +8048,8 @@
                 id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/hong-kong"
+                source="us-dos-fsi-oh">Hong Kong</exactMatch>
             <exactMatch type="genc-2a-code" id="HK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HKG" source="us-dos-inr"/>
             <historyNote source="us-dos-inr">Under a Sino-British declaration of September 1984,
@@ -7997,6 +8070,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/howland-island"
+                source="us-dos-fsi-oh">Howland Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XHO" source="us-dos-inr"/>
         </concept>
@@ -8012,6 +8087,8 @@
             <broader type="dependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/isle-of-man"
+                source="us-dos-fsi-oh">Isle of Man</exactMatch>
             <exactMatch type="genc-2a-code" id="IM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IMN" source="us-dos-inr"/>
         </concept>
@@ -8029,6 +8106,8 @@
                 id="3eee1546-738e-4717-8f98-7143fe74266f">Norway</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jan-mayen"
+                source="us-dos-fsi-oh">Jan Mayen</exactMatch>
             <exactMatch type="genc-2a-code" id="XJ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XJM" source="us-dos-inr"/>
         </concept>
@@ -8045,6 +8124,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jarvis-island"
+                source="us-dos-fsi-oh">Jarvis Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XJV" source="us-dos-inr"/>
         </concept>
@@ -8062,6 +8143,8 @@
             <broader type="dependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jersey"
+                source="us-dos-fsi-oh">Jersey</exactMatch>
             <exactMatch type="genc-2a-code" id="JE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JEY" source="us-dos-inr"/>
         </concept>
@@ -8078,6 +8161,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/johnson-atoll"
+                source="us-dos-fsi-oh">Johnston Atoll</exactMatch>
             <exactMatch type="genc-2a-code" id="XU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XJA" source="us-dos-inr"/>
         </concept>
@@ -8094,6 +8179,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/kingman-reef"
+                source="us-dos-fsi-oh">Kingman Reef</exactMatch>
             <exactMatch type="genc-2a-code" id="XM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XKR" source="us-dos-inr"/>
         </concept>
@@ -8106,19 +8193,21 @@
                 Administrative Region</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Macau Special
                 Administrative Region</altLabel>
+            <historyNote source="us-dos-inr">Under the Sino-Portuguese Joint Declaration on the
+                Question of Macau signed in 1987, Macau reverted to Chinese control on December 20,
+                1999. It is now a semi-autonomous entity that exists pursuant to international
+                agreement and maintains its own government apart from the People’s Republic of
+                China.</historyNote>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Macau</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/macau"
+                source="us-dos-fsi-oh">Macau</exactMatch>
             <exactMatch type="genc-2a-code" id="MO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MAC" source="us-dos-inr"/>
-            <historyNote source="us-dos-inr">Under the Sino-Portuguese Joint Declaration on the
-                Question of Macau signed in 1987, Macau reverted to Chinese control on December 20,
-                1999. It is now a semi-autonomous entity that exists pursuant to international
-                agreement and maintains its own government apart from the People’s Republic of
-                China.</historyNote>
         </concept>
         <!-- Martinique -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8127,12 +8216,15 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Martinique</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Martinique</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Martinique</altLabel>
-                <scopeNote source="us-dos-inr">Martinique is a first-order administrative division
-                of overseas France, and is therefore not a dependency or area of special
-                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
-                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
+            <scopeNote source="us-dos-inr">Martinique is a first-order administrative division of
+                overseas France, and is therefore not a dependency or area of special
+                sovereignty.</scopeNote>
+            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
+                >France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/martinique"
+                source="us-dos-fsi-oh">Martinique</exactMatch>
             <exactMatch type="genc-2a-code" id="MQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MTQ" source="us-dos-inr"/>
         </concept>
@@ -8143,12 +8235,15 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mayotte</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Mayotte</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mayotte</altLabel>
-                <scopeNote source="us-dos-inr">Mayotte is a first-order administrative division of
+            <scopeNote source="us-dos-inr">Mayotte is a first-order administrative division of
                 overseas France, and is therefore not a dependency or area of special
-                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
-                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
+                sovereignty.</scopeNote>
+            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
+                >France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/mayotte"
+                source="us-dos-fsi-oh">Mayotte</exactMatch>
             <exactMatch type="genc-2a-code" id="YT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MYT" source="us-dos-inr"/>
         </concept>
@@ -8165,6 +8260,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/midway-islands"
+                source="us-dos-fsi-oh">Midway Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="QM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XMW" source="us-dos-inr"/>
         </concept>
@@ -8181,6 +8278,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/monterserrat"
+                source="us-dos-fsi-oh">Montserrat</exactMatch>
             <exactMatch type="genc-2a-code" id="MS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MSR" source="us-dos-inr"/>
         </concept>
@@ -8197,6 +8296,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/navassa-island"
+                source="us-dos-fsi-oh">Navassa Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XNV" source="us-dos-inr"/>
         </concept>
@@ -8213,6 +8314,8 @@
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/new-caledonia"
+                source="us-dos-fsi-oh">New Caledonia</exactMatch>
             <exactMatch type="genc-2a-code" id="NC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NCL" source="us-dos-inr"/>
         </concept>
@@ -8229,6 +8332,8 @@
                 id="25329a67-f53f-451d-b950-ebc659b05615">New Zealand</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/niue"
+                source="us-dos-fsi-oh">Niue</exactMatch>
             <exactMatch type="genc-2a-code" id="NU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NIU" source="us-dos-inr"/>
         </concept>
@@ -8247,6 +8352,8 @@
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/norfolk-island"
+                source="us-dos-fsi-oh">Norfolk Island</exactMatch>
             <exactMatch type="genc-2a-code" id="NF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NFK" source="us-dos-inr"/>
         </concept>
@@ -8266,9 +8373,13 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/northern-mariana-islands" source="us-dos-fsi-oh"
+                >Northern Mariana Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="MP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MNP" source="us-dos-inr"/>
         </concept>
+        <!-- Palestine | https://history.state.gov/tags/palestine deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07-->
         <!-- Palmyra Atoll -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
             lastDateTimeVerified="2019-07-11T20:03:50-04:00">
@@ -8282,6 +8393,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/palmyra-atoll"
+                source="us-dos-fsi-oh">Palmyra Atoll</exactMatch>
             <exactMatch type="genc-2a-code" id="XL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XPL" source="us-dos-inr"/>
         </concept>
@@ -8294,15 +8407,16 @@
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Paracel
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Paracel Islands</altLabel>
-                <scopeNote source="us-dos-inr">Paracel Islands are South China Sea islands occupied
-                by China but claimed by Vietnam.</scopeNote> <related type="hasAdministrativeCenter"
-                source="us-dos-inr" xml:lang="en"/>
+            <scopeNote source="us-dos-inr">Paracel Islands are South China Sea islands occupied by
+                China but claimed by Vietnam.</scopeNote>
             <!-- 
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
              -->
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/paracel-islands"
+                source="us-dos-fsi-oh">Paracel Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XPR" source="us-dos-inr"/>
         </concept>
@@ -8322,6 +8436,8 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/pitcairn-islands"
+                source="us-dos-fsi-oh">Pitcairn Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="PN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PCN" source="us-dos-inr"/>
         </concept>
@@ -8340,6 +8456,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/puerto-rico"
+                source="us-dos-fsi-oh">Puerto Rico</exactMatch>
             <exactMatch type="genc-2a-code" id="PR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PRI" source="us-dos-inr"/>
         </concept>
@@ -8350,12 +8468,15 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Reunion</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Reunion</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Reunion</altLabel>
-                <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
+            <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
                 overseas France, and is therefore not a dependency or area of special
-                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
-                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
+                sovereignty.</scopeNote>
+            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
+                >France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/reunion"
+                source="us-dos-fsi-oh">Reunion</exactMatch>
             <exactMatch type="genc-2a-code" id="RE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="REU" source="us-dos-inr"/>
         </concept>
@@ -8374,6 +8495,8 @@
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/saint-barthelemy"
+                source="us-dos-fsi-oh">Saint Barthelemy</exactMatch>
             <exactMatch type="genc-2a-code" id="BL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BLM" source="us-dos-inr"/>
         </concept>
@@ -8386,14 +8509,17 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Helena, Ascension,
                 and Tristan da Cunha</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Helena, Ascension,
-                and Tristan da Cunha</altLabel> <scopeNote source="us-dos-inr">The territory of
-                Saint Helena includes the island group of Tristan da Cunha and Ascension
-                Island.</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
-                xml:lang="en">Jamestown</related>
+                and Tristan da Cunha</altLabel>
+            <scopeNote source="us-dos-inr">The territory of Saint Helena includes the island group
+                of Tristan da Cunha and Ascension Island.</scopeNote>
+            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+                >Jamestown</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/saint-helena"
+                source="us-dos-fsi-oh">Saint Helena</exactMatch>
             <exactMatch type="genc-2a-code" id="SH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SHN" source="us-dos-inr"/>
         </concept>
@@ -8405,13 +8531,17 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Martin</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Martin</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Marigot</related> <scopeNote source="us-dos-inr">The island of Saint Martin is
-                divided: the northern three-fifths form the French collectivity of Saint-Martin,
-                while the southern two-fifths (Sint Maarten) is an autonomous territory of the
-                Kingdom of the Netherlands.</scopeNote> <broader type="sovereigntyAssertedBy"
-                source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
+                >Marigot</related>
+            <scopeNote source="us-dos-inr">The island of Saint Martin is divided: the northern
+                three-fifths form the French collectivity of Saint-Martin, while the southern
+                two-fifths (Sint Maarten) is an autonomous territory of the Kingdom of the
+                Netherlands.</scopeNote>
+            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/saint-martin"
+                source="us-dos-fsi-oh">Saint Martin</exactMatch>
             <exactMatch type="genc-2a-code" id="MF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MAF" source="us-dos-inr"/>
         </concept>
@@ -8431,6 +8561,9 @@
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/saint-pierre-and-miquelon" source="us-dos-fsi-oh"
+                >Saint Pierre and Miquelon</exactMatch>
             <exactMatch type="genc-2a-code" id="PM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SPM" source="us-dos-inr"/>
         </concept>
@@ -8441,18 +8574,20 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Sint Maarten</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Sint Maarten</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Sint Maarten</altLabel>
+            <historyNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10, 2010.
+                Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became
+                autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint
+                Eustatius now fall under the direct administration of the Netherlands.</historyNote>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Philipsburg</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/sint-maarten"
+                source="us-dos-fsi-oh">Sint Maarten</exactMatch>
             <exactMatch type="genc-2a-code" id="SX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SXM" source="us-dos-inr"/>
-            <historyNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10, 2010.
-                Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became
-                autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint
-                Eustatius now fall under the direct administration of the Netherlands.</historyNote>
         </concept>
         <!-- South Georgia and the South Sandwich Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8463,14 +8598,18 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">South Georgia and the South
                 Sandwich Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Georgia and the South
-                Sandwich Islands</altLabel> <scopeNote source="us-dos-inr">South Georgia and the
-                South Sandwich Islands are a U.K. Overseas Territory (also claimed by
-                Argentina).</scopeNote> <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+                Sandwich Islands</altLabel>
+            <scopeNote source="us-dos-inr">South Georgia and the South Sandwich Islands are a U.K.
+                Overseas Territory (also claimed by Argentina).</scopeNote>
+            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr"
                 id="978cfd19-a02c-4ce9-97bf-abb04e6c9d69">Argentina</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/south-georgia-and-the-south-sandwich-islands"
+                source="us-dos-fsi-oh">South Georgia and the South Sandwich Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="GS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SGS" source="us-dos-inr"/>
         </concept>
@@ -8483,15 +8622,17 @@
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Spratly
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Spratly Islands</altLabel>
-                <scopeNote source="us-dos-inr">South China Sea islands claimed in entirety by China
-                and Vietnam and in part by Brunei, the Philippines and Malaysia; each of these
-                states occupies some part of the islands.</scopeNote>
+            <scopeNote source="us-dos-inr">South China Sea islands claimed in entirety by China and
+                Vietnam and in part by Brunei, the Philippines and Malaysia; each of these states
+                occupies some part of the islands.</scopeNote>
             <!-- 
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
             -->
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/spratly-islands"
+                source="us-dos-fsi-oh">Spratly Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XSP" source="us-dos-inr"/>
         </concept>
@@ -8508,6 +8649,8 @@
                 id="3eee1546-738e-4717-8f98-7143fe74266f">Norway</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/svalbard"
+                source="us-dos-fsi-oh">Svalbard</exactMatch>
             <exactMatch type="genc-2a-code" id="XR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XSV" source="us-dos-inr"/>
         </concept>
@@ -8522,6 +8665,8 @@
                 id="25329a67-f53f-451d-b950-ebc659b05615">New Zealand</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/tokelau"
+                source="us-dos-fsi-oh">Tokelau</exactMatch>
             <exactMatch type="genc-2a-code" id="TK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TKL" source="us-dos-inr"/>
         </concept>
@@ -8541,6 +8686,9 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/turks-and-caicos-islands" source="us-dos-fsi-oh"
+                >Turks and Caicos Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="TC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TCA" source="us-dos-inr"/>
         </concept>
@@ -8560,6 +8708,9 @@
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/virgin-islands-british" source="us-dos-fsi-oh"
+                >Virgin Islands, British</exactMatch>
             <exactMatch type="genc-2a-code" id="VG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VGB" source="us-dos-inr"/>
         </concept>
@@ -8579,6 +8730,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/virgin-islands-u-s"
+                source="us-dos-fsi-oh">Virgin Islands, U.S.</exactMatch>
             <exactMatch type="genc-2a-code" id="VI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VIR" source="us-dos-inr"/>
         </concept>
@@ -8595,6 +8748,8 @@
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/wake-island"
+                source="us-dos-fsi-oh">Wake Island</exactMatch>
             <exactMatch type="genc-2a-code" id="QW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XWK" source="us-dos-inr"/>
         </concept>
@@ -8614,6 +8769,8 @@
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/wallis-and-futuna"
+                source="us-dos-fsi-oh">Wallis and Futuna</exactMatch>
             <exactMatch type="genc-2a-code" id="WF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="WLF" source="us-dos-inr"/>
         </concept>
@@ -8627,12 +8784,12 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Western Sahara</altLabel>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/western-sahara"
+                source="us-dos-fsi-oh">Western Sahara</exactMatch>
             <exactMatch type="genc-2a-code" id="EH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ESH" source="us-dos-inr"/>
         </concept>
-        <!-- 					
-        
-        -->
+        <!-- Zanzibar | https://history.state.gov/tags/zanzibar deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07-->
     </collection>
 
 
