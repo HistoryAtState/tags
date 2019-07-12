@@ -7589,8 +7589,8 @@
                 New Zealand, Norway, and the United Kingdom, the legal status of which remains in
                 suspense under the terms of the Antarctic Treaty of 1959. The United States
                 recognizes no claims to Antarctica.</scopeNote>
-            <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
-                source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
+                source="us-dos-fsi-oh">other</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/antarctica"
                 source="us-dos-fsi-oh">Antarctica</exactMatch>
             <exactMatch type="genc-2a-code" id="AQ" source="us-dos-inr"/>
@@ -8488,8 +8488,8 @@
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
              -->
-            <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
-                source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
+                source="us-dos-fsi-oh">other</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/paracel-islands"
                 source="us-dos-fsi-oh">Paracel Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XP" source="us-dos-inr"/>
@@ -8704,8 +8704,8 @@
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
             -->
-            <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
-                source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
+                source="us-dos-fsi-oh">other</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/spratly-islands"
                 source="us-dos-fsi-oh">Spratly Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XS" source="us-dos-inr"/>
@@ -8857,8 +8857,8 @@
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Western
                 Sahara</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Western Sahara</altLabel>
-            <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
-                source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
+                source="us-dos-fsi-oh">other</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/western-sahara"
                 source="us-dos-fsi-oh">Western Sahara</exactMatch>
             <exactMatch type="genc-2a-code" id="EH" source="us-dos-inr"/>
