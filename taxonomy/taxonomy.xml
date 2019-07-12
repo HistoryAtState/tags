@@ -7449,18 +7449,17 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Akrotiri</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Akrotiri</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Akrotiri</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                    >Episkopi<note>The joint force headquarters, under the Commander of the British
-                    Forces Cyprus, administers both sovereign base areas from
-                Episkopi.</note></related>
+                <scopeNote source="us-dos-inr">United Kingdom sovereign base area on the island of
+                Cyprus.</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
+                xml:lang="en">Episkopi<note>The joint force headquarters, under the Commander of the
+                    British Forces Cyprus, administers both sovereign base areas from
+                    Episkopi.</note></related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="QZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XQZ" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">United Kingdom sovereign base area on the island of
-                Cyprus.</scopeNote>
         </concept>
         <!-- American Samoa -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7503,15 +7502,15 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Antarctica</prefLabel>
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Antarctica</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Antarctica</altLabel>
-            <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
+                <scopeNote source="us-dos-inr">Antarctica consists of the territory south of 60
+                degrees south latitude. This area includes claims by Argentina, Australia, Chile,
+                France, New Zealand, Norway, and the United Kingdom, the legal status of which
+                remains in suspense under the terms of the Antarctic Treaty of 1959. The United
+                States recognizes no claims to Antarctica.</scopeNote> <broader
+                type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="AQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ATA" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">Antarctica consists of the territory south of 60 degrees
-                south latitude. This area includes claims by Argentina, Australia, Chile, France,
-                New Zealand, Norway, and the United Kingdom, the legal status of which remains in
-                suspense under the terms of the Antarctic Treaty of 1959. The United States
-                recognizes no claims to Antarctica.</scopeNote>
         </concept>
         <!-- Aruba -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7606,16 +7605,15 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">British Indian Ocean
                 Territory</altLabel>
             <useFor>Chagos Archipelago</useFor>
-            <useFor>Diego Garcia</useFor>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <useFor>Diego Garcia</useFor> <scopeNote source="us-dos-inr">The British Indian Ocean
+                Territory includes the seven atolls of Chagos Archipelago, containing over one
+                thousand islands. The largest of these islands is Diego Garcia.</scopeNote> <broader
+                type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="IO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IOT" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">The British Indian Ocean Territory includes the seven
-                atolls of Chagos Archipelago, containing over one thousand islands. The largest of
-                these islands is Diego Garcia.</scopeNote>
         </concept>
         <!-- Cayman Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7731,18 +7729,18 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Curaçao</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Land Curaçao</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Curaçao, Land</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Willemstad</related>
+                <scopeNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10,
+                2010. Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin)
+                became autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and
+                Sint Eustatius now fall under the direct administration of the
+                Netherlands.</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
+                xml:lang="en">Willemstad</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="CW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CUW" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10, 2010.
-                Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became
-                autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint
-                Eustatius now fall under the direct administration of the Netherlands.</scopeNote>
         </concept>
         <!-- Dhekelia -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7807,15 +7805,14 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">French Guiana</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">French Guiana</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">French Guiana</altLabel>
-            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
-                >France</broader>
+                <scopeNote source="us-dos-inr">French Guiana is a first-order administrative
+                division of overseas France, and are therefore not dependencies or areas of special
+                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
+                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
             <exactMatch type="genc-2a-code" id="GF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUF" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">French Guiana is a first-order administrative division of
-                overseas France, and are therefore not dependencies or areas of special
-                sovereignty.</scopeNote>
         </concept>
         <!-- French Polynesia -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7844,21 +7841,20 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">French Southern and
                 Antarctic Lands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">French Southern and
-                Antarctic Lands</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Paris</related>
+                Antarctic Lands</altLabel> <scopeNote source="us-dos-inr">The French Southern and
+                Antarctic Lands includes Île Amsterdam, Île Saint-Paul, Îles Crozet, and Îles
+                Kerguelen in the southern Indian Ocean; the “Iles Eparses” (Bassas da India, Europa
+                Island, Glorioso Islands, Juan de Nova Island and Tromelin Island) in the Mozambique
+                Channel and western Indian Ocean; and the French-claimed sector of Antarctica,
+                “Terre Adélie.” The United States does not recognize the French claim to “Terre
+                Adélie.”</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
+                xml:lang="en">Paris</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="TF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ATF" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">The French Southern and Antarctic Lands includes Île
-                Amsterdam, Île Saint-Paul, Îles Crozet, and Îles Kerguelen in the southern Indian
-                Ocean; the “Iles Eparses” (Bassas da India, Europa Island, Glorioso Islands, Juan de
-                Nova Island and Tromelin Island) in the Mozambique Channel and western Indian Ocean;
-                and the French-claimed sector of Antarctica, “Terre Adélie.” The United States does
-                not recognize the French claim to “Terre Adélie.”</scopeNote>
         </concept>
         <!-- Gibraltar -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7899,7 +7895,11 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Guadeloupe</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Guadeloupe</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guadeloupe</altLabel>
-            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
+                <scopeNote source="us-dos-inr">Guadeloupe is a first-order administrative divisions
+                of overseas France, and are therefore not a dependency or area of special
+                sovereignty. The Department of Guadeloupe includes the nearby islands of
+                Marie-Galante, La Desirade, and Iles des Saintes.</scopeNote> <broader
+                type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
                 >France</broader>
             <!-- 
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"></related>
@@ -7908,10 +7908,6 @@
                 source="us-dos-inr">first-order administrative divisions</broader>
             <exactMatch type="genc-2a-code" id="GP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GLP" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">Guadeloupe is a first-order administrative divisions of
-                overseas France, and are therefore not a dependency or area of special sovereignty.
-                The Department of Guadeloupe includes the nearby islands of Marie-Galante, La
-                Desirade, and Iles des Saintes.</scopeNote>
         </concept>
         <!-- Guam -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7939,16 +7935,15 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Bailiwick of
                 Guernsey</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Guernsey, Bailiwick
-                of</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en">Saint Peter
-                Port</related>
+                of</altLabel> <scopeNote source="us-dos-inr">The Bailiwick of Guernsey includes the
+                islands of Alderney, Guernsey, Herm, Sark, and nearby smaller islands.</scopeNote>
+                <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en">Saint
+                Peter Port</related>
             <broader type="dependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="GG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GGY" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">The Bailiwick of Guernsey includes the islands of
-                Alderney, Guernsey, Herm, Sark, and nearby smaller islands.</scopeNote>
         </concept>
         <!-- Heard Island and McDonald Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8132,15 +8127,14 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Martinique</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Martinique</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Martinique</altLabel>
-            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
-                >France</broader>
+                <scopeNote source="us-dos-inr">Martinique is a first-order administrative division
+                of overseas France, and is therefore not a dependency or area of special
+                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
+                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
             <exactMatch type="genc-2a-code" id="MQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MTQ" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">Martinique is a first-order administrative division of
-                overseas France, and is therefore not a dependency or area of special
-                sovereignty.</scopeNote>
         </concept>
         <!-- Mayotte  -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8149,15 +8143,14 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Mayotte</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Mayotte</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Mayotte</altLabel>
-            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
-                >France</broader>
+                <scopeNote source="us-dos-inr">Mayotte is a first-order administrative division of
+                overseas France, and is therefore not a dependency or area of special
+                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
+                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
             <exactMatch type="genc-2a-code" id="YT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MYT" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">Mayotte is a first-order administrative division of
-                overseas France, and is therefore not a dependency or area of special
-                sovereignty.</scopeNote>
         </concept>
         <!-- Midway Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8301,7 +8294,9 @@
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Paracel
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Paracel Islands</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"/>
+                <scopeNote source="us-dos-inr">Paracel Islands are South China Sea islands occupied
+                by China but claimed by Vietnam.</scopeNote> <related type="hasAdministrativeCenter"
+                source="us-dos-inr" xml:lang="en"/>
             <!-- 
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
@@ -8310,8 +8305,6 @@
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="XP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XPR" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">Paracel Islands are South China Sea islands occupied by
-                China but claimed by Vietnam.</scopeNote>
         </concept>
         <!-- Pitcairn Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8357,15 +8350,14 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Reunion</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Reunion</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Reunion</altLabel>
-            <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
-                >France</broader>
+                <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
+                overseas France, and is therefore not a dependency or area of special
+                sovereignty.</scopeNote> <broader type="isPartOf" source="us-dos-inr"
+                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="6199ada6-964d-4eee-b164-e41a5deffe53"
                 source="us-dos-inr">first-order administrative divisions</broader>
             <exactMatch type="genc-2a-code" id="RE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="REU" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
-                overseas France, and is therefore not a dependency or area of special
-                sovereignty.</scopeNote>
         </concept>
         <!-- Saint Barthelemy -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8394,17 +8386,16 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Helena, Ascension,
                 and Tristan da Cunha</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Helena, Ascension,
-                and Tristan da Cunha</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Jamestown</related>
+                and Tristan da Cunha</altLabel> <scopeNote source="us-dos-inr">The territory of
+                Saint Helena includes the island group of Tristan da Cunha and Ascension
+                Island.</scopeNote> <related type="hasAdministrativeCenter" source="us-dos-inr"
+                xml:lang="en">Jamestown</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="SH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SHN" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">The territory of Saint Helena includes the island group
-                of Tristan da Cunha and Ascension Island.</scopeNote>
         </concept>
         <!-- Saint Martin -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8414,17 +8405,15 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Martin</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Martin</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Marigot</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
-                id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
+                >Marigot</related> <scopeNote source="us-dos-inr">The island of Saint Martin is
+                divided: the northern three-fifths form the French collectivity of Saint-Martin,
+                while the southern two-fifths (Sint Maarten) is an autonomous territory of the
+                Kingdom of the Netherlands.</scopeNote> <broader type="sovereigntyAssertedBy"
+                source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="MF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MAF" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">The island of Saint Martin is divided: the northern
-                three-fifths form the French collectivity of Saint-Martin, while the southern
-                two-fifths (Sint Maarten) is an autonomous territory of the Kingdom of the
-                Netherlands.</scopeNote>
         </concept>
         <!-- Saint Pierre and Miquelon -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8474,8 +8463,9 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">South Georgia and the South
                 Sandwich Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">South Georgia and the South
-                Sandwich Islands</altLabel>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+                Sandwich Islands</altLabel> <scopeNote source="us-dos-inr">South Georgia and the
+                South Sandwich Islands are a U.K. Overseas Territory (also claimed by
+                Argentina).</scopeNote> <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr"
                 id="978cfd19-a02c-4ce9-97bf-abb04e6c9d69">Argentina</broader>
@@ -8483,8 +8473,6 @@
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="GS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SGS" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">South Georgia and the South Sandwich Islands are a U.K.
-                Overseas Territory (also claimed by Argentina).</scopeNote>
         </concept>
         <!-- Spratly Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8495,6 +8483,9 @@
             <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en">Spratly
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Spratly Islands</altLabel>
+                <scopeNote source="us-dos-inr">South China Sea islands claimed in entirety by China
+                and Vietnam and in part by Brunei, the Philippines and Malaysia; each of these
+                states occupies some part of the islands.</scopeNote>
             <!-- 
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
@@ -8503,9 +8494,6 @@
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="genc-2a-code" id="XS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XSP" source="us-dos-inr"/>
-            <scopeNote source="us-dos-inr">South China Sea islands claimed in entirety by China and
-                Vietnam and in part by Brunei, the Philippines and Malaysia; each of these states
-                occupies some part of the islands.</scopeNote>
         </concept>
         <!-- Svalbard -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
