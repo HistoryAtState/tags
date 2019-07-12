@@ -631,6 +631,8 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/afghanistan"
+                source="us-dos-fsi-oh">Afghanistan</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/afghanistan"
                 source="us-dos-fsi-oh">Afghanistan</exactMatch>
             <exactMatch type="genc-2a-code" id="AF" source="us-nga"/>
@@ -665,6 +667,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/albania"
+                source="us-dos-fsi-oh">Albania</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/albania"
                 source="us-dos-fsi-oh">Albania</exactMatch>
             <exactMatch type="genc-2a-code" id="AL" source="us-nga"/>
@@ -700,6 +704,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/algeria"
+                source="us-dos-fsi-oh">Algeria</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/algeria"
                 source="us-dos-fsi-oh">Algeria</exactMatch>
             <exactMatch type="genc-2a-code" id="DZ" source="us-nga"/>
@@ -736,6 +742,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/andorra"
+                source="us-dos-fsi-oh">Andorra</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/andorra"
                 source="us-dos-fsi-oh">Andorra</exactMatch>
             <exactMatch type="genc-2a-code" id="AD" source="us-nga"/>
@@ -775,6 +783,8 @@
                 source="us-dos-fsi-oh">Angola</exactMatch>
             <exactMatch type="genc-2a-code" id="AO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AGO" source="us-nga"/>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/angola"
+                source="us-dos-fsi-oh">Angola</exactMatch>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
                 source="us-loc" xml:lang="en">Angola</exactMatch>
             <exactMatch type="marc-geographic-areas"
@@ -811,6 +821,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/antigua-barbuda"
+                source="us-dos-fsi-oh">Antigua and Barbuda</exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/antigua-and-barbuda" source="us-dos-fsi-oh"
                 >Antigua and Barbuda</exactMatch>
@@ -850,6 +862,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/argentina"
+                source="us-dos-fsi-oh">Argentina</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/argentina"
                 source="us-dos-fsi-oh">Argentina</exactMatch>
             <exactMatch type="genc-2a-code" id="AR" source="us-nga"/>
@@ -884,6 +898,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/armenia"
+                source="us-dos-fsi-oh">Armenia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/armenia"
                 source="us-dos-fsi-oh">Armenia</exactMatch>
             <exactMatch type="genc-2a-code" id="AM" source="us-nga"/>
@@ -919,6 +935,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/australia"
+                source="us-dos-fsi-oh">Australia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/australia"
                 source="us-dos-fsi-oh">Australia</exactMatch>
             <exactMatch type="genc-2a-code" id="AU" source="us-nga"/>
@@ -954,6 +972,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/austria"
+                source="us-dos-fsi-oh">Austria</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/austria"
                 source="us-dos-fsi-oh">Austria</exactMatch>
             <exactMatch type="genc-2a-code" id="AT" source="us-nga"/>
@@ -985,6 +1005,8 @@
             <related type="memberOf" source="us-dos-fsi-oh"
                 id="39cb947a-f05e-4053-a58f-001a42b20c61">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en">Baku</narrower>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/azerbaijan"
+                source="us-dos-fsi-oh">Azerbaijan</exactMatch>
             <broader type="isPartOf-geographicRegion" id="geo-region-eur" source="us-dos-fsi-oh"
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
@@ -1023,6 +1045,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/bahamas"
+                source="us-dos-fsi-oh">The Bahamas</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/the-bahamas"
                 source="us-dos-fsi-oh">The Bahamas</exactMatch>
             <exactMatch type="genc-2a-code" id="BS" source="us-nga"/>
@@ -1058,6 +1082,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/bahrain"
+                source="us-dos-fsi-oh">Bahrain</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bahrain"
                 source="us-dos-fsi-oh">Bahrain</exactMatch>
             <exactMatch type="genc-2a-code" id="BH" source="us-nga"/>
@@ -1093,6 +1119,8 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/bangladesh"
+                source="us-dos-fsi-oh">Bangladesh</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bangladesh"
                 source="us-dos-fsi-oh">Bangladesh</exactMatch>
             <exactMatch type="genc-2a-code" id="BD" source="us-nga"/>
@@ -1126,6 +1154,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/barbados"
+                source="us-dos-fsi-oh">Barbados</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/barbados"
                 source="us-dos-fsi-oh">Barbados</exactMatch>
             <exactMatch type="genc-2a-code" id="BB" source="us-nga"/>
@@ -1161,6 +1191,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/belarus"
+                source="us-dos-fsi-oh">Belarus</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/belarus"
                 source="us-dos-fsi-oh">Belarus</exactMatch>
             <exactMatch type="genc-2a-code" id="BY" source="us-nga"/>
@@ -1195,6 +1227,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/belgium"
+                source="us-dos-fsi-oh">Belgium</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/belgium"
                 source="us-dos-fsi-oh">Belgium</exactMatch>
             <exactMatch type="genc-2a-code" id="BE" source="us-nga"/>
@@ -1228,6 +1262,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/belize"
+                source="us-dos-fsi-oh">Belize</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/belize"
                 source="us-dos-fsi-oh">Belize</exactMatch>
             <exactMatch type="genc-2a-code" id="BZ" source="us-nga"/>
@@ -1265,8 +1301,10 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/benin"
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/benin"
                 source="us-dos-fsi-oh">Benin</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/benin"
+                source="us-dos-fsi-oh">Benin (Dahomey)</exactMatch>
             <exactMatch type="genc-2a-code" id="BJ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BEN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dm"
@@ -1334,6 +1372,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/bolivia"
+                source="us-dos-fsi-oh">Bolivia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bolivia"
                 source="us-dos-fsi-oh">Bolivia</exactMatch>
             <exactMatch type="genc-2a-code" id="BO" source="us-nga"/>
@@ -1381,15 +1421,17 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/bosnia-herzegovina"
+                source="us-dos-fsi-oh">Bosnia and Herzegovina</exactMatch>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/bosnia-and-herzegovina" source="us-dos-fsi-oh"
+                >Bosnia and Herzegovina</exactMatch>
             <exactMatch type="genc-2a-code" id="BA" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BIH" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bn"
                 source="us-loc" xml:lang="en">Bosnia and Herzegovina</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-bn" source="us-loc" xml:lang="en"
-                >Bosnia and Herzegovina</exactMatch>
-            <exactMatch type="placesPrevious"
-                id="https://history.state.gov/tags/bosnia-and-herzegovina" source="us-dos-fsi-oh"
                 >Bosnia and Herzegovina</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n00024384"
                 source="us-loc" xml:lang="en">Bosnia and Herzegovina</exactMatch>
@@ -1416,6 +1458,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/botswana"
+                source="us-dos-fsi-oh">Botswana</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/botswana"
                 source="us-dos-fsi-oh">Botswana</exactMatch>
             <exactMatch type="genc-2a-code" id="BW" source="us-nga"/>
@@ -1451,6 +1495,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/brazil"
+                source="us-dos-fsi-oh">Brazil</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/brazil"
                 source="us-dos-fsi-oh">Brazil</exactMatch>
             <exactMatch type="genc-2a-code" id="BR" source="us-nga"/>
@@ -1487,6 +1533,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/brunei"
+                source="us-dos-fsi-oh">Brunei</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/brunei"
                 source="us-dos-fsi-oh">Brunei</exactMatch>
             <exactMatch type="genc-2a-code" id="BN" source="us-nga"/>
@@ -1522,6 +1570,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/bulgaria"
+                source="us-dos-fsi-oh">Bulgaria</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bulgaria"
                 source="us-dos-fsi-oh">Bulgaria</exactMatch>
             <exactMatch type="genc-2a-code" id="BG" source="us-nga"/>
@@ -1555,6 +1605,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/burkina-faso"
+                source="us-dos-fsi-oh">Burkina Faso (Upper Volta)</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/burkina-faso"
                 source="us-dos-fsi-oh">Burkina Faso</exactMatch>
             <exactMatch type="genc-2a-code" id="BF" source="us-nga"/>
@@ -1592,6 +1644,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/burma"
+                source="us-dos-fsi-oh">Burma</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/burma"
                 source="us-dos-fsi-oh">Burma</exactMatch>
             <exactMatch type="genc-2a-code" id="MM" source="us-nga"/>
@@ -1627,6 +1681,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/burundi"
+                source="us-dos-fsi-oh">Burundi</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/burundi"
                 source="us-dos-fsi-oh">Burundi</exactMatch>
             <exactMatch type="genc-2a-code" id="BI" source="us-nga"/>
@@ -1665,6 +1721,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cape-verde"
+                source="us-dos-fsi-oh">Cabo Verde</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cape-verde"
                 source="us-dos-fsi-oh">Cape Verde</exactMatch>
             <exactMatch type="genc-2a-code" id="CV" source="us-nga"/>
@@ -1700,6 +1758,8 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cambodia"
+                source="us-dos-fsi-oh">Cambodia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cambodia"
                 source="us-dos-fsi-oh">Cambodia</exactMatch>
             <exactMatch type="genc-2a-code" id="KH" source="us-nga"/>
@@ -1736,6 +1796,10 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cameroon"
+                source="us-dos-fsi-oh">Cameroon</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cameroon"
+                source="us-dos-fsi-oh">Cameroon</exactMatch>
             <exactMatch type="genc-2a-code" id="CM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CMR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cm"
@@ -1743,8 +1807,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-cm" source="us-loc" xml:lang="en"
                 >Cameroon</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cameroon"
-                source="us-dos-fsi-oh">Cameroon</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035273"
                 source="us-loc" xml:lang="en">Cameroon</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/147664051" source="oclc" xml:lang="en"/>
@@ -1769,6 +1831,10 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/canada"
+                source="us-dos-fsi-oh">Canada</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/canada"
+                source="us-dos-fsi-oh">Canada</exactMatch>
             <exactMatch type="genc-2a-code" id="CA" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CAN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxc"
@@ -1776,8 +1842,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/n-cn" source="us-loc" xml:lang="en"
                 >Canada</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/canada"
-                source="us-dos-fsi-oh">Canada</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79007233"
                 source="us-loc" xml:lang="en">Canada</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/136600716" source="oclc" xml:lang="en"/>
@@ -1805,15 +1869,18 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr"
+                id="https://history.state.gov/countries/central-african-republic"
+                source="us-dos-fsi-oh">Central African Republic</exactMatch>
+            <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/central-african-republic" source="us-dos-fsi-oh"
+                >Central African Republic</exactMatch>
             <exactMatch type="genc-2a-code" id="CF" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CAF" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cx"
                 source="us-loc" xml:lang="en">Central African Republic</exactMatch>
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-cx" source="us-loc" xml:lang="en"
-                >Central African Republic</exactMatch>
-            <exactMatch type="placesPrevious"
-                id="https://history.state.gov/tags/central-african-republic" source="us-dos-fsi-oh"
                 >Central African Republic</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78060051"
                 source="us-loc" xml:lang="en">Central African Republic</exactMatch>
@@ -1841,6 +1908,10 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/chad"
+                source="us-dos-fsi-oh">Chad</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/chad"
+                source="us-dos-fsi-oh">Chad</exactMatch>
             <exactMatch type="genc-2a-code" id="TD" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="TCD" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cd"
@@ -1848,8 +1919,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-cd" source="us-loc" xml:lang="en"
                 >Chad</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/chad"
-                source="us-dos-fsi-oh">Chad</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79061242"
                 source="us-loc" xml:lang="en">Chad</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/233665742" source="oclc" xml:lang="en"
@@ -1877,6 +1946,10 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/chile"
+                source="us-dos-fsi-oh">Chile</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/chile"
+                source="us-dos-fsi-oh">Chile</exactMatch>
             <exactMatch type="genc-2a-code" id="CL" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CHL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cl"
@@ -1884,8 +1957,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-cl" source="us-loc" xml:lang="en"
                 >Chile</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/chile"
-                source="us-dos-fsi-oh">Chile</exactMatch>
         </concept>
         <!-- China -->
         <concept type="place" created-by="rossat" created-date="2019-06-26"
@@ -1909,6 +1980,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/china"
+                source="us-dos-fsi-oh">China</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/china"
                 source="us-dos-fsi-oh">China</exactMatch>
             <exactMatch type="genc-2a-code" id="CN" source="us-nga"/>
@@ -1945,6 +2018,10 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/colombia"
+                source="us-dos-fsi-oh">Colombia</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/colombia"
+                source="us-dos-fsi-oh">Colombia</exactMatch>
             <exactMatch type="genc-2a-code" id="CO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="COL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ck"
@@ -1952,8 +2029,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/s-ck" source="us-loc" xml:lang="en"
                 >Colombia</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/colombia"
-                source="us-dos-fsi-oh">Colombia</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79084451"
                 source="us-loc" xml:lang="en">Colombia</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/127757650" source="oclc" xml:lang="en"/>
@@ -1982,6 +2057,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/comoros"
+                source="us-dos-fsi-oh">Comoros</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/comoros"
                 source="us-dos-fsi-oh">Comoros</exactMatch>
             <exactMatch type="genc-2a-code" id="KM" source="us-nga"/>
@@ -2028,6 +2105,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/congo-republic"
+                source="us-dos-fsi-oh">Republic of the Congo</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/congo-brazzaville"
                 source="us-dos-fsi-oh">Congo (Brazzaville)</exactMatch>
             <exactMatch type="genc-2a-code" id="CG" source="us-nga"/>
@@ -2067,6 +2146,9 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr"
+                id="https://history.state.gov/countries/congo-democratic-republic"
+                source="us-dos-fsi-oh">Democratic Republic of the Congo</exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/democratic-republic-of-the-congo-kinshasa"
                 source="us-dos-fsi-oh">Democratic Republic of the Congo (Kinshasa)</exactMatch>
@@ -2104,6 +2186,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/costa-rica"
+                source="us-dos-fsi-oh">Costa Rica</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/costa-rica"
                 source="us-dos-fsi-oh">Costa Rica</exactMatch>
             <exactMatch type="genc-2a-code" id="CR" source="us-nga"/>
@@ -2139,6 +2223,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cote-divoire"
+                source="us-dos-fsi-oh">Cote d’Ivoire (Ivory Coast)</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cote-divoire"
                 source="us-dos-fsi-oh">Cote d’Ivoire</exactMatch>
             <exactMatch type="genc-2a-code" id="CI" source="us-nga"/>
@@ -2174,6 +2260,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/croatia"
+                source="us-dos-fsi-oh">Croatia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/croatia"
                 source="us-dos-fsi-oh">Croatia</exactMatch>
             <exactMatch type="genc-2a-code" id="HR" source="us-nga"/>
@@ -2209,6 +2297,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cuba"
+                source="us-dos-fsi-oh">Cuba</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cuba"
                 source="us-dos-fsi-oh">Cuba</exactMatch>
             <exactMatch type="genc-2a-code" id="CU" source="us-nga"/>
@@ -2243,6 +2333,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cyprus"
+                source="us-dos-fsi-oh">Cyprus</exactMatch>
             <exactMatch type="genc-2a-code" id="CY" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CYP" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cy"
@@ -2276,6 +2368,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/czech-republic"
+                source="us-dos-fsi-oh">Czechia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/czech-republic"
                 source="us-dos-fsi-oh">Czech Republic</exactMatch>
             <exactMatch type="genc-2a-code" id="CZ" source="us-nga"/>
@@ -2311,6 +2405,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/denmark"
+                source="us-dos-fsi-oh">Denmark</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/denmark"
                 source="us-dos-fsi-oh">Denmark</exactMatch>
             <exactMatch type="genc-2a-code" id="DK" source="us-nga"/>
@@ -2346,6 +2442,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/djibouti"
+                source="us-dos-fsi-oh">Djibouti</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/djibouti"
                 source="us-dos-fsi-oh">Djibouti</exactMatch>
             <exactMatch type="genc-2a-code" id="DJ" source="us-nga"/>
@@ -2381,6 +2479,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/dominica"
+                source="us-dos-fsi-oh">Dominica</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/dominica"
                 source="us-dos-fsi-oh">Dominica</exactMatch>
             <exactMatch type="genc-2a-code" id="DM" source="us-nga"/>
@@ -2417,6 +2517,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/dominican-republic"
+                source="us-dos-fsi-oh">Dominican Republic</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/dominican-republic"
                 source="us-dos-fsi-oh">Dominican Republic</exactMatch>
             <exactMatch type="genc-2a-code" id="DO" source="us-nga"/>
@@ -2452,6 +2554,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/ecuador"
+                source="us-dos-fsi-oh">Ecuador</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/ecuador"
                 source="us-dos-fsi-oh">Ecuador</exactMatch>
             <exactMatch type="genc-2a-code" id="EC" source="us-nga"/>
@@ -2487,6 +2591,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/egypt"
+                source="us-dos-fsi-oh">Egypt</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/egypt"
                 source="us-dos-fsi-oh">Egypt</exactMatch>
             <exactMatch type="genc-2a-code" id="EG" source="us-nga"/>
@@ -2522,6 +2628,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/el-salvador"
+                source="us-dos-fsi-oh">El Salvador</exactMatch>
             <exactMatch type="genc-2a-code" id="SV" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="SLV" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/es"
@@ -2558,6 +2666,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/equatorial-guinea"
+                source="us-dos-fsi-oh">Equatorial Guinea</exactMatch>
             <exactMatch type="genc-2a-code" id="GQ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GNQ" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/eg"
@@ -2593,6 +2703,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/eritrea"
+                source="us-dos-fsi-oh">Eritrea</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/eritrea"
                 source="us-dos-fsi-oh">Eritrea</exactMatch>
             <exactMatch type="genc-2a-code" id="ER" source="us-nga"/>
@@ -2628,6 +2740,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/estonia"
+                source="us-dos-fsi-oh">Estonia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/estonia"
                 source="us-dos-fsi-oh">Estonia</exactMatch>
             <exactMatch type="genc-2a-code" id="EE" source="us-nga"/>
@@ -2668,6 +2782,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/swaziland"
+                source="us-dos-fsi-oh">Eswatini</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/swaziland"
                 source="us-dos-fsi-oh">Swaziland</exactMatch>
             <exactMatch type="genc-2a-code" id="SZ" source="us-nga"/>
@@ -2703,6 +2819,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/ethiopia"
+                source="us-dos-fsi-oh">Ethiopia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/ethiopia"
                 source="us-dos-fsi-oh">Ethiopia</exactMatch>
             <exactMatch type="genc-2a-code" id="ET" source="us-nga"/>
@@ -2738,6 +2856,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/fiji"
+                source="us-dos-fsi-oh">Fiji</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/fiji"
                 source="us-dos-fsi-oh">Fiji</exactMatch>
             <exactMatch type="genc-2a-code" id="FJ" source="us-nga"/>
@@ -2773,6 +2893,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/finland"
+                source="us-dos-fsi-oh">Finland</exactMatch>
             <exactMatch type="genc-2a-code" id="FI" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="FIN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fi"
@@ -2808,6 +2930,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/france"
+                source="us-dos-fsi-oh">France</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/france"
                 source="us-dos-fsi-oh">France</exactMatch>
             <exactMatch type="genc-2a-code" id="FR" source="us-nga"/>
@@ -2847,6 +2971,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/gabon"
+                source="us-dos-fsi-oh">Gabon</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/gabon"
                 source="us-dos-fsi-oh">Gabon</exactMatch>
             <exactMatch type="genc-2a-code" id="GA" source="us-nga"/>
@@ -2882,6 +3008,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/gambia"
+                source="us-dos-fsi-oh">The Gambia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/the-gambia"
                 source="us-dos-fsi-oh">The Gambia</exactMatch>
             <exactMatch type="genc-2a-code" id="GM" source="us-nga"/>
@@ -2915,6 +3043,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/georgia"
+                source="us-dos-fsi-oh">Georgia</exactMatch>
             <exactMatch type="genc-2a-code" id="GE" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GEO" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gs"
@@ -2950,6 +3080,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/germany"
+                source="us-dos-fsi-oh">Germany</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/germany"
                 source="us-dos-fsi-oh">Germany</exactMatch>
             <exactMatch type="genc-2a-code" id="DE" source="us-nga"/>
@@ -2985,6 +3117,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/ghana"
+                source="us-dos-fsi-oh">Ghana</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/ghana"
                 source="us-dos-fsi-oh">Ghana</exactMatch>
             <exactMatch type="genc-2a-code" id="GH" source="us-nga"/>
@@ -3020,6 +3154,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/greece"
+                source="us-dos-fsi-oh">Greece</exactMatch>
             <exactMatch type="genc-2a-code" id="GR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GRC" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gr"
@@ -3053,6 +3189,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/grenada"
+                source="us-dos-fsi-oh">Grenada</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/grenada"
                 source="us-dos-fsi-oh">Grenada</exactMatch>
             <exactMatch type="genc-2a-code" id="GD" source="us-nga"/>
@@ -3088,6 +3226,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/guatemala"
+                source="us-dos-fsi-oh">Guatemala</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guatemala"
                 source="us-dos-fsi-oh">Guatemala</exactMatch>
             <exactMatch type="genc-2a-code" id="GT" source="us-nga"/>
@@ -3123,6 +3263,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/guinea"
+                source="us-dos-fsi-oh">Guinea</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guinea"
                 source="us-dos-fsi-oh">Guinea</exactMatch>
             <exactMatch type="genc-2a-code" id="GN" source="us-nga"/>
@@ -3158,6 +3300,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/guinea-bissau"
+                source="us-dos-fsi-oh">Guinea-Bissau</exactMatch>
             <exactMatch type="genc-2a-code" id="GW" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GNB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/pg"
@@ -3193,6 +3337,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/guyana"
+                source="us-dos-fsi-oh">Guyana</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guyana"
                 source="us-dos-fsi-oh">Guyana</exactMatch>
             <exactMatch type="genc-2a-code" id="GY" source="us-nga"/>
@@ -3228,6 +3374,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/haiti"
+                source="us-dos-fsi-oh">Haiti</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/haiti"
                 source="us-dos-fsi-oh">Haiti</exactMatch>
             <exactMatch type="genc-2a-code" id="HT" source="us-nga"/>
@@ -3262,6 +3410,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/holy-see"
+                source="us-dos-fsi-oh">Holy See</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/holy-see"
                 source="us-dos-fsi-oh">Holy See</exactMatch>
             <exactMatch type="genc-2a-code" id="VA" source="us-nga"/>
@@ -3297,6 +3447,10 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/honduras"
+                source="us-dos-fsi-oh">Honduras</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/honduras"
+                source="us-dos-fsi-oh">Honduras</exactMatch>
             <exactMatch type="genc-2a-code" id="HN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="HND" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ho"
@@ -3304,8 +3458,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/ncho" source="us-loc" xml:lang="en"
                 >Honduras</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/honduras"
-                source="us-dos-fsi-oh">Honduras</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79096785"
                 source="us-loc" xml:lang="en">Honduras</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/124882522" source="oclc" xml:lang="en"/>
@@ -3330,6 +3482,10 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/hungary"
+                source="us-dos-fsi-oh">Hungary</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/hungary"
+                source="us-dos-fsi-oh">Hungary</exactMatch>
             <exactMatch type="genc-2a-code" id="HU" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="HUN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/hu"
@@ -3337,8 +3493,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-hu" source="us-loc" xml:lang="en"
                 >Hungary</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/hungary"
-                source="us-dos-fsi-oh">Hungary</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79053090"
                 source="us-loc" xml:lang="en">Hungary</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/128544491" source="oclc" xml:lang="en"/>
@@ -3365,6 +3519,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/iceland"
+                source="us-dos-fsi-oh">Iceland</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/iceland"
                 source="us-dos-fsi-oh">Iceland</exactMatch>
             <exactMatch type="genc-2a-code" id="IS" source="us-nga"/>
@@ -3400,6 +3556,10 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/india"
+                source="us-dos-fsi-oh">India</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/india"
+                source="us-dos-fsi-oh">India</exactMatch>
             <exactMatch type="genc-2a-code" id="IN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="IND" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ii"
@@ -3407,8 +3567,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-ii" source="us-loc" xml:lang="en"
                 >India</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/india"
-                source="us-dos-fsi-oh">India</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80125948"
                 source="us-loc" xml:lang="en">India</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/135375457" source="oclc" xml:lang="en"/>
@@ -3435,6 +3593,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/indonesia"
+                source="us-dos-fsi-oh">Indonesia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/indonesia"
                 source="us-dos-fsi-oh">Indonesia</exactMatch>
             <exactMatch type="genc-2a-code" id="ID" source="us-nga"/>
@@ -3468,6 +3628,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/iran"
+                source="us-dos-fsi-oh">Iran</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/iran"
                 source="us-dos-fsi-oh">Iran</exactMatch>
             <exactMatch type="genc-2a-code" id="IR" source="us-dos-inr"/>
@@ -3503,6 +3665,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/iraq"
+                source="us-dos-fsi-oh">Iraq</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/iraq"
                 source="us-dos-fsi-oh">Iraq</exactMatch>
             <exactMatch type="genc-2a-code" id="IQ" source="us-nga"/>
@@ -3537,6 +3701,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/ireland"
+                source="us-dos-fsi-oh">Ireland</exactMatch>
             <exactMatch type="genc-2a-code" id="IE" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="IRL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ie"
@@ -3563,6 +3729,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/israel"
+                source="us-dos-fsi-oh">Israel</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/israel"
                 source="us-dos-fsi-oh">Israel</exactMatch>
             <exactMatch type="genc-2a-code" id="IL" source="us-nga"/>
@@ -3599,6 +3767,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/italy"
+                source="us-dos-fsi-oh">Italy</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/italy"
                 source="us-dos-fsi-oh">Italy</exactMatch>
             <exactMatch type="genc-2a-code" id="IT" source="us-nga"/>
@@ -3632,6 +3802,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/jamaica"
+                source="us-dos-fsi-oh">Jamaica</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jamaica"
                 source="us-dos-fsi-oh">Jamaica</exactMatch>
             <exactMatch type="genc-2a-code" id="JM" source="us-nga"/>
@@ -3665,6 +3837,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/japan"
+                source="us-dos-fsi-oh">Japan</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/japan"
                 source="us-dos-fsi-oh">Japan</exactMatch>
             <exactMatch type="genc-2a-code" id="JP" source="us-nga"/>
@@ -3700,6 +3874,10 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/jordan"
+                source="us-dos-fsi-oh">Jordan</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jordan"
+                source="us-dos-fsi-oh">Jordan</exactMatch>
             <exactMatch type="genc-2a-code" id="JO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="JOR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/jo"
@@ -3707,8 +3885,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/a-jo" source="us-loc" xml:lang="en"
                 >Jordan</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jordan"
-                source="us-dos-fsi-oh">Jordan</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79072819"
                 source="us-loc" xml:lang="en">Jordan</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/156488025" source="oclc" xml:lang="en"/>
@@ -3735,6 +3911,8 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/kazakhstan"
+                source="us-dos-fsi-oh">Kazakhstan</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/kazakhstan"
                 source="us-dos-fsi-oh">Kazakhstan</exactMatch>
             <exactMatch type="genc-2a-code" id="KZ" source="us-nga"/>
@@ -3770,6 +3948,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/kenya"
+                source="us-dos-fsi-oh">Kenya</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/kenya"
                 source="us-dos-fsi-oh">Kenya</exactMatch>
             <exactMatch type="genc-2a-code" id="KE" source="us-nga"/>
@@ -3805,6 +3985,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/kiribati"
+                source="us-dos-fsi-oh">Kiribati</exactMatch>
             <exactMatch type="genc-2a-code" id="KI" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="KIR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gb"
@@ -3840,6 +4022,10 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/kosovo"
+                source="us-dos-fsi-oh">Kosovo</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/kosovo"
+                source="us-dos-fsi-oh">Kosovo</exactMatch>
             <exactMatch type="genc-2a-code" id="XK" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="XKS" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kv"
@@ -3847,8 +4033,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/e-kv" source="us-loc" xml:lang="en"
                 >Kosovo</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/kosovo"
-                source="us-dos-fsi-oh">Kosovo</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n2008012665"
                 source="us-loc" xml:lang="en">Kosovo (Republic)</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/132423103" source="oclc" xml:lang="en"/>
@@ -3873,6 +4057,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/kuwait"
+                source="us-dos-fsi-oh">Kuwait</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/kuwait"
                 source="us-dos-fsi-oh">Kuwait</exactMatch>
             <exactMatch type="genc-2a-code" id="KW" source="us-nga"/>
@@ -3906,6 +4092,8 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/kyrgyzstan"
+                source="us-dos-fsi-oh">Kyrgyzstan</exactMatch>
             <exactMatch type="genc-2a-code" id="KG" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="KGZ" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/kg"
@@ -3940,6 +4128,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/laos"
+                source="us-dos-fsi-oh">Laos</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/laos"
                 source="us-dos-fsi-oh">Laos</exactMatch>
             <exactMatch type="genc-2a-code" id="LA" source="us-nga"/>
@@ -3975,6 +4165,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/latvia"
+                source="us-dos-fsi-oh">Latvia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/latvia"
                 source="us-dos-fsi-oh">Latvia</exactMatch>
             <exactMatch type="genc-2a-code" id="LV" source="us-nga"/>
@@ -4009,6 +4201,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/lebanon"
+                source="us-dos-fsi-oh">Lebanon</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/lebanon"
                 source="us-dos-fsi-oh">Lebanon</exactMatch>
             <exactMatch type="genc-2a-code" id="LB" source="us-nga"/>
@@ -4044,6 +4238,10 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/lesotho"
+                source="us-dos-fsi-oh">Lesotho</exactMatch>
+            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/lesotho"
+                source="us-dos-fsi-oh">Lesotho</exactMatch>
             <exactMatch type="genc-2a-code" id="LS" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="LSO" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/lo"
@@ -4051,8 +4249,6 @@
             <exactMatch type="marc-geographic-areas"
                 id="http://id.loc.gov/vocabulary/geographicAreas/f-lo" source="us-loc" xml:lang="en"
                 >Lesotho</exactMatch>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/lesotho"
-                source="us-dos-fsi-oh">Lesotho</exactMatch>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80049717"
                 source="us-loc" xml:lang="en">Lesotho</exactMatch>
             <exactMatch type="viaf" id="http://viaf.org/viaf/145998720" source="oclc" xml:lang="en"/>
@@ -4079,6 +4275,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/liberia"
+                source="us-dos-fsi-oh">Liberia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/liberia"
                 source="us-dos-fsi-oh">Liberia</exactMatch>
             <exactMatch type="genc-2a-code" id="LB" source="us-nga"/>
@@ -4112,6 +4310,8 @@
                 xml:lang="en">Near East</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/libya"
+                source="us-dos-fsi-oh">Libya</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/libya"
                 source="us-dos-fsi-oh">Libya</exactMatch>
             <exactMatch type="genc-2a-code" id="LY" source="us-nga"/>
@@ -4147,6 +4347,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/liechtenstein"
+                source="us-dos-fsi-oh">Liechtenstein</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/liechtenstein"
                 source="us-dos-fsi-oh">Liechtenstein</exactMatch>
             <exactMatch type="genc-2a-code" id="LI" source="us-nga"/>
@@ -4182,6 +4384,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/lithuania"
+                source="us-dos-fsi-oh">Lithuania</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/lithuania"
                 source="us-dos-fsi-oh">Lithuania</exactMatch>
             <exactMatch type="genc-2a-code" id="LT" source="us-nga"/>
@@ -4217,6 +4421,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/luxembourg"
+                source="us-dos-fsi-oh">Luxembourg</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/luxembourg"
                 source="us-dos-fsi-oh">Luxembourg</exactMatch>
             <exactMatch type="genc-2a-code" id="LU" source="us-nga"/>
@@ -4252,6 +4458,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/madagascar"
+                source="us-dos-fsi-oh">Madagascar</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/madagascar"
                 source="us-dos-fsi-oh">Madagascar</exactMatch>
             <exactMatch type="genc-2a-code" id="MG" source="us-nga"/>
@@ -4287,6 +4495,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/malawi"
+                source="us-dos-fsi-oh">Malawi</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/malawi"
                 source="us-dos-fsi-oh">Malawi</exactMatch>
             <exactMatch type="genc-2a-code" id="MW" source="us-nga"/>
@@ -4320,6 +4530,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/malaysia"
+                source="us-dos-fsi-oh">Malaysia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/malaysia"
                 source="us-dos-fsi-oh">Malaysia</exactMatch>
             <exactMatch type="genc-2a-code" id="MY" source="us-nga"/>
@@ -4357,6 +4569,8 @@
                 xml:lang="en">South and Central Asia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/maldives"
+                source="us-dos-fsi-oh">Maldives</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/maldives"
                 source="us-dos-fsi-oh">Maldives</exactMatch>
             <exactMatch type="genc-2a-code" id="MV" source="us-nga"/>
@@ -4390,6 +4604,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/mali"
+                source="us-dos-fsi-oh">Mali</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/mali"
                 source="us-dos-fsi-oh">Mali</exactMatch>
             <exactMatch type="genc-2a-code" id="ML" source="us-nga"/>
@@ -4425,6 +4641,8 @@
                 xml:lang="en">Europe</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/malta"
+                source="us-dos-fsi-oh">Malta</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/malta"
                 source="us-dos-fsi-oh">Malta</exactMatch>
             <exactMatch type="genc-2a-code" id="MT" source="us-nga"/>
@@ -4461,6 +4679,8 @@
                 xml:lang="en">East Asia and Pacific</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/marshall-islands"
+                source="us-dos-fsi-oh">Marshall Islands</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/marshall-islands"
                 source="us-dos-fsi-oh">Marshall Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="MH" source="us-dos-inr"/>
@@ -4496,6 +4716,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/mauritania"
+                source="us-dos-fsi-oh">Mauritania</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/mauritania"
                 source="us-dos-fsi-oh">Mauritania</exactMatch>
             <exactMatch type="genc-2a-code" id="MR" source="us-nga"/>
@@ -4531,6 +4753,8 @@
                 xml:lang="en">Sub-Saharan Africa</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/mauritius"
+                source="us-dos-fsi-oh">Mauritius</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/mauritius"
                 source="us-dos-fsi-oh">Mauritius</exactMatch>
             <exactMatch type="genc-2a-code" id="MU" source="us-nga"/>
@@ -4565,6 +4789,8 @@
                 xml:lang="en">Western Hemisphere</broader>
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
+            <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/mexico"
+                source="us-dos-fsi-oh">Mexico</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/mexico"
                 source="us-dos-fsi-oh">Mexico</exactMatch>
             <exactMatch type="genc-2a-code" id="MX" source="us-nga"/>
