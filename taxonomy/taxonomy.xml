@@ -635,6 +635,9 @@
                 source="us-dos-fsi-oh">Afghanistan</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/afghanistan"
                 source="us-dos-fsi-oh">Afghanistan</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/af.html"
+                source="us-cia" xml:lang="en">Afghanistan</exactMatch>
             <exactMatch type="genc-2a-code" id="AF" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AFG" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/af"
@@ -671,6 +674,9 @@
                 source="us-dos-fsi-oh">Albania</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/albania"
                 source="us-dos-fsi-oh">Albania</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/al.html"
+                source="us-cia" xml:lang="en">Albania</exactMatch>
             <exactMatch type="genc-2a-code" id="AL" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ALB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aa"
@@ -708,6 +714,9 @@
                 source="us-dos-fsi-oh">Algeria</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/algeria"
                 source="us-dos-fsi-oh">Algeria</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html"
+                source="us-cia" xml:lang="en">Algeria</exactMatch>
             <exactMatch type="genc-2a-code" id="DZ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="DZA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ae"
@@ -746,6 +755,9 @@
                 source="us-dos-fsi-oh">Andorra</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/andorra"
                 source="us-dos-fsi-oh">Andorra</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html"
+                source="us-cia" xml:lang="en">Andorra</exactMatch>
             <exactMatch type="genc-2a-code" id="AD" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AND" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/an"
@@ -781,10 +793,13 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/angola"
                 source="us-dos-fsi-oh">Angola</exactMatch>
-            <exactMatch type="genc-2a-code" id="AO" source="us-nga"/>
-            <exactMatch type="genc-3a-code" id="AGO" source="us-nga"/>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/angola"
                 source="us-dos-fsi-oh">Angola</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html"
+                source="us-cia" xml:lang="en">Angola</exactMatch>
+            <exactMatch type="genc-2a-code" id="AO" source="us-nga"/>
+            <exactMatch type="genc-3a-code" id="AGO" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ao"
                 source="us-loc" xml:lang="en">Angola</exactMatch>
             <exactMatch type="marc-geographic-areas"
@@ -826,6 +841,9 @@
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/antigua-and-barbuda" source="us-dos-fsi-oh"
                 >Antigua and Barbuda</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html"
+                source="us-cia" xml:lang="en">Antigua and Barbuda</exactMatch>
             <exactMatch type="genc-2a-code" id="AG" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ATG" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aq"
@@ -866,6 +884,9 @@
                 source="us-dos-fsi-oh">Argentina</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/argentina"
                 source="us-dos-fsi-oh">Argentina</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html"
+                source="us-cia" xml:lang="en">Argentina</exactMatch>
             <exactMatch type="genc-2a-code" id="AR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ARG" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/geographicAreas/s-ag"
@@ -902,6 +923,9 @@
                 source="us-dos-fsi-oh">Armenia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/armenia"
                 source="us-dos-fsi-oh">Armenia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/am.html"
+                source="us-cia" xml:lang="en">Armenia</exactMatch>
             <exactMatch type="genc-2a-code" id="AM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ARM" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ai"
@@ -939,6 +963,9 @@
                 source="us-dos-fsi-oh">Australia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/australia"
                 source="us-dos-fsi-oh">Australia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/as.html"
+                source="us-cia" xml:lang="en">Australia</exactMatch>
             <exactMatch type="genc-2a-code" id="AU" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AUS" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/at"
@@ -976,6 +1003,9 @@
                 source="us-dos-fsi-oh">Austria</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/austria"
                 source="us-dos-fsi-oh">Austria</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/au.html"
+                source="us-cia" xml:lang="en">Austria</exactMatch>
             <exactMatch type="genc-2a-code" id="AT" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AUT" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/au"
@@ -1013,6 +1043,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/azerbaijan"
                 source="us-dos-fsi-oh">Azerbaijan</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html"
+                source="us-cia" xml:lang="en">Azerbaijan</exactMatch>
             <exactMatch type="genc-2a-code" id="AZ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AZE" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/aj"
@@ -1049,6 +1082,9 @@
                 source="us-dos-fsi-oh">The Bahamas</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/the-bahamas"
                 source="us-dos-fsi-oh">The Bahamas</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html"
+                source="us-cia" xml:lang="en">Bahamas, The</exactMatch>
             <exactMatch type="genc-2a-code" id="BS" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BHS" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bf"
@@ -1086,6 +1122,9 @@
                 source="us-dos-fsi-oh">Bahrain</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bahrain"
                 source="us-dos-fsi-oh">Bahrain</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ba.html"
+                source="us-cia" xml:lang="en">Bahrain</exactMatch>
             <exactMatch type="genc-2a-code" id="BH" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BHR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ba"
@@ -1123,6 +1162,9 @@
                 source="us-dos-fsi-oh">Bangladesh</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bangladesh"
                 source="us-dos-fsi-oh">Bangladesh</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html"
+                source="us-cia" xml:lang="en">Bangladesh</exactMatch>
             <exactMatch type="genc-2a-code" id="BD" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BGD" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bg"
@@ -1158,6 +1200,9 @@
                 source="us-dos-fsi-oh">Barbados</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/barbados"
                 source="us-dos-fsi-oh">Barbados</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html"
+                source="us-cia" xml:lang="en">Barbados</exactMatch>
             <exactMatch type="genc-2a-code" id="BB" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BRB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bb"
@@ -1195,6 +1240,9 @@
                 source="us-dos-fsi-oh">Belarus</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/belarus"
                 source="us-dos-fsi-oh">Belarus</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html"
+                source="us-cia" xml:lang="en">Belarus</exactMatch>
             <exactMatch type="genc-2a-code" id="BY" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BLR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bw"
@@ -1231,6 +1279,9 @@
                 source="us-dos-fsi-oh">Belgium</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/belgium"
                 source="us-dos-fsi-oh">Belgium</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/be.html"
+                source="us-cia" xml:lang="en">Belgium</exactMatch>
             <exactMatch type="genc-2a-code" id="BE" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BEL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/be"
@@ -1266,6 +1317,9 @@
                 source="us-dos-fsi-oh">Belize</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/belize"
                 source="us-dos-fsi-oh">Belize</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html"
+                source="us-cia" xml:lang="en">Belize</exactMatch>
             <exactMatch type="genc-2a-code" id="BZ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BLZ" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bh"
@@ -1305,6 +1359,9 @@
                 source="us-dos-fsi-oh">Benin</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/benin"
                 source="us-dos-fsi-oh">Benin (Dahomey)</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html"
+                source="us-cia" xml:lang="en">Benin</exactMatch>
             <exactMatch type="genc-2a-code" id="BJ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BEN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dm"
@@ -1338,6 +1395,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bhutan"
                 source="us-dos-fsi-oh">Bhutan</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html"
+                source="us-cia" xml:lang="en">Bhutan</exactMatch>
             <exactMatch type="genc-2a-code" id="BT" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BTN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bt"
@@ -1376,6 +1436,9 @@
                 source="us-dos-fsi-oh">Bolivia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bolivia"
                 source="us-dos-fsi-oh">Bolivia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html"
+                source="us-cia" xml:lang="en">Bolivia</exactMatch>
             <exactMatch type="genc-2a-code" id="BO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BOL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bo"
@@ -1426,6 +1489,9 @@
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/bosnia-and-herzegovina" source="us-dos-fsi-oh"
                 >Bosnia and Herzegovina</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html"
+                source="us-cia" xml:lang="en">Bosnia and Herzegovina</exactMatch>
             <exactMatch type="genc-2a-code" id="BA" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BIH" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bn"
@@ -1462,6 +1528,9 @@
                 source="us-dos-fsi-oh">Botswana</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/botswana"
                 source="us-dos-fsi-oh">Botswana</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bc.html"
+                source="us-cia" xml:lang="en">Botswana</exactMatch>
             <exactMatch type="genc-2a-code" id="BW" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BWA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bs"
@@ -1499,6 +1568,9 @@
                 source="us-dos-fsi-oh">Brazil</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/brazil"
                 source="us-dos-fsi-oh">Brazil</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/br.html"
+                source="us-cia" xml:lang="en">Brazil</exactMatch>
             <exactMatch type="genc-2a-code" id="BR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BRA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bl"
@@ -1537,6 +1609,9 @@
                 source="us-dos-fsi-oh">Brunei</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/brunei"
                 source="us-dos-fsi-oh">Brunei</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bx.html"
+                source="us-cia" xml:lang="en">Brunei</exactMatch>
             <exactMatch type="genc-2a-code" id="BN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BRN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bx"
@@ -1574,6 +1649,9 @@
                 source="us-dos-fsi-oh">Bulgaria</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/bulgaria"
                 source="us-dos-fsi-oh">Bulgaria</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bu.html"
+                source="us-cia" xml:lang="en">Bulgaria</exactMatch>
             <exactMatch type="genc-2a-code" id="BG" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BGR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bu"
@@ -1609,6 +1687,9 @@
                 source="us-dos-fsi-oh">Burkina Faso (Upper Volta)</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/burkina-faso"
                 source="us-dos-fsi-oh">Burkina Faso</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html"
+                source="us-cia" xml:lang="en"/>
             <exactMatch type="genc-2a-code" id="BF" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BFA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/uv"
@@ -1648,6 +1729,9 @@
                 source="us-dos-fsi-oh">Burma</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/burma"
                 source="us-dos-fsi-oh">Burma</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html"
+                source="us-cia" xml:lang="en">Burma</exactMatch>
             <exactMatch type="genc-2a-code" id="MM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="MMR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/br"
@@ -1685,6 +1769,9 @@
                 source="us-dos-fsi-oh">Burundi</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/burundi"
                 source="us-dos-fsi-oh">Burundi</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/by.html"
+                source="us-cia" xml:lang="en">Burundi</exactMatch>
             <exactMatch type="genc-2a-code" id="BI" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="BDI" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bd"
@@ -1725,6 +1812,9 @@
                 source="us-dos-fsi-oh">Cabo Verde</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cape-verde"
                 source="us-dos-fsi-oh">Cape Verde</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html"
+                source="us-cia" xml:lang="en">Cabo Verde</exactMatch>
             <exactMatch type="genc-2a-code" id="CV" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CPV" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cv"
@@ -1762,6 +1852,9 @@
                 source="us-dos-fsi-oh">Cambodia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cambodia"
                 source="us-dos-fsi-oh">Cambodia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html"
+                source="us-cia" xml:lang="en">Cambodia</exactMatch>
             <exactMatch type="genc-2a-code" id="KH" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="KHM" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cb"
@@ -1800,6 +1893,9 @@
                 source="us-dos-fsi-oh">Cameroon</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cameroon"
                 source="us-dos-fsi-oh">Cameroon</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html"
+                source="us-cia" xml:lang="en">Cameroon</exactMatch>
             <exactMatch type="genc-2a-code" id="CM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CMR" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cm"
@@ -1835,6 +1931,9 @@
                 source="us-dos-fsi-oh">Canada</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/canada"
                 source="us-dos-fsi-oh">Canada</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html"
+                source="us-cia" xml:lang="en">Canada</exactMatch>
             <exactMatch type="genc-2a-code" id="CA" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CAN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xxc"
@@ -1875,6 +1974,9 @@
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/central-african-republic" source="us-dos-fsi-oh"
                 >Central African Republic</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ct.html"
+                source="us-cia" xml:lang="en">Central African Republic</exactMatch>
             <exactMatch type="genc-2a-code" id="CF" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CAF" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cx"
@@ -1912,6 +2014,9 @@
                 source="us-dos-fsi-oh">Chad</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/chad"
                 source="us-dos-fsi-oh">Chad</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cd.html"
+                source="us-cia" xml:lang="en">Chad</exactMatch>
             <exactMatch type="genc-2a-code" id="TD" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="TCD" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cd"
@@ -1950,6 +2055,9 @@
                 source="us-dos-fsi-oh">Chile</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/chile"
                 source="us-dos-fsi-oh">Chile</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ci.html"
+                source="us-cia" xml:lang="en">Chile</exactMatch>
             <exactMatch type="genc-2a-code" id="CL" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CHL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cl"
@@ -1984,6 +2092,9 @@
                 source="us-dos-fsi-oh">China</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/china"
                 source="us-dos-fsi-oh">China</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html"
+                source="us-cia" xml:lang="en">China</exactMatch>
             <exactMatch type="genc-2a-code" id="CN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CHN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cc"
@@ -2022,6 +2133,9 @@
                 source="us-dos-fsi-oh">Colombia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/colombia"
                 source="us-dos-fsi-oh">Colombia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/co.html"
+                source="us-cia" xml:lang="en">Colombia</exactMatch>
             <exactMatch type="genc-2a-code" id="CO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="COL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ck"
@@ -2061,6 +2175,9 @@
                 source="us-dos-fsi-oh">Comoros</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/comoros"
                 source="us-dos-fsi-oh">Comoros</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cn.html"
+                source="us-cia" xml:lang="en">Comoros</exactMatch>
             <exactMatch type="genc-2a-code" id="KM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="COM" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ot"
@@ -2109,6 +2226,9 @@
                 source="us-dos-fsi-oh">Republic of the Congo</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/congo-brazzaville"
                 source="us-dos-fsi-oh">Congo (Brazzaville)</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cf.html"
+                source="us-cia" xml:lang="en">Congo, Republic of the</exactMatch>
             <exactMatch type="genc-2a-code" id="CG" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="COG" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cf"
@@ -2152,6 +2272,9 @@
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/democratic-republic-of-the-congo-kinshasa"
                 source="us-dos-fsi-oh">Democratic Republic of the Congo (Kinshasa)</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html"
+                source="us-cia" xml:lang="en">Congo, Democratic Republic of</exactMatch>
             <exactMatch type="genc-2a-code" id="CD" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="COD" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cg"
@@ -2190,6 +2313,9 @@
                 source="us-dos-fsi-oh">Costa Rica</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/costa-rica"
                 source="us-dos-fsi-oh">Costa Rica</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html"
+                source="us-cia" xml:lang="en">Costa Rica</exactMatch>
             <exactMatch type="genc-2a-code" id="CR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CRI" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
@@ -2227,6 +2353,9 @@
                 source="us-dos-fsi-oh">Cote d’Ivoire (Ivory Coast)</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cote-divoire"
                 source="us-dos-fsi-oh">Cote d’Ivoire</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html"
+                source="us-cia" xml:lang="en">Cote d’Ivoire</exactMatch>
             <exactMatch type="genc-2a-code" id="CI" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CIV" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cr"
@@ -2264,6 +2393,9 @@
                 source="us-dos-fsi-oh">Croatia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/croatia"
                 source="us-dos-fsi-oh">Croatia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/hr.html"
+                source="us-cia" xml:lang="en">Croatia</exactMatch>
             <exactMatch type="genc-2a-code" id="HR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="HRV" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ci"
@@ -2301,6 +2433,9 @@
                 source="us-dos-fsi-oh">Cuba</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/cuba"
                 source="us-dos-fsi-oh">Cuba</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cu.html"
+                source="us-cia" xml:lang="en">Cuba</exactMatch>
             <exactMatch type="genc-2a-code" id="CU" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CUB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/geographicAreas/nwcu"
@@ -2335,6 +2470,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/cyprus"
                 source="us-dos-fsi-oh">Cyprus</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html"
+                source="us-cia" xml:lang="en">Cyprus</exactMatch>
             <exactMatch type="genc-2a-code" id="CY" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CYP" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/cy"
@@ -2372,6 +2510,9 @@
                 source="us-dos-fsi-oh">Czechia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/czech-republic"
                 source="us-dos-fsi-oh">Czech Republic</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html"
+                source="us-cia" xml:lang="en">Czechia</exactMatch>
             <exactMatch type="genc-2a-code" id="CZ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="CZE" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/xr"
@@ -2409,6 +2550,9 @@
                 source="us-dos-fsi-oh">Denmark</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/denmark"
                 source="us-dos-fsi-oh">Denmark</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/da.html"
+                source="us-cia" xml:lang="en">Denmark</exactMatch>
             <exactMatch type="genc-2a-code" id="DK" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="DNK" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dk"
@@ -2446,6 +2590,9 @@
                 source="us-dos-fsi-oh">Djibouti</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/djibouti"
                 source="us-dos-fsi-oh">Djibouti</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/dj.html"
+                source="us-cia" xml:lang="en">Djibouti</exactMatch>
             <exactMatch type="genc-2a-code" id="DJ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="DJI" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ft"
@@ -2483,6 +2630,9 @@
                 source="us-dos-fsi-oh">Dominica</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/dominica"
                 source="us-dos-fsi-oh">Dominica</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/do.html"
+                source="us-cia" xml:lang="en">Dominica</exactMatch>
             <exactMatch type="genc-2a-code" id="DM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="DMA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dq"
@@ -2521,6 +2671,9 @@
                 source="us-dos-fsi-oh">Dominican Republic</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/dominican-republic"
                 source="us-dos-fsi-oh">Dominican Republic</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/dr.html"
+                source="us-cia" xml:lang="en">Dominican Republic</exactMatch>
             <exactMatch type="genc-2a-code" id="DO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="DOM" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/dr"
@@ -2558,6 +2711,9 @@
                 source="us-dos-fsi-oh">Ecuador</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/ecuador"
                 source="us-dos-fsi-oh">Ecuador</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ec.html"
+                source="us-cia" xml:lang="en">Ecuador</exactMatch>
             <exactMatch type="genc-2a-code" id="EC" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ECU" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ec"
@@ -2595,6 +2751,9 @@
                 source="us-dos-fsi-oh">Egypt</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/egypt"
                 source="us-dos-fsi-oh">Egypt</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html"
+                source="us-cia" xml:lang="en">Egypt</exactMatch>
             <exactMatch type="genc-2a-code" id="EG" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="EGY" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ua"
@@ -2629,7 +2788,9 @@
             <broader type="isPartOf-geopoliticalCategory" id="a119d222-2c6f-4d49-867e-fc091b395d28"
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/el-salvador"
-                source="us-dos-fsi-oh">El Salvador</exactMatch>
+                source="us-dos-fsi-oh">El Salvador</exactMatch>  <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/es.html"
+                source="us-cia" xml:lang="en">El Salvador</exactMatch>
             <exactMatch type="genc-2a-code" id="SV" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="SLV" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/es"
@@ -2668,6 +2829,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/equatorial-guinea"
                 source="us-dos-fsi-oh">Equatorial Guinea</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ek.html"
+                source="us-cia" xml:lang="en">Equatorial Guinea</exactMatch>
             <exactMatch type="genc-2a-code" id="GQ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GNQ" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/eg"
@@ -2707,6 +2871,9 @@
                 source="us-dos-fsi-oh">Eritrea</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/eritrea"
                 source="us-dos-fsi-oh">Eritrea</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/er.html"
+                source="us-cia" xml:lang="en">Eritrea</exactMatch>
             <exactMatch type="genc-2a-code" id="ER" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ERI" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ea"
@@ -2744,6 +2911,9 @@
                 source="us-dos-fsi-oh">Estonia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/estonia"
                 source="us-dos-fsi-oh">Estonia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/en.html"
+                source="us-cia" xml:lang="en">Estonia</exactMatch>
             <exactMatch type="genc-2a-code" id="EE" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="EST" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/er"
@@ -2786,6 +2956,9 @@
                 source="us-dos-fsi-oh">Eswatini</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/swaziland"
                 source="us-dos-fsi-oh">Swaziland</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/wz.html"
+                source="us-cia" xml:lang="en">Eswatini</exactMatch>
             <exactMatch type="genc-2a-code" id="SZ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="SWZ" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/sq"
@@ -2823,6 +2996,9 @@
                 source="us-dos-fsi-oh">Ethiopia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/ethiopia"
                 source="us-dos-fsi-oh">Ethiopia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/et.html"
+                source="us-cia" xml:lang="en">Ethiopia</exactMatch>
             <exactMatch type="genc-2a-code" id="ET" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ETH" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/et"
@@ -2860,6 +3036,9 @@
                 source="us-dos-fsi-oh">Fiji</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/fiji"
                 source="us-dos-fsi-oh">Fiji</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html"
+                source="us-cia" xml:lang="en">Fiji</exactMatch>
             <exactMatch type="genc-2a-code" id="FJ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="FJI" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fj"
@@ -2895,6 +3074,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/finland"
                 source="us-dos-fsi-oh">Finland</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/fi.html"
+                source="us-cia" xml:lang="en">Finland</exactMatch>
             <exactMatch type="genc-2a-code" id="FI" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="FIN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fi"
@@ -2934,6 +3116,9 @@
                 source="us-dos-fsi-oh">France</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/france"
                 source="us-dos-fsi-oh">France</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html"
+                source="us-cia" xml:lang="en">France</exactMatch>
             <exactMatch type="genc-2a-code" id="FR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="FRA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/fr"
@@ -2975,6 +3160,9 @@
                 source="us-dos-fsi-oh">Gabon</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/gabon"
                 source="us-dos-fsi-oh">Gabon</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gb.html"
+                source="us-cia" xml:lang="en">Gabon</exactMatch>
             <exactMatch type="genc-2a-code" id="GA" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GAB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/go"
@@ -3012,6 +3200,9 @@
                 source="us-dos-fsi-oh">The Gambia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/the-gambia"
                 source="us-dos-fsi-oh">The Gambia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html"
+                source="us-cia" xml:lang="en">Gambia, The</exactMatch>
             <exactMatch type="genc-2a-code" id="GM" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GMB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gm"
@@ -3045,6 +3236,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/georgia"
                 source="us-dos-fsi-oh">Georgia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gg.html"
+                source="us-cia" xml:lang="en">Georgia</exactMatch>
             <exactMatch type="genc-2a-code" id="GE" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GEO" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gs"
@@ -3084,6 +3278,9 @@
                 source="us-dos-fsi-oh">Germany</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/germany"
                 source="us-dos-fsi-oh">Germany</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html"
+                source="us-cia" xml:lang="en">Germany</exactMatch>
             <exactMatch type="genc-2a-code" id="DE" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="DEU" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gw"
@@ -3121,6 +3318,9 @@
                 source="us-dos-fsi-oh">Ghana</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/ghana"
                 source="us-dos-fsi-oh">Ghana</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gh.html"
+                source="us-cia" xml:lang="en">Ghana</exactMatch>
             <exactMatch type="genc-2a-code" id="GH" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GHA" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gh"
@@ -3156,6 +3356,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/greece"
                 source="us-dos-fsi-oh">Greece</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html"
+                source="us-cia" xml:lang="en">Greece</exactMatch>
             <exactMatch type="genc-2a-code" id="GR" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GRC" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gr"
@@ -3193,6 +3396,9 @@
                 source="us-dos-fsi-oh">Grenada</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/grenada"
                 source="us-dos-fsi-oh">Grenada</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html"
+                source="us-cia" xml:lang="en">Grenada</exactMatch>
             <exactMatch type="genc-2a-code" id="GD" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GRD" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gd"
@@ -3230,6 +3436,9 @@
                 source="us-dos-fsi-oh">Guatemala</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guatemala"
                 source="us-dos-fsi-oh">Guatemala</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gt.html"
+                source="us-cia" xml:lang="en">Guatemala</exactMatch>
             <exactMatch type="genc-2a-code" id="GT" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GTM" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gt"
@@ -3267,6 +3476,9 @@
                 source="us-dos-fsi-oh">Guinea</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guinea"
                 source="us-dos-fsi-oh">Guinea</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gv.html"
+                source="us-cia" xml:lang="en">Guinea</exactMatch>
             <exactMatch type="genc-2a-code" id="GN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GIN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gv"
@@ -3302,6 +3514,9 @@
                 source="us-dos-inr">independent states</broader>
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/guinea-bissau"
                 source="us-dos-fsi-oh">Guinea-Bissau</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html"
+                source="us-cia" xml:lang="en">Guinea-Bissau</exactMatch>
             <exactMatch type="genc-2a-code" id="GW" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GNB" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/pg"
@@ -3341,6 +3556,9 @@
                 source="us-dos-fsi-oh">Guyana</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guyana"
                 source="us-dos-fsi-oh">Guyana</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html"
+                source="us-cia" xml:lang="en">Guyana</exactMatch>
             <exactMatch type="genc-2a-code" id="GY" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="GUY" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/gy"
@@ -3378,6 +3596,9 @@
                 source="us-dos-fsi-oh">Haiti</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/haiti"
                 source="us-dos-fsi-oh">Haiti</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html"
+                source="us-cia" xml:lang="en">Haiti</exactMatch>
             <exactMatch type="genc-2a-code" id="HT" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="HTI" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ht"
@@ -3414,6 +3635,9 @@
                 source="us-dos-fsi-oh">Holy See</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/holy-see"
                 source="us-dos-fsi-oh">Holy See</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html"
+                source="us-cia" xml:lang="en">Holy See (Vatican City)</exactMatch>
             <exactMatch type="genc-2a-code" id="VA" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="VAT" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/vc"
@@ -3451,6 +3675,9 @@
                 source="us-dos-fsi-oh">Honduras</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/honduras"
                 source="us-dos-fsi-oh">Honduras</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ho.html"
+                source="us-cia" xml:lang="en">Honduras</exactMatch>
             <exactMatch type="genc-2a-code" id="HN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="HND" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ho"
@@ -3486,6 +3713,9 @@
                 source="us-dos-fsi-oh">Hungary</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/hungary"
                 source="us-dos-fsi-oh">Hungary</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/hu.html"
+                source="us-cia" xml:lang="en">Hungary</exactMatch>
             <exactMatch type="genc-2a-code" id="HU" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="HUN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/hu"
@@ -3523,6 +3753,9 @@
                 source="us-dos-fsi-oh">Iceland</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/iceland"
                 source="us-dos-fsi-oh">Iceland</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ic.html"
+                source="us-cia" xml:lang="en">Iceland</exactMatch>
             <exactMatch type="genc-2a-code" id="IS" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="ISL" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ic"
@@ -3560,6 +3793,9 @@
                 source="us-dos-fsi-oh">India</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/india"
                 source="us-dos-fsi-oh">India</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/in.html"
+                source="us-cia" xml:lang="en">India</exactMatch>
             <exactMatch type="genc-2a-code" id="IN" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="IND" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ii"
@@ -3597,6 +3833,9 @@
                 source="us-dos-fsi-oh">Indonesia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/indonesia"
                 source="us-dos-fsi-oh">Indonesia</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/id.html"
+                source="us-cia" xml:lang="en">Indonesia</exactMatch>
             <exactMatch type="genc-2a-code" id="ID" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="IDN" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/io"
@@ -3632,6 +3871,9 @@
                 source="us-dos-fsi-oh">Iran</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/iran"
                 source="us-dos-fsi-oh">Iran</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html"
+                source="us-cia" xml:lang="en">Iran</exactMatch>
             <exactMatch type="genc-2a-code" id="IR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IRN" source="us-dos-inr"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/ir"
@@ -3647,7 +3889,7 @@
             <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q794" source="wikimedia"
                 xml:lang="en"/>
         </concept>
-        <!--  Iraq-->
+        <!-- Iraq -->
         <concept type="place" created-by="rossat" created-date="2019-06-28"
             lastDateTimeVerified="2019-06-28T11:54:42-04:00">
             <id source="us-dos-fsi-oh" id="8d31fc41-72fe-44bd-abe3-263fbbdabe58"/>
@@ -3669,6 +3911,9 @@
                 source="us-dos-fsi-oh">Iraq</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/iraq"
                 source="us-dos-fsi-oh">Iraq</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html"
+                source="us-cia" xml:lang="en">Iraq</exactMatch>
             <exactMatch type="genc-2a-code" id="IQ" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="IRQ" source="us-nga"/>
             <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/iq"
@@ -7922,8 +8167,18 @@
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/akrotiri"
                 source="us-dos-fsi-oh">Akrotiri</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ax.html"
+                source="us-cia" xml:lang="en">Akrotiri</exactMatch>
             <exactMatch type="genc-2a-code" id="QZ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XQZ" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n85064344"
+                source="us-loc" xml:lang="en">Akrotiri (Cyprus)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/157166173" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1233273" source="oclc"
+                xml:lang="en">Cyprus--Akrotiri</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q14623619"
+                source="wikimedia" xml:lang="en">Akrotiri</closeMatch>
         </concept>
         <!-- American Samoa -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7942,8 +8197,18 @@
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/american-samoa"
                 source="us-dos-fsi-oh">American Samoa</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html"
+                source="us-cia" xml:lang="en">American Samoa</exactMatch>
             <exactMatch type="genc-2a-code" id="AS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ASM" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79145002"
+                source="us-loc" xml:lang="en">American Samoa</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/149435299" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207148" source="oclc"
+                xml:lang="en">American Samoa</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q16641"
+                source="wikimedia" xml:lang="en">American Samoa</closeMatch>
         </concept>
         <!-- Anguilla -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7962,6 +8227,13 @@
                 source="us-dos-fsi-oh">Anguilla</exactMatch>
             <exactMatch type="genc-2a-code" id="AI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="AIA" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81008538"
+                source="us-loc" xml:lang="en">Anguilla</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/149528622" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211573" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q25228" source="wikimedia"
+                xml:lang="en">Anguilla</closeMatch>
         </concept>
         <!-- Antarctica -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7981,6 +8253,10 @@
                 source="us-dos-fsi-oh">Antarctica</exactMatch>
             <exactMatch type="genc-2a-code" id="AQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ATA" source="us-dos-inr"/>
+            <closeMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85005490"
+                source="us-loc" xml:lang="en">Antarctica</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q51" source="wikimedia"
+                xml:lang="en">Antarctica</closeMatch>
         </concept>
         <!-- Aruba -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -7999,6 +8275,13 @@
                 source="us-dos-fsi-oh">Aruba</exactMatch>
             <exactMatch type="genc-2a-code" id="AW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ABW" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79063420"
+                source="us-loc" xml:lang="en">Aruba</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/151257487" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205425" source="oclc"
+                xml:lang="en">Aruba</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q21203"
+                source="wikimedia" xml:lang="en">Aruba</closeMatch>
         </concept>
         <!-- Ashmore and Cartier Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8021,6 +8304,11 @@
                 source="us-dos-fsi-oh">Ashmore and Cartier Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XA" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XAC" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n90679186"
+                source="us-loc" xml:lang="en">Ashmore and Cartier Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/139686824" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1255825" source="oclc"
+                xml:lang="en">Ashmore and Cartier Islands</closeMatch>
         </concept>
         <!-- Azores | https://history.state.gov/tags/azores deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07 -->
         <!-- Baker Island -->
@@ -8058,6 +8346,18 @@
                 source="us-dos-fsi-oh">Bermuda</exactMatch>
             <exactMatch type="genc-2a-code" id="BM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BMU" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bm"
+                source="us-loc" xml:lang="en">Bermuda Islands</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/lnbm" source="us-loc" xml:lang="en"
+                >Bermuda Islands</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79115394"
+                source="us-loc" xml:lang="en">Bermuda Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/126599932" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206531" source="oclc"
+                xml:lang="en">Bermuda Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q23635"
+                source="wikimedia" xml:lang="en">Bermuda</closeMatch>
         </concept>
         <!-- Bouvet Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8075,6 +8375,13 @@
                 source="us-dos-fsi-oh">Bouvet Island</exactMatch>
             <exactMatch type="genc-2a-code" id="BV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BVT" source="us-dos-inr"/>
+            <exactMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh87007247"
+                source="us-loc" xml:lang="en">Bouvet Island</exactMatch>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bv"
+                source="us-loc" xml:lang="en">Bouvet Island</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/lsbv" source="us-loc" xml:lang="en"
+                >Bouvet Island</exactMatch>
         </concept>
         <!-- British Indian Ocean Territory -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8100,6 +8407,18 @@
                 source="us-dos-fsi-oh">British Indian Ocean Territory</exactMatch>
             <exactMatch type="genc-2a-code" id="IO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IOT" source="us-dos-inr"/>
+            <exactMatch type="marc-countries" id="http://id.loc.gov/vocabulary/countries/bi"
+                source="us-loc">British Indian Ocean Territory</exactMatch>
+            <exactMatch type="marc-geographic-areas"
+                id="http://id.loc.gov/vocabulary/geographicAreas/i-bi" source="us-loc">British
+                Indian Ocean Territory</exactMatch>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79124777"
+                source="us-loc" xml:lang="en">British Indian Ocean Territory</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/140141371" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206732" source="oclc"
+                xml:lang="en">British Indian Ocean Territory</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q43448"
+                source="wikimedia" xml:lang="en">British Indian Ocean Territory</closeMatch>
         </concept>
         <!-- Cayman Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8120,6 +8439,13 @@
                 source="us-dos-fsi-oh">Cayman Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="KY" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CYM" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80098315"
+                source="us-loc" xml:lang="en">Cayman Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/141893470" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209614" source="oclc"
+                xml:lang="en">Cayman Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q5785" source="wikimedia"
+                xml:lang="en">Cayman Islands</closeMatch>
         </concept>
         <!-- Christmas Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8141,6 +8467,13 @@
                 source="us-dos-fsi-oh">Christmas Island</exactMatch>
             <exactMatch type="genc-2a-code" id="CX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CXR " source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n84078142"
+                source="us-loc" xml:lang="en">Christmas Island (Indian Ocean)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/141942963" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1229370" source="oclc"
+                xml:lang="en">Christmas Island</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q31063"
+                source="wikimedia" xml:lang="en">Christmas Island</closeMatch>
         </concept>
         <!-- Clipperton Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8162,6 +8495,10 @@
                 source="us-dos-fsi-oh">Clipperton Island</exactMatch>
             <exactMatch type="genc-2a-code" id="CP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CPT" source="us-dos-inr"/>
+            <exactMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh90000274"
+                source="us-loc">Clipperton Island</exactMatch>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1254330" source="oclc"
+                xml:lang="en">Pacific Ocean--Clipperton Island</closeMatch>
         </concept>
         <!-- Cocos (Keeling) Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8184,6 +8521,13 @@
                 >Cocos (Keeling) Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="CC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CCK" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82131268"
+                source="us-loc" xml:lang="en">Cocos (Keeling) Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/126087382" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1221980" source="oclc"
+                xml:lang="en">Cocos (Keeling) Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q36004"
+                source="wikimedia" xml:lang="en">Cocos (Keeling) Islands</closeMatch>
         </concept>
         <!-- Cook Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8202,9 +8546,17 @@
                 source="us-dos-fsi-oh">Cook Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="CK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="COK" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80020426"
+                source="us-loc" xml:lang="en">Cook Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/142437319" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207819" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q26988"
+                source="wikimedia" xml:lang="en"/>
         </concept>
-        <!-- Coral Sea Islands -->   <concept type="place" created-by="rossat"
-            created-date="2019-07-11" lastDateTimeVerified="2019-07-11T19:00:25-04:00">
+        <!-- Coral Sea Islands -->
+        <concept type="place" created-by="rossat" created-date="2019-07-11"
+            lastDateTimeVerified="2019-07-11T19:00:25-04:00">
             <id source="us-dos-fsi-oh" id="eacdda0d-ebd0-4de9-b110-711c6d084a78"/>
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Coral Sea
                 Islands</prefLabel>
@@ -8222,6 +8574,13 @@
                 source="us-dos-fsi-oh">Coral Sea Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XCS" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n90679187"
+                source="us-loc" xml:lang="en"/>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/138506852" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1255823" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q172216"
+                source="wikimedia" xml:lang="en"/>
         </concept>
         <!-- Curaçao -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8245,6 +8604,13 @@
                 source="us-dos-fsi-oh">Curacao</exactMatch>
             <exactMatch type="genc-2a-code" id="CW" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="CUW" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79056792"
+                source="us-loc" xml:lang="en">Curaçao</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125477381" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205241" source="oclc"
+                xml:lang="en">Curaçao</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q25279"
+                source="wikimedia" xml:lang="en">Curaçao</closeMatch>
         </concept>
         <!-- Dhekelia -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8265,6 +8631,11 @@
                 source="us-dos-fsi-oh">Dhekelia</exactMatch>
             <exactMatch type="genc-2a-code" id="XD" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XXD" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n85064199"
+                source="us-loc" xml:lang="en">Dhekelia (Cyprus)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/131410080" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1233721" source="oclc"
+                xml:lang="en">Cyprus--Dhekelia</closeMatch>
         </concept>
         <!-- Falkland Islands (Islas Malvinas) -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8290,6 +8661,13 @@
                 source="us-dos-fsi-oh">Falkland Islands (Islas Malvinas)</exactMatch>
             <exactMatch type="genc-2a-code" id="FK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="FLK" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80001218"
+                source="us-loc" xml:lang="en">Falkland Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/155354899" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207314" source="oclc"
+                xml:lang="en">Falkland Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q9648" source="wikimedia"
+                xml:lang="en">Falkland Islands</closeMatch>
         </concept>
         <!-- Faroe Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8308,6 +8686,13 @@
                 source="us-dos-fsi-oh">Faroe Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="FO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="FRO" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79035921"
+                source="us-loc" xml:lang="en">Faroe Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/263513342" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1204843" source="oclc"
+                xml:lang="en">Faroe Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q4628" source="wikimedia"
+                xml:lang="en">Faroe Islands</closeMatch>
         </concept>
         <!-- French Guiana -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8327,6 +8712,12 @@
                 source="us-dos-fsi-oh">French Guiana</exactMatch>
             <exactMatch type="genc-2a-code" id="GF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUF" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="" source="us-loc" xml:lang="en">French Guiana</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/152032724" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1206832" source="oclc"
+                xml:lang="en">French Guiana</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q3769" source="wikimedia"
+                xml:lang="en">French Guiana</closeMatch>
         </concept>
         <!-- French Polynesia -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8347,6 +8738,11 @@
                 source="us-dos-fsi-oh">French Polynesia</exactMatch>
             <exactMatch type="genc-2a-code" id="PF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PYF" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n50064529"
+                source="us-loc" xml:lang="en">French Polynesia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/142613073" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1202933" source="oclc"
+                xml:lang="en">French Polynesia</closeMatch>
         </concept>
         <!-- French Southern and Antarctic Lands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8375,6 +8771,14 @@
                 source="us-dos-fsi-oh">French Southern and Antarctic Lands</exactMatch>
             <exactMatch type="genc-2a-code" id="TF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ATF" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82094862"
+                source="us-loc" xml:lang="en">Terres australes et antarctiques
+                françaises</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/158991425" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="" source="oclc" xml:lang="en">Terres australes et
+                antarctiques françaises</closeMatch>
+            <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en">French Southern and
+                Antarctic Lands</closeMatch>
         </concept>
         <!-- Gibraltar -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8393,6 +8797,13 @@
                 source="us-dos-fsi-oh">Gibraltar</exactMatch>
             <exactMatch type="genc-2a-code" id="GI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GIB" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81103161"
+                source="us-loc" xml:lang="en">Gibraltar</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125501644" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1215269" source="oclc"
+                xml:lang="en">Gibraltar</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1410" source="wikimedia"
+                xml:lang="en">Gibraltar</closeMatch>
         </concept>
         <!-- Greenland -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8411,6 +8822,13 @@
                 source="us-dos-fsi-oh">Greenland</exactMatch>
             <exactMatch type="genc-2a-code" id="GL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GRL" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79059221"
+                source="us-loc" xml:lang="en">Greenland</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/137138322" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205290" source="oclc"
+                xml:lang="en">Greenland</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q223" source="wikimedia"
+                xml:lang="en">Greenland</closeMatch>
         </concept>
         <!-- Guadeloupe -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8434,6 +8852,13 @@
                 source="us-dos-fsi-oh">Guadeloupe</exactMatch>
             <exactMatch type="genc-2a-code" id="GP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GLP" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80131903"
+                source="us-loc" xml:lang="en">Guadeloupe</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/125492276" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1210394" source="oclc"
+                xml:lang="en">Guadeloupe</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q17012"
+                source="wikimedia" xml:lang="en">Guadeloupe</closeMatch>
         </concept>
         <!-- Guam -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8454,6 +8879,13 @@
                 source="us-dos-fsi-oh">Guam</exactMatch>
             <exactMatch type="genc-2a-code" id="GU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GUM" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n50000810"
+                source="us-loc" xml:lang="en">Guam</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/138321683" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1202671" source="oclc"
+                xml:lang="en">Guam</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q16635"
+                source="wikimedia" xml:lang="en">Guam</closeMatch>
         </concept>
         <!-- Guernsey -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8475,6 +8907,13 @@
                 source="us-dos-fsi-oh">Guernsey</exactMatch>
             <exactMatch type="genc-2a-code" id="GG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="GGY" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82098821"
+                source="us-loc" xml:lang="en">Guernsey</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/132128474" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1898108" source="oclc"
+                xml:lang="en">Great Britain Miscellaneous Island Dependencies--Guernsey</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q25230"
+                source="wikimedia" xml:lang="en">Guernsey</closeMatch>
         </concept>
         <!-- Heard Island and McDonald Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8497,6 +8936,14 @@
                 source="us-dos-fsi-oh">Heard Island and McDonald Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="HM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HMD" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n90679195"
+                source="us-loc" xml:lang="en">Heard and McDonald Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/45144782950179677381" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1255824" source="oclc"
+                xml:lang="en">Heard and McDonald Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q131198"
+                source="wikimedia" xml:lang="en">Heard and McDonald Islands</closeMatch>
         </concept>
         <!-- Hong Kong -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8515,6 +8962,13 @@
                 source="us-dos-fsi-oh">Hong Kong</exactMatch>
             <exactMatch type="genc-2a-code" id="HK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="HKG" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n92004431"
+                source="us-loc" xml:lang="en">Hong Kong (China)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/261062131" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260796" source="oclc"
+                xml:lang="en">China--Hong Kong</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q8646" source="wikimedia"
+                xml:lang="en">Hong Kong</closeMatch>
             <historyNote source="us-dos-inr">Under a Sino-British declaration of September 1984,
                 Hong Kong reverted to Chinese control on July 1, 1997. It is now a semi-autonomous
                 entity that exists pursuant to international agreement and maintains its own
@@ -8554,6 +9008,14 @@
                 source="us-dos-fsi-oh">Isle of Man</exactMatch>
             <exactMatch type="genc-2a-code" id="IM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="IMN" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80106871"
+                source="us-loc" xml:lang="en">Isle of Man</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/135006697" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1209807" source="oclc"
+                xml:lang="en">Great Britain Miscellaneous Island Dependencies--Isle of
+                Man</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q9676" source="wikimedia"
+                xml:lang="en">Isle of Man</closeMatch>
         </concept>
         <!-- Jan Mayen -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8610,6 +9072,13 @@
                 source="us-dos-fsi-oh">Jersey</exactMatch>
             <exactMatch type="genc-2a-code" id="JE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="JEY" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79086822"
+                source="us-loc" xml:lang="en">Jersey</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/154830608" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1898109" source="oclc"
+                xml:lang="en">Great Britain Miscellaneous Island Dependencies--Jersey</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q785" source="wikimedia"
+                xml:lang="en">Jersey</closeMatch>
         </concept>
         <!-- Johnston Atoll -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8646,6 +9115,10 @@
                 source="us-dos-fsi-oh">Kingman Reef</exactMatch>
             <exactMatch type="genc-2a-code" id="XM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XKR" source="us-dos-inr"/>
+            <closeMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh2009005117"
+                source="us-loc" xml:lang="en">Kingman Reef (Line Islands)</closeMatch>
+            <exactMatch type="lcsh" id="http://id.worldcat.org/fast/1879753" source="us-loc"
+                xml:lang="en">Line Islands--Kingman Reef</exactMatch>
         </concept>
         <!-- Macau -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8671,6 +9144,10 @@
                 source="us-dos-fsi-oh">Macau</exactMatch>
             <exactMatch type="genc-2a-code" id="MO" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MAC" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80062932"
+                source="us-loc" xml:lang="en">Macau</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/148920714" source="oclc" xml:lang="en"
+            />
         </concept>
         <!-- Martinique -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8690,6 +9167,14 @@
                 source="us-dos-fsi-oh">Martinique</exactMatch>
             <exactMatch type="genc-2a-code" id="MQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MTQ" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80010444"
+                source="us-loc" xml:lang="en">Martinique</exactMatch>
+            <exactMatch type="viaf" id="https://www.wikidata.org/wiki/Q17054" source="oclc"
+                xml:lang="en"/>
+
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207564" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en"/>
         </concept>
         <!-- Mayotte  -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8709,6 +9194,13 @@
                 source="us-dos-fsi-oh">Mayotte</exactMatch>
             <exactMatch type="genc-2a-code" id="YT" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MYT" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81141395"
+                source="us-loc" xml:lang="en">Mayotte</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/144183363" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1216982" source="oclc"
+                xml:lang="en">Mayotte</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q17063" source="wikimedia"
+                xml:lang="en">Mayotte</closeMatch>
         </concept>
         <!-- Midway Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8745,6 +9237,13 @@
                 source="us-dos-fsi-oh">Montserrat</exactMatch>
             <exactMatch type="genc-2a-code" id="MS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MSR" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81008534"
+                source="us-loc" xml:lang="en">Montserrat</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/233806393" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1211569" source="oclc"
+                xml:lang="en">Montserrat</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q13353"
+                source="wikimedia" xml:lang="en">Montserrat</closeMatch>
         </concept>
         <!-- Navassa Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8763,6 +9262,13 @@
                 source="us-dos-fsi-oh">Navassa Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XV" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XNV" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/no2015117635"
+                source="us-loc" xml:lang="en">Navassa Island</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/239204097" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1259613" source="oclc"
+                xml:lang="en">Navassa Island</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q25359"
+                source="wikimedia" xml:lang="en">Navassa Island</closeMatch>
         </concept>
         <!-- New Caledonia -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8773,6 +9279,7 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">New Caledonia</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Nouméa</related>
+            <narrower type="hasCapital" source="us-loc" xml:lang="en">Nouméa</narrower>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
@@ -8781,6 +9288,13 @@
                 source="us-dos-fsi-oh">New Caledonia</exactMatch>
             <exactMatch type="genc-2a-code" id="NC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NCL" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81035871"
+                source="us-loc" xml:lang="en">New Caledonia</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/129721582" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1212756" source="oclc"
+                xml:lang="en">New Caledonia</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q33788"
+                source="wikimedia" xml:lang="en">New Caledonia</closeMatch>
         </concept>
         <!-- Niue -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8799,6 +9313,13 @@
                 source="us-dos-fsi-oh">Niue</exactMatch>
             <exactMatch type="genc-2a-code" id="NU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NIU" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n83232786"
+                source="us-loc" xml:lang="en">Niue</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/130229650" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1227610" source="oclc"
+                xml:lang="en">Niue</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q34020"
+                source="wikimedia" xml:lang="en">Niue</closeMatch>
         </concept>
         <!-- Norfolk Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8819,6 +9340,13 @@
                 source="us-dos-fsi-oh">Norfolk Island</exactMatch>
             <exactMatch type="genc-2a-code" id="NF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="NFK" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79150421"
+                source="us-loc" xml:lang="en">Norfolk Island</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/267095130" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207228" source="oclc"
+                xml:lang="en">Australia--Norfolk Island</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q31057" source="wikimedia"
+                xml:lang="en">Norfolk Island</closeMatch>
         </concept>
         <!-- Northern Mariana Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8841,6 +9369,13 @@
                 >Northern Mariana Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="MP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MNP" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n78015606"
+                source="us-loc" xml:lang="en">Northern Mariana Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/243533643" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1203331" source="oclc"
+                xml:lang="en">Northern Mariana Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q16644"
+                source="wikimedia" xml:lang="en">Northern Mariana Islands</closeMatch>
         </concept>
         <!-- Palestine | https://history.state.gov/tags/palestine deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07-->
         <!-- Palmyra Atoll -->
@@ -8860,6 +9395,12 @@
                 source="us-dos-fsi-oh">Palmyra Atoll</exactMatch>
             <exactMatch type="genc-2a-code" id="XL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XPL" source="us-dos-inr"/>
+            <closeMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh91003708"
+                source="us-loc" xml:lang="en">Palmyra Atoll (Line Islands)</closeMatch>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1259619" source="oclc"
+                xml:lang="en">http://id.worldcat.org/fast/1259619</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q123076"
+                source="wikimedia" xml:lang="en">Palmyra Atoll</closeMatch>
         </concept>
         <!-- Paracel Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8882,6 +9423,10 @@
                 source="us-dos-fsi-oh">Paracel Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XP" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XPR" source="us-dos-inr"/>
+            <closeMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85097727"
+                source="us-loc" xml:lang="en">Paracel Islands</closeMatch>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1243719" source="oclc"
+                xml:lang="en">Paracel Islands</closeMatch>
         </concept>
         <!-- Pitcairn Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8903,6 +9448,13 @@
                 source="us-dos-fsi-oh">Pitcairn Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="PN" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PCN" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80020366"
+                source="us-loc" xml:lang="en">Pitcairn Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/268286621" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207817" source="oclc"
+                xml:lang="en">Pitcairn Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1779748"
+                source="wikimedia" xml:lang="en">Pitcairn Islands</closeMatch>
         </concept>
         <!-- Puerto Rico -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8923,6 +9475,13 @@
                 source="us-dos-fsi-oh">Puerto Rico</exactMatch>
             <exactMatch type="genc-2a-code" id="PR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="PRI" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79063677"
+                source="us-loc" xml:lang="en">Puerto Rico</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/268286621" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205432" source="oclc"
+                xml:lang="en">Puerto Rico</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1183" source="wikimedia"
+                xml:lang="en">Puerto Rico</closeMatch>
         </concept>
         <!-- Reunion -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8931,6 +9490,7 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Reunion</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Reunion</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Reunion</altLabel>
+            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en">Réunion</altLabel>
             <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
                 overseas France, and is therefore not a dependency or area of special
                 sovereignty.</scopeNote>
@@ -8942,6 +9502,13 @@
                 source="us-dos-fsi-oh">Reunion</exactMatch>
             <exactMatch type="genc-2a-code" id="RE" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="REU" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n79079314"
+                source="us-loc" xml:lang="en">Réunion</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/131337096" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1205795" source="oclc"
+                xml:lang="en">Réunion</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q17070"
+                source="wikimedia" xml:lang="en">Réunion</closeMatch>
         </concept>
         <!-- Saint Barthelemy -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8962,6 +9529,13 @@
                 source="us-dos-fsi-oh">Saint Barthelemy</exactMatch>
             <exactMatch type="genc-2a-code" id="BL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BLM" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n84179175"
+                source="us-loc" xml:lang="en">Saint Barthelemy</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/140366779" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1229853" source="oclc"
+                xml:lang="en"/>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q25362"
+                source="wikimedia" xml:lang="en">Saint Barthélemy</closeMatch>
         </concept>
         <!-- Saint Helena, Ascension, and Tristan da Cunha -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8985,6 +9559,11 @@
                 source="us-dos-fsi-oh">Saint Helena</exactMatch>
             <exactMatch type="genc-2a-code" id="SH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SHN" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/no2015141516"
+                source="us-loc" xml:lang="en">Saint Helena, Ascension, and Tristan da
+                Cunha</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/452144783101514509052" source="oclc"
+                xml:lang="en"/>
         </concept>
         <!-- Saint Martin -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -8993,12 +9572,19 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en">Saint Martin</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en">Saint Martin</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Martin</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Marigot</related>
+            <altLabel type="variant" source="us-loc" xml:lang="en">Collectivity of Saint
+                Martin</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr">Collectivité de
+                Saint-Martin</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="en">St. Martin
+                (Collectivity)</altLabel>
             <scopeNote source="us-dos-inr">The island of Saint Martin is divided: the northern
                 three-fifths form the French collectivity of Saint-Martin, while the southern
                 two-fifths (Sint Maarten) is an autonomous territory of the Kingdom of the
                 Netherlands.</scopeNote>
+            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+                >Marigot</related>
+            <narrower type="hasCapital" source="us-loc" xml:lang="en">Marigot</narrower>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
@@ -9007,6 +9593,13 @@
                 source="us-dos-fsi-oh">Saint Martin</exactMatch>
             <exactMatch type="genc-2a-code" id="MF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="MAF" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/no2008109008"
+                source="us-loc" xml:lang="en">Saint Martin (Collectivity)</exactMatch>
+            <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1864813" source="oclc"
+                xml:lang="en">Saint Martin (Collectivity)</closeMatch>
+            <closeMatch type="wikidata" id="http://viaf.org/viaf/10144647637751342669"
+                source="wikimedia" xml:lang="en">Saint Martin</closeMatch>
         </concept>
         <!-- Saint Pierre and Miquelon -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9018,6 +9611,15 @@
                 Saint Pierre and Miquelon</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Saint Pierre and Miquelon,
                 Territorial Collectivity of</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr">Collectivité territoriale de
+                Saint-Pierre-et-Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr">Saint-Pierre et
+                Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr">Îles Saint-Pierre et
+                Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="en">St. Pierre and
+                Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr">St-Pierre et Miquelon</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Saint-Pierre</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
@@ -9029,6 +9631,13 @@
                 >Saint Pierre and Miquelon</exactMatch>
             <exactMatch type="genc-2a-code" id="PM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SPM" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n83017162"
+                source="us-loc" xml:lang="en">Saint Pierre and Miquelon</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/268037594" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1223918" source="oclc"
+                xml:lang="en">Saint Pierre and Miquelon</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q34617"
+                source="wikimedia" xml:lang="en">Saint Pierre and Miquelon</closeMatch>
         </concept>
         <!-- Sint Maarten -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9051,6 +9660,13 @@
                 source="us-dos-fsi-oh">Sint Maarten</exactMatch>
             <exactMatch type="genc-2a-code" id="SX" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SXM" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n2003032489"
+                source="us-loc" xml:lang="en">Sint Maarten</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/268864753" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1758563" source="oclc"
+                xml:lang="en">Sint Maarten</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q26273" source="wikimedia"
+                xml:lang="en">Sint Maarten</closeMatch>
         </concept>
         <!-- South Georgia and the South Sandwich Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9075,6 +9691,13 @@
                 source="us-dos-fsi-oh">South Georgia and the South Sandwich Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="GS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="SGS" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/no91025133"
+                source="us-loc" xml:lang="en">South Georgia and South Sandwich Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/151552761" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1260107" source="oclc"
+                xml:lang="en">South Georgia and South Sandwich Islands</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q1129566"
+                source="wikimedia" xml:lang="en">Cook Island, South Sandwich Islands</closeMatch>
         </concept>
         <!-- Spratly Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9098,6 +9721,10 @@
                 source="us-dos-fsi-oh">Spratly Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XS" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XSP" source="us-dos-inr"/>
+            <closeMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85126984"
+                source="us-loc" xml:lang="en">Spratly Islands</closeMatch>
+            <closeMatch type="wikidata" id="http://id.worldcat.org/fast/1244945" source="wikimedia"
+                xml:lang="en">Spratly Islands</closeMatch>
         </concept>
         <!-- Svalbard -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9116,6 +9743,13 @@
                 source="us-dos-fsi-oh">Svalbard</exactMatch>
             <exactMatch type="genc-2a-code" id="XR" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XSV" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80002284"
+                source="us-loc" xml:lang="en">Svalbard (Norway)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/152436829" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1207362" source="oclc"
+                xml:lang="en">Svalbard</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q25231"
+                source="wikimedia" xml:lang="en">Svalbard</closeMatch>
         </concept>
         <!-- Tokelau -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9132,6 +9766,13 @@
                 source="us-dos-fsi-oh">Tokelau</exactMatch>
             <exactMatch type="genc-2a-code" id="TK" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TKL" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n92105545"
+                source="us-loc" xml:lang="en">Tokelau</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/156083443" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1263375" source="oclc"
+                xml:lang="en">Tokelau</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q36823"
+                source="wikimedia" xml:lang="en">Tokelau</closeMatch>
         </concept>
         <!-- Turks and Caicos Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9154,6 +9795,13 @@
                 >Turks and Caicos Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="TC" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="TCA" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81110347"
+                source="us-loc" xml:lang="en">Turks and Caicos Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/135455827" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1215557" source="oclc"
+                xml:lang="en">Turks and Caicos Islands</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q18221" source="wikimedia"
+                xml:lang="en">Turks and Caicos Islands</closeMatch>
         </concept>
         <!-- Virgin Islands, British -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9176,6 +9824,13 @@
                 >Virgin Islands, British</exactMatch>
             <exactMatch type="genc-2a-code" id="VG" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VGB" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n82031609"
+                source="us-loc" xml:lang="en">British Virgin Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/124830565" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1218688" source="oclc"
+                xml:lang="en">British Virgin Islands</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q25305" source="wikimedia"
+                xml:lang="en">British Virgin Islands</closeMatch>
         </concept>
         <!-- Virgin Islands, U.S. -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9197,6 +9852,13 @@
                 source="us-dos-fsi-oh">Virgin Islands, U.S.</exactMatch>
             <exactMatch type="genc-2a-code" id="VI" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="VIR" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n80125675"
+                source="us-loc" xml:lang="en">United States Virgin Islands</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/235518082" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1861754" source="oclc"
+                xml:lang="en">United States Virgin Islands</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q11703" source="wikimedia"
+                xml:lang="en">United States Virgin Islands</closeMatch>
         </concept>
         <!-- Wake Island -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9236,6 +9898,13 @@
                 source="us-dos-fsi-oh">Wallis and Futuna</exactMatch>
             <exactMatch type="genc-2a-code" id="WF" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="WLF" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n86048239"
+                source="us-loc" xml:lang="en">Wallis and Futuna</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/167626038" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1236920" source="oclc"
+                xml:lang="en">Wallis and Futuna</closeMatch>
+            <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q35555" source="wikimedia"
+                xml:lang="en">Wallis and Futuna</closeMatch>
         </concept>
         <!-- Western Sahara -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -9251,6 +9920,13 @@
                 source="us-dos-fsi-oh">Western Sahara</exactMatch>
             <exactMatch type="genc-2a-code" id="EH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="ESH" source="us-dos-inr"/>
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n81130239"
+                source="us-loc" xml:lang="en">Western Sahara</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/127856076" source="oclc" xml:lang="en"/>
+            <closeMatch type="fast" id="http://id.worldcat.org/fast/1216405" source="oclc"
+                xml:lang="en">Western Sahara</closeMatch>
+            <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q6250" source="wikimedia"
+                xml:lang="en">Western Sahara</closeMatch>
         </concept>
         <!-- Zanzibar | https://history.state.gov/tags/zanzibar deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07-->
     </collection>
