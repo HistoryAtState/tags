@@ -124,6 +124,10 @@
                 Republic of Afghanistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Afghanistan,
                 Islamic Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="prs" script="Latn">Jamhuri-ye
+                Islami-ye Afghanistan</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="prs" script="Latn"
+                >Afghanistan</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -164,7 +168,11 @@
                 >Albania</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Republic of
                 Albania</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Albania</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="sqj" script="Latn">Republika e
+                Shqiperise</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="sqj" script="Latn"
+                >Shqiperia</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -206,7 +214,11 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">People’s
                 Democratic Republic of Algeria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Algeria,
-                People’s Democratic Republic of </altLabel>
+                People’s Democratic Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ar" script="Latn">Al
+                Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn">Al
+                Jaza'ir</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -249,6 +261,10 @@
                 of Andorra</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Andorra,
                 Principality of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ca" script="Latn">Principat
+                d'Andorra</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ca" script="Latn"
+                >Andorra</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -291,6 +307,10 @@
                 Angola</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Angola,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Republica de
+                Angola</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="pt" script="Latn"
+                >Angola</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -306,7 +326,7 @@
             <exactMatch type="us-hrdcr" id="https://history.state.gov/countries/angola"
                 source="us-dos-fsi-oh">Angola</exactMatch>
             <exactMatch type="world-factbook"
-                id="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ao.html"
                 source="us-cia" xml:lang="en" script="Latn">Angola</exactMatch>
             <exactMatch type="genc-2a-code" id="AO" source="us-nga"/>
             <exactMatch type="genc-3a-code" id="AGO" source="us-nga"/>
@@ -386,6 +406,10 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Argentina</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica
+                Argentina</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
+                >Argentina</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -427,6 +451,10 @@
                 Armenia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Armenia,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="hy" script="Latn">Hayastani
+                Hanrapetut'yun</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="hy" script="Latn"
+                >Hayastan</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -511,6 +539,10 @@
                 Austria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Armenia,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="de" script="Latn">Republik
+                Oesterreich</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="de" script="Latn"
+                >Oesterreich</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -553,6 +585,10 @@
                 Azerbaijan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Azerbaijan,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="az" script="Latn">Azarbaycan
+                Respublikasi</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="az" script="Latn"
+                >Azarbaycan</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -637,6 +673,10 @@
                 Bahrain</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Bahrain,
                 Kingdom of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ar" script="Latn">Mamlakat al
+                Bahrayn</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn">Al
+                Bahrayn</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -679,6 +719,10 @@
                 Republic of Bangladesh</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Bangladesh,
                 People’s Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="bn" script="Latn">Gana
+                Prajatantri Bangladesh</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="bn" script="Latn"
+                >Bangladesh</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -763,6 +807,14 @@
                 Belarus</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Belarus,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="be" script="Latn">Respublika
+                Byelarus'</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="be" script="Latn">Respublika
+                Belarus'</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="be" script="Latn"
+                >Byelarus'</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="be" script="Latn"
+                >Belarus'</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -804,6 +856,18 @@
                 Belgium</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Belgium,
                 Kingdom of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Royaume de
+                Belgique</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="nl" script="Latn">Koninkrijk
+                Belgie</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="de" script="Latn">Koenigreich
+                Belgien</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Belgique</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="nl" script="Latn"
+                >Belgie</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="de" script="Latn"
+                >Belgien</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -888,6 +952,10 @@
                 Benin</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Benin,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                du Benin</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Benin</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -932,6 +1000,10 @@
                 Bhutan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Bhutan,
                 Kingdom of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="dz" script="Latn">Druk
+                Gyalkhap</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="dz" script="Latn">Druk
+                Yul</altLabel>
             <related type="memberOf" source="us-dos-fsi-oh"
                 id="39cb947a-f05e-4053-a58f-001a42b20c61">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en" script="Latn"
@@ -970,6 +1042,10 @@
                 State of Bolivia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Bolivia,
                 Plurinational State of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Estado
+                Plurinacional de Bolivia</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
+                >Bolivia</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1014,6 +1090,8 @@
                 Herzegovina</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Bosnia and
                 Herzegovina</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="bs" script="Latn">Bosna i
+                Hercegovina</altLabel>
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Bosnia</hiddenLabel>
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en" script="Latn">Bosnia and
@@ -1022,6 +1100,10 @@
                 >Hercegovina</hiddenLabel>
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Herzegovina</hiddenLabel>
+            <hiddenLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn"
+                >B&#38;H</hiddenLabel>
+            <hiddenLabel type="abbreviation" source="us-cia" xml:lang="bs" script="Latn"
+                >BiH</hiddenLabel>
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Yugoslavia</hiddenLabel>
             <useFor>Bosnia</useFor>
@@ -1071,6 +1153,10 @@
                 Botswana</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Botswana,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="twitter/@bwgovernment" xml:lang="tn"
+                script="Latn">Lefatshe la Botswana</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="tn" script="Latn"
+                >Botswana</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1113,6 +1199,10 @@
                 Republic of Brazil</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Brazil,
                 Federative Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Republica
+                Federativa do Brasil</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="pt" script="Latn"
+                >Brasil</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1155,6 +1245,10 @@
                 Darussalam</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Brunei
                 Darussalam</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ms" script="Latn">Negara
+                Brunei Darussalam</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ms" script="Latn"
+                >Brunei</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1197,6 +1291,10 @@
                 Bulgaria</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Bulgaria,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="bg" script="Latn">Republika
+                Bulgaria</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="bg" script="Latn"
+                >Bulgaria</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1238,6 +1336,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Burkina
                 Faso</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Burkina
+                Faso</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn">Burkina
                 Faso</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
@@ -1281,6 +1381,10 @@
                 Burma</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Burma, Union
                 of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="my" script="Latn">Pyidaungzu
+                Thammada Myanma Naingngandaw</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="my" script="Latn">Myanma
+                Naingngandaw</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Myanmar</hiddenLabel>
             <useFor>Myanmar</useFor>
@@ -1328,6 +1432,14 @@
                 Burundi</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Burundi,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                du Burundi</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="rn" script="Latn">Republika
+                y'u Burundi</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Burundi</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="rn" script="Latn"
+                >Burundi</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1370,6 +1482,10 @@
                 Cabo Verde</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cabo Verde,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Republica de
+                Cabo Verde</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="pt" script="Latn">Cabo
+                Verde</altLabel>
             <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cape
                 Verde</altLabel>
             <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Republic of
@@ -1416,6 +1532,11 @@
                 Cambodia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cambodia,
                 Kingdom of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="km" script="Latn"
+                >Preahreacheanachakr Kampuchea<note source="us-cia">(phonetic
+                    transliteration)</note></altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="km" script="Latn"
+                >Kampuchea</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1459,6 +1580,14 @@
                 Cameroon</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cameroon,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                du Cameroun</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="en" script="Latn">Republic of
+                Cameroon</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Cameroun</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="en" script="Latn"
+                >Cameroon</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1500,7 +1629,8 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Canada</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
-                >Canada</altLabel>x <related type="diplomaticRelationsWith" source="us-dos-inr"
+                >Canada</altLabel>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
                 id="39cb947a-f05e-4053-a58f-001a42b20c61">United Nations</related>
@@ -1542,6 +1672,8 @@
                 African Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Central
                 African Republic</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                Centrafricaine</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1586,6 +1718,14 @@
                 Chad</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Chad,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                du Tchad</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ar" script="Latn">Jumhuriyat
+                Tshad</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Tchad</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn"
+                >Tshad</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1629,6 +1769,10 @@
                 Chile</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Chile,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica de
+                Chile</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
+                >Chile</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1664,6 +1808,10 @@
                 Republic of China</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">China,
                 People’s Republic of </altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="cmn" script="Latn"
+                transliteration="pinyin">Zhonghua Renmin Gongheguo</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="cmn" script="Latn"
+                transliteration="pinyin">Zhongguo</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States <note
                     type="historical diplomatic">With the establishment of diplomatic relations with
@@ -1713,6 +1861,10 @@
                 Colombia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Colombia,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica de
+                Colombia</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
+                >Colombia</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <memberOf source="us-dos-inr">United Nations</memberOf>
@@ -1754,6 +1906,10 @@
                 Comoros</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Comoros,
                 Union of the</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="" script="Latn">Udzima wa
+                Komori</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="swb wlc wni zdj"
+                script="Latn">Komori</altLabel>
             <hiddenLabel type="search" source="us-loc">Comoro Islands</hiddenLabel>
             <hiddenLabel type="search" source="us-loc">Mayotte</hiddenLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
@@ -1810,6 +1966,10 @@
                 Republic of the</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Congo</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                du Congo</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Congo</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1855,7 +2015,14 @@
             </prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Democratic
                 Republic of the Congo</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en"/>
+            <altLabel type="filing" source="us-dos-inr" xml:lang="en" script="Latn">Congo,
+                Democratic Republic of the (Kinshasa)</altLabel>
+            <altLabel type="shortform-conventional" source="us-cia" xml:lang="en" script="Latn"
+                >DRC</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                Democratique du Congo</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >RDC</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1901,6 +2068,10 @@
                 Costa Rica</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Costa Rica,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica de
+                Costa Rica</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn">Costa
+                Rica</altLabel>
             <useFor>Ivory Coast</useFor>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
@@ -1944,6 +2115,14 @@
                 Côte d’Ivoire</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Côte
                 d’Ivoire, Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                de Cote d'Ivoire</altLabel>
+            <altLabel type="longForm-local" source="us-dos-fsi-oh" xml:lang="fr" script="Latn"
+                >Republique de Côte d'Ivoire</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn">Cote
+                d'Ivoire</altLabel>
+            <altLabel type="shortForm-local" source="us-dos-fsi-oh" xml:lang="fr" script="Latn">Côte
+                d'Ivoire</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1986,6 +2165,10 @@
                 Croatia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Croatia,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="hr" script="Latn">Republika
+                Hrvatska</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="hr" script="Latn"
+                >Hrvatska</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2028,6 +2211,10 @@
                 Cuba</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cuba,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica de
+                Cuba</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
+                >Cuba</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2069,6 +2256,14 @@
                 Cyprus</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cyprus,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="el" script="Latn">Kypriaki
+                Dimokratia</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="tr" script="Latn">Kibris
+                Cumhuriyeti</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="el" script="Latn"
+                >Kypros</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="tr" script="Latn"
+                >Kibris</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2111,6 +2306,14 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Czech
                 Republic</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="cs" script="Latn">Ceska
+                republika</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="cs" script="Latn">Česká
+                republika</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="cs" script="Latn"
+                >Cesko</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="cs" script="Latn"
+                >Česko</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2153,6 +2356,10 @@
                 Denmark</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Denmark,
                 Kingdom of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="da" script="Latn">Kongeriget
+                Danmark</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="da" script="Latn"
+                >Danmark</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2195,6 +2402,14 @@
                 Djibouti</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Djibouti,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                de Djibouti</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ar" script="Latn">Jumhuriyat
+                Jibuti</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Djibouti</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn"
+                >Jibuti</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2279,6 +2494,10 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Dominican
                 Republic</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica
+                Dominicana</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn">La
+                Dominicana</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2321,6 +2540,10 @@
                 Ecuador</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Ecuador,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica
+                del Ecuador</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
+                >Ecuador</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2363,6 +2586,10 @@
                 of Egypt</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Egypt, Arab
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ar" script="Latn">Jumhuriyat
+                Misr al-Arabiyah</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn"
+                >Misr</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2405,6 +2632,10 @@
                 El Salvador</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">El Salvador,
                 Republic of El Salvador</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica de
+                El Salvador</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn">El
+                Salvador</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2446,6 +2677,14 @@
                 Equatorial Guinea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Equatorial
                 Guinea, Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica de
+                Guinea Ecuatorial</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                de Guinee Equatoriale</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn">Guinea
+                Ecuatorial</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn">Guinee
+                Equatoriale</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2488,6 +2727,10 @@
                 Eritrea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Eritrea,
                 State of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ti" script="Latn">Hagere
+                Ertra</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ti" script="Latn"
+                >Ertra</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2530,6 +2773,10 @@
                 Estonia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Estonia,
                 Republic of</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="et" script="Latn">Eesti
+                Vabariik</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="et" script="Latn"
+                >Eesti</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2574,6 +2821,10 @@
                 Kingdom of</altLabel>
             <altLabel type="former" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Swaziland</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="ss" script="Latn">Umbuso
+                weSwatini</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ss" script="Latn"
+                >eSwatini</altLabel>
             <useFor>Swaziland</useFor>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
@@ -5833,8 +6084,8 @@
                 Panama</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Panama,
                 Republic of</altLabel>
-            <altLabel type="variant" source="oclc" xml:lang="sp">Panamá</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="sp">República de Panamá</altLabel>
+            <altLabel type="variant" source="oclc" xml:lang="es">Panamá</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="es">República de Panamá</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8234,9 +8485,9 @@
                 Republic of Uruguay</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Uruguay,
                 Oriental Republic of</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="" script="es">Republica
+            <altLabel type="longForm-local" source="us-cia" xml:lang="es" script="Latn">Republica
                 Oriental del Uruguay</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="" script="es"
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
                 >Uruguay</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
