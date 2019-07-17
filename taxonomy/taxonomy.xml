@@ -2223,8 +2223,8 @@
                 Colombia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Colombia,
                 Republic of</altLabel>
-            <diplomaticRelationsWith source="us-dos-inr" id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b"
-                >United States</diplomaticRelationsWith>
+            <related type="diplomaticRelationsWith" source="us-dos-inr"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <memberOf source="us-dos-inr">United Nations</memberOf>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Bogotá</narrower>
