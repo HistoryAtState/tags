@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+    <title>Office of the Historian Subject Taxonomy of the History of U.S. Foreign Relations</title>
+    <subtitle>Collection: Topics</subtitle>
+    <description>
+        <p>The Subject Taxonomy of the History of U.S. Foreign Relations is a hierarchical taxonomy
+            that consists of categories and tags. The taxonomy is organized into ___ top-level
+            categories: <list>
+                <item>Agreements and Mandates</item>
+                <item>Events</item>
+                <item>Organizations</item>
+                <item>People</item>
+                <item>Places</item>
+                <item>Topics</item>
+            </list> Below these top-level categories are additional nested levels of categories and
+            tags, becoming more specific at deeper levels.</p>
+        <!--
+        <p>Each category and tag conforms to the following structure: it must contain an "id" and
+            "label", and optionally can contain a "definition" and/or "usage-hint". The "id"
+            uniquely identifies a tag in the taxonomy and should be lower-cased and
+            hyphen-delimited. The "label" is how the item is displayed to end users. The
+            "definition" defines the item and will be displayed to all users. The "usage-hint"
+            contains instructions to staff who perform the tagging about how to use. To create a
+            definition for a tag, place a "definition" element after an entry's label. To add a
+            usage hint for a tag, place a "usage-hint" element after the label (or after the
+            "definition" element, if one already exists).</p>
+            -->
+        <!-- Note: Values for xml:lang attributes were sourced from http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry -->
+    </description>
+
+    <collection created-by="cozensef" created-date="2013-04-08">
+        <id>topics</id>
+        <label>Topics</label>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>arms-control-and-disarmament</id>
+            <label>Arms Control and Disarmament</label>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>arms-embargoes</id>
+                <label>Arms Embargoes</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>arms-transfers</id>
+                <label>Arms Transfers</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>chemical-and-bacteriological-warfare</id>
+                <label>Chemical and Bacteriological Warfare</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>collective-security</id>
+                <label>Collective Security</label>
+                <definition>The general concept of collective security. Specific treaties and
+                    organizations have their own tags.</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>confidence-building-measures</id>
+                <label>Confidence-Building Measures</label>
+                <definition>Measures taken to reduce fear of attack.</definition>
+                <usage-hint>These measures will usually be explicitly be labeled as such by
+                    negotiating partners.</usage-hint>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>nuclear-nonproliferation</id>
+                <label>Nuclear Nonproliferation</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>nuclear-weapons</id>
+                <label>Nuclear Weapons</label>
+            </concept>
+        </concept>
+        <collection created-by="cozensef" created-date="2013-04-08">
+            <id>department-of-state</id>
+            <label>Department of State</label>
+            <usage-hint>Do not use as tag; this term is too general.</usage-hint>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>buildings-domestic</id>
+                <label>Buildings: Domestic</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>buildings-foreign</id>
+                <label>Buildings: Foreign</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>congressional-relations</id>
+                <label>Congressional Relations</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>organization-and-management</id>
+                <label>Organization and Management</label>
+                <definition>Internal management of the Department itself—i.e., rules, regulations,
+                    (re-)organization, etc.—rather than the management of foreign
+                    relations.</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-civil-service</id>
+                <label>Personnel: Civil Service</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-demographics</id>
+                <label>Personnel: Demographics</label>
+                <definition>Analyses or censuses of the composition of Department personnel—e.g.,
+                    race, gender, educational background, etc.</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-foreign-service</id>
+                <label>Personnel: Foreign Service</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>personnel-locally-employed-staff</id>
+                <label>Personnel: Locally Employed Staff</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>protection-of-americans-abroad</id>
+                <label>Protection of Americans Abroad</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>protocol</id>
+                <label>Protocol</label>
+            </concept>
+        </collection>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>foreign-economic-policy</id>
+            <label>Foreign Economic Policy</label>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>agriculture</id>
+                <label>Agriculture</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>economic-sanctions</id>
+                <label>Economic Sanctions</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>economic-summit-meetings</id>
+                <label>Economic Summit Meetings</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>energy-and-natural-resources</id>
+                <label>Energy and Natural Resources</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>financial-and-monetary-policy</id>
+                <label>Financial and Monetary Policy</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>foreign-aid</id>
+                <label>Foreign Aid</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>foreign-investment</id>
+                <label>Foreign Investment</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>labor</id>
+                <label>Labor</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>new-international-economic-order</id>
+                <label>New International Economic Order</label>
+                <definition>The proposal made in the 1970s by developing countries to replace the
+                    Bretton Woods system</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>trade-and-commercial-policy-agreements</id>
+                <label>Trade and Commercial Policy/Agreements</label>
+            </concept>
+        </concept>
+        <collection created-by="cozensef" created-date="2013-04-08">
+            <id>global-issues</id>
+            <label>Global Issues</label>
+            <usage-hint>Do not use as tag; this term is too general.</usage-hint>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>border-administration</id>
+                <label>Border Administration</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>decolonization</id>
+                <label>Decolonization</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>elections</id>
+                <label>Elections</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>immigration</id>
+                <label>Immigration</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>narcotics</id>
+                <label>Narcotics</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>outer-space</id>
+                <label>Outer Space</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>peace</id>
+                <label>Peace</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>polar-affairs</id>
+                <label>Polar Affairs</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>population-demographics</id>
+                <label>Population Demographics</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>self-determination</id>
+                <label>Self-Determination</label>
+            </concept>
+        </collection>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>human-rights</id>
+            <label>Human Rights</label>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>asylum</id>
+                <label>Asylum</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>detainees</id>
+                <label>Detainees</label>
+                <definition>People held in custody or confinement who are not accorded the legal
+                    status of other terms in this taxonomy—i.e., <ptr target="asylum"/> or <ptr
+                        target="refugees"/>
+                </definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>genocide</id>
+                <label>Genocide</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>political-prisoners</id>
+                <label>Political Prisoners</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>refugees</id>
+                <label>Refugees</label>
+            </concept>
+        </concept>
+        <concept created-by="cozensef" created-date="2013-04-08" last-updated-by="wicentowskijc"
+            last-updated-date="2013-10-30">
+            <id>information-programs</id>
+            <label>Information Programs</label>
+            <definition>U.S. information activity in foreign countries</definition>
+        </concept>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>international-law</id>
+            <label>International Law</label>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>domestic-protest-against-u-s-activity</id>
+                <label>Domestic Protest against U.S. Activity</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>foreign-protest-against-u-s-activity</id>
+                <label>Foreign Protest against U.S. Activity</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>law-of-the-sea</id>
+                <label>Law of the Sea</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>property-claims</id>
+                <label>Property Claims</label>
+            </concept>
+        </concept>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>international-organizations</id>
+            <label>International Organizations</label>
+            <definition>Organizations which do not have specific tags, or for general works on
+                international organizations.</definition>
+            <usage-hint>If an organization begins to appear frequently, please suggest a separate
+                tag for the organization.</usage-hint>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>association-of-southeast-asian-nations</id>
+                <label>Association of Southeast Asian Nations</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>conference-on-security-and-cooperation-in-europe</id>
+                <label>Conference on Security and Cooperation in Europe</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>european-advisory-commission</id>
+                <label>European Advisory Commission</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>european-economic-community</id>
+                <label>European Economic Community</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>far-eastern-commission</id>
+                <label>Far Eastern Commission</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-10-15">
+                <id>international-monetary-fund</id>
+                <label>International Monetary Fund</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>league-of-nations</id>
+                <label>League of Nations</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>international-atomic-energy-agency</id>
+                <label>International Atomic Energy Agency</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>non-governmental-organizations</id>
+                <label>Non-governmental Organizations</label>
+                <definition>Organizations which are not affiliated with governments—e.g., Red Cross,
+                    Human Rights Watch, Doctors without Borders.</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>north-atlantic-treaty-organization</id>
+                <label>North Atlantic Treaty Organization</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>organization-of-american-states</id>
+                <label>Organization of American States</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>organization-of-petroleum-exporting-countries</id>
+                <label>Organization of Petroleum Exporting Countries</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>southeast-asia-treaty-organization</id>
+                <label>Southeast Asia Treaty Organization</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>united-nations</id>
+                <label>United Nations</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>universal-postal-union</id>
+                <label>Universal Postal Union</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-10-15">
+                <id>world-trade-organization</id>
+                <label>World Trade Organization</label>
+            </concept>
+        </concept>
+        <collection created-by="cozensef" created-date="2013-04-08">
+            <id>politico-military-issues</id>
+            <label>Politico-Military issues</label>
+            <usage-hint>Do not use as tag; this term is too general.</usage-hint>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>alliances</id>
+                <label>Alliances</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>armistices</id>
+                <label>Armistices</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>covert-actions</id>
+                <label>Covert Action</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>diplomatic-recognition</id>
+                <label>Diplomatic Recognition</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>military-bases</id>
+                <label>Military Bases</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>military-intervention-presence-and-withdrawal</id>
+                <label>Military Intervention, Presence and Withdrawal</label>
+                <definition>Military action not covered by a specific tag under <ptr
+                        target="warfare"/>
+                </definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>national-security-council</id>
+                <label>National Security Council</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>national-security-policy</id>
+                <label>National Security Policy</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>quarantine-blockade</id>
+                <label>Quarantine (Blockade)</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>terrorism</id>
+                <label>Terrorism</label>
+            </concept>
+        </collection>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>science-and-technology</id>
+            <label>Science and Technology</label>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>atomic-energy</id>
+                <label>Atomic Energy</label>
+            </concept>
+        </concept>
+        <concept created-by="cozensef" created-date="2013-04-08">
+            <id>warfare</id>
+            <label>Warfare</label>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>afghanistan-conflict-2001</id>
+                <label>Afghanistan Conflict (2001)</label>
+                <definition>U.S. military presence in Afghanistan post-2001</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>american-revolutionary-war</id>
+                <label>American Revolutionary War</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>arab-israeli-dispute</id>
+                <label>Arab-Israeli Dispute</label>
+                <definition>The ongoing conflict in the Middle East</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>civil-war-u-s</id>
+                <label>Civil War (U.S.)</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>cuban-missile-crisis</id>
+                <label>Cuban Missile Crisis</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>geneva-convention</id>
+                <label>Geneva Convention</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>iraq-war-2003</id>
+                <label>Iraq War (2003)</label>
+                <definition>U.S. military presence in Iraq post-2003</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>korean-war</id>
+                <label>Korean War</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>mexican-american-war</id>
+                <label>Mexican-American War</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>neutrality</id>
+                <label>Neutrality</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>prisoners-of-war</id>
+                <label>Prisoners of War</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>spanish-american-war</id>
+                <label>Spanish-American War</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>suez-canal</id>
+                <label>Suez Canal</label>
+                <definition>Suez Crisis of 1956</definition>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>vietnam-conflict</id>
+                <label>Vietnam Conflict</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>war-crimes-and-war-criminals</id>
+                <label>War Crimes and War Criminals</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>war-of-1812</id>
+                <label>War of 1812</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>world-war-i</id>
+                <label>World War I</label>
+            </concept>
+            <concept created-by="cozensef" created-date="2013-04-08">
+                <id>world-war-ii</id>
+                <label>World War II</label>
+            </concept>
+        </concept>
+    </collection>
+</taxonomy>

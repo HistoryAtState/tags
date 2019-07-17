@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+    <title>Office of the Historian Subject Taxonomy of the History of U.S. Foreign Relations</title>
+    <subtitle>Collection: Presidential Administrations</subtitle>
+    <description>
+        <p>The Subject Taxonomy of the History of U.S. Foreign Relations is a hierarchical taxonomy
+            that consists of categories and tags. The taxonomy is organized into ___ top-level
+            categories: <list>
+                <item>Agreements and Mandates</item>
+                <item>Events</item>
+                <item>Organizations</item>
+                <item>People</item>
+                <item>Places</item>
+                <item>Topics</item>
+            </list> Below these top-level categories are additional nested levels of categories and
+            tags, becoming more specific at deeper levels.</p>
+        <!-- Note: Values for xml:lang attributes were sourced from http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry -->
+    </description>
+
+    <collection created-by="rossat" created-date="2019-06-25">
+        <id>presidential-administrations</id>
+        <label>Presidential Administrations</label>
+        <definition>Presidential administrations of the United States of America.</definition>
+        <usage-hint/>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1789-1797</id>
+            <label type="longForm">United States. President (1789-1797: Washington, George)</label>
+            <label type="shortForm">1789-1797: Washington, George</label>
+
+            <related type="headedBy">Washington, George, 1732-1799</related>
+
+            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n85054573"
+                source="us-loc" xml:lang="en" script="Latn">United States. President (1789-1797 :
+                Washington)</exactMatch>
+            <exactMatch type="viaf" id="http://viaf.org/viaf/121014977" source="oclc" xml:lang="en"
+            />
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1797-1801</id>
+            <label type="longForm">United States. President (1797-1801 : Adams, John)</label>
+            <label type="shortForm">1797-1801 : Adams, John</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1801-1809</id>
+            <label type="longForm">United States. President (1801-1809 : Jefferson, Thomas)</label>
+            <label type="shortForm">1801-1809 : Jefferson, Thomas</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1809-1817</id>
+            <label type="longForm">United States. President (1809-1817 : Madison, James)</label>
+            <label type="shortForm">1809-1817 : Madison, James</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1817-1825</id>
+            <label type="longForm">United States. President (1817-1825 : Monroe, James)</label>
+            <label type="shortForm">1817-1825 : Monroe, James</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1825-1829</id>
+            <label type="longForm">United States. President (1825-1829 : Adams, John Quincy)</label>
+            <label type="shortForm">1825-1829 : Adams, John Quincy</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1829-1837</id>
+            <label type="longForm">United States. President (1829-1837 : Jackson, Andrew)</label>
+            <label type="shortForm">1829-1837 : Jackson, Andrew</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1837-1841</id>
+            <label type="longForm">United States. President (1837-1841 : Van Buren, Martin)</label>
+            <label type="shortForm">1837-1841 : Van Buren, Martin</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1841</id>
+            <label type="longForm">United States. President (1841 : Harrison, William Henry)</label>
+            <label type="shortForm">1841 : Harrison, William Henry</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1841-1845</id>
+            <label type="longForm">United States. President (1841-1845 : Tyler, John)</label>
+            <label type="shortForm">1841-1845 : Tyler, John</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1845-1849</id>
+            <label type="longForm">United States. President (1845-1849 : Polk, James K.)</label>
+            <label type="shortForm">1845-1849 : Polk, James K.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1849-1850</id>
+            <label type="longForm">United States. President (1849-1850 : Taylor, Zachary)</label>
+            <label type="shortForm">1849-1850 : Taylor, Zachary</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1850-1853</id>
+            <label type="longForm">United States. President (1850-1853 : Fillmore, Millard)</label>
+            <label type="shortForm">1850-1853 : Fillmore, Millard</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1853-1857</id>
+            <label type="longForm">United States. President (1853-1857 : Pierce, Franklin)</label>
+            <label type="shortForm">1853-1857 : Pierce, Franklin</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1857-1861</id>
+            <label type="longForm">United States. President (1857-1861 : Buchanan, James)</label>
+            <label type="shortForm">1857-1861 : Buchanan, James</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1861-1865</id>
+            <label type="longForm">United States. President (1861-1865 : Lincoln, Abraham)</label>
+            <label type="shortForm">1861-1865 : Lincoln, Abraham</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1865-1869</id>
+            <label type="longForm">United States. President (1865-1869 : Johnson, Andrew)</label>
+            <label type="shortForm">1865-1869 : Johnson, Andrew</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1869-1877</id>
+            <label type="longForm">United States. President (1869-1877 : Grant, Ulysses S.)</label>
+            <label type="shortForm">1869-1877 : Grant, Ulysses S.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1877-1881</id>
+            <label type="longForm">United States. President (1877-1881 : Hayes, Rutherford
+                B.)</label>
+            <label type="shortForm">1877-1881 : Hayes, Rutherford B.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1881</id>
+            <label type="longForm">United States. President (1881 : Garfield, James A.)</label>
+            <label type="shortForm">1881 : Garfield, James A.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1881-1885</id>
+            <label type="longForm">United States. President (1881-1885 : Arthur, Chester
+                Alan)</label>
+            <label type="shortForm">1881-1885 : Arthur, Chester Alan</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1885-1889</id>
+            <label type="longForm">United States. President (1885-1889 : Cleveland, Grover)</label>
+            <label type="shortForm">1885-1889 : Cleveland, Grover</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1889-1893</id>
+            <label type="longForm">United States. President (1889-1893 : Harrison, Benjamin)</label>
+            <label type="shortForm">1889-1893 : Harrison, Benjamin</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1893-1897</id>
+            <label type="longForm">United States. President (1893-1897 : Cleveland, Grover)</label>
+            <label type="shortForm">1893-1897 : Cleveland, Grover</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1897-1901 </id>
+            <label type="longForm">United States. President (1897-1901 : McKinley, William)</label>
+            <label type="shortForm">1897-1901 : McKinley, William</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1901-1909</id>
+            <label type="longForm">United States. President (1901-1909 : Roosevelt,
+                Theodore)</label>
+            <label type="shortForm">1901-1909 : Roosevelt, Theodore</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1909-1913</id>
+            <label type="longForm">United States. President (1909-1913 : Taft, William H.)</label>
+            <label type="shortForm">1909-1913 : Taft, William H.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1913-1921</id>
+            <label type="longForm">United States. President (1913-1921 : Wilson, Woodrow)</label>
+            <label type="shortForm">1913-1921 : Wilson, Woodrow</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1921-1923</id>
+            <label type="longForm">United States. President (1921-1923 : Harding, Warren G.)</label>
+            <label type="shortForm">1921-1923 : Harding, Warren G.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1923-1929</id>
+            <label type="longForm">United States. President (1923-1929 : Coolidge, Calvin)</label>
+            <label type="shortForm">1923-1929 : Coolidge, Calvin</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1929-1933</id>
+            <label type="longForm">United States. President (1929-1933 : Hoover, Herbert)</label>
+            <label type="shortForm">1929-1933 : Hoover, Herbert</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1933-1945</id>
+            <label type="longForm">United States. President (1933-1945 : Roosevelt, Franklin
+                D.)</label>
+            <label type="shortForm">1933-1945 : Roosevelt, Franklin D.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1945-1953</id>
+            <label type="longForm">United States. President (1945-1953 : Truman, Harry S.)</label>
+            <label type="shortForm">1945-1953 : Truman, Harry S.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1953-1961</id>
+            <label type="longForm">United States. President (1953-1961 : Eisenhower, Dwight
+                D.)</label>
+            <label type="shortForm">1953-1961 : Eisenhower, Dwight D.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1961-1963</id>
+            <label type="longForm">United States. President (1961-1963 : Kennedy, John F.)</label>
+            <label type="shortForm">1961-1963 : Kennedy, John F.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1963-1969</id>
+            <label type="longForm">United States. President (1963-1969 : Johnson, Lyndon B.)</label>
+            <label type="shortForm">1963-1969 : Johnson, Lyndon B.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1969-1974</id>
+            <label type="longForm">United States. President (1969-1974 : Nixon, Richard M.)</label>
+            <label type="shortForm">1969-1974 : Nixon, Richard M.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1974-1977</id>
+            <label type="longForm">United States. President (1974-1977 : Ford, Gerald R.)</label>
+            <label type="shortForm">1974-1977 : Ford, Gerald R.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1977-1981</id>
+            <label type="longForm">United States. President (1977-1981 : Carter, Jimmy)</label>
+            <label type="shortForm">1977-1981 : Carter, Jimmy</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1981-1989</id>
+            <label type="longForm">United States. President (1981-1989 : Reagan, Ronald)</label>
+            <label type="shortForm">1981-1989 : Reagan, Ronald)</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1989-1993</id>
+            <label type="longForm">United States. President (1989-1993 : Bush, George H.W.)</label>
+            <label type="shortForm">1989-1993 : Bush, George H.W.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-1993-2001</id>
+            <label type="longForm">United States. President (1993-2001 : Clinton, William
+                J.)</label>
+            <label type="shortForm">1993-2001 : Clinton, William J.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-2001-2009</id>
+            <label type="longForm">United States. President (2001-2009 : Bush, George W.)</label>
+            <label type="shortForm">2001-2009 : Bush, George W.</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-2009-2017</id>
+            <label type="longForm">United States. President (2009-2017 : Obama, Barack)</label>
+            <label type="shortForm">2009-2017 : Obama, Barack</label>
+        </collection>
+        <collection created-by="rossat" created-date="2019-06-25">
+            <id>us-pres-2017-</id>
+            <label type="longForm">United States. President (2017- : Trump, Donald)</label>
+            <label type="shortForm">2017- : Trump, Donald</label>
+        </collection>
+    </collection>
+
+</taxonomy>

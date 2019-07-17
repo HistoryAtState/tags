@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+    <title>Office of the Historian Subject Taxonomy of the History of U.S. Foreign Relations</title>
+    <subtitle>Collection: Events</subtitle>
+    <description>
+        <p>The Subject Taxonomy of the History of U.S. Foreign Relations is a hierarchical taxonomy
+            that consists of categories and tags. The taxonomy is organized into ___ top-level
+            categories: <list>
+                <item>Agreements and Mandates</item>
+                <item>Events</item>
+                <item>Organizations</item>
+                <item>People</item>
+                <item>Places</item>
+                <item>Topics</item>
+            </list> Below these top-level categories are additional nested levels of categories and
+            tags, becoming more specific at deeper levels.</p>
+        <!-- Note: Values for xml:lang attributes were sourced from http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry -->
+    </description>
+
+    <collection id="events" created-by="rossat" created-date="2019-06-25">
+        <id>events</id>
+        <label>Events</label>
+        <definition>.</definition>
+        <usage-hint/>
+    </collection>
+
+</taxonomy>
