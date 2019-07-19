@@ -173,10 +173,24 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Republic of
                 Albania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Albania</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="sqj" script="Latn">Republika e
+            <altLabel type="longForm-local" source="us-cia" xml:lang="sq" script="Latn">Republika e
                 Shqiperise</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="sqj" script="Latn"
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="sq" script="Latn"
                 >Shqiperia</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sq" script="Latn">Republika e
+                Shqipërisë</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sq" script="Latn"
+                >Shqipëri</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sq" script="Latn"
+                >Shqipëria</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="aln" script="Latn"
+                >Shqipni</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="aln" script="Latn"
+                >Shqipnia</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="aln" script="Latn"
+                >Shqypni</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="aln" script="Latn"
+                >Shqypnia</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -461,6 +475,8 @@
                 Hanrapetut'yun</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="hy" script="Latn"
                 >Hayastan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="hy" script="Armn">Հայաստանի
+                Հանրապետություն</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -731,6 +747,8 @@
                 Prajatantri Bangladesh</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="bn" script="Latn"
                 >Bangladesh</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="bn" script="Beng">গণপ্রজাতন্ত্রী
+                বাংলাদেশ</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -823,6 +841,12 @@
                 >Byelarus'</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="be" script="Latn"
                 >Belarus'</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="be" script="Cyrl">Рэспубліка
+                Беларусь</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="be" script="Cyrl"
+                >Беларусь</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ru" script="Cyrl">Республика
+                Беларусь</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1012,6 +1036,7 @@
                 Gyalkhap</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="dz" script="Latn">Druk
                 Yul</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="dz" script="Tibt">འབྲུག་རྒྱལ་ཁབ་ </altLabel>
             <related type="memberOf" source="us-dos-fsi-oh"
                 id="39cb947a-f05e-4053-a58f-001a42b20c61">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en" script="Latn"
@@ -1100,6 +1125,8 @@
                 Herzegovina</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="bs" script="Latn">Bosna i
                 Hercegovina</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="bs" script="Latn">Босна и
+                Херцеговина</altLabel>
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Bosnia</hiddenLabel>
             <hiddenLabel type="useFor" source="us-dos-inr" xml:lang="en" script="Latn">Bosnia and
@@ -1257,6 +1284,8 @@
                 Brunei Darussalam</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ms" script="Latn"
                 >Brunei</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ms" script="ar">نڬارا بروني
+                دارالسلام‎</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1303,6 +1332,8 @@
                 Bulgaria</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="bg" script="Latn"
                 >Bulgaria</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="bg" script="Cyrl">Република
+                България </altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1393,6 +1424,8 @@
                 Thammada Myanma Naingngandaw</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="my" script="Latn">Myanma
                 Naingngandaw</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="my" script="Mymr">ပြည်ထောင်စု
+                သမ္မတ မြန်မာနိုင်ငံတော်‌</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Myanmar</hiddenLabel>
             <useFor>Myanmar</useFor>
@@ -1545,6 +1578,8 @@
                     transliteration)</note></altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="km" script="Latn"
                 >Kampuchea</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="km" script="Khmr"
+                >ព្រះរាជាណាចក្រកម្ពុជា</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -1923,6 +1958,9 @@
                 Komori</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="swb wlc wni zdj"
                 script="Latn">Komori</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">الاتحاد القمري </altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Union des
+                Comores</altLabel>
             <hiddenLabel type="search" source="us-loc">Comoro Islands</hiddenLabel>
             <hiddenLabel type="search" source="us-loc">Mayotte</hiddenLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
@@ -2277,6 +2315,10 @@
                 >Kypros</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="tr" script="Latn"
                 >Kibris</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="el" script="Grek">Κυπριακή
+                Δημοκρατία</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tr" script="Latn">Kıbrıs
+                Cumhuriyeti</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2321,12 +2363,11 @@
                 Republic</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="cs" script="Latn">Ceska
                 republika</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="cs" script="Latn">Česká
-                republika</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="cs" script="Latn"
                 >Cesko</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="cs" script="Latn"
-                >Česko</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cs" script="Latn">Česká
+                republika</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cs" script="Latn">Česko</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2747,6 +2788,7 @@
                 Ertra</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ti" script="Latn"
                 >Ertra</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ti" script="Ethi">ኤርትራ</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2890,6 +2932,20 @@
                 Federalawi Demokrasiyawi Ripeblik</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="am" script="Latn"
                 >Ityop'iya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="am" script="Ethi">የኢትዮጵያ ፌዴራላዊ
+                ዴሞክራሲያዊ ሪፐብሊክ</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ti" script="Ethi">ናይኢትዮጵያ ፌዴራላዊ
+                ዴሞክራሲያዊ ሪፐብሊክ</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="aa" script="Latn">ityoppiah
+                federalih demokrasih ummuno</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="so" script="Latn">Jamhuuriyadda
+                Dimuqraadiga Federaalka Itoobiya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="so" script="Latn"
+                >Itoobiya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="om" script="Latn">Rippabliikii
+                Federaalawaa Dimokraatawaa Itiyoophiyaa</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="om" script="Latn"
+                >Itoophiyaa</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -2940,6 +2996,10 @@
                 >Fiji</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="fj" script="Latn"
                 >Viti</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="hif" script="Deva">फ़िजी
+                गणराज्य</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fj" script="Latn">Matanitu
+                Tugalala o Viti</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -3172,6 +3232,10 @@
                 >Georgia</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ka" script="Latn"
                 >Sak'art'velo</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ka" script="Geor"
+                >საქართველო</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ka" script="Latn"
+                >Sakartvelo</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -3308,6 +3372,8 @@
                 >Ellas</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="el" script="Latn"
                 >Ellada</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="el" script="Ελληνική Δημοκρατία"
+                >Ελληνική Δημοκρατία</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Republic
                 of Greece</hiddenLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
@@ -3440,9 +3506,9 @@
                 Guinea</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Guinea,
                 Republic of</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="" script="Latn">Republique de
-                Guinee</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="" script="Latn"
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
+                de Guinee</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
                 >Guinee</altLabel>
             <useFor type="former">French Guinea</useFor>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
@@ -3489,7 +3555,7 @@
                 >Guinea-Bissau, Republic of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Republica da
                 Guine-Bissau</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="" script="Latn"
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="pt" script="Latn"
                 >Guine-Bissau</altLabel>
             <useFor type="former">Portuguese Guinea</useFor>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
@@ -3728,6 +3794,8 @@
                 >Hungary</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="hu" script="Latn"
                 >Magyarorszag</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="hu" script="Latn"
+                >Magyarország</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -3774,6 +3842,8 @@
                 Island</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="is" script="Latn"
                 >Island</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="is" script="Latn"
+                >Ísland</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -3920,6 +3990,8 @@
                 Eslami-ye Iran</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="fa" script="Latn"
                 >Iran</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fa" script="Arab">جمهوری اسلامی
+                ایران</altLabel>
             <related type="memberOf" source="us-dos-fsi-oh"
                 id="39cb947a-f05e-4053-a58f-001a42b20c61">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en" script="Latn"
@@ -4067,6 +4139,9 @@
                 Yisra'el</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="he" script="Latn"
                 >Yisra'el</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="he" script="Hebr">ישראל</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab"
+                >إسرائيل</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -4303,6 +4378,16 @@
                 Respublikasy</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="kk" script="Latn"
                 >Qazaqstan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="kk" script="Cyrl">Қазақстан
+                Республикасы</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="kk" script="Cyrl"
+                >Қазақстан</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ru" script="Cyrl">Республика
+                Казахстан</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ru" script="Cyrl"
+                >Казахстан</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="kk" script="Latn">Qazaqstan
+                Respýblıkasy</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -4449,6 +4534,12 @@
                 >Kosova</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="sr" script="Latn"
                 >Kosovo</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sq" script="Latn">Republika e
+                Kosovës</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sr" script="Cyrl">Република
+                Косово</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sr" script="Latn">Republika
+                Kosovo</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -4543,6 +4634,10 @@
                 Respublikasy</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ky" script="Latn"
                 >Kyrgyzstan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ky" script="Cyrl">Кыргыз
+                Республикасы</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ru" script="Cyrl">Кыргызская
+                Республика</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -4589,6 +4684,10 @@
                 Paxathipatai Paxaxon Lao</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="lo" script="Latn">Mueang
                 Lao</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="lo" script="Laoo">ສາທາລະນະລັດ
+                ປະຊາທິປະໄຕ ປະຊາຊົນລາວ</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République
+                démocratique populaire lao</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -4955,7 +5054,7 @@
                 Grand Duchy of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="lb" script="Latn">Grand Duche
                 de Luxembourg</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="" script="Latn"
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="lb" script="Latn"
                 >Luxembourg</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
@@ -5279,10 +5378,12 @@
                 the Marshall Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Marshall
                 Islands, Republic of the</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="mh" script="Latn">Republic of
+            <altLabel type="longForm-local" source="us-cia" xml:lang="en" script="Latn">Republic of
                 the Marshall Islands</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="mh" script="Latn">Marshall
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="en" script="Latn">Marshall
                 Islands</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="mh" script="Latn">Aolepān Aorōkin
+                M̧ajeļ</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -5607,6 +5708,10 @@
                 >Mongolia</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="mn" script="Latn">Mongol
                 Uls</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="mn" script="Cyrl">Монгол
+                Улс</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="mn" script="Mong">ᠮᠣᠩᠭᠣᠯ
+                ᠤᠯᠤᠰ</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -5651,6 +5756,8 @@
                 >Montenegro</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="sr" script="Latn">Crna
                 Gora</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sr" script="Cyrl">Црна
+                Гора</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -5886,6 +5993,10 @@
                 Loktantrik Ganatantra Nepal</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ne" script="Latn"
                 >Nepal</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ne" script="Deva">सङ्घीय
+                लोकतान्त्रिक गणतन्त्र नेपाल </altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ne" script="Latn">Saṅghīya
+                Lokatāntrik Gaṇatantra Nepāl</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -6156,6 +6267,7 @@
                 >Choson-minjujuui-inmin-konghwaguk</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ko" script="Latn"
                 >Choson</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ko" script="Kore">조선/朝鮮</altLabel>
             <hiddenLabel type="search" source="us-loc" xml:lang="en" script="Latn">Korea
                 (North)</hiddenLabel>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -6198,7 +6310,7 @@
                 Macedonia, Republic of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="mk" script="Latn">Republika
                 Severna Makedonija</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="mk" script="Latn">Република
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="mk" script="Cyrl">Република
                 Северна Македонија</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="mk" script="Latn">Severna
                 Makedonija</altLabel>
@@ -6255,6 +6367,16 @@
                 Norge</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="no" script="Latn"
                 >Norge</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nb" script="Latn">Kongeriket
+                Norge</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nn" script="Latn">Kongeriket
+                Noreg</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="se" script="Latn">Norgga
+                gonagasriika</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sma" script="Latn">Nøørjen
+                gånkarijhke</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="smj" script="Latn">Vuona
+                gånågisrijkka</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -6349,6 +6471,10 @@
                 Islami Pakistan</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ur" script="Latn"
                 >Pakistan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ur" script="Arab">اِسلامی جمہوریہ
+                پاكِستان</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ur" script="Latn">Islāmī
+                Jumhūriyah Pākistān</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -6395,6 +6521,8 @@
                 Belau</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="pau" script="Latn"
                 >Belau</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ja" script="Jpan"
+                >パラオ共和国</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -6858,10 +6986,15 @@
                 Federatsiya</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ru" script="Latn"
                 >Rossiya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ru" script="Cyrl">Росси́йская
+                Федера́ция</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ru" script="Cyrl">Российская
+                Федерация</altLabel>
             <altLabel type="endonym" source="us-dos-fsi-oh" xml:lang="ru" script="Cyrl"
                 >Росси́я</altLabel>
             <altLabel type="endonym" source="us-dos-fsi-oh" xml:lang="ru" script="Cyrl"
                 >Россия</altLabel>
+
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7100,9 +7233,13 @@
                 State of Samoa</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Samoa,
                 Independent State of</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="sm">Malo Sa'oloto Tuto'atasi o
-                Samoa</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="sm">Samoa</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="sm" script="Latn">Malo
+                Sa'oloto Tuto'atasi o Samoa</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="sm" script="Latn"
+                >Samoa</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sm" script="Latn">Malo Saʻoloto
+                Tutoʻatasi o Sāmoa</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sm" script="Latn">Sāmoa</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7190,14 +7327,14 @@
                 Republic of Sao Tome and Principe</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Sao Tome and
                 Principe, Democratic Republic of</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="en" script="Latn">São Tomé and
-                Príncipe</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="pt">República Democrática de São Tomé
-                e Príncipe</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="pt">Republica Democratica de
                 Sao Tome e Principe</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="pt">Sao Tome e
                 Principe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn">São Tomé and
+                Príncipe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="pt">República Democrática de São
+                Tomé e Príncipe</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7246,6 +7383,8 @@
                 Suudiyah</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ar">Al Arabiyah as
                 Suudiyah</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">المملكة العربية
+                السعودية</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7291,6 +7430,12 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="fr">Republique du
                 Senegal</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="fr">Senegal</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République du
+                Sénégal</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn"
+                >Sénégal</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="wo" script="Latn">Réewum
+                Senegaal</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7336,6 +7481,10 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="sr">Republika
                 Srbija</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="sr">Srbija</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sr" script="Cyrl">Република
+                Србија</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sr" script="Latn">Republika
+                Srbija</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7382,6 +7531,10 @@
                 Seychelles</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="en" script="Latn"
                 >Seychelles</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République des
+                Seychelles</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="crs" script="Latn">Repiblik
+                Sesel</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7428,6 +7581,8 @@
                 Sierra Leone</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="en" script="Latn">Sierra
                 Leone</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="kri" script="Latn"
+                >Salone</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7474,6 +7629,13 @@
                 Singapore</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="en" script="Latn"
                 >Singapore</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn"/>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ms" script="Latn">Republik
+                Singapura</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cmn" script="Hans"
+                >新加坡共和国</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Taml">சிங்கப்பூர்
+                குடியரசு</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7516,9 +7678,12 @@
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Slovak
                 Republic</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="sk">Slovenska
+            <altLabel type="longForm-local" source="us-cia" xml:lang="sk" script="Latn">Slovenska
                 republika</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="sk">Slovensko</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="sk" script="Latn"
+                >Slovensko</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sk" script="Latn">Slovenská
+                republika</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7653,6 +7818,10 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="so">Jamhuuriyadda Federaalkaa
                 Soomaaliya</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="so">Soomaaliya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="so" script="Latn">Jamhuuriyadda
+                Federaalka Soomaaliya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">جمهورية الصومال
+                الفيدرالية</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7694,6 +7863,26 @@
                 South Africa</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">South Africa,
                 Republic of</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="zu" script="Latn">iRiphabhuliki
+                yaseNingizimu Afrika</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="xh" script="Latn">iRiphabliki
+                yomZantsi Afrika</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="af" script="Latn">Republiek van
+                Suid-Afrika</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nso" script="Latn">Repabliki ya
+                Afrika-Borwa</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tn" script="Latn">Rephaboliki ya
+                Aforika Borwa</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="st" script="Latn">Rephaboliki ya
+                Afrika Borwa</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ts" script="Latn">Riphabliki ra
+                Afrika Dzonga</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ss" script="Latn">iRiphabhulikhi
+                yeNingizimu Afrika</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ve" script="Latn">Riphabuḽiki ya
+                Afurika Tshipembe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nr" script="Latn">iRiphabliki
+                yeSewula Afrika</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7743,6 +7932,12 @@
                 Korea</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="ko">Taehan-min'guk</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ko">Han'guk</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ko" script="Kore">대한민국
+                大韓民國</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ko" script="Latn"
+                transliteration="revised-romanization-of-korean">Daehan Minguk</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ko" script="Latn"
+                transliteration="revised-romanization-of-korean">Hanguk</altLabel>
             <hiddenLabel type="search" source="us-loc" xml:lang="en" script="Latn">Korea
                 (South)</hiddenLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
@@ -7831,6 +8026,10 @@
                 Kingdom of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="es">Reino de Espana</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="es">Espana</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn">Reino de
+                España</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn"
+                >España</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7874,9 +8073,27 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Sri Lanka,
                 Democratic Socialist Republic</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="si">Shri Lanka Prajatantrika
-                Samajavadi Janarajaya/Ilankai Jananayaka Choshalichak Kutiyarachu</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="si">Shri
-                Lanka/Ilankai</altLabel>
+                Samajavadi Janarajaya</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="si">Ilankai Jananayaka
+                Choshalichak Kutiyarachu</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="si">Shri Lanka</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="si">Ilankai</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="si" script="Sinh">ශ්‍රී ලංකා
+                ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="si" script="Sinh">ශ්‍රී
+                ලංකා</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="si" script="Latn">Srī Lankā
+                prajātāntrika samājavādī janarajaya</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="si" script="Latn">Śrī
+                Laṃkā</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Taml">இலங்கை
+                Ilaṅkai</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Taml">இலங்கை ஜனநாயக
+                சோசலிச குடியரசு</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Latn">Ilaṅkai
+                jaṉanāyaka sōsalisa kuṭiyarasu</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Latn"
+                >Ilaṅkai</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7924,6 +8141,10 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="ar">Jumhuriyat
                 as-Sudan</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ar">As-Sudan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">جمهورية
+                السودان</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Latn">Jumhūriyyat
+                as-Sūdān</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8111,6 +8332,10 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="ar">Al Jumhuriyah al Arabiyah
                 as Suriyah</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ar">Suriyah</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">الجمهورية
+                العربية السورية</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Latn">al-Jumhūrīyah
+                al-ʻArabīyah as-Sūrīyah</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8156,6 +8381,8 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="tg">Jumhurii
                 Tojikiston</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="tg">Tojikiston</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tg" script="Cyrl">Ҷумҳурии
+                Тоҷикистон</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8248,6 +8475,10 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="th">Ratcha Anachak
                 Thai</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="th">Prathet Thai</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="th" script="Thai"
+                >ราชอาณาจักรไทย</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="th" script="Latn">Ratcha-anachak
+                Thai</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8295,6 +8526,10 @@
             <altLabel type="shortForm-local" source="us-cia" xml:lang="tet">Timor
                 Lorosa'e</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="pt">Timor-Leste</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tet" script="Latn">Repúblika
+                Demokrátika Timór-Leste</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="pt" script="Latn">República
+                Democrática de Timor-Leste</altLabel>
             <useFor>East Timor</useFor>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
@@ -8340,6 +8575,8 @@
                 (Togolese Republic)</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="fr">Republique
                 Togolaise</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République
+                togolaise</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8472,6 +8709,12 @@
                 Republic of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="ar">Al Jumhuriyah at
                 Tunisiyah</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">الجمهورية
+                التونسية</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Latn">al-Jumhūrīyah
+                at-Tūnisīyah</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République
+                tunisienne</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ar">Tunis</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
@@ -8518,6 +8761,10 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="tr">Turkiye
                 Cumhuriyeti</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="tr">Turkiye</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tr" script="Latn">Türkiye
+                Cumhuriyeti</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tr" script="Latn"
+                >Türkiye</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8559,8 +8806,10 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Turkmenistan</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
-                >Turkmenistan</altLabel>\ <altLabel type="shortForm-local" source="us-cia"
-                xml:lang="tk">Turkmenistan</altLabel>
+                >Turkmenistan</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="tk">Turkmenistan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tk" script="Latn">Türkmenistan
+                Respublikasy</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8647,6 +8896,8 @@
                 Uganda</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Uganda,
                 Republic of</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="swh" script="Latn">Jamhuri ya
+                Uganda</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8894,6 +9145,8 @@
                 Oriental del Uruguay</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
                 >Uruguay</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn">República
+                Oriental del Uruguay</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8940,6 +9193,8 @@
                 Respublikasi</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="uz" script="Latn"
                 >O'zbekiston</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="uz" script="Latn">Oʻzbekiston
+                Respublikasi</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -8986,6 +9241,10 @@
                 blong Vanuatu</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="bi" script="Latn"
                 >Vanuatu</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="bi" script="Latn">Ripablik blong
+                Vanuatu</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République de
+                Vanuatu</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -9032,6 +9291,8 @@
                 Bolivariana de Venezuela</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
                 >Venezuela</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn">República
+                Bolivariana de Venezuela</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -9078,6 +9339,8 @@
                 Hoi Chu Nghia Viet Nam</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="vi" script="Latn">Viet
                 Nam</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="vi" script="Latn">Cộng hòa xã hội
+                chủ nghĩa Việt Nam</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -9126,6 +9389,8 @@
                 Yaman</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">ٱلْجُمْهُورِيَّة
                 ٱلْيَمَنِيَّة</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Latn">al-Jumhūrīyah
+                al-Yamanīyah</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -9209,6 +9474,32 @@
                 Zimbabwe</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Zimbabwe,
                 Republic of</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="sn" script="Latn">Nyika
+                yeZimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nd" script="Latn">Ilizwe
+                leZimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ny" script="Latn">Dziko la
+                Zimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="seh" script="Latn">Dziko la
+                Zimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="kck" script="Latn">Hango
+                yeZimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="khi" script="Latn">Zimbabwe
+                Nù</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nmq" script="Latn">Inyika
+                yeZimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ndc" script="Latn">Nyika
+                yeZimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ts" script="Latn">Tiko ra
+                Zimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="st" script="Latn">Naha ya
+                Zimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="toi" script="Latn">Cisi ca
+                Zimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ve" script="Latn">Shango ḽa
+                Zimbabwe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="xh" script="Latn">Ilizwe
+                leZimbabwe</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
