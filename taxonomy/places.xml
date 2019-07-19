@@ -172,7 +172,8 @@
                 >Albania</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Republic of
                 Albania</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en">Albania</altLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >Albania</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="sq" script="Latn">Republika e
                 Shqiperise</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="sq" script="Latn"
@@ -3086,7 +3087,6 @@
         <concept type="place" created-by="rossat" created-date="2019-06-28"
             lastDateTimeVerified="2019-06-28T10:25:06-04:00">
             <id source="us-dos-fsi-oh" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"/>
-            <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en"/>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">French
                 Republic</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
@@ -3695,7 +3695,6 @@
                 See</altLabel>
             <altLabel type="longForm-conventional" source="us-cia" xml:lang="en" script="Latn">The
                 Holy See (Vatican City State)</altLabel>
-            <altLabel type="shortForm-conventional"/>
             <altLabel type="longForm-local" source="us-cia" xml:lang="it" script="Latn">La Santa
                 Sede (Stato della Citta del Vaticano)</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="it" script="Latn">Santa Sede
@@ -6569,8 +6568,9 @@
                 Panama</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="es" script="Latn"
                 >Panama</altLabel>
-            <altLabel type="endonym" source="oclc" xml:lang="es">Panamá</altLabel>
-            <altLabel type="endonym" source="us-loc" xml:lang="es">República de Panamá</altLabel>
+            <altLabel type="endonym" source="oclc" xml:lang="es" script="Latn">Panamá</altLabel>
+            <altLabel type="endonym" source="us-loc" xml:lang="es" script="Latn">República de
+                Panamá</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -7335,8 +7335,8 @@
                 Principe</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn">São Tomé and
                 Príncipe</altLabel>
-            <altLabel type="endonym" source="wikimedia" xml:lang="pt">República Democrática de São
-                Tomé e Príncipe</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="pt" script="Latn">República
+                Democrática de São Tomé e Príncipe</altLabel>
             <related type="diplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="memberOf" source="us-dos-fsi-oh"
@@ -9567,7 +9567,6 @@
             <id source="us-dos-fsi-oh" id="a22e6802-28b0-449c-8c55-0cf64b40f038"/>
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Taiwan</prefLabel>
-            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en"/>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Taiwan</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="cmn" script="Latn"
@@ -10082,7 +10081,8 @@
                 Curaçao</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Curaçao,
                 Land</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh">Curacao</altLabel>
+            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >Curacao</altLabel>
             <scopeNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10, 2010.
                 Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became
                 autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint
@@ -11150,7 +11150,7 @@
                 Martin</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="en" script="Latn">Collectivity of
                 Saint Martin</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="fr">Collectivité de
+            <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">Collectivité de
                 Saint-Martin</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="en" script="Latn">St. Martin
                 (Collectivity)</altLabel>
@@ -11188,15 +11188,16 @@
                 Collectivity of Saint Pierre and Miquelon</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Saint Pierre
                 and Miquelon, Territorial Collectivity of</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="fr">Collectivité territoriale de
-                Saint-Pierre-et-Miquelon</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="fr">Saint-Pierre et
+            <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">Collectivité
+                territoriale de Saint-Pierre-et-Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">Saint-Pierre et
                 Miquelon</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="fr">Îles Saint-Pierre et
-                Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">Îles Saint-Pierre
+                et Miquelon</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="en" script="Latn">St. Pierre and
                 Miquelon</altLabel>
-            <altLabel type="variant" source="us-loc" xml:lang="fr">St-Pierre et Miquelon</altLabel>
+            <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">St-Pierre et
+                Miquelon</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Saint-Pierre</related>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
