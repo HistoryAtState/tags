@@ -10555,8 +10555,8 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Guam,
                 Territory of</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ch" script="Latn"
-                >Guahan</altLabel>  <altLabel type="abbreviation" source="us-cia" xml:lang="ch"
-                script="Latn">GU</altLabel>
+                >Guahan</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="ch" script="Latn">GU</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="ch" script="Latn"
                 >Guåhån</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en">Hagatna</related>
@@ -10591,13 +10591,22 @@
                 Guernsey</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Guernsey,
                 Bailiwick of</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Bailliage de
+                Guernesey</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="nrf" script="Latn">Bailliage dé
+                Guernési</altLabel>
             <scopeNote source="us-dos-inr">The Bailiwick of Guernsey includes the islands of
                 Alderney, Guernsey, Herm, Sark, and nearby smaller islands.</scopeNote>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en" script="Latn"
-                >Saint Peter Port</related>
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn">Saint
+                Peter Port</related>
+            <narrower type="hasCapital" source="us-dos-fsi-oh us-cia" xml:lang="en" script="Latn"
+                >Saint Peter Port</narrower>
             <broader type="isDependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/gk.html"
+                source="us-cia" xml:lang="en" script="Latn">Guernsey</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/guernsey"
                 source="us-dos-fsi-oh">Guernsey</exactMatch>
             <exactMatch type="genc-2a-code" id="GG" source="us-dos-inr"/>
@@ -10621,12 +10630,17 @@
                 Heard Island and McDonald Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Heard Island
                 and McDonald Islands, Territory of</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Canberra</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn"
+                >HIMI</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en">Canberra</related>
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/hm.html"
+                source="us-cia" xml:lang="en" script="Latn">Heard Island and McDonald
+                Islands</exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/heard-island-and-mcdonald-islands"
                 source="us-dos-fsi-oh">Heard Island and McDonald Islands</exactMatch>
@@ -10652,10 +10666,24 @@
                 Special Administrative Region</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Hong Kong
                 Special Administrative Region</altLabel>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <altLabel type="longForm-local" source="us-cia" xml:lang="yue" script="Latn"
+                transliteration="eitel-dyer-ball">Heung Kong Takpit Hangching Ku</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="yue" script="Latn"
+                transliteration="eitel-dyer-ball">Heung Kong</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn">HK</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="yue" script="Hant"
+                >中華人民共和國香港特別行政區</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="yue" script="Latn">Jūng'wàh
+                Yàhnmàhn Guhng'wòhgwok Hēunggóng</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="yue" script="Latn"
+                transliteration="yale-romanization">Dahkbiht Hàhngjingkēui</altLabel>
+            <broader type="isSpecialAdministrativeRegionOf" source="us-dos-inr"
                 id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/hk.html"
+                source="us-cia" xml:lang="en" script="Latn">Hong Kong</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/hong-kong"
                 source="us-dos-fsi-oh">Hong Kong</exactMatch>
             <exactMatch type="genc-2a-code" id="HK" source="us-dos-inr"/>
@@ -10684,7 +10712,7 @@
                 Island</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -10692,6 +10720,9 @@
                 source="us-dos-fsi-oh">Howland Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XH" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XHO" source="us-dos-inr"/>
+            <closeMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/um.html"
+                source="us-cia" xml:lang="en" script="Latn"/>
         </concept>
         <!-- Isle of Man -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -10703,11 +10734,22 @@
                 Man</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Isle of
                 Man</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn"
+                >I.O.M.</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="gv" script="Latn">Ellan
+                Vannin</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="gv" script="Latn"
+                >Mannin</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Douglas</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Douglas</narrower>
             <broader type="isDependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/im.html"
+                source="us-cia" xml:lang="en" script="Latn">Isle of Man</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/isle-of-man"
                 source="us-dos-fsi-oh">Isle of Man</exactMatch>
             <exactMatch type="genc-2a-code" id="IM" source="us-dos-inr"/>
@@ -10734,10 +10776,13 @@
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en"
                     >Oslo<note>Administered from Oslo, Norway, through a governor resident in
                     Longyearbyen, Svalbard.</note></related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="3eee1546-738e-4717-8f98-7143fe74266f">Norway</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/jn.html"
+                source="us-cia" xml:lang="en" script="Latn">Jan Mayen</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jan-mayen"
                 source="us-dos-fsi-oh">Jan Mayen</exactMatch>
             <exactMatch type="genc-2a-code" id="XJ" source="us-dos-inr"/>
@@ -10755,7 +10800,7 @@
                 Island</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -10763,6 +10808,9 @@
                 source="us-dos-fsi-oh">Jarvis Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XQ" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XJV" source="us-dos-inr"/>
+            <closeMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/um.html"
+                source="us-cia" xml:lang="en" script="Latn"/>
         </concept>
         <!-- Jersey -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -10774,11 +10822,18 @@
                 Jersey</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Jersey,
                 Bailiwick of</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Bailliage de
+                Jersey</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="xno" script="Latn">Bailliage dé
+                Jèrri</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Saint Helier</related>
             <broader type="isDependencyOf" source="us-dos-inr">British Crown</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/je.html"
+                source="us-cia" xml:lang="en" script="Latn">Jersey</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/jersey"
                 source="us-dos-fsi-oh">Jersey</exactMatch>
             <exactMatch type="genc-2a-code" id="JE" source="us-dos-inr"/>
@@ -10802,9 +10857,11 @@
                 Atoll</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Johnston
                 Atoll</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn">Kalama
+                Atoll</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -10812,6 +10869,9 @@
                 source="us-dos-fsi-oh">Johnston Atoll</exactMatch>
             <exactMatch type="genc-2a-code" id="XU" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XJA" source="us-dos-inr"/>
+            <closeMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/um.html"
+                source="us-cia" xml:lang="en" script="Latn"/>
         </concept>
         <!-- Kingman Reef -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -10837,6 +10897,9 @@
                 source="us-loc" xml:lang="en" script="Latn">Kingman Reef (Line Islands)</closeMatch>
             <exactMatch type="lcsh" id="http://id.worldcat.org/fast/1879753" source="us-loc"
                 xml:lang="en" script="Latn">Line Islands--Kingman Reef</exactMatch>
+            <closeMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/um.html"
+                source="us-cia" xml:lang="en" script="Latn"/>
         </concept>
         <!-- Macau -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -10848,14 +10911,29 @@
                 Administrative Region</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Macau Special
                 Administrative Region</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="cmn" script="Latn">Aomen Tebie
+                Xingzhengqu</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Regiao
+                Administrativa Especial de Macau</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="cmn" script="Latn"
+                >Aomen</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="pt" script="Latn"
+                >Macau</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="yue" script="Hant"
+                >中華人民共和國澳門特別行政區</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="yue" script="Latn">Jūng'wàh
+                Yàhnmàhn Guhng'wòhgwok Oumún Dahkbiht Hàhngjingkēui</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Região
+                Administrativa Especial de Macau da República Popular da China </altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="en" script="Latn">Macao</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="" script="Latn"/>
             <historyNote source="us-dos-inr">Under the Sino-Portuguese Joint Declaration on the
                 Question of Macau signed in 1987, Macau reverted to Chinese control on December 20,
                 1999. It is now a semi-autonomous entity that exists pursuant to international
                 agreement and maintains its own government apart from the People’s Republic of
                 China.</historyNote>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Macau</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en">Macau</related>
+            <broader type="isSpecialAdministrativeRegionOf" source="us-dos-inr"
                 id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
