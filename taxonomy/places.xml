@@ -9757,7 +9757,7 @@
                 >Oranjestad</related>
             <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en"
                 >Oranjestad</narrower>
-            <broader type="isConstituentCountryOf" source="us-dos-inr us-cia"
+            <broader type="isConstituentCountryWithin" source="us-dos-inr us-cia"
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -10186,7 +10186,7 @@
                 >Willemstad</related>
             <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
                 >Willemstad</narrower>
-            <broader type="isConstituentCountryWithinOf" source="us-dos-inr"
+            <broader type="isConstituentCountryWithin" source="us-dos-inr"
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -10956,6 +10956,10 @@
                 >Martinique</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Martinique</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cpf" script="Latn"
+                >Matnik</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cpf" script="Latn"
+                >Matinik</altLabel>
             <scopeNote source="us-dos-inr">Martinique is a first-order administrative division of
                 overseas France, and is therefore not a dependency or area of special
                 sovereignty.</scopeNote>
@@ -10971,7 +10975,6 @@
                 source="us-loc" xml:lang="en" script="Latn">Martinique</exactMatch>
             <exactMatch type="viaf" id="https://www.wikidata.org/wiki/Q17054" source="oclc"
                 xml:lang="en"/>
-
             <closeMatch type="fast" id="http://id.worldcat.org/fast/1207564" source="oclc"
                 xml:lang="en"/>
             <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en"/>
@@ -10986,6 +10989,14 @@
                 >Mayotte</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Mayotte</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Département de
+                Mayotte</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn"
+                >Mayotte</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="swb" script="Latn"
+                >Maore</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="mg" script="Latn"
+                >Mahori</altLabel>
             <scopeNote source="us-dos-inr">Mayotte is a first-order administrative division of
                 overseas France, and is therefore not a dependency or area of special
                 sovereignty.</scopeNote>
@@ -11015,9 +11026,13 @@
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Midway
                 Islands</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn">Midway
+                Atoll</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="haw" script="Latn">Pihemanu
+                Kauihelani</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -11025,6 +11040,9 @@
                 source="us-dos-fsi-oh">Midway Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="QM" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="XMW" source="us-dos-inr"/>
+            <closeMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/um.html"
+                source="us-cia" xml:lang="en" script="Latn"/>
         </concept>
         <!-- Montserrat -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -11036,12 +11054,25 @@
                 >Montserrat</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Montserrat</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Plymouth</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en">Plymouth<note
+                    source="us-cia">Plymouth was abandoned in 1997 because of volcanic activity;
+                    interim government buildings have been built at Brades Estate, the de facto
+                    capital, in the Carr's Bay/Little Bay vicinity at the northwest end of
+                    Montserrat.</note></related>
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en">Brades Estate<note
+                    source="us-cia">Plymouth was abandoned in 1997 because of volcanic activity;
+                    interim government buildings have been built at Brades Estate, the de facto
+                    capital, in the Carr's Bay/Little Bay vicinity at the northwest end of
+                    Montserrat.</note></related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Plymouth</narrower>
+            <broader type="isOverseasTerritoryOf" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/mh.html"
+                source="us-cia" xml:lang="en" script="Latn">Montserrat</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/monterserrat"
                 source="us-dos-fsi-oh">Montserrat</exactMatch>
             <exactMatch type="genc-2a-code" id="MS" source="us-dos-inr"/>
@@ -11064,12 +11095,21 @@
                 Island</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Navassa
                 Island</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">L'île de la
+                Navasse</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">La
+                Navasse</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">La
+                Navase</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/bq.html"
+                source="us-cia" xml:lang="en" script="Latn">Navassa Island</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/navassa-island"
                 source="us-dos-fsi-oh">Navassa Island</exactMatch>
             <exactMatch type="genc-2a-code" id="XV" source="us-dos-inr"/>
@@ -11092,14 +11132,20 @@
                 Caledonia</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">New
                 Caledonia</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Nouméa</related>
-            <narrower type="hasCapital" source="us-loc" xml:lang="en" script="Latn"
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Territoire
+                des Nouvelle-Caledonie et Dependances</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Nouvelle-Caledonie</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en">Nouméa</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
                 >Nouméa</narrower>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritorialCollectivityOf" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/nc.html"
+                source="us-cia" xml:lang="en" script="Latn">New Caledonia</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/new-caledonia"
                 source="us-dos-fsi-oh">New Caledonia</exactMatch>
             <exactMatch type="genc-2a-code" id="NC" source="us-dos-inr"/>
@@ -11122,12 +11168,18 @@
                 >Niue</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Niue</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <altLabel type="endonym" source="wikimedia" xml:lang="niu" script="Latn">Niuē</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Alofi</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Alofi</narrower>
+            <broader type="inFreeAssociatedWith" source="us-dos-inr"
                 id="25329a67-f53f-451d-b950-ebc659b05615">New Zealand</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/ne.html"
+                source="us-cia" xml:lang="en" script="Latn">Niue</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/niue"
                 source="us-dos-fsi-oh">Niue</exactMatch>
             <exactMatch type="genc-2a-code" id="NU" source="us-dos-inr"/>
@@ -11150,12 +11202,21 @@
                 Norfolk Island</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Norfolk
                 Island, Territory of</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <altLabel type="endonym" source="wikimedia" xml:lang="cpe" script="Latn">Teratri a'
+                Norf'k Ailen</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cpe" script="Latn">Norf'k
+                Ailen</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
                 >Kingston</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Kingston</narrower>
+            <broader type="isTerritoryOf" source="us-dos-inr us-cia"
                 id="6cb342e0-a44a-4d4f-860a-0a8374ecce31">Australia</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/nf.html"
+                source="us-cia" xml:lang="en" script="Latn">Norfolk Island</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/norfolk-island"
                 source="us-dos-fsi-oh">Norfolk Island</exactMatch>
             <exactMatch type="genc-2a-code" id="NF" source="us-dos-inr"/>
@@ -11178,12 +11239,23 @@
                 of Northern Mariana Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Northern
                 Mariana Islands, Commonwealth of</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <altLabel type="endonym" source="wikimedia" xml:lang="ch" script="Latn">Sankattan Siha
+                Na Islas Mariånas</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cal" script="Latn">Commonwealth
+                Téél Falúw kka Efáng llól Marianas</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn"
+                >CNMI</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
                 >Saipan</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Saipan</narrower>
+            <broader type="commonwealthInPoliticalUnionWith" source="us-dos-inr us-cia"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/cq.html"
+                source="us-cia" xml:lang="en" script="Latn">Northern Mariana Islands</exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/northern-mariana-islands" source="us-dos-fsi-oh"
                 >Northern Mariana Islands</exactMatch>
@@ -11197,7 +11269,7 @@
             <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q16644"
                 source="wikimedia" xml:lang="en" script="Latn">Northern Mariana Islands</closeMatch>
         </concept>
-        <!-- Palestine | https://history.state.gov/tags/palestine deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, 2017-03-07-->
+        <!-- Palestine | https://history.state.gov/tags/palestine deprecated, per us-dos-inr, https://www.state.gov/dependencies-and-areas-of-special-sovereignty/, dated 2017-03-07-->
         <!-- Palmyra Atoll -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
             lastDateTimeVerified="2019-07-11T20:03:50-04:00">
@@ -11210,7 +11282,7 @@
                 Atoll</altLabel>
             <related type="isAdministeredFrom" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
@@ -11225,6 +11297,9 @@
                 xml:lang="en" script="Latn">http://id.worldcat.org/fast/1259619</closeMatch>
             <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q123076"
                 source="wikimedia" xml:lang="en" script="Latn">Palmyra Atoll</closeMatch>
+            <closeMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/um.html"
+                source="us-cia" xml:lang="en" script="Latn">Palmyra Atoll</closeMatch>
         </concept>
         <!-- Paracel Islands -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
@@ -11236,6 +11311,10 @@
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Paracel
                 Islands</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cmn" script="Latn"
+                >Xisha</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="vi" script="Latn">Hoàng
+                Sa</altLabel>
             <scopeNote source="us-dos-inr">Paracel Islands are South China Sea islands occupied by
                 China but claimed by Vietnam.</scopeNote>
             <!-- 
@@ -11244,6 +11323,9 @@
              -->
             <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
                 source="us-dos-fsi-oh">other</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/pf.html"
+                source="us-cia" xml:lang="en" script="Latn">Paracel Islands</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/paracel-islands"
                 source="us-dos-fsi-oh">Paracel Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XP" source="us-dos-inr"/>
@@ -11263,12 +11345,19 @@
                 Henderson, Ducie, and Oeno Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Pitcairn,
                 Henderson, Ducie, and Oeno Islands</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Adamstown</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <altLabel type="endonym" source="wikimedia" xml:lang="pih" script="Latn">Pitkern
+                Ailen</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">Adamstown</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Adamstown</narrower>
+            <broader type="isOverseasTerritoryOf" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html"
+                source="us-cia" xml:lang="en" script="Latn">Pitcairn Islands</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/pitcairn-islands"
                 source="us-dos-fsi-oh">Pitcairn Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="PN" source="us-dos-inr"/>
@@ -11291,12 +11380,19 @@
                 of Puerto Rico</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Puerto Rico,
                 Commonwealth of</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en" script="Latn"
-                >San Juan</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn">Estado Libre
+                Asociado de Puerto Rico</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">San Juan</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn">San
+                Juan</narrower>
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/rq.html"
+                source="us-cia" xml:lang="en" script="Latn">Puerto Rico</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/puerto-rico"
                 source="us-dos-fsi-oh">Puerto Rico</exactMatch>
             <exactMatch type="genc-2a-code" id="PR" source="us-dos-inr"/>
@@ -11321,6 +11417,8 @@
                 >Reunion</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Réunion</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">La
+                Réunion</altLabel>
             <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
                 overseas France, and is therefore not a dependency or area of special
                 sovereignty.</scopeNote>
@@ -11350,14 +11448,36 @@
                 Barthelemy</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Saint
                 Barthelemy</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Collectivite
+                d'outre mer de Saint-Barthelemy</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Collectivité de
+                Saint-Barthélemy</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn">Collectivity of
+                Saint-Barthélemy</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="en" script="Latn"
+                >Barthélemy</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Saint-Barthelemy</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="fr" script="Latn"
+                >Saint-Barth</altLabel>
+            <altLabel type="abbreviation" source="wikimedia" xml:lang="fr" script="Latn"
+                >St-Barth</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn">St.
+                Barts</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn">St.
+                Barths</altLabel>
             <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
                 >Gustavia</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isOverseasCollectivityOf" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
-            <exactMatch type="placesPrevious" id="https://history.state.gov/tags/saint-barthelemy"
-                source="us-dos-fsi-oh">Saint Barthelemy</exactMatch>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/tb.html"
+                source="us-cia" xml:lang="en" script="Latn">Saint Barthelemy</exactMatch> 
+                <exactMatch type="placesPrevious"
+                id="https://history.state.gov/tags/saint-barthelemy" source="us-dos-fsi-oh">Saint
+                Barthelemy</exactMatch>
             <exactMatch type="genc-2a-code" id="BL" source="us-dos-inr"/>
             <exactMatch type="genc-3a-code" id="BLM" source="us-dos-inr"/>
             <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/names/n84179175"
@@ -11380,12 +11500,18 @@
                 Ascension, and Tristan da Cunha</altLabel>
             <scopeNote source="us-dos-inr">The territory of Saint Helena includes the island group
                 of Tristan da Cunha and Ascension Island.</scopeNote>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Jamestown</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">Jamestown</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Jamestown</narrower>
+            <broader type="isOverseasTerritoryOf" source="us-dos-inr us-cia"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html"
+                source="us-cia" xml:lang="en" script="Latn">Saint Helena, Ascension, and Tristan da
+                Cunha</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/saint-helena"
                 source="us-dos-fsi-oh">Saint Helena</exactMatch>
             <exactMatch type="genc-2a-code" id="SH" source="us-dos-inr"/>
@@ -11412,18 +11538,27 @@
                 Saint-Martin</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="en" script="Latn">St. Martin
                 (Collectivity)</altLabel>
+            <altLabel type="longForm-conventional" source="us-cia" xml:lang="en" script="Latn"
+                >Overseas Collectivity of Saint Martin</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Collectivite
+                d'outre mer de Saint-Martin</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn"
+                >Saint-Martin</altLabel>
             <scopeNote source="us-dos-inr">The island of Saint Martin is divided: the northern
                 three-fifths form the French collectivity of Saint-Martin, while the southern
                 two-fifths (Sint Maarten) is an autonomous territory of the Kingdom of the
                 Netherlands.</scopeNote>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
                 >Marigot</related>
-            <narrower type="hasCapital" source="us-loc" xml:lang="en" script="Latn"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
                 >Marigot</narrower>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isOverseasCollectivityOf" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/rn.html"
+                source="us-cia" xml:lang="en" script="Latn">Saint Martin</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/saint-martin"
                 source="us-dos-fsi-oh">Saint Martin</exactMatch>
             <exactMatch type="genc-2a-code" id="MF" source="us-dos-inr"/>
@@ -11446,6 +11581,10 @@
                 Collectivity of Saint Pierre and Miquelon</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Saint Pierre
                 and Miquelon, Territorial Collectivity of</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Departement de
+                Saint-Pierre et Miquelon</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Saint-Pierre et
+                Miquelon</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">Collectivité
                 territoriale de Saint-Pierre-et-Miquelon</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">Saint-Pierre et
@@ -11456,12 +11595,16 @@
                 Miquelon</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="fr" script="Latn">St-Pierre et
                 Miquelon</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
-                >Saint-Pierre</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">Saint-Pierre</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"/>
+            <broader type="isOverseasCollectivityOf" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/sb.html"
+                source="us-cia" xml:lang="en" script="Latn">Saint Pierre and Miquelon</exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/saint-pierre-and-miquelon" source="us-dos-fsi-oh"
                 >Saint Pierre and Miquelon</exactMatch>
@@ -11486,16 +11629,29 @@
                 Maarten</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Sint
                 Maarten</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="nl" script="Latn">Land Sint
+                Maarten</altLabel>
+            <altLabel type="longForm-local" source="us-cia" xml:lang="en" script="Latn">Country of
+                Sint Maarten</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="nl" script="Latn">Sint
+                Maarten</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="en" script="Latn">Sint
+                Maarten</altLabel>
             <historyNote source="us-dos-inr">The Netherlands Antilles dissolved on October 10, 2010.
                 Curaçao and Sint Maarten (the Dutch two-fifths of the island of Saint Martin) became
                 autonomous territories of the Kingdom of the Netherlands. Bonaire, Saba, and Sint
                 Eustatius now fall under the direct administration of the Netherlands.</historyNote>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
                 >Philipsburg</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Philipsburg</narrower>
+            <broader type="isConstituentCountryWithin" source="us-dos-inr us-cia"
                 id="54a3572d-4c16-40bb-a551-6d79dce0f053">Netherlands</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/nn.html"
+                source="us-cia" xml:lang="en" script="Latn">Sint Maarten</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/sint-maarten"
                 source="us-dos-fsi-oh">Sint Maarten</exactMatch>
             <exactMatch type="genc-2a-code" id="SX" source="us-dos-inr"/>
@@ -11518,14 +11674,24 @@
                 and the South Sandwich Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">South Georgia
                 and the South Sandwich Islands</altLabel>
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn"
+                >SGSSI</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn">Islas Georgias
+                del Sur y Sándwich del Sur</altLabel>
             <scopeNote source="us-dos-inr">South Georgia and the South Sandwich Islands are a U.K.
                 Overseas Territory (also claimed by Argentina).</scopeNote>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <related type="isAdministeredFrom" source="us-cia" xml:lang="en" script="Latn">Falkland
+                Islands (Islas Malvinas)</related>
+            <broader type="isOverseasTerritoryOf" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
-            <broader type="sovereigntyClaimedBy" source="us-dos-inr"
+            <broader type="isClaimedBy" source="us-dos-inr"
                 id="978cfd19-a02c-4ce9-97bf-abb04e6c9d69">Argentina</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/sx.html"
+                source="us-cia" xml:lang="en" script="Latn">South Georgia and the South Sandwich
+                Islands</exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/south-georgia-and-the-south-sandwich-islands"
                 source="us-dos-fsi-oh">South Georgia and the South Sandwich Islands</exactMatch>
@@ -11551,15 +11717,25 @@
                 Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Spratly
                 Islands</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="cmn" script="Hans">南沙群岛</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="zlm" script="Latn">Kepulauan
+                Spratly</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="tl" script="Tglg">Kapuluan ng
+                Kalayaan</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="vi" script="Latn">Quần đảo Trường
+                Sa</altLabel>
             <scopeNote source="us-dos-inr">South China Sea islands claimed in entirety by China and
                 Vietnam and in part by Brunei, the Philippines and Malaysia; each of these states
                 occupies some part of the islands.</scopeNote>
             <!-- 
-            <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
-            <broader type="sovereigntyClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
+            <broader type="isClaimedBy" source="us-dos-inr" id="ccee2a90-6a08-43a0-869a-caa9cb98ea53">China</broader>
+            <broader type="isClaimedBy" source="us-dos-inr" id="cc1f2ee3-168d-4b4f-bbae-85a9a96a10c9">Vietnam</broader>
             -->
             <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
                 source="us-dos-fsi-oh">other</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/pg.html"
+                source="us-cia" xml:lang="en" script="Latn">Spratly Islands</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/spratly-islands"
                 source="us-dos-fsi-oh">Spratly Islands</exactMatch>
             <exactMatch type="genc-2a-code" id="XS" source="us-dos-inr"/>
@@ -11579,12 +11755,17 @@
                 >Svalbard</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Svalbard</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
                 >Longyearbyen</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Longyearbyen</narrower>
+            <broader type="isTerritoryOf" source="us-dos-inr us-cia"
                 id="3eee1546-738e-4717-8f98-7143fe74266f">Norway</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/sv.html"
+                source="us-cia" xml:lang="en" script="Latn">Svalbard</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/svalbard"
                 source="us-dos-fsi-oh">Svalbard</exactMatch>
             <exactMatch type="genc-2a-code" id="XR" source="us-dos-inr"/>
@@ -11607,10 +11788,13 @@
                 >Tokelau</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Tokelau</altLabel>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <broader type="isTerritoryOf" source="us-dos-inr"
                 id="25329a67-f53f-451d-b950-ebc659b05615">New Zealand</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/tl.html"
+                source="us-cia" xml:lang="en" script="Latn">Tokelau</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/tokelau"
                 source="us-dos-fsi-oh">Tokelau</exactMatch>
             <exactMatch type="genc-2a-code" id="TK" source="us-dos-inr"/>
@@ -11633,12 +11817,18 @@
                 Caicos Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Turks and
                 Caicos Islands</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en" script="Latn"
-                >Grand Turk</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <altLabel type="abbreviation" source="us-cia" xml:lang="en" script="Latn">TCI</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">Grand Turk</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn">Grand
+                Turk</narrower>
+            <broader type="isOverseasTerritoryOf" source="us-dos-inr"
                 id="1098709f-4dec-48de-b582-d0a97c9a3027">United Kingdom</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/tk.html"
+                source="us-cia" xml:lang="en" script="Latn">Turks and Caicos Islands></exactMatch>
             <exactMatch type="placesPrevious"
                 id="https://history.state.gov/tags/turks-and-caicos-islands" source="us-dos-fsi-oh"
                 >Turks and Caicos Islands</exactMatch>
@@ -11691,12 +11881,17 @@
                 Virgin Islands</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Virgin
                 Islands, United States</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en" script="Latn"
-                >Charlotte Amalie</related>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">Charlotte Amalie</related>
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
+                >Charlotte Amalie</narrower>
             <broader type="sovereigntyAssertedBy" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/vq.html"
+                source="us-cia" xml:lang="en" script="Latn">Virgin Islands</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/virgin-islands-u-s"
                 source="us-dos-fsi-oh">Virgin Islands, U.S.</exactMatch>
             <exactMatch type="genc-2a-code" id="VI" source="us-dos-inr"/>
@@ -11720,12 +11915,17 @@
                 Island</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Wake
                 Island</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en" script="Latn"
-                >Washington, D.C.</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <altLabel type="variant" source="wikimedia" xml:lang="en" script="Latn">Wake
+                Atoll</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
+                script="Latn">Washington, D.C.</related>
+            <broader type="isTerritoryOf" source="us-dos-inr us-cia"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/wq.html"
+                source="us-cia" xml:lang="en" script="Latn">Wake Island</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/wake-island"
                 source="us-dos-fsi-oh">Wake Island</exactMatch>
             <exactMatch type="genc-2a-code" id="QW" source="us-dos-inr"/>
@@ -11741,12 +11941,28 @@
                 Futuna</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Wallis and
                 Futuna</altLabel>
-            <related type="hasAdministrativeCenter" source="us-dos-inr" xml:lang="en"
+            <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Territoire
+                des Iles Wallis et Futuna</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="fr" script="Latn">Wallis et
+                Futuna</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Territoire des
+                îles Wallis-et-Futuna</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn"
+                >Wallis-et-Futuna</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="wls" script="Latn">Uvea mo
+                Futuna</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fud" script="Latn">Uvea mo
+                Futuna</altLabel>
+            <related type="isAdministeredFrom" source="us-dos-inr us-cia" xml:lang="en"
                 >Mata-Utu</related>
-            <broader type="sovereigntyAssertedBy" source="us-dos-inr"
+            <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en">Mata-Utu</narrower>
+            <broader type="isOverseasCollectivityOf" source="us-dos-inr"
                 id="4d20d503-7872-460d-b2b4-c71d9481a0cf">France</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>
+                 <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/wf.html"
+                source="us-cia" xml:lang="en" script="Latn">Wallis and Futuna</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/wallis-and-futuna"
                 source="us-dos-fsi-oh">Wallis and Futuna</exactMatch>
             <exactMatch type="genc-2a-code" id="WF" source="us-dos-inr"/>
@@ -11769,8 +11985,21 @@
                 Sahara</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Western
                 Sahara</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">الصحراء
+                الغربية</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Latn">aṣ-Ṣaḥrā'
+                al-Gharbīyah</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ber" script="Latn">Taneẓroft
+                Tutrimt</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="es" script="Latn">Sahara
+                Occidental</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">Sahara
+                Occidental</altLabel>
             <broader type="isPartOf-geopoliticalCategory" id="9f7f7b09-b4b3-4283-8da7-b5a21ac1932f"
                 source="us-dos-fsi-oh">other</broader>
+            <exactMatch type="world-factbook"
+                id="https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html"
+                source="us-cia" xml:lang="en" script="Latn">Western Sahara</exactMatch>
             <exactMatch type="placesPrevious" id="https://history.state.gov/tags/western-sahara"
                 source="us-dos-fsi-oh">Western Sahara</exactMatch>
             <exactMatch type="genc-2a-code" id="EH" source="us-dos-inr"/>
