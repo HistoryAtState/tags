@@ -11405,21 +11405,19 @@
             <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q1183" source="wikimedia"
                 xml:lang="en" script="Latn">Puerto Rico</closeMatch>
         </concept>
-        <!-- Reunion -->
+        <!-- Réunion -->
         <concept type="place" created-by="rossat" created-date="2019-07-11"
             lastDateTimeVerified="2019-07-11T20:08:24-04:00">
             <id source="us-dos-fsi-oh" id="0d6bf35e-34f0-4420-92da-6790c0201c7a"/>
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en" script="Latn"
-                >Reunion</prefLabel>
+                >Réunion</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn"
-                >Reunion</prefLabel>
+                >Réunion</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
-                >Reunion</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Réunion</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">La
                 Réunion</altLabel>
-            <scopeNote source="us-dos-inr">Reunion is a first-order administrative divisions of
+            <scopeNote source="us-dos-inr">Réunion is a first-order administrative divisions of
                 overseas France, and is therefore not a dependency or area of special
                 sovereignty.</scopeNote>
             <broader type="isPartOf" source="us-dos-inr" id="4d20d503-7872-460d-b2b4-c71d9481a0cf"
