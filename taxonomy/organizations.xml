@@ -35,6 +35,28 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
                 Nations (UN)</altLabel>
         </concept>
+
+        <concept type="organization" created-by="rossat" created-date="2019-08-05"
+            lastDateTimeVerified="2019-08-05T18:28:28-04:00">
+            <id source="us-dos-fsi-oh" id="36b22f3b-202b-43ea-9c41-d77481753fc6"/>
+            <prefLabel type="shortForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >Department of State</prefLabel>
+            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of State</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of State</altLabel>
+
+            <broader type="isPartOf-place" source="us-dos-fsi-oh"
+                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
+
+            <closeMatch type="lcsh" id="http://id.loc.gov/authorities/names/n80126198"
+                source="us-loc" xml:lang="en">United States. Department of State</closeMatch>
+        </concept>
+
     </collection>
 
+    <!-- Boko Haram -->
+    <!-- Extraordinary African Chambers  -->
+    <!-- U.S. Agency for International Development -->
+    <!--  -->
 </taxonomy>

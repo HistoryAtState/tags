@@ -24,4 +24,33 @@
         <usage-hint/>
     </collection>
 
+    <concept type="event" created-by="rossat" created-date="2019-08-05"
+        lastDateTimeVerified="2019-08-05T11:50:20-04:00">
+        <id source="us-dos-fsi-oh" id="e8210bcf-6709-409f-bb1c-a02c3414ca15"/>
+        <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Chad-Libya conflict, 1978 to
+            1987</prefLabel>
+        <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Chad-Libya
+            conflict</altLabel>
+        <altLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Libya-Chad conflict</altLabel>\
+            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+            >Chadian-Libya conflict</altLabel>
+        <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Libyan-Chadian
+            conflict</altLabel>
+        <altLabel source="us-loc" xml:lang="en" script="Latn"/>
+        <date type="to">1978-01-29</date>
+        <date type="from">1987-09-11</date>
+    </concept>
+
+    <concept type="event" created-by="rossat" created-date="2019-08-05"
+        lastDateTimeVerified="2019-08-05T12:01:01-04:00">
+        <id source="us-dos-fsi-oh" id="cfcd11d7-2788-4b36-9443-c9c63bf62a8f"/>
+        <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Cold War, 1945 to
+            1989</prefLabel>
+        <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+        <altLabel source="us-loc" xml:lang="en" script="Latn"/>
+
+        <date type="from">1945</date>
+        <date type="to">1989</date>
+    </concept>
+
 </taxonomy>

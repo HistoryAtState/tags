@@ -473,5 +473,15 @@
                 <label>World War II</label>
             </concept>
         </concept>
+
+
     </collection>
+
+    <!-- 	peacekeeping and multinational operations
+    <exactMatch type="lcsh" id="" source="us-loc" xml:lang="en" script="Latn">	Peacekeeping and multinational operations</exactMatch>
+    -->
+    <!-- peacekeeping forces, European Union -->
+    <!-- petroleum industry and trade 
+    <exactMatch type="lcsh" id="http://id.loc.gov/authorities/subjects/sh85100430" source="us-loc" xml:lang="en" script="Latn">Petroleum industry and trade</exactMatch>
+    -->
 </taxonomy>
