@@ -23682,7 +23682,7 @@
             <tag id="chad"/>
             <tag id="benin"/>
             <tag id="gabon"/>
-       </tags>
+        </tags>
         <unofficial-tags-tbd/>
     </study>
 
@@ -23747,6 +23747,36 @@
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
         </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>Foreign Relations of the United States, 1977–1980, Volume XIX, South Asia</title>
+        <link>https://history.state.gov/historicaldocuments/frus1977-80v19</link>
+        <tags>
+            <tag id="carter-jimmy"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="afghanistan"/>
+            <tag id="bangladesh"/>
+            <tag id="india"/>
+            <tag id="maldives"/>
+            <tag id="nepal"/>
+            <tag id="pakistan"/>
+            <tag id="sri-lanka"/>
+            <tag id="congressional-relations"/>
+            <tag id="personnel-foreign-service"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="peace"/>
+            <tag id="human-rights"/>
+            <tag id="politico-military-issues"/>
+            <tag id="warfare"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="foreign-aid"/>
+            <tag id="narcotics"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="covert-actions"/>
+        </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1977-80, volume XX, Eastern Europe</title>
