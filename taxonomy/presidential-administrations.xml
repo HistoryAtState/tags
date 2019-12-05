@@ -4,13 +4,16 @@
     <subtitle>Collection: Presidential Administrations</subtitle>
     <description>
         <p>The Subject Taxonomy of the History of U.S. Foreign Relations is a hierarchical taxonomy
-            that consists of categories and tags. The taxonomy is organized into ___ top-level
+            that consists of categories and tags. The taxonomy is organized into nine (9) top-level
             categories: <list>
                 <item>Agreements and Mandates</item>
                 <item>Events</item>
+                <item>Genres/Forms</item>
                 <item>Organizations</item>
                 <item>People</item>
                 <item>Places</item>
+                <item>Presidential Administrations</item>
+                <item>Secretarial Tenures</item>
                 <item>Topics</item>
             </list> Below these top-level categories are additional nested levels of categories and
             tags, becoming more specific at deeper levels.</p>
@@ -233,7 +236,7 @@
         <collection created-by="rossat" created-date="2019-06-25">
             <id>us-pres-1981-1989</id>
             <label type="longForm">United States. President (1981–1989 : Reagan, Ronald)</label>
-            <label type="shortForm">1981–1989 : Reagan, Ronald)</label>
+            <label type="shortForm">1981–1989 : Reagan, Ronald</label>
         </collection>
         <collection created-by="rossat" created-date="2019-06-25">
             <id>us-pres-1989-1993</id>

@@ -4,13 +4,16 @@
     <subtitle>Collection: Events</subtitle>
     <description>
         <p>The Subject Taxonomy of the History of U.S. Foreign Relations is a hierarchical taxonomy
-            that consists of categories and tags. The taxonomy is organized into ___ top-level
+            that consists of categories and tags. The taxonomy is organized into nine (9) top-level
             categories: <list>
                 <item>Agreements and Mandates</item>
                 <item>Events</item>
+                <item>Genres/Forms</item>
                 <item>Organizations</item>
                 <item>People</item>
                 <item>Places</item>
+                <item>Presidential Administrations</item>
+                <item>Secretarial Tenures</item>
                 <item>Topics</item>
             </list> Below these top-level categories are additional nested levels of categories and
             tags, becoming more specific at deeper levels.</p>
@@ -52,5 +55,15 @@
         <date type="from">1945</date>
         <date type="to">1989</date>
     </concept>
+
+    <!-- 
+        The Holocaust, 1933 to 1945 [variant: Holocaust, The; The Shoah; LC: Holocaust, Jewish (1939-1945)] [source: https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust]
+        Iran-Iraq War, 1980 to 1988
+        Iraq-Kuwait Crisis, 1990 to 1991 
+        Iraq War, 2003 to 2011
+        Persian Gulf War, 1991
+        September 11 Terrorist Attacks, 2001
+        World War, 1939 to 1945
+    -->
 
 </taxonomy>
