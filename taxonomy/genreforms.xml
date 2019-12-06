@@ -40,7 +40,7 @@
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">AV
                 materials</altLabel>
 
-            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/genreForms" source="us-loc"
+            <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms" source="us-loc"
                 xml:lang="en" script="Latn"/>
             <exactMatch type="viaf" id="" source="oclc" xml:lang="en"/>
             <closeMatch type="fast" id="" source="oclc" xml:lang="en" script="Latn"/>
@@ -74,7 +74,7 @@
             <broader id="e203c43d-d692-4835-8f24-70858c16971d" source="us-dos-fsi-oh">Audiovisual
                 Materials</broader>
 
-            <closeMatch type="lcnaf" id="http://id.loc.gov/authorities/genreForms/gf2011026406"
+            <closeMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2011026406"
                 source="us-loc" xml:lang="en" script="Latn">motion pictures</closeMatch>
             <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en" script="Latn"/>
 
@@ -100,7 +100,7 @@
             <broader id="e203c43d-d692-4835-8f24-70858c16971d" source="us-dos-fsi-oh">Audiovisual
                 Materials</broader>
 
-            <exactMatch type="lcnaf" id="http://id.loc.gov/authorities/genreForms/gf2011026594"
+            <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2011026594"
                 source="us-loc" xml:lang="en" script="Latn">Sound recordings</exactMatch>
             <closeMatch type="fast" id="http://id.worldcat.org/fast/1411639" source="oclc"
                 xml:lang="en" script="Latn">Sound recordings</closeMatch>
@@ -131,11 +131,11 @@
             <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">personal
                 correspondence</altLabel>
 
-            <closeMatch type="lcnaf" id="http://id.loc.gov/authorities/genreForms/gf2014026054"
+            <closeMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2014026054"
                 source="us-loc" xml:lang="en" script="Latn">Business correspondence</closeMatch>
             <closeMatch type="fast" id="http://id.worldcat.org/fast/1919948" source="oclc"
                 xml:lang="en" script="Latn">Business correspondence</closeMatch>
-            <closeMatch type="lcnaf" id="http://id.loc.gov/authorities/genreForms/gf2014026141"
+            <closeMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2014026141"
                 source="us-loc" xml:lang="en" script="Latn">Personal correspondence</closeMatch>
             <closeMatch type="fast" id="http://id.worldcat.org/fast/1919897" source="oclc"
                 xml:lang="en" script="Latn">Personal correspondence</closeMatch>
@@ -354,7 +354,7 @@
             <broader id="8c22b7f9-95e3-442a-8c90-88b688f06641" source="us-dos-fsi-oh"
                 >Correspondence</broader>
 
-            <closeMatch type="lcnaf" id="http://id.loc.gov/authorities/genreForms/gf2016026100"
+            <closeMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2016026100"
                 source="us-loc" xml:lang="en" script="Latn">Messages (Official
                 communications)</closeMatch>
             <closeMatch type="fast" id="http://id.worldcat.org/fast/1941341" source="oclc"
@@ -396,70 +396,70 @@
 
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Diplomatic
                 Cables</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="ar" script="Latn">برقية
-                دبلوماسية</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="ca" script="Latn">cable
-                diplomàtic</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="de" script="Latn"
-                >Drahtbericht</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="es" script="Latn">Cable
-                diplomático</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="fa" script="Latn">کابل
-                سیاسی</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="fr" script="Latn">Télégramme
-                diplomatique</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="id" script="Latn">Kabel
-                diplomatik</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="ru" script="Latn"
-                >Дипломатическая телеграмма</altLabel>
 
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="ar" script="Latn">برقية
+                دبلوماسية</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="ca" script="Latn">cable
+                diplomàtic</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="de" script="Latn"
+                >Drahtbericht</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="es" script="Latn">Cable
+                diplomático</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="fa" script="Latn">کابل
+                سیاسی</altLabel>
+            <altLabel ttype="variant" source="wikimedia" xml:lang="fr" script="Latn">Télégramme
+                diplomatique</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="id" script="Latn">Kabel
+                diplomatik</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="ru" script="Latn">Дипломатическая
+                телеграмма</altLabel>
+
+            <altLabel type="variant" source="wikimedia" xml:lang="en" script="Latn"
                 >Telegrams</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="az" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="az" script="Latn"
                 >Teleqram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="bg" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="bg" script="Latn"
                 >Телеграма</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="de" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="de" script="Latn"
                 >Telegramm</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="eo" script="Latn">Telegramo
+            <altLabel type="variant" source="wikimedia" xml:lang="eo" script="Latn">Telegramo
                 (telegrafio)</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="et" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="et" script="Latn"
                 >Telegramm</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="fi" script="Latn"
-                >Sähke</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="fr" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="fi" script="Latn">Sähke</altLabel>
+            <altLabel type="variant" source="wikimedia" xml:lang="fr" script="Latn"
                 >Télégramme</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="hu" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="hu" script="Latn"
                 >Távirat</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="id" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="id" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="it" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="it" script="Latn"
                 >Telegramma</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="kk" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="kk" script="Latn"
                 >Телеграмма</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="nl" script="Latn">Telegram
+            <altLabel type="variant" source="wikimedia" xml:lang="nl" script="Latn">Telegram
                 (telegrafie)</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="nn" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="nn" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="no" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="no" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="pl" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="pl" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="ro" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="ro" script="Latn"
                 >Telegramă</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="ru" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="ru" script="Latn"
                 >Телеграмма</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="sh" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="sh" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="sr" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="sr" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="sv" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="sv" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="sv" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="sv" script="Latn"
                 >Telegram</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="uk" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="uk" script="Latn"
                 >Телеграма</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="uz" script="Latn"
+            <altLabel type="variant" source="wikimedia" xml:lang="uz" script="Latn"
                 >Telegramma</altLabel>
 
             <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">diplomatic
@@ -482,6 +482,918 @@
                 source="wikimedia" xml:lang="en" script="Latn">diplomatic cable</closeMatch>
             <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q1522225"
                 source="wikimedia" xml:lang="en" script="Latn">telegram</closeMatch>
+
+            <!-- Cross-references -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T15:18:32-05:00">
+
+                <id source="us-dos-fsi-oh" id="cd5dfb81-a0a1-469b-ab22-f8e8670e0375"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Cross-references</prefLabel>
+
+                <altLabel type="variant" source="wikimedia" xml:lang="az" script="Latn">Çarpaz
+                    istinad</altLabel>
+                <altLabel type="variant" source="wikimedia" xml:lang="cs" script="Latn">Křížový
+                    odkaz</altLabel>
+                <altLabel type="variant" source="wikimedia" xml:lang="de" script="Latn"
+                    >Querverweis</altLabel>
+                <altLabel type="variant" source="wikimedia" xml:lang="el" script="Latn"
+                    >Παραπομπή</altLabel>
+                <altLabel type="variant" source="wikimedia" xml:lang="fr" script="Latn">Référence
+                    croisée</altLabel>
+                <altLabel type="variant" source="wikimedia" xml:lang="nl" script="Latn"
+                    >Doorverwijzing (naslagwerken)</altLabel>
+                <altLabel type="variant" source="wikimedia" xml:lang="pt" script="Latn">Referência
+                    cruzada</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >cross-reference</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >cross-references</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >reference</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >references</altLabel>
+
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q1302249"
+                    source="wikimedia" xml:lang="en" script="Latn">cross-reference</closeMatch>
+
+            </concept>
+
+            <!-- Graphic Materials -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T15:28:18-05:00">
+
+                <id source="us-dos-fsi-oh" id="f9730c67-2a9f-45cc-a5e3-c6f6161ccf21"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Graphic
+                    Materials</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Graphic
+                    works</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Graphics</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Visual
+                    Materials</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Graphic
+                    Material</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">graphic
+                    material</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">graphic
+                    materials</altLabel>
+
+                <broader id="" source="us-dos-fsi-oh"/>
+
+                <definition>Visual and informational works, including but not limited to charts,
+                    diagrams, illustrations, infographics, photographs, maps, and
+                    tables.</definition>
+
+                <narrowMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2014026113"
+                    source="us-loc" xml:lang="en" script="Latn">Informational works</narrowMatch>
+                <narrowMatch type="fast" id="http://id.worldcat.org/fast/1919930" source="oclc"
+                    xml:lang="en" script="Latn">Informational works</narrowMatch>
+
+                <narrowMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2017027266"
+                    source="us-loc" xml:lang="en" script="Latn">Visual works</narrowMatch>
+                <narrowMatch type="fast" id="http://id.worldcat.org/fast/1986262" source="oclc"
+                    xml:lang="en" script="Latn">Visual works</narrowMatch>
+
+            </concept>
+
+            <!-- Charts and Tables -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T15:38:58-05:00">
+
+                <id source="us-dos-fsi-oh" id="d454d039-b612-401f-bfc0-11c0b5f81ff9"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Charts and
+                    Tables</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Charts</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Tables</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Chart</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >chart</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >charts</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Chart and
+                    Table</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">chart and
+                    table</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">charts
+                    and tables</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Graph</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >graph</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Graphs</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >graphs</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Table</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >table</altLabel>
+
+                <broader id="f9730c67-2a9f-45cc-a5e3-c6f6161ccf21" source="us-dos-fsi-oh">Graphic
+                    Materials</broader>
+
+                <broadMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2014026113"
+                    source="us-loc" xml:lang="en" script="Latn">Informational works</broadMatch>
+                <broadMatch type="fast" id="http://id.worldcat.org/fast/1919930" source="oclc"
+                    xml:lang="en" script="Latn">Informational works</broadMatch>
+
+                <narrowMatch type="wikidata" id="https://www.wikidata.org/wiki/Q28923"
+                    source="wikimedia" xml:lang="en" script="Latn">chart</narrowMatch>
+                <narrowMatch type="wikidata" id="https://www.wikidata.org/wiki/Q496946"
+                    source="wikimedia" xml:lang="en" script="Latn">table</narrowMatch>
+            </concept>
+
+            <!-- Illustrations -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T17:41:24-05:00">
+
+                <id source="us-dos-fsi-oh" id="b8e29d7c-3d48-4936-b7a5-99d7b08a529b"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Illustrations</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Images</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Pictorial Representations</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Pictorial Works</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Pictures</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Illustration</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >illustration</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >illustrations</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Image</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >image</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >images</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Pictorial
+                    Representation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">pictorial
+                    representation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">pictorial
+                    representations</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Pictorial
+                    Work</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">pictorial
+                    work</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">pictorial
+                    works</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Picture</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >picture</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >pictures</altLabel>
+
+                <broader id="f9730c67-2a9f-45cc-a5e3-c6f6161ccf21" source="us-dos-fsi-oh">Graphic
+                    Materials</broader>
+
+                <closeMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2017027251"
+                    source="us-loc" xml:lang="en" script="Latn">Pictures</closeMatch>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1986252" source="oclc"
+                    xml:lang="en" script="Latn">Pictures</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q178659"
+                    source="wikimedia" xml:lang="en" script="Latn">illustration</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q861181"
+                    source="wikimedia" xml:lang="en" script="Latn">illustration</closeMatch>
+
+            </concept>
+
+            <!-- Maps -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T17:50:50-05:00">
+
+                <id source="us-dos-fsi-oh" id="5ce29ee3-ef82-4a29-a87b-ec1d8b4e32a7"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Maps</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Cartographic Materials</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Cartography</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Map</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >map</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >maps</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Cartographic Material</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >cartographic material</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >cartographic materials</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Cartography</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >cartography</altLabel>
+
+                <broader id="f9730c67-2a9f-45cc-a5e3-c6f6161ccf21" source="us-dos-fsi-oh">Graphic
+                    Materials</broader>
+
+                <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2011026387"
+                    source="us-loc" xml:lang="en" script="Latn">Maps</exactMatch>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1423704" source="oclc"
+                    xml:lang="en" script="Latn">Maps</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q61868351"
+                    source="wikimedia" xml:lang="en" script="Latn">map</closeMatch>
+
+            </concept>
+
+            <!-- Photographs -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T17:57:52-05:00">
+
+                <id source="us-dos-fsi-oh" id="930eb20e-1484-4bb8-b893-a69fe155f184"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Photographs</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Photos</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Photo</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >photo</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >photos</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Photograph</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >photograph</altLabel>
+
+                <broader id="f9730c67-2a9f-45cc-a5e3-c6f6161ccf21" source="us-dos-fsi-oh">Graphic
+                    Materials</broader>
+
+                <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2017027249"
+                    source="us-loc" xml:lang="en" script="Latn">Photographs</exactMatch>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1423689" source="oclc"
+                    xml:lang="en" script="Latn">Photographs</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q125191"
+                    source="wikimedia" xml:lang="en" script="Latn">photograph</closeMatch>
+
+            </concept>
+
+            <!-- Intelligence Products -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T18:26:28-05:00">
+
+                <id source="us-dos-fsi-oh" id="20eb3d47-83a9-4bc5-ac9d-eee09df6f660"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Intelligence
+                    Products</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <example type="use-in-sentence">“The CIA's Directorate of Analysis produces a number
+                    of intelligence products in support of customers in the US
+                    government.”</example>
+
+            </concept>
+
+            <!-- Intelligence Briefs -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T19:17:28-05:00">
+
+                <id source="us-dos-fsi-oh" id="f8a8e40e-cb1f-4769-8ce9-07132565fdd0"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Intelligence
+                    Briefs</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Intelligence Brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >intelligence brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >intelligence briefs</altLabel>
+
+                <broader id="20eb3d47-83a9-4bc5-ac9d-eee09df6f660" source="us-dos-fsi-oh"
+                    >Intelligence Products</broader>
+
+            </concept>
+
+            <!-- Intelligence Cables -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T19:31:50-05:00">
+
+                <id source="us-dos-fsi-oh" id="f457d034-f7d7-44b8-a3a7-90eb94522d79"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Intelligence
+                    Cables</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Intelligence Cable</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >intelligence cable</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >intelligence cables</altLabel>
+
+                <broader id="20eb3d47-83a9-4bc5-ac9d-eee09df6f660" source="us-dos-fsi-oh"
+                    >Intelligence Products</broader>
+
+                <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/___"
+                    source="us-loc" xml:lang="en" script="Latn"/>
+                <closeMatch type="fast" id="" source="oclc" xml:lang="en" script="Latn"/>
+                <closeMatch type="wikidata" id="" source="wikimedia" xml:lang="en" script="Latn"/>
+
+            </concept>
+
+            <!-- President's Daily Briefs -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T19:43:33-05:00">
+
+                <id source="us-dos-fsi-oh" id="98be4949-9dad-4e52-ad44-9d34f2e93ba4"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">President's Daily
+                    Briefs</prefLabel>
+
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PDBs</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PDB</altLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >President's Daily Briefings</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >President's Daily Bulletins</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Daily Briefs</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >President's Daily Brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >president's daily brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >president's daily briefs</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >President's Daily Briefing</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >president's daily briefing</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >President's Daily Bulletin</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >president's daily bulletin</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >president's daily bulletins</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Daily Brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >presidential daily brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >presidential daily briefs</altLabel>
+
+                <definition>The President's Daily Brief (PDB) is a daily summary of high-level,
+                    all-source intelligence information and analysis produced for the President of
+                    the United States. Targeted at the key national security issues and concerns of
+                    the President, the PDB is distributed only to the President, Vice President, and
+                    a select group of Cabinet-level officials designated by the President. The PDB
+                    is coordinated and delivered by the Office of the Director of National
+                    Intelligence (ODNI) with contributions from the Central Intelligence Agency and
+                    other U.S. Intelligence Community elements.</definition>
+
+                <historyNote>The PDB has been presented, in some form, to the United States
+                    President since 1946. In 2014, the PDB transitioned from a print product to
+                    electronic delivery at the request of then-President Barack Obama.</historyNote>
+
+                <broader id="20eb3d47-83a9-4bc5-ac9d-eee09df6f660" source="us-dos-fsi-oh"
+                    >Intelligence Products</broader>
+
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q1574438"
+                    source="wikimedia" xml:lang="en" script="Latn">President's Daily
+                    Brief</closeMatch>
+            </concept>
+
+            <!-- Legal Briefs and Proceedings -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T20:12:36-05:00">
+
+                <id source="us-dos-fsi-oh" id="4a4177e7-caac-405c-9afd-45ebff7e8589"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Legal Briefs and
+                    Proceedings</prefLabel>
+
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Briefs
+                    and Records</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Court
+                    Records</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Legal
+                    Briefs</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Legal
+                    Briefs and Records</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Legal
+                    Proceedings</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Legal
+                    Brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">legal
+                    brief</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">legal
+                    briefs</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Legal
+                    Proceeding</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">legal
+                    proceeding</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">legal
+                    proceedings</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Court
+                    Record</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">court
+                    record</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">court
+                    records</altLabel>
+
+                <definition>Documents representing the arguments of one or more parties and other
+                    documents submitted to, or generated by, a court in a particular
+                    case.</definition>
+
+                <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2011026524"
+                    source="us-loc" xml:lang="en" script="Latn">Records and briefs</exactMatch>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1774301" source="oclc"
+                    xml:lang="en" script="Latn">Records and briefs</closeMatch>
+
+            </concept>
+
+            <!-- Meeting and Conversation Records -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T20:24:34-05:00">
+
+                <id source="us-dos-fsi-oh" id="1cc9c045-0726-4b0a-88fd-99931341636b"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Meeting and
+                    Conversation Records</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Conversation Records</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Meeting
+                    Records</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Conversation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >conversation</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >conversation records</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >conversation records</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >conversation records</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Conversations</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >conversations</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Meeting</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >meeting</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Meetings</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >meetings</altLabel>
+
+            </concept>
+
+            <!-- Meeting Minutes -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:01:41-05:00">
+
+                <id source="us-dos-fsi-oh" id="9748911c-fc65-4ccb-a357-b7609b53fbf5"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Meeting
+                    Minutes</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Minutes</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">meeting
+                    minutes</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >minutes</altLabel>
+
+                <broader id="1cc9c045-0726-4b0a-88fd-99931341636b" source="us-dos-fsi-oh">Meeting
+                    and Conversation Records</broader>
+
+                <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2014026128"
+                    source="us-loc" xml:lang="en" script="Latn">Minutes (Records)</exactMatch>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1919940" source="oclc"
+                    xml:lang="en" script="Latn">Minutes (Records)</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q2085515"
+                    source="wikimedia" xml:lang="en" script="Latn">minutes</closeMatch>
+
+            </concept>
+
+            <!-- Memoranda of Conversation -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:05:51-05:00">
+
+                <id source="us-dos-fsi-oh" id="6804f979-79f3-46df-b1fb-66c7ab3e6c05"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Memoranda of
+                    Conversation</prefLabel>
+
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memcons</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memorandum of a conversation</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memos to File</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memoranda to File</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memcon</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memcon</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memcons</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memo to File</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memo to File</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memos to File</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memoranda to file</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memorandum to File</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memorandum to file</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">memoranda
+                    of Conversation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memorandum of Conversation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memorandum of Conversation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Memorandums of Conversation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >memorandums of Conversation</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <broader id="1cc9c045-0726-4b0a-88fd-99931341636b" source="us-dos-fsi-oh">Meeting
+                    and Conversation Records</broader>
+
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q30693565"
+                    source="wikimedia" xml:lang="en" script="Latn">Memorandum of
+                    conversation</closeMatch>
+
+                <definition>Contemporanous documentation of a conversation in the form of a written
+                    memorandum. Used regularly in the United States government, memoranda of
+                    conversation often include the date and time of the meeting, location, and
+                    participants as well as notes and transcribed portions of
+                    conversations.</definition>
+
+            </concept>
+
+            <!-- Transcripts -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:23:59-05:00">
+
+                <id source="us-dos-fsi-oh" id="7309e688-89dd-4fc4-9d77-570be83f0351"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Transcripts</prefLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Transcript</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >transcript</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >transcripts</altLabel>
+
+                <broader id="1cc9c045-0726-4b0a-88fd-99931341636b" source="us-dos-fsi-oh">Meeting
+                    and Conversation Records</broader>
+
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q17142652"
+                    source="wikimedia" xml:lang="en" script="Latn">transcript</closeMatch>
+
+            </concept>
+
+            <!-- Papers and Reports -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:34:47-05:00">
+
+                <id source="us-dos-fsi-oh" id="10cd455d-fcec-48bc-84ad-854a7fc2db96"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Papers and
+                    Reports</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Paper</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >paper</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >papers</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">papers
+                    and reports</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Report</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >report</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >reports</altLabel>
+
+                <broader id="1cc9c045-0726-4b0a-88fd-99931341636b" source="us-dos-fsi-oh">Meeting
+                    and Conversation Records</broader>
+
+                <narrowMatch type="wikidata" id="https://www.wikidata.org/wiki/Q10870555"
+                    source="wikimedia" xml:lang="en" script="Latn">report</narrowMatch>
+
+            </concept>
+
+            <!-- Printed Publications -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:42:20-05:00">
+
+                <id source="us-dos-fsi-oh" id="49736164-3c0e-481c-a495-fd1e0c269dbd"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Publications</prefLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Publication</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >publication</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >publications</altLabel>
+
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q732577"
+                    source="wikimedia" xml:lang="en" script="Latn">publication</closeMatch>
+
+            </concept>
+
+            <!-- Articles -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:47:44-05:00">
+
+                <id source="us-dos-fsi-oh" id="228b2ef9-d81c-468f-92c8-bc22deee3bee"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Articles</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Journal
+                    Articles</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Magazine
+                    Articles</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Newspaper Articles</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Periodicals</altLabel>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Article</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >article</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >articles</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Magazine
+                    Article</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">magazine
+                    article</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">magazine
+                    articles</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Newspaper
+                    Article</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">newspaper
+                    article</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">newspaper
+                    articles</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Periodical</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >periodical</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >periodicals</altLabel>
+
+                <broader id="49736164-3c0e-481c-a495-fd1e0c269dbd" source="us-dos-fsi-oh"
+                    >Publications</broader>
+
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q191067"
+                    source="wikimedia" xml:lang="en" script="Latn">article</closeMatch>
+
+            </concept>
+
+            <!-- Pamphlets -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:55:20-05:00">
+
+                <id source="us-dos-fsi-oh" id="fb9a594d-b2b3-4f9f-88b9-01043d9dda3c"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Pamphlets</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"/>
+
+                <broader id="49736164-3c0e-481c-a495-fd1e0c269dbd" source="us-dos-fsi-oh"
+                    >Publications</broader>
+
+                <broadMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2015026053"
+                    source="us-loc" xml:lang="en" script="Latn">Tracts (Ephemera)</broadMatch>
+                <closeMatch type="fast" id="http://id.worldcat.org/fast/1922572" source="oclc"
+                    xml:lang="en" script="Latn">Tracts (Ephemera)</closeMatch>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q190399"
+                    source="wikimedia" xml:lang="en" script="Latn">pamphlet</closeMatch>
+
+                <definition>Unbound booklet containing text.</definition>
+
+            </concept>
+
+            <!-- National Security Directives -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T21:57:36-05:00">
+
+                <id source="us-dos-fsi-oh" id="ff1ba812-c9a3-4e20-8349-48a614c135a4"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">National Security
+                    Directives</prefLabel>
+
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSCID</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSAM</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSSM</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSDM</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PRM</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSSD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSDD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSR</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PRD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PDD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSPD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PSD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >PPD</altLabel>
+                <altLabel type="abbreviation" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >NSPM</altLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Council Intelligence Directive</altLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Action Memorandum</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Study Memorandum</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Decision Memorandum</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Review Memorandum</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Study Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Decision Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Review</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Review Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Decision Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Presidential Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Study Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Presidential Policy Directive</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Presidential Memorandum</altLabel>
+
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">National
+                    Security Directive</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">national
+                    security directive</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">national
+                    security directives</altLabel>
+
+                <broader id="49736164-3c0e-481c-a495-fd1e0c269dbd" source="us-dos-fsi-oh"
+                    >Publications</broader>
+
+
+                <exactMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/___"
+                    source="us-loc" xml:lang="en" script="Latn"/>
+                <closeMatch type="fast" id="" source="oclc" xml:lang="en" script="Latn"/>
+                <closeMatch type="wikidata" id="https://www.wikidata.org/wiki/Q7241482"
+                    source="wikimedia" xml:lang="en" script="Latn">National security
+                    directive</closeMatch>
+
+                <definition>Specific form of Executive Order that states Presidential guidance on
+                    United States foreign policy, military policy, and other national security
+                    matters. Issued by the President with the advice and consent of the National
+                    Security Council, national security directives state requirements for the
+                    executive branch carry the force and effect of law.</definition>
+
+                <historyNote>Since the founding of President Hary Truman's National Security Council
+                    in 1947, every United States President has issued national security directives.
+                    Each Presidential Administration chooses its own nomenclature for these
+                    directives.</historyNote>
+
+            </concept>
+
+            <!-- Speeches and Addresses -->
+
+            <concept type="genreform" created-by="rossat" created-date="2019-12-05"
+                lastDateTimeVerified="2019-12-05T22:14:03-05:00">
+
+                <id source="us-dos-fsi-oh" id="4de4a690-4e9b-4f54-bd92-1fcf8476243d"/>
+                <prefLabel source="us-dos-fsi-oh" xml:lang="en" script="Latn">Speeches and
+                    Addresses</prefLabel>
+
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Addresses</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Lectures</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Public
+                    Addresses</altLabel>
+                <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Speeches</altLabel>
+
+
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Speech</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >speech</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >speeches</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >Address</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >address</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                    >addresses</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Public
+                    Address</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">public
+                    address</altLabel>
+                <altLabel type="hidden" source="us-dos-fsi-oh" xml:lang="en" script="Latn">public
+                    addresses</altLabel>
+
+                <narrowMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2014026122"
+                    source="us-loc" xml:lang="en" script="Latn">Lectures</narrowMatch>
+                <narrowMatch type="fast" id="http://id.worldcat.org/fast/1919935" source="oclc"
+                    xml:lang="en" script="Latn">Lectures</narrowMatch>
+                <narrowMatch type="lcgft" id="http://id.loc.gov/authorities/genreForms/gf2011026363"
+                    source="us-loc" xml:lang="en" script="Latn">Speeches</narrowMatch>
+                <narrowMatch type="fast" id="http://id.worldcat.org/fast/1774286" source="oclc"
+                    xml:lang="en" script="Latn">Speeches</narrowMatch>
+
+                <narrowMatch type="wikidata" id="https://www.wikidata.org/wiki/Q861911"
+                    source="wikimedia" xml:lang="en" script="Latn">speech</narrowMatch>
+
+            </concept>
 
         </concept>
 
