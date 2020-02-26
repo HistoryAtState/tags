@@ -22813,6 +22813,49 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>Foreign Relations of the United States, 1969-1976, Volume E-9, Part 2, Documents on
+            the Middle East Region, 1973-1976</title>
+        <link>https://history.state.gov/historicaldocuments/frus1969-76ve09p2</link>
+        <tags>
+            <tag id="near-east"/>
+            <tag id="bahrain"/>
+            <tag id="egypt"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="jordan"/>
+            <tag id="kuwait"/>
+            <tag id="lebanon"/>
+            <tag id="libya"/>
+            <tag id="oman"/>
+            <tag id="qatar"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="united-arab-emirates"/>
+            <tag id="yemen"/>
+            <tag id="south-and-central-asia"/>
+            <tag id="india"/>
+            <tag id="pakistan"/>
+            <tag id="russia"/>
+            <tag id="british-indian-ocean-territory"/>
+            <tag id="united-kingdom"/>
+            <tag id="cuba"/>
+            <tag id="china"/>
+            <tag id="ethiopia"/>
+            <tag id="somalia"/>
+            <tag id="arms-transfers"/>
+            <tag id="energy-and-natural-resources"/>
+            <tag id="foreign-aid"/>
+            <tag id="foreign-investment"/>
+            <tag id="organization-of-petroleum-exporting-countries"/>
+            <tag id="military-bases"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="ford-gerald"/>
+            <tag id="kissinger-henry-a"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
         <title>FRUS, 1969-1976, volume E-10, Documents on American Republics, 1969-1972</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76ve10</link>
         <tags>
@@ -23682,7 +23725,7 @@
             <tag id="chad"/>
             <tag id="benin"/>
             <tag id="gabon"/>
-       </tags>
+        </tags>
         <unofficial-tags-tbd/>
     </study>
 
@@ -23747,6 +23790,36 @@
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
         </unofficial-tags-tbd>
+    </study>
+    <study>
+        <title>Foreign Relations of the United States, 1977–1980, Volume XIX, South Asia</title>
+        <link>https://history.state.gov/historicaldocuments/frus1977-80v19</link>
+        <tags>
+            <tag id="carter-jimmy"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="afghanistan"/>
+            <tag id="bangladesh"/>
+            <tag id="india"/>
+            <tag id="maldives"/>
+            <tag id="nepal"/>
+            <tag id="pakistan"/>
+            <tag id="sri-lanka"/>
+            <tag id="congressional-relations"/>
+            <tag id="personnel-foreign-service"/>
+            <tag id="protection-of-americans-abroad"/>
+            <tag id="peace"/>
+            <tag id="human-rights"/>
+            <tag id="politico-military-issues"/>
+            <tag id="warfare"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="foreign-aid"/>
+            <tag id="narcotics"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="military-intervention-presence-and-withdrawal"/>
+            <tag id="covert-actions"/>
+        </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1977-80, volume XX, Eastern Europe</title>
