@@ -27,7 +27,6 @@
             of persons that are identifiable by a particular name and may act as an
             entity.</definition>
         <usage-hint/>
-
         <concept type="organization" created-by="rossat" created-date="2019-07-11"
             lastDateTimeVerified="2019-07-11T18:00:58-04:00">
             <id source="us-dos-fsi-oh" id="39cb947a-f05e-4053-a58f-001a42b20c61"/>
@@ -38,7 +37,6 @@
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
                 Nations (UN)</altLabel>
         </concept>
-
         <concept type="organization" created-by="rossat" created-date="2019-08-05"
             lastDateTimeVerified="2019-08-05T18:28:28-04:00">
             <id source="us-dos-fsi-oh" id="36b22f3b-202b-43ea-9c41-d77481753fc6"/>
@@ -48,14 +46,140 @@
                 States. Department of State</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
                 States. Department of State</altLabel>
-
             <broader type="isPartOf-place" source="us-dos-fsi-oh"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
-
             <closeMatch type="lcsh" id="http://id.loc.gov/authorities/names/n80126198"
                 source="us-loc" xml:lang="en">United States. Department of State</closeMatch>
         </concept>
-
+        <concept type="organization" created-by="rossat" created-date="2020-02-26"
+            lastDateTimeVerified="2020-02-26T20:34:25-05:00">
+            <id source="us-dos-fsi-oh" id="b918597d-2d4e-4ead-b476-f59aa6782b2a"/>
+            <prefLabel type="shortForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">American
+                Expeditionary Forces</prefLabel>
+            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">American
+                Expeditionary Forces</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">American
+                Expeditionary Forces</altLabel>
+            <altLabel type="acronym" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >AEF</altLabel>
+            <altLabel type="acronym" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >A.E.F.</altLabel>
+            <hiddenLabel type="variant" source="us-loc" xml:lang="en" script="Latn">American
+                Expeditionary Force</hiddenLabel>
+            <hiddenLabel type="acronym" source="us-dos-fsi-oh" xml:lang="en" script="Latn">A. E.
+                F.</hiddenLabel>
+            <sameAs id="t_AEF_1" source="frus1917-72PubDip">American Expeditionary Forces</sameAs>
+            <exactMatch id="http://id.loc.gov/authorities/names/n84077783">United States. Army.
+                American Expeditionary Forces</exactMatch>
+            <exactMatch type="viaf" source="oclc"
+                id="http://viaf.org/viaf/sourceID/LC%7Cn++84077783#skos:Concept"/>
+            <closeMatch id="http://id.worldcat.org/fast/589449" source="oclc">United States. Army.
+                American Expeditionary Forces</closeMatch>
+            <closeMatch id="http://www.wikidata.org/entity/Q464176" source="wikimedia">American
+                Expeditionary Forces</closeMatch>
+            <closeMatch id="http://vocab.getty.edu/ulan/500450040" source="getty">American
+                Expeditionary Forces</closeMatch>
+            <dateRange>
+                <date type="from">1917</date>
+                <date type="to">1920</date>
+            </dateRange>
+        </concept>
+        <concept type="organization" created-by="rossat" created-date="2020-02-26"
+            lastDateTimeVerified="2020-02-26T20:47:23-05:00">
+            <id source="us-dos-fsi-oh" id="1fe94431-0656-4d4c-87fe-0c66a7abdf05"/>
+            <prefLabel type="shortForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Committee
+                on Public Information</prefLabel>
+            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Committee
+                on Public Information</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Committee on
+                Public Information</altLabel>
+            <altLabel type="variant" source="wikimedia">Creel Committee</altLabel>
+            <hiddenLabel
+                id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_Compub_1"
+                source="us-dos-fsi-oh" type="abbreviation">Compub</hiddenLabel>
+            <hiddenLabel
+                id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_CPI_1"
+                source="us-dos-fsi-oh" type="acronym">CPI</hiddenLabel>
+            <sameAs id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_Compub_1"
+                source="us-dos-fsi-oh">Committee on Public Information</sameAs>
+            <sameAs id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_CPI_1"
+                source="us-dos-fsi-oh">Committee on Public Information</sameAs>
+            <exactMatch type="lcsh" source="us-loc"
+                id="http://id.loc.gov/authorities/names/n50080520" xml:id="en">United States.
+                Committee on Public Information</exactMatch>
+            <closeMatch type="wikimedia" id="http://www.wikidata.org/entity/Q1115731">Committee on
+                Public Information</closeMatch>
+            <closeMatch type="oclc" id="http://id.worldcat.org/fast/521680">Committee on Public
+                Information</closeMatch>
+            <closeMatch type="viaf" source="oclc"
+                id="http://viaf.org/viaf/sourceID/LC%7Cn++50080520#skos:Concept"/>
+            <dateRange>
+                <date type="from">1917</date>
+                <date type="to">1919</date>
+            </dateRange>
+        </concept>
+        <concept type="organization" created-by="rossat" created-date="2020-02-27"
+            lastDateTimeVerified="2020-02-27T14:23:51-05:00">
+            <id source="us-dos-fsi-oh" id="fc764c30-56f6-41a8-a786-c2d35e1868dc"/>
+            <prefLabel type="shortForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of War. Military Intelligence Branch</prefLabel>
+            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of War. Military Intelligence Branch</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of War. Military Intelligence Branch</altLabel>
+            <altLabel type="variant" source="" xml:lang="en" script="Latn">United States. War
+                Department. Military Intelligence Branch</altLabel>
+            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Military
+                Intelligence Branch, Department of War General Staff</altLabel>
+            <altLabel id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_MIB_1"
+                source="" type="acronym" xml:lang="en" script="Latn">MIB</altLabel>
+            <sameAs id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_MIB_1"
+                source="us-dos-fsi-oh" type="frus" xml:lang="en" script="Latn">Military Intelligence
+                Branch, Department of War General Staff</sameAs>
+        </concept>  <concept type="organization" created-by="rossat" created-date="2020-02-27"
+            lastDateTimeVerified="2020-02-27T14:52:23-05:00">
+            <id source="us-dos-fsi-oh" id="c4468d21-e68d-4dd9-9e5f-9e53c6ab01e5"/>
+            <prefLabel type="shortForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of War. Military Intelligence Division</prefLabel>
+            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of War. Military Intelligence Division</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
+                States. Department of War. Military Intelligence Division</altLabel>
+            <altLabel type="variant"
+                id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_MID_1"
+                source="us-dos-fsi-oh" xml:lang="en" script="Latn">Military Intelligence Division,
+                Department of War General Staff</altLabel>
+            <altLabel type="acronym"
+                id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_MID_1"
+                source="us-dos-fsi-oh" xml:lang="en" script="Latn">MID</altLabel>
+            <sameAs id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_MID_1"
+                source="us-dos-fsi-oh" type="frus" xml:lang="en" script="Latn">Military Intelligence
+                Division, Department of War General Staff</sameAs>
+        </concept>
+        <concept type="organization" created-by="rossat" created-date="2020-02-27"
+            lastDateTimeVerified="2020-02-27T14:57:56-05:00">
+            <id source="us-dos-fsi-oh" id="3069946a-1e62-48b6-bef7-a6e3822062b7"/>
+            <prefLabel type="shortForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >YMCA</prefLabel>
+            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >YMCA</prefLabel>
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >YMCA</altLabel>
+            <altLabel type="variant" source="us-dos-fsi-oh">Young Men’s Christian
+                Association</altLabel>
+            <altLabel type="acronym" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
+                >Y.M.C.A.</altLabel>
+            <sameAs id="https://history.state.gov/historicaldocuments/frus1917-72PubDip/t_YMCA_1"
+                source="us-dos-fsi-oh" type="frus" xml:lang="en" script="Latn">Young Men’s Christian
+                Association</sameAs>
+            <closeMatch id="http://id.loc.gov/authorities/names/n83009466" source="us-loc"
+                xml:lang="en" script="Latn">YMCA of the USA</closeMatch>
+            <closeMatch id="http://viaf.org/viaf/sourceID/LC%7Cn++83009466#skos:Concept" type="viaf"
+                source="oclc"/>
+            <closeMatch id="_wikidata_" source="wikimedia" xml:lang="en" script="Latn"/>
+            <closeMatch id="http://id.worldcat.org/fast/578335" source="oclc" xml:lang="en"
+                script="Latn">YMCA of the USA</closeMatch>
+        </concept>
     </collection>
 
     <!-- Boko Haram -->
