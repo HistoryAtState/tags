@@ -177,7 +177,7 @@
                 Albania</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >Albania</altLabel>
-            <altLabel type="longForm-local" source="us-cia" xml:lang="sq" script="Latn">Republika e
+            <altLabel type="longForm-local" source="us-cia" xml:lang="sq" script="Latn">Republika e     
                 Shqiperise</altLabel>
             <altLabel type="shortForm-local" source="us-cia" xml:lang="sq" script="Latn"
                 >Shqiperia</altLabel>
@@ -563,7 +563,7 @@
                 >Austria</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Republic of
                 Austria</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Armenia,
+            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Austria,
                 Republic of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="de" script="Latn">Republik
                 Oesterreich</altLabel>
@@ -1755,7 +1755,7 @@
             <closeMatch type="wikidata" id="http://www.wikidata.org/entity/Q929" source="wikimedia"
                 xml:lang="en" script="Latn">Central African Republic</closeMatch>
         </concept>
-        <!-- Chad -->
+        Chad -->
         <concept type="place" created-by="rossat" created-date="2019-06-26"
             lastDateTimeVerified="2019-06-26T13:02:52-04:00">
             <id source="us-dos-fsi-oh" id="35274c76-7d10-4900-994c-d593cff1ebe1"/>
@@ -5096,7 +5096,7 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Madagascar</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Republic
-                ofMadagascar</prefLabel>
+                of Madagascar</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Madagascar,
                 Republic of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
@@ -9578,10 +9578,6 @@
             <historyNote source="us-dos-inr">Claimed by both the Government of the People’s Republic
                 of China and the authorities on Taiwan. Administered by the authorities on
                 Taiwan.</historyNote>
-            <related type="hasDiplomaticRelationsWith" source="us-dos-inr"
-                id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
-            <related type="isMemberOf" source="us-dos-fsi-oh"
-                id="39cb947a-f05e-4053-a58f-001a42b20c61">United Nations</related>
             <narrower type="hasCapital" source="us-dos-inr" xml:lang="en" script="Latn"
                 >Taipei</narrower>
             <broader type="isPartOf-geographicRegion" id="geo-region-eap" source="us-dos-fsi-oh"
@@ -11252,7 +11248,7 @@
                 >Saipan</related>
             <narrower type="hasCapital" source="us-dos-inr us-cia" xml:lang="en" script="Latn"
                 >Saipan</narrower>
-            <broader type="commonwealthInPoliticalUnionWith" source="us-dos-inr us-cia"
+            <broader type="isCommonwealthInPoliticalUnionWith" source="us-dos-inr us-cia"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</broader>
             <broader type="isPartOf-geopoliticalCategory" id="b108d8cc-10d7-47cf-9e2b-fb08772b9d7e"
                 source="us-dos-inr">dependencies and areas of special sovreignty</broader>

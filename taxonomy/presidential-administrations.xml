@@ -156,7 +156,7 @@
             <label type="shortForm">1893–1897 : Cleveland, Grover</label>
         </collection>
         <collection created-by="rossat" created-date="2019-06-25">
-            <id>us-pres-1897-1901 </id>
+            <id>us-pres-1897-1901</id>
             <label type="longForm">United States. President (1897–1901 : McKinley, William)</label>
             <label type="shortForm">1897–1901 : McKinley, William</label>
         </collection>
@@ -240,8 +240,8 @@
         </collection>
         <collection created-by="rossat" created-date="2019-06-25">
             <id>us-pres-1989-1993</id>
-            <label type="longForm">United States. President (1989–1993 : Bush, George H.W.)</label>
-            <label type="shortForm">1989–1993 : Bush, George H.W.</label>
+            <label type="longForm">United States. President (1989–1993 : Bush, George H. W.)</label>
+            <label type="shortForm">1989–1993 : Bush, George H. W.</label>
         </collection>
         <collection created-by="rossat" created-date="2019-06-25">
             <id>us-pres-1993-2001</id>
