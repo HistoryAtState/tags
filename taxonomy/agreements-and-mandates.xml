@@ -17,8 +17,10 @@
                 <item>Topics</item>
             </list> Below these top-level categories are additional nested levels of categories and
             tags, becoming more specific at deeper levels.</p>
-        <!-- Note: Values for xml:lang attributes were sourced from http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry -->
+        
     </description>
+    
+    <!-- Note: Values for xml:lang attributes were sourced from http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry -->
 
     <collection id="agreements-and-mandates" created-by="rossat" created-date="2019-06-25">
         <id>agreements-and-mandates</id>

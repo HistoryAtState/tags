@@ -1337,7 +1337,7 @@
             <altLabel type="shortForm-local" source="us-cia" xml:lang="bg" script="Latn"
                 >Bulgaria</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="bg" script="Cyrl">Република
-                България </altLabel>
+                България</altLabel>
             <related type="hasDiplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="isMemberOf" source="us-dos-fsi-oh"
@@ -2071,7 +2071,7 @@
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Democratic
                 Republic of the Congo</prefLabel>
             <altLabel type="filing" source="us-dos-inr" xml:lang="en" script="Latn">Congo,
-                Democratic Republic of the (Kinshasa)</altLabel>
+                Democratic Republic of the</altLabel>
             <altLabel type="shortForm-conventional" source="us-cia" xml:lang="en" script="Latn"
                 >DRC</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="fr" script="Latn">Republique
@@ -5154,7 +5154,7 @@
             <altLabel type="shortForm-local" source="us-cia" xml:lang="ny" script="Latn"
                 >Malawi</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="ny" script="Latn">Dziko la
-                Malaŵi </altLabel>
+                Malaŵi</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="tum" script="Latn">Charu cha
                 Malaŵi</altLabel>
             <related type="hasDiplomaticRelationsWith" source="us-dos-inr"
@@ -8100,8 +8100,7 @@
                 prajātāntrika samājavādī janarajaya</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="si" script="Latn">Śrī
                 Laṃkā</altLabel>
-            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Taml">இலங்கை
-                Ilaṅkai</altLabel>
+            <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Taml">இலங்கை</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Taml">இலங்கை ஜனநாயக
                 சோசலிச குடியரசு</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="ta" script="Latn">Ilaṅkai
@@ -8736,14 +8735,14 @@
                 Republic of</altLabel>
             <altLabel type="longForm-local" source="us-cia" xml:lang="ar" script="Latn">Al
                 Jumhuriyah at Tunisiyah</altLabel>
+            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn"
+                >Tunis</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Arab">الجمهورية
                 التونسية</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="ar" script="Latn">al-Jumhūrīyah
                 at-Tūnisīyah</altLabel>
             <altLabel type="endonym" source="wikimedia" xml:lang="fr" script="Latn">République
                 tunisienne</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="ar" script="Latn"
-                >Tunis</altLabel>
             <related type="hasDiplomaticRelationsWith" source="us-dos-inr"
                 id="cde5cd1b-1fdd-430b-a062-6ee57f74ed2b">United States</related>
             <related type="isMemberOf" source="us-dos-fsi-oh"
@@ -9122,15 +9121,14 @@
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en" script="Latn">United
                 States</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">United
-                States</prefLabel>
+                States of America</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
-                States</altLabel>
+                States of America</altLabel>
             <altLabel type="longForm-local" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >United States of America</altLabel>
             <altLabel type="shortForm-local" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >United States</altLabel>
-            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">United
-                States of America</altLabel>
+            <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn">USA</altLabel>
             <altLabel type="variant" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
                 >U.S.A.</altLabel>
             <hiddenLabel type="search" source="us-dos-fsi-oh" xml:lang="en" script="Latn"
@@ -10925,7 +10923,6 @@
             <altLabel type="longForm-local" source="us-cia" xml:lang="pt" script="Latn">Região
                 Administrativa Especial de Macau da República Popular da China </altLabel>
             <altLabel type="variant" source="wikimedia" xml:lang="en" script="Latn">Macao</altLabel>
-            <altLabel type="shortForm-local" source="us-cia" xml:lang="" script="Latn"/>
             <historyNote source="us-dos-inr">Under the Sino-Portuguese Joint Declaration on the
                 Question of Macau signed in 1987, Macau reverted to Chinese control on December 20,
                 1999. It is now a semi-autonomous entity that exists pursuant to international
@@ -11527,7 +11524,7 @@
                 Martin</prefLabel>
             <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Saint
                 Martin</prefLabel>
-            <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Saint
+        <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">SaintZÅ
                 Martin</altLabel>
             <altLabel type="variant" source="us-loc" xml:lang="en" script="Latn">Collectivity of
                 Saint Martin</altLabel>
@@ -11978,7 +11975,7 @@
             <id source="us-dos-fsi-oh" id="6d889227-8ca8-4c0c-a538-baa897b36d1f"/>
             <prefLabel type="shortForm" source="us-dos-inr" xml:lang="en" script="Latn">Western
                 Sahara</prefLabel>
-            <prefLabel type="longForm" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Western
+            <prefLabel type="longForm" source="us-dos-inr" xml:lang="en" script="Latn">Western
                 Sahara</prefLabel>
             <altLabel type="filing" source="us-dos-fsi-oh" xml:lang="en" script="Latn">Western
                 Sahara</altLabel>
