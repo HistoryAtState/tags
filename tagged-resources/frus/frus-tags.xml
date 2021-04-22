@@ -21212,6 +21212,7 @@
             <tag id="nixon-richard"/>
             <tag id="rogers-william-pierce"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
 
     <study>
@@ -24209,6 +24210,21 @@
             <tag id="powell-colin-luther"/>
             <tag id="baker-james-addison"/>
         </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
+        <title>FRUS, 1981-88, volume XI, START I</title>
+        <link>https://history.state.gov/historicaldocuments/frus1981-88v11</link>
+        <tags>
+            <tag id="reagan-ronald"/>
+            <tag id="shultz-george-pratt"/>
+            <tag id="russia"/>
+            <tag id="switzerland"/>
+            <tag id="iceland"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="nuclear-nonproliferation"/>
+           </tags>
         <unofficial-tags-tbd/>
     </study>
     <study>
