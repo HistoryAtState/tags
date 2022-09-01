@@ -1890,6 +1890,10 @@
                 <id>far-eastern-commission</id>
                 <label>Far Eastern Commission</label>
             </tag>
+            <tag created-by="eckrothsl" created-date="2022-09-01">
+                <id>general-agreement-on-tariffs-and-trade</id>
+                <label>General Agreement on Tariffs and Trade</label>
+            </tag>
             <tag created-by="cozensef" created-date="2013-10-15">
                 <id>international-monetary-fund</id>
                 <label>International Monetary Fund</label>
