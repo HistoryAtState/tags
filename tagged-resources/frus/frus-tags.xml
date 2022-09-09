@@ -23189,7 +23189,7 @@
             <tag id="united-kingdom"/>
         </tags>
         <unofficial-tags-tbd/>
-    </study> 
+    </study>
     <study>
         <title>FRUS, 1969-1976, Volume E-16, Documents on Chile, 1969-1973</title>
         <link>https://history.state.gov/historicaldocuments/frus1969-76ve16</link>
@@ -24150,6 +24150,106 @@
         <unofficial-tags-tbd/>
     </study>
     <study>
+        <title>FRUS, 1981-88, volume I, Foundations of Foreign Policy</title>
+        <link>https://history.state.gov/historicaldocuments/frus1981-88v01</link>
+        <tags>
+            <tag id="ford-gerald"/>
+            <tag id="carter-jimmy"/>
+            <tag id="reagan-ronald"/>
+            <tag id="bush-george-h-w"/>
+            <tag id="acheson-dean-gooderham"/>
+            <tag id="rusk-david-dean"/>
+            <tag id="rogers-william-pierce"/>
+            <tag id="kissinger-henry-a"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="haig-alexander-meigs"/>
+            <tag id="shultz-george-pratt"/>
+            <tag id="baker-james-addison"/>
+            <tag id="kenya"/>
+            <tag id="south-africa"/>
+            <tag id="australia"/>
+            <tag id="cambodia"/>
+            <tag id="china"/>
+            <tag id="japan"/>
+            <tag id="north-korea"/>
+            <tag id="south-korea"/>
+            <tag id="taiwan"/>
+            <tag id="thailand"/>
+            <tag id="vietnam"/>
+            <tag id="france"/>
+            <tag id="germany"/>
+            <tag id="iceland"/>
+            <tag id="ireland"/>
+            <tag id="italy"/>
+            <tag id="poland"/>
+            <tag id="portugal"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="spain"/>
+            <tag id="united-kingdom"/>
+            <tag id="egypt"/>
+            <tag id="iran"/>
+            <tag id="iraq"/>
+            <tag id="israel"/>
+            <tag id="jordan"/>
+            <tag id="lebanon"/>
+            <tag id="libya"/>
+            <tag id="saudi-arabia"/>
+            <tag id="syria"/>
+            <tag id="afghanistan"/>
+            <tag id="india"/>
+            <tag id="the-bahamas"/>
+            <tag id="bolivia"/>
+            <tag id="brazil"/>
+            <tag id="canada"/>
+            <tag id="chile"/>
+            <tag id="colombia"/>
+            <tag id="costa-rica"/>
+            <tag id="cuba"/>
+            <tag id="dominican-republic"/>
+            <tag id="ecuador"/>
+            <tag id="el-salvador"/>
+            <tag id="grenada"/>
+            <tag id="guatemala"/>
+            <tag id="haiti"/>
+            <tag id="honduras"/>
+            <tag id="jamaica"/>
+            <tag id="mexico"/>
+            <tag id="nicaragua"/>
+            <tag id="panama"/>
+            <tag id="paraguay"/>
+            <tag id="peru"/>
+            <tag id="uruguay"/>
+            <tag id="venezuela"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="collective-security"/>
+            <tag id="confidence-building-measures"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="foreign-economic-policy"/>
+            <tag id="agriculture"/>
+            <tag id="economic-summit-meetings"/>
+            <tag id="financial-and-monetary-policy"/>
+            <tag id="foreign-aid"/>
+            <tag id="international-organizations"/>
+            <tag id="european-economic-community"/>
+            <tag id="international-monetary-fund"/>
+            <tag id="international-atomic-energy-agency"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="organization-of-american-states"/>
+            <tag id="organization-of-petroleum-exporting-countries"/>
+            <tag id="southeast-asia-treaty-organization"/>
+            <tag id="united-nations"/>
+            <tag id="politico-military-issues"/>
+            <tag id="alliances"/>
+            <tag id="national-security-council"/>
+            <tag id="national-security-policy"/>
+            <tag id="terrorism"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
         <title>FRUS, 1981-88, volume III, Soviet Union, January 1981-January 1983</title>
         <link>https://history.state.gov/historicaldocuments/frus1981-88v03</link>
         <tags>
@@ -24263,7 +24363,7 @@
             <tag id="arms-control-and-disarmament"/>
             <tag id="nuclear-weapons"/>
             <tag id="nuclear-nonproliferation"/>
-           </tags>
+        </tags>
         <unofficial-tags-tbd/>
     </study>
     <study>
