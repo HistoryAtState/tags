@@ -1786,6 +1786,22 @@
                     any other country should not be categorized as anti-Semitic. (References: •
                     https://2009-2017.state.gov/j/drl/rls/fs/2010/122352.htm •
                     https://www.state.gov/defining-anti-semitism/ )</usage-hint>
+                <tag created-by="kinniburghva" created-date="2022-03-20">
+                    <id>antisemitism-europe</id>
+                    <label>Antisemitism: Europe, 1919–1939</label>
+                    <definition>Documents that chronicle the U.S. foreign policy establishment’s response to the rise of anti-Jewish sentiment, discrimination, and actions in Europe in the period between the end of World War I and the start of World War II.</definition>
+                </tag>
+                <tag created-by="kinniburghva" created-date="2022-03-20">
+                    <id>antisemitism-world-war-ii</id>
+                    <label>Antisemitism: World War II</label>
+                    <definition>Documents that chronicle the U.S. foreign policy establishment’s response to the systematic persecution of persons of Jewish descent during World War II.</definition>
+                </tag>
+                <tag created-by="kinniburghva" created-date="2022-03-20">
+                    <id>antisemitism-post-world-war-ii</id>
+                    <label>Antisemitism: Soviet Union and Eastern Europe, post-1945</label>
+                    <definition>Documents that chronicle the the U.S. foreign policy establishment’s response to continued anti-Jewish attitudes and policies in the Soviet Union and
+                        Eastern Europe in the aftermath of World War II.</definition>
+                </tag>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>asylum</id>
@@ -1795,10 +1811,29 @@
                 <id>civil-rights</id>
                 <label>Civil Rights</label>
                 <definition>Citizens’ rights as established by law and protected by national or
-                    state constitution.</definition>
+                    state constitution in domestic and foreign contexts.</definition>
                 <usage-hint>Works on the rights of persons regardless of their legal, socioeconomic
                     or cultural status and as recognized by the international community should be
                     entered under the broader term <ptr target="human-rights"/>.</usage-hint>
+                <tag created-by="kinniburghva" created-date="2022-03-20">
+                    <id>civil-rights-domestic</id>
+                    <label>Civil Rights: Domestic</label>
+                    <definition>Documents that chronicle the civil rights movement against racial segregation and discrimination in the United States, including events and policies leading up to and following the passage of the Civil Rights Act of 1964.</definition>
+                    <usage-hint>Works on the rights of persons regardless of their legal,
+                        socioeconomic or cultural status and as recognized by the international
+                        community should be entered under the broader term <ptr
+                            target="human-rights"/>.</usage-hint>
+                </tag>
+                <tag created-by="kinniburghva" created-date="2022-03-20">
+                    <id>civil-rights-foreign</id>
+                    <label>Civil Rights: Foreign</label>
+                    <definition>Citizens’ rights outside the United States as established by law of a nation or sovereign territory and protected by national or
+                        state constitution.</definition>
+                    <usage-hint>Works on the rights of persons regardless of their legal,
+                        socioeconomic or cultural status and as recognized by the international
+                        community should be entered under the broader term <ptr
+                            target="human-rights"/>.</usage-hint>
+                </tag>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>detainees</id>
@@ -1807,6 +1842,12 @@
                     status of other terms in this taxonomy—i.e., <ptr target="asylum"/> or <ptr
                         target="refugees"/>
                 </definition>
+            </tag>
+            <tag created-by="kinniburghva" created-date="2022-03-20">
+                <id>disability-rights</id>
+                <label>Disability Rights</label>
+                <definition>Includes policies, programs, negotiations, and treatment related to the equal employment, accomodations, and
+                    rights of individuals with disabilities, including veterans and employees of the federal government.</definition>
             </tag>
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>genocide</id>

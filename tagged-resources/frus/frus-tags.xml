@@ -27,6 +27,7 @@
             <tag id="lincoln-abraham"/>
             <tag id="seward-william-henry"/>
             <tag id="buchanan-james-p"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -64,6 +65,8 @@
             <tag id="honduras"/>
             <tag id="nicaragua"/>
             <tag id="ecuador"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -75,6 +78,7 @@
             <tag id="united-kingdom"/>
             <tag id="civil-war-u-s"/>
             <tag id="seward-william-henry"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -136,6 +140,7 @@
             <tag id="quarantine-blockade"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="seward-william-henry"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -199,6 +204,8 @@
             <tag id="neutrality"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="financial-and-monetary-policy"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -245,6 +252,7 @@
             <tag id="lincoln-abraham"/>
             <tag id="tunisia"/>
             <tag id="civil-war-u-s"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Barbary States</tag>
@@ -291,6 +299,7 @@
             <tag id="venezuela"/>
             <tag id="seward-william-henry"/>
             <tag id="lincoln-abraham"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -430,6 +439,7 @@
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
             <tag id="uruguay"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Prussia</tag>
@@ -567,6 +577,7 @@
             <tag id="sweden"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="united-kingdom"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -680,6 +691,8 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Naturalization</tag>
@@ -733,6 +746,8 @@
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
             <tag id="venezuela"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -772,6 +787,7 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
             <tag id="warfare"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Border Administration (Cuba)</tag>
@@ -841,6 +857,7 @@
             <tag id="russia"/>
             <tag id="spain"/>
             <tag id="sweden"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Fish, Hamilton (S)</tag>
@@ -928,6 +945,7 @@
             <tag id="spain"/>
             <tag id="sweden"/>
             <tag id="switzerland"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Border Administration (Treaty Between U.S. and Great Britain)</tag>
@@ -1031,6 +1049,7 @@
             <tag id="sweden"/>
             <tag id="switzerland"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Change of Allegiance</tag>
@@ -1054,6 +1073,7 @@
             <tag id="fish-hamilton"/>
             <tag id="grant-ulysses-s"/>
             <tag id="united-kingdom"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Adela (British Steamship)</tag>
@@ -1182,6 +1202,7 @@
             <tag id="united-kingdom"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -1726,6 +1747,7 @@
             <tag id="united-kingdom"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Cultural Affairs</tag>
@@ -1793,6 +1815,8 @@
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
             <tag id="venezuela"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Blaine, James Gillespie</tag>
@@ -2052,6 +2076,8 @@
             <tag id="sweden"/>
             <tag id="switzerland"/>
             <tag id="turkey"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine Republic</tag>
@@ -2239,6 +2265,7 @@
             <tag id="turkey"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Abolition of Slavery (Brazil)</tag>
@@ -2333,6 +2360,7 @@
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
             <tag id="venezuela"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -2539,6 +2567,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="united-kingdom"/>
             <tag id="venezuela"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency/Rebellion/Revolution</tag>
@@ -2575,6 +2604,7 @@
             <tag id="samoa"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="united-kingdom"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Annexation</tag>
@@ -2731,6 +2761,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Expatriation</tag>
@@ -2971,6 +3002,7 @@
             <tag id="turkey"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine-Republic</tag>
@@ -3034,6 +3066,7 @@
             <tag id="turkey"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine-Republic</tag>
@@ -3128,6 +3161,7 @@
             <tag id="turkey"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine Republic</tag>
@@ -3405,6 +3439,7 @@
             <tag id="roosevelt-theodore"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="root-elihu"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -3891,6 +3926,7 @@
             <tag id="russia"/>
             <tag id="switzerland"/>
             <tag id="turkey"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4154,6 +4190,7 @@
             <tag id="prisoners-of-war"/>
             <tag id="protection-of-americans-abroad"/>
             <tag id="world-war-i"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4222,6 +4259,8 @@
             <tag id="southeast-asia-treaty-organization"/>
             <tag id="foreign-protest-against-u-s-activity"/>
             <tag id="peace"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
 
         <unofficial-tags-tbd/>
@@ -4354,6 +4393,8 @@
             <tag id="foreign-aid"/>
             <tag id="energy-and-natural-resources"/>
             <tag id="russia"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5018,6 +5059,7 @@
             <tag id="poland"/>
             <tag id="peace"/>
             <tag id="ukraine"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -5097,6 +5139,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -5119,6 +5162,7 @@
             <tag id="economic-summit-meetings"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="wilson-woodrow"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5478,6 +5522,7 @@
             <tag id="foreign-aid"/>
             <tag id="energy-and-natural-resources"/>
             <tag id="hughes-charles-evans"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5503,6 +5548,7 @@
             <tag id="germany"/>
             <tag id="united-kingdom"/>
             <tag id="league-of-nations"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -5715,6 +5761,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6340,6 +6387,7 @@
             <tag id="roosevelt-franklin-d"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -6389,6 +6437,7 @@
             <tag id="panama"/>
             <tag id="peru"/>
             <tag id="uruguay"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6511,6 +6560,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Anti Dumping Act of 1921</tag>
@@ -6763,6 +6813,7 @@
             <tag id="world-war-ii"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communications Industry</tag>
@@ -6873,6 +6924,7 @@
             <tag id="united-kingdom"/>
             <tag id="uruguay"/>
             <tag id="world-war-ii"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communications Industry</tag>
@@ -6996,6 +7048,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -7273,6 +7326,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Media</tag>
@@ -7510,6 +7564,8 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="antisemitism-europe"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Trade Embargoes</tag>
@@ -7711,6 +7767,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -7940,6 +7997,8 @@
             <tag id="tunisia"/>
             <tag id="united-kingdom"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Red Cross</tag>
@@ -7989,6 +8048,7 @@
             <tag id="spain"/>
             <tag id="syria"/>
             <tag id="turkey"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag/>
@@ -8245,6 +8305,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -8477,6 +8538,7 @@
             <tag id="russia"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -8616,6 +8678,7 @@
             <tag id="india"/>
             <tag id="italy"/>
             <tag id="japan"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -8641,6 +8704,7 @@
             <tag id="turkey"/>
             <tag id="united-nations"/>
             <tag id="russia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -8694,6 +8758,7 @@
             <tag id="greece"/>
             <tag id="germany"/>
             <tag id="brazil"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -8768,6 +8833,8 @@
             <tag id="roosevelt-franklin-d"/>
             <tag id="hull-cordell"/>
             <tag id="russia"/>
+            <tag id="antisemitism-world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -8800,6 +8867,7 @@
             <tag id="elections"/>
             <tag id="united-kingdom"/>
             <tag id="world-war-ii"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Lend-Lease</tag>
@@ -8886,6 +8954,7 @@
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
             <tag id="world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -8925,6 +8994,8 @@
             <tag id="asylum"/>
             <tag id="united-nations"/>
             <tag id="united-kingdom"/>
+            <tag id="antisemitism-world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -8965,6 +9036,7 @@
             <tag id="united-nations"/>
             <tag id="economic-summit-meetings"/>
             <tag id="world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9006,6 +9078,8 @@
             <tag id="united-nations"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="antisemitism-world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9048,6 +9122,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9087,6 +9162,7 @@
             <tag id="france"/>
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -9161,6 +9237,7 @@
             <tag id="alliances"/>
             <tag id="world-war-ii"/>
             <tag id="collective-security"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Lend-Lease</tag>
@@ -9230,6 +9307,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9286,6 +9364,8 @@
             <tag id="alliances"/>
             <tag id="united-nations"/>
             <tag id="russia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9331,6 +9411,7 @@
             <tag id="border-administration"/>
             <tag id="foreign-aid"/>
             <tag id="russia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9415,6 +9496,8 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
+            <tag id="antisemitism-world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9439,6 +9522,7 @@
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="war-crimes-and-war-criminals"/>
             <tag id="united-nations"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Reparations</tag>
@@ -9486,6 +9570,8 @@
             <tag id="property-claims"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="antisemitism-world-war-ii"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9533,6 +9619,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9578,6 +9665,8 @@
             <tag id="diplomatic-recognition"/>
             <tag id="foreign-aid"/>
             <tag id="military-bases"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Siam</tag>
@@ -9646,6 +9735,7 @@
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
+            <tag id="antisemitism-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -9683,6 +9773,7 @@
             <tag id="foreign-aid"/>
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -9747,6 +9838,7 @@
             <tag id="united-kingdom"/>
             <tag id="nuclear-weapons"/>
             <tag id="peace"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9775,6 +9867,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="foreign-aid"/>
             <tag id="armistices"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9805,6 +9898,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="property-claims"/>
             <tag id="russia"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9891,6 +9985,8 @@
             <tag id="poland"/>
             <tag id="romania"/>
             <tag id="samoa"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9922,6 +10018,8 @@
             <tag id="russia"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10209,6 +10307,7 @@
             <tag id="venezuela"/>
             <tag id="vietnam"/>
             <tag id="yemen"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10263,6 +10362,7 @@
             <tag id="sweden"/>
             <tag id="switzerland"/>
             <tag id="united-kingdom"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10341,6 +10441,7 @@
             <tag id="holy-see"/>
             <tag id="venezuela"/>
             <tag id="zanzibar"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10402,6 +10503,9 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
+            <tag id="war-of-1812"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10603,6 +10707,7 @@
             <tag id="honduras"/>
             <tag id="human-rights"/>
             <tag id="truman-harry-s"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10680,6 +10785,7 @@
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
             <tag id="poland"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -10713,6 +10819,8 @@
             <tag id="italy"/>
             <tag id="netherlands"/>
             <tag id="poland"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10767,6 +10875,7 @@
             <tag id="tunisia"/>
             <tag id="turkey"/>
             <tag id="united-nations"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10818,6 +10927,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -10914,6 +11024,7 @@
             <tag id="united-nations"/>
             <tag id="truman-harry-s"/>
             <tag id="marshall-george-catlett"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10967,6 +11078,7 @@
             <tag id="diplomatic-recognition"/>
             <tag id="taiwan"/>
             <tag id="united-kingdom"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -11017,6 +11129,8 @@
             <tag id="foreign-aid"/>
             <tag id="united-nations"/>
             <tag id="united-kingdom"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -11065,6 +11179,7 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="united-kingdom"/>
             <tag id="truman-harry-s"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -11125,6 +11240,7 @@
             <tag id="financial-and-monetary-policy"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11152,6 +11268,7 @@
             <tag id="truman-harry-s"/>
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11268,6 +11385,8 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11571,6 +11690,7 @@
             <tag id="military-bases"/>
             <tag id="united-nations"/>
             <tag id="uruguay"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11747,6 +11867,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11801,6 +11922,7 @@
             <tag id="armistices"/>
             <tag id="self-determination"/>
             <tag id="universal-postal-union"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11887,6 +12009,7 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="taiwan"/>
             <tag id="truman-harry-s"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -11985,6 +12108,7 @@
             <tag id="refugees"/>
             <tag id="uruguay"/>
             <tag id="venezuela"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -12066,6 +12190,7 @@
             <tag id="switzerland"/>
             <tag id="thailand"/>
             <tag id="united-kingdom"/>
+            <tag id="mexican-american-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Export-Import Bank</tag>
@@ -12146,6 +12271,8 @@
             <tag id="spain"/>
             <tag id="united-nations"/>
             <tag id="turkey"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12232,6 +12359,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12573,6 +12701,7 @@
             <tag id="new-zealand"/>
             <tag id="palestine"/>
             <tag id="refugees"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -12636,6 +12765,7 @@
             <tag id="polar-affairs"/>
             <tag id="antarctica"/>
             <tag id="iceland"/>
+            <tag id="lgbtq-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -12869,6 +12999,7 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="foreign-investment"/>
             <tag id="truman-harry-s"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Export-Import Bank</tag>
@@ -12985,6 +13116,7 @@
             <tag id="truman-harry-s"/>
             <tag id="turkey"/>
             <tag id="information-programs"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -13033,6 +13165,7 @@
             <tag id="portugal"/>
             <tag id="sweden"/>
             <tag id="denmark"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -13160,6 +13293,8 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="civil-rights-foreign"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -13200,6 +13335,7 @@
             <tag id="egypt"/>
             <tag id="kuwait"/>
             <tag id="truman-harry-s"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -13918,6 +14054,7 @@
             <tag id="united-nations"/>
             <tag id="vietnam"/>
             <tag id="russia"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -14400,6 +14537,8 @@
             <tag id="uruguay"/>
             <tag id="vietnam"/>
             <tag id="yemen"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -14652,6 +14791,7 @@
             <tag id="border-administration"/>
             <tag id="refugees"/>
             <tag id="arms-embargoes"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Egyptian-Syrian-Saudi Pact</tag>
@@ -14907,6 +15047,7 @@
             <tag id="guatemala"/>
             <tag id="japan"/>
             <tag id="liberia"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -14964,6 +15105,7 @@
             <tag id="united-kingdom"/>
             <tag id="venezuela"/>
             <tag id="yemen"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -15535,6 +15677,7 @@
             <tag id="uruguay"/>
             <tag id="vietnam"/>
             <tag id="venezuela"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -15644,6 +15787,7 @@
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="elections"/>
             <tag id="congressional-relations"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -15748,6 +15892,7 @@
             <tag id="zanzibar"/>
             <tag id="congo-brazzaville"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Rhodesia</tag>
@@ -15827,6 +15972,7 @@
             <tag id="romania"/>
             <tag id="russia"/>
             <tag id="united-kingdom"/>
+            <tag id="lgbtq-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>"Fail Safe"</tag>
@@ -15933,6 +16079,7 @@
             <tag id="united-nations"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="congo-brazzaville"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -15997,6 +16144,7 @@
             <tag id="elections"/>
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="eisenhower-dwight-d"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -16254,6 +16402,8 @@
             <tag id="herter-christian-archibald"/>
             <tag id="quarantine-blockade"/>
             <tag id="russia"/>
+            <tag id="european-advisory-commission"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -16364,6 +16514,7 @@
             <tag id="herter-christian-archibald"/>
             <tag id="austria"/>
             <tag id="russia"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -17211,6 +17362,7 @@
             <tag id="spain"/>
             <tag id="united-kingdom"/>
             <tag id="foreign-aid"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17339,6 +17491,7 @@
             <tag id="venezuela"/>
             <tag id="holy-see"/>
             <tag id="russia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17376,6 +17529,7 @@
             <tag id="united-nations"/>
             <tag id="venezuela"/>
             <tag id="russia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17453,6 +17607,7 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="japan"/>
             <tag id="christmas-island"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17561,6 +17716,7 @@
             <tag id="tunisia"/>
             <tag id="turkey"/>
             <tag id="venezuela"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17669,6 +17825,7 @@
             <tag id="venezuela"/>
             <tag id="vietnam"/>
             <tag id="russia"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17854,6 +18011,7 @@
             <tag id="switzerland"/>
             <tag id="sweden"/>
             <tag id="russia"/>
+            <tag id="european-advisory-commission"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -18200,6 +18358,7 @@
             <tag id="zimbabwe"/>
             <tag id="sub-saharan-africa"/>
             <tag id="rusk-david-dean"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -18242,6 +18401,7 @@
             <tag id="australia"/>
             <tag id="east-asia-and-pacific"/>
             <tag id="arms-control-and-disarmament"/>
+            <tag id="civil-rights-foreign"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Malaya</tag>
@@ -18420,6 +18580,8 @@
             <tag id="israel"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="china"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -18565,6 +18727,7 @@
             <tag id="tunisia"/>
             <tag id="turkey"/>
             <tag id="uruguay"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18608,6 +18771,7 @@
             <tag id="armistices"/>
             <tag id="covert-actions"/>
             <tag id="south-korea"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18644,6 +18808,7 @@
             <tag id="united-kingdom"/>
             <tag id="united-nations"/>
             <tag id="south-korea"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18675,6 +18840,7 @@
             <tag id="covert-actions"/>
             <tag id="peace"/>
             <tag id="vietnam-conflict"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18796,6 +18962,7 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
             <tag id="vietnam"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19129,6 +19296,7 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="non-governmental-organizations"/>
             <tag id="geneva-convention"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19226,6 +19394,7 @@
             <tag id="vietnam-conflict"/>
             <tag id="yemen"/>
             <tag id="russia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19376,6 +19545,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -19666,6 +19836,7 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19744,6 +19915,7 @@
             <tag id="taiwan"/>
             <tag id="cyprus"/>
             <tag id="singapore"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19861,6 +20033,7 @@
             <tag id="israel"/>
             <tag id="indonesia"/>
             <tag id="algeria"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -20162,6 +20335,7 @@
             <tag id="virgin-islands-u-s"/>
             <tag id="yemen"/>
             <tag id="zambia"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20224,6 +20398,8 @@
             <tag id="united-kingdom"/>
             <tag id="holy-see"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20295,6 +20471,7 @@
             <tag id="united-kingdom"/>
             <tag id="vietnam-conflict"/>
             <tag id="yemen"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20720,6 +20897,7 @@
             <tag id="prisoners-of-war"/>
             <tag id="rogers-william-pierce"/>
             <tag id="thailand"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20854,6 +21032,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="vietnam-conflict"/>
             <tag id="russia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20951,6 +21130,7 @@
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="vietnam-conflict"/>
             <tag id="russia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -21264,6 +21444,7 @@
             <tag id="thailand"/>
             <tag id="united-kingdom"/>
             <tag id="vietnam"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -21522,6 +21703,7 @@
             <tag id="syria"/>
             <tag id="holy-see"/>
             <tag id="united-nations"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -21658,6 +21840,7 @@
             <tag id="zambia"/>
             <tag id="zanzibar"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -21718,6 +21901,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -21844,6 +22028,8 @@
             <tag id="venezuela"/>
             <tag id="vietnam"/>
             <tag id="zambia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22227,6 +22413,7 @@
             <tag id="venezuela"/>
             <tag id="zambia"/>
             <tag id="zimbabwe"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22287,6 +22474,7 @@
             <tag id="thailand"/>
             <tag id="vietnam"/>
             <tag id="vietnam-conflict"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Media</tag>
@@ -22504,6 +22692,7 @@
             <tag id="peru"/>
             <tag id="ecuador"/>
             <tag id="spain"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22709,6 +22898,7 @@
             <tag id="egypt"/>
             <tag id="cambodia"/>
             <tag id="morocco"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22970,6 +23160,7 @@
             <tag id="property-claims"/>
             <tag id="covert-actions"/>
             <tag id="diplomatic-recognition"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -23066,6 +23257,7 @@
             <tag id="angola"/>
             <tag id="india"/>
             <tag id="agriculture"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23116,6 +23308,7 @@
             <tag id="montenegro"/>
             <tag id="kosovo"/>
             <tag id="macedonia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23252,6 +23445,8 @@
             <tag id="refugees"/>
             <tag id="vietnam-conflict"/>
             <tag id="israel"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Olympics</tag>
@@ -23406,6 +23601,8 @@
             <tag id="western-sahara"/>
             <tag id="zambia"/>
             <tag id="zimbabwe"/>
+            <tag id="civil-rights"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23464,6 +23661,7 @@
             <tag id="syria"/>
             <tag id="tunisia"/>
             <tag id="venezuela"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23503,6 +23701,7 @@
             <tag id="syria"/>
             <tag id="united-nations"/>
             <tag id="russia"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23572,6 +23771,8 @@
             <tag id="peace"/>
             <tag id="united-nations"/>
             <tag id="vance-cyrus-roberts"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -23627,6 +23828,7 @@
             <tag id="national-security-council"/>
             <tag id="quarantine-blockade"/>
             <tag id="terrorism"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -23755,6 +23957,7 @@
             <tag id="international-organizations"/>
             <tag id="diplomatic-recognition"/>
             <tag id="national-security-council"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -23911,6 +24114,7 @@
             <tag id="international-atomic-energy-agency"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="covert-actions"/>
+            <tag id="civil-rights-domestic"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24065,6 +24269,8 @@
             <tag id="united-nations"/>
             <tag id="diplomatic-recognition"/>
             <tag id="terrorism"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24127,6 +24333,8 @@
             <tag id="personnel-foreign-service"/>
             <tag id="personnel-demographics"/>
             <tag id="national-security-council"/>
+            <tag id="lgbtq-rights"/>
+            <tag id="disability-rights"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24146,6 +24354,8 @@
             <tag id="national-security-council"/>
             <tag id="warfare"/>
             <tag id="arab-israeli-dispute"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="war-of-1812"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24246,6 +24456,9 @@
             <tag id="national-security-council"/>
             <tag id="national-security-policy"/>
             <tag id="terrorism"/>
+            <tag id="hiv-aids"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24302,6 +24515,7 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="united-nations"/>
             <tag id="national-security-council"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24348,6 +24562,9 @@
             <tag id="terrorism"/>
             <tag id="powell-colin-luther"/>
             <tag id="baker-james-addison"/>
+            <tag id="hiv-aids"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24397,6 +24614,8 @@
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="national-security-council"/>
             <tag id="warfare"/>
+            <tag id="antisemitism"/>
+            <tag id="american-revolutionary-war"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24417,6 +24636,10 @@
             <tag id="global-issues"/>
             <tag id="human-rights"/>
             <tag id="international-law"/>
+            <tag id="lgbtq-rights"/>
+            <tag id="hiv-aids"/>
+            <tag id="civil-rights-domestic"/>
+            <tag id="antisemitism-post-world-war-ii"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
