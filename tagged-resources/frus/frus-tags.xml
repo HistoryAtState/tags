@@ -145,6 +145,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -238,6 +239,7 @@
             <tag id="guernsey"/>
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -642,6 +644,7 @@
             <tag id="suriname"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -869,6 +872,7 @@
             <tag id="moldova"/>
             <tag id="dominica"/>
             <tag id="suriname"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Border Administration (Cuba)</tag>
@@ -908,6 +912,7 @@
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Fish, Hamilton (S)</tag>
@@ -953,6 +958,7 @@
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Fish, Hamilton (S)</tag>
@@ -1000,6 +1006,8 @@
             <tag id="curacao"/>
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>British-Foreign Enlistment Acts</tag>
@@ -1052,6 +1060,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Border Administration (Treaty Between U.S. and Great Britain)</tag>
@@ -1171,6 +1180,7 @@
             <tag id="macau"/>
             <tag id="mauritius"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Change of Allegiance</tag>
@@ -1245,6 +1255,7 @@
             <tag id="benin"/>
             <tag id="curacao"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentina (Argentine Republic)</tag>
@@ -1336,6 +1347,7 @@
             <tag id="american-revolutionary-war"/>
             <tag id="faroe-islands"/>
             <tag id="guadeloupe"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -1744,6 +1756,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="suriname"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communications Technology</tag>
@@ -1999,6 +2012,7 @@
             <tag id="mauritius"/>
             <tag id="grenada"/>
             <tag id="hayes-rutherford-b"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Blaine, James Gillespie</tag>
@@ -2064,6 +2078,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Blaine, James Gillespie</tag>
@@ -2123,6 +2138,7 @@
             <tag id="frelinghuysen-frederick-theodore"/>
             <tag id="andorra"/>
             <tag id="curacao"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Colonization</tag>
@@ -2168,6 +2184,7 @@
             <tag id="frelinghuysen-frederick-theodore"/>
             <tag id="arthur-chester-a"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Bible Society</tag>
@@ -2286,6 +2303,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="suriname"/>
             <tag id="curacao"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine Republic</tag>
@@ -2355,6 +2373,7 @@
             <tag id="cleveland-grover-1885-1889"/>
             <tag id="bayard-thomas-francis"/>
             <tag id="universal-postal-union"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine Republic</tag>
@@ -2606,6 +2625,7 @@
             <tag id="war-of-1812"/>
             <tag id="new-caledonia"/>
             <tag id="saint-pierre-and-miquelon"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -2710,6 +2730,7 @@
             <tag id="foster-john-watson"/>
             <tag id="harrison-benjamin"/>
             <tag id="curacao"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -2946,6 +2967,7 @@
             <tag id="gresham-walter-quintin"/>
             <tag id="mauritius"/>
             <tag id="grenada"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Religious Affairs</tag>
@@ -2996,6 +3018,8 @@
             <tag id="mauritius"/>
             <tag id="gresham-walter-quintin"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Korea</tag>
@@ -3059,6 +3083,7 @@
             <tag id="marshall-islands"/>
             <tag id="suriname"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Expatriation</tag>
@@ -3120,6 +3145,7 @@
             <tag id="martinique"/>
             <tag id="olney-richard"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Expatriation</tag>
@@ -3198,6 +3224,7 @@
             <tag id="suriname"/>
             <tag id="curacao"/>
             <tag id="mauritius"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Extradition</tag>
@@ -3252,6 +3279,7 @@
             <tag id="mckinley-william"/>
             <tag id="universal-postal-union"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arbitration</tag>
@@ -3323,6 +3351,7 @@
             <tag id="anguilla"/>
             <tag id="mckinley-william"/>
             <tag id="grenada"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine-Republic</tag>
@@ -3495,6 +3524,7 @@
             <tag id="spanish-american-war"/>
             <tag id="mauritius"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine Republic</tag>
@@ -3532,6 +3562,7 @@
             <tag id="netherlands"/>
             <tag id="russia"/>
             <tag id="hay-john-milton"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Bark)</tag>
@@ -3795,6 +3826,7 @@
             <tag id="turks-and-caicos-islands"/>
             <tag id="monaco"/>
             <tag id="suriname"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -3868,6 +3900,7 @@
             <tag id="root-elihu"/>
             <tag id="spanish-american-war"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4250,6 +4283,8 @@
             <tag id="universal-postal-union"/>
             <tag id="monaco"/>
             <tag id="curacao"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4307,6 +4342,7 @@
             <tag id="curacao"/>
             <tag id="mauritius"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4411,6 +4447,8 @@
             <tag id="aruba"/>
             <tag id="spanish-american-war"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4554,6 +4592,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="mauritius"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4591,6 +4630,7 @@
             <tag id="st-lucia"/>
             <tag id="spanish-american-war"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4642,6 +4682,8 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="spanish-american-war"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4717,6 +4759,22 @@
             <tag id="brunei"/>
             <tag id="lansing-robert"/>
             <tag id="benin"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
+        <title>Foreign Relations of the United States, 1917-1972, Volume VII, 1969-1972</title>
+        <link>https://history.state.gov/historicaldocuments/frus1917-72PubDipv07</link>
+        <tags>
+            <tag id="gabon"/>
+            <tag id="association-of-southeast-asian-nations"/>
+            <tag id="european-economic-community"/>
+            <tag id="general-agreement-on-tariffs-and-trade"/>
+            <tag id="international-monetary-fund"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="organization-of-petroleum-exporting-countries"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4729,6 +4787,8 @@
             <tag id="bhutan"/>
             <tag id="curacao"/>
             <tag id="swaziland"/>
+            <tag id="burundi"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4780,6 +4840,8 @@
             <tag id="dominica"/>
             <tag id="lansing-robert"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4838,6 +4900,7 @@
             <tag id="lansing-robert"/>
             <tag id="monaco"/>
             <tag id="st-vincent-and-the-grenadines"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4876,6 +4939,8 @@
             <tag id="war-of-1812"/>
             <tag id="american-revolutionary-war"/>
             <tag id="lansing-robert"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4910,6 +4975,7 @@
             <tag id="switzerland"/>
             <tag id="wilson-woodrow"/>
             <tag id="lansing-robert"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5067,6 +5133,7 @@
             <tag id="wilson-woodrow"/>
             <tag id="wake-island"/>
             <tag id="lansing-robert"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5117,6 +5184,7 @@
             <tag id="marshall-islands"/>
             <tag id="monaco"/>
             <tag id="swaziland"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -5620,6 +5688,8 @@
             <tag id="wilson-woodrow"/>
             <tag id="solomon-islands"/>
             <tag id="lansing-robert"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5700,6 +5770,8 @@
             <tag id="war-of-1812"/>
             <tag id="colby-bainbridge"/>
             <tag id="lansing-robert"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5729,6 +5801,7 @@
             <tag id="slovakia"/>
             <tag id="colby-bainbridge"/>
             <tag id="lansing-robert"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -5796,6 +5869,7 @@
             <tag id="dominica"/>
             <tag id="harding-warren-g"/>
             <tag id="hughes-charles-evans"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5877,6 +5951,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="hughes-charles-evans"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5933,6 +6008,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="harding-warren-g"/>
             <tag id="djibouti"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Siam</tag>
@@ -6016,6 +6092,7 @@
             <tag id="buildings-foreign"/>
             <tag id="nauru"/>
             <tag id="jan-mayen"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6123,6 +6200,7 @@
             <tag id="kellogg-frank-billings"/>
             <tag id="monaco"/>
             <tag id="hughes-charles-evans"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6254,6 +6332,8 @@
             <tag id="curacao"/>
             <tag id="spanish-american-war"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6276,6 +6356,7 @@
             <tag id="kellogg-frank-billings"/>
             <tag id="monaco"/>
             <tag id="suriname"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6358,6 +6439,7 @@
             <tag id="kellogg-frank-billings"/>
             <tag id="curacao"/>
             <tag id="spanish-american-war"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6499,6 +6581,7 @@
             <tag id="curacao"/>
             <tag id="grenada"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6528,6 +6611,7 @@
             <tag id="kellogg-frank-billings"/>
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6907,6 +6991,7 @@
             <tag id="macedonia"/>
             <tag id="american-samoa"/>
             <tag id="the-bahamas"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -7026,6 +7111,7 @@
             <tag id="financial-and-monetary-policy"/>
             <tag id="roosevelt-franklin-d"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7071,6 +7157,7 @@
             <tag id="suriname"/>
             <tag id="djibouti"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -7157,6 +7244,7 @@
             <tag id="american-samoa"/>
             <tag id="spanish-american-war"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7178,6 +7266,7 @@
             <tag id="portugal"/>
             <tag id="spain"/>
             <tag id="american-samoa"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arms Traffic Convention</tag>
@@ -7256,6 +7345,7 @@
             <tag id="kellogg-frank-billings"/>
             <tag id="suriname"/>
             <tag id="djibouti"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Anti Dumping Act of 1921</tag>
@@ -7328,6 +7418,7 @@
             <tag id="paraguay"/>
             <tag id="peru"/>
             <tag id="american-samoa"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Anti-War Treaty</tag>
@@ -7365,6 +7456,8 @@
             <tag id="uruguay"/>
             <tag id="american-samoa"/>
             <tag id="spanish-american-war"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Anti-Dumping Act of 1921</tag>
@@ -7453,6 +7546,8 @@
             <tag id="monaco"/>
             <tag id="djibouti"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Media</tag>
@@ -7527,6 +7622,7 @@
             <tag id="liechtenstein"/>
             <tag id="suriname"/>
             <tag id="aruba"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communications Industry</tag>
@@ -7640,6 +7736,7 @@
             <tag id="world-war-ii"/>
             <tag id="civil-rights-foreign"/>
             <tag id="american-samoa"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communications Industry</tag>
@@ -7827,6 +7924,7 @@
             <tag id="universal-postal-union"/>
             <tag id="djibouti"/>
             <tag id="spanish-american-war"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communications</tag>
@@ -8064,6 +8162,8 @@
             <tag id="liechtenstein"/>
             <tag id="saint-pierre-and-miquelon"/>
             <tag id="djibouti"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Media</tag>
@@ -8203,6 +8303,7 @@
             <tag id="american-samoa"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -8259,6 +8360,8 @@
             <tag id="new-caledonia"/>
             <tag id="suriname"/>
             <tag id="djibouti"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -8321,6 +8424,8 @@
             <tag id="kingman-reef"/>
             <tag id="new-caledonia"/>
             <tag id="djibouti"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Trade Embargoes</tag>
@@ -8441,6 +8546,7 @@
             <tag id="monaco"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -8538,6 +8644,7 @@
             <tag id="christmas-island"/>
             <tag id="suriname"/>
             <tag id="spratly-islands"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -8664,6 +8771,7 @@
             <tag id="suriname"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -8786,6 +8894,8 @@
             <tag id="suriname"/>
             <tag id="djibouti"/>
             <tag id="aruba"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Red Cross</tag>
@@ -8841,6 +8951,7 @@
             <tag id="st-lucia"/>
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Africa</tag>
@@ -8894,6 +9005,7 @@
             <tag id="palau"/>
             <tag id="djibouti"/>
             <tag id="aruba"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag/>
@@ -9025,6 +9137,7 @@
             <tag id="djibouti"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Aircraft Carriers</tag>
@@ -9082,6 +9195,7 @@
             <tag id="new-caledonia"/>
             <tag id="palmyra-atoll"/>
             <tag id="christmas-island"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9135,6 +9249,8 @@
             <tag id="benin"/>
             <tag id="djibouti"/>
             <tag id="aruba"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9177,6 +9293,7 @@
             <tag id="st-lucia"/>
             <tag id="djibouti"/>
             <tag id="the-bahamas"/>
+            <tag id="gabon"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9361,6 +9478,7 @@
             <tag id="monaco"/>
             <tag id="suriname"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9403,6 +9521,7 @@
             <tag id="djibouti"/>
             <tag id="aruba"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -9476,6 +9595,7 @@
             <tag id="agriculture"/>
             <tag id="energy-and-natural-resources"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -9501,6 +9621,7 @@
             <tag id="liechtenstein"/>
             <tag id="andorra"/>
             <tag id="french-guiana"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -9561,6 +9682,7 @@
             <tag id="marshall-islands"/>
             <tag id="the-bahamas"/>
             <tag id="spratly-islands"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9652,6 +9774,7 @@
             <tag id="monaco"/>
             <tag id="suriname"/>
             <tag id="mauritius"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9699,6 +9822,7 @@
             <tag id="suriname"/>
             <tag id="djibouti"/>
             <tag id="aruba"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -9774,6 +9898,7 @@
             <tag id="world-war-ii"/>
             <tag id="antisemitism-world-war-ii"/>
             <tag id="djibouti"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Lend-Lease</tag>
@@ -9958,6 +10083,7 @@
             <tag id="liechtenstein"/>
             <tag id="french-guiana"/>
             <tag id="suriname"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10006,6 +10132,7 @@
             <tag id="new-caledonia"/>
             <tag id="cook-islands"/>
             <tag id="aruba"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10100,6 +10227,7 @@
             <tag id="marshall-islands"/>
             <tag id="suriname"/>
             <tag id="djibouti"/>
+            <tag id="gabon"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -10177,6 +10305,7 @@
             <tag id="antisemitism-world-war-ii"/>
             <tag id="faroe-islands"/>
             <tag id="aruba"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Lend-Lease</tag>
@@ -10401,6 +10530,7 @@
             <tag id="peace"/>
             <tag id="united-kingdom"/>
             <tag id="new-caledonia"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10460,6 +10590,8 @@
             <tag id="swaziland"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10644,6 +10776,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="christmas-island"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Siam</tag>
@@ -10758,6 +10891,7 @@
             <tag id="united-nations"/>
             <tag id="civil-rights-foreign"/>
             <tag id="marshall-islands"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -10835,6 +10969,7 @@
             <tag id="suriname"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -11073,6 +11208,7 @@
             <tag id="qatar"/>
             <tag id="sudan"/>
             <tag id="tunisia"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -11224,6 +11360,8 @@
             <tag id="netherlands"/>
             <tag id="marshall-george-catlett"/>
             <tag id="guadeloupe"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -11330,6 +11468,7 @@
             <tag id="svalbard"/>
             <tag id="far-eastern-commission"/>
             <tag id="suriname"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11470,6 +11609,7 @@
             <tag id="andorra"/>
             <tag id="svalbard"/>
             <tag id="st-lucia"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11700,6 +11840,7 @@
             <tag id="united-nations"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="far-eastern-commission"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Tibet</tag>
@@ -11745,6 +11886,7 @@
             <tag id="truman-harry-s"/>
             <tag id="general-agreement-on-tariffs-and-trade"/>
             <tag id="aruba"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -11922,6 +12064,7 @@
             <tag id="faroe-islands"/>
             <tag id="jan-mayen"/>
             <tag id="far-eastern-commission"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12080,6 +12223,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="christmas-island"/>
             <tag id="grenada"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -12192,6 +12336,7 @@
             <tag id="palau"/>
             <tag id="aruba"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -12315,6 +12460,7 @@
             <tag id="aruba"/>
             <tag id="curacao"/>
             <tag id="genocide"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12977,6 +13123,7 @@
             <tag id="suriname"/>
             <tag id="curacao"/>
             <tag id="genocide"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -13036,6 +13183,7 @@
             <tag id="aruba"/>
             <tag id="curacao"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -13090,6 +13238,7 @@
             <tag id="marshall-islands"/>
             <tag id="bhutan"/>
             <tag id="paracel-islands"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Indochina</tag>
@@ -13237,6 +13386,7 @@
             <tag id="martinique"/>
             <tag id="new-caledonia"/>
             <tag id="suriname"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -13331,6 +13481,7 @@
             <tag id="curacao"/>
             <tag id="genocide"/>
             <tag id="the-bahamas"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Export-Import Bank</tag>
@@ -13569,7 +13720,8 @@
             <tag id="venezuela"/>
             <tag id="south-sudan"/>
             <tag id="monaco"/>
-            <tag id="djibouti"  />
+            <tag id="djibouti"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -13809,6 +13961,7 @@
             <tag id="venezuela"/>
             <tag id="united-nations"/>
             <tag id="martinique"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -14129,6 +14282,8 @@
             <tag id="genocide"/>
             <tag id="swaziland"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Belgian Congo</tag>
@@ -14197,6 +14352,8 @@
             <tag id="aruba"/>
             <tag id="curacao"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Export-Import Bank</tag>
@@ -14265,6 +14422,7 @@
             <tag id="foreign-investment"/>
             <tag id="pakistan"/>
             <tag id="saint-pierre-and-miquelon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -14697,6 +14855,8 @@
             <tag id="djibouti"/>
             <tag id="mauritius"/>
             <tag id="swaziland"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -14788,6 +14948,8 @@
             <tag id="bhutan"/>
             <tag id="mauritius"/>
             <tag id="swaziland"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -14954,6 +15116,7 @@
             <tag id="information-programs"/>
             <tag id="vietnam"/>
             <tag id="djibouti"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -15001,6 +15164,7 @@
             <tag id="information-programs"/>
             <tag id="vietnam"/>
             <tag id="martinique"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -15579,6 +15743,7 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
             <tag id="curacao"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Export-Import Bank</tag>
@@ -15774,6 +15939,7 @@
             <tag id="yemen"/>
             <tag id="civil-rights-domestic"/>
             <tag id="general-agreement-on-tariffs-and-trade"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -16442,6 +16608,9 @@
             <tag id="zanzibar"/>
             <tag id="djibouti"/>
             <tag id="swaziland"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -17017,6 +17186,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="christmas-island"/>
             <tag id="equatorial-guinea"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Tibet</tag>
@@ -17159,6 +17329,10 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="civil-rights-foreign"/>
             <tag id="genocide"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Rhodesia</tag>
@@ -17350,6 +17524,7 @@
             <tag id="congo-brazzaville"/>
             <tag id="general-agreement-on-tariffs-and-trade"/>
             <tag id="anguilla"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -17418,6 +17593,8 @@
             <tag id="virgin-islands-british"/>
             <tag id="suriname"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -17516,6 +17693,7 @@
             <tag id="liechtenstein"/>
             <tag id="monaco"/>
             <tag id="suriname"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -17639,6 +17817,7 @@
             <tag id="jan-mayen"/>
             <tag id="french-guiana"/>
             <tag id="christmas-island"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -17685,6 +17864,7 @@
             <tag id="russia"/>
             <tag id="european-advisory-commission"/>
             <tag id="war-of-1812"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -17729,6 +17909,7 @@
             <tag id="italy"/>
             <tag id="belgium"/>
             <tag id="russia"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -18791,6 +18972,7 @@
             <tag id="russia"/>
             <tag id="antisemitism-post-world-war-ii"/>
             <tag id="christmas-island"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18879,6 +19061,7 @@
             <tag id="vietnam"/>
             <tag id="russia"/>
             <tag id="confidence-building-measures"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18914,6 +19097,9 @@
             <tag id="curacao"/>
             <tag id="the-bahamas"/>
             <tag id="confidence-building-measures"/>
+            <tag id="central-african-republic"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19023,6 +19209,8 @@
             <tag id="turkey"/>
             <tag id="venezuela"/>
             <tag id="general-agreement-on-tariffs-and-trade"/>
+            <tag id="gabon"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19065,6 +19253,7 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
             <tag id="cayman-islands"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19105,6 +19294,8 @@
             <tag id="curacao"/>
             <tag id="spanish-american-war"/>
             <tag id="the-bahamas"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19175,6 +19366,7 @@
             <tag id="french-guiana"/>
             <tag id="suriname"/>
             <tag id="curacao"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -19432,6 +19624,9 @@
             <tag id="united-kingdom"/>
             <tag id="vietnam"/>
             <tag id="universal-postal-union"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>United Arab Republic</tag>
@@ -19627,6 +19822,9 @@
             <tag id="liberia"/>
             <tag id="mali"/>
             <tag id="universal-postal-union"/>
+            <tag id="burundi"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19686,6 +19884,10 @@
             <tag id="djibouti"/>
             <tag id="genocide"/>
             <tag id="swaziland"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19920,6 +20122,11 @@
             <tag id="macau"/>
             <tag id="aruba"/>
             <tag id="genocide"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19990,6 +20197,7 @@
             <tag id="united-kingdom"/>
             <tag id="armistices"/>
             <tag id="vietnam-conflict"/>
+            <tag id="burundi"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20113,6 +20321,7 @@
             <tag id="south-korea"/>
             <tag id="disability-rights"/>
             <tag id="american-samoa"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20211,6 +20420,7 @@
             <tag id="thailand"/>
             <tag id="arms-control-and-disarmament"/>
             <tag id="united-nations"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20304,6 +20514,7 @@
             <tag id="venezuela"/>
             <tag id="vietnam"/>
             <tag id="general-agreement-on-tariffs-and-trade"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20405,6 +20616,9 @@
             <tag id="vietnam"/>
             <tag id="zambia"/>
             <tag id="aruba"/>
+            <tag id="burundi"/>
+            <tag id="gabon"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -20944,6 +21158,8 @@
             <tag id="china"/>
             <tag id="congo-brazzaville"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>United Arab Republic</tag>
@@ -21077,6 +21293,7 @@
             <tag id="british-indian-ocean-territory"/>
             <tag id="djibouti"/>
             <tag id="mauritius"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -21141,6 +21358,9 @@
             <tag id="united-nations"/>
             <tag id="the-gambia"/>
             <tag id="mauritius"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -21206,6 +21426,11 @@
             <tag id="benin"/>
             <tag id="djibouti"/>
             <tag id="swaziland"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>  
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -21783,6 +22008,8 @@
             <tag id="antisemitism"/>
             <tag id="djibouti"/>
             <tag id="genocide"/>
+            <tag id="rwanda"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22167,6 +22394,7 @@
             <tag id="bhutan"/>
             <tag id="genocide"/>
             <tag id="mauritius"/>
+            <tag id="central-african-republic"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22358,6 +22586,7 @@
             <tag id="united-kingdom"/>
             <tag id="bhutan"/>
             <tag id="genocide"/>
+            <tag id="burundi"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22435,6 +22664,8 @@
             <tag id="russia"/>
             <tag id="antisemitism-post-world-war-ii"/>
             <tag id="the-bahamas"/>
+            <tag id="madagascar"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22632,6 +22863,8 @@
             <tag id="russia"/>
             <tag id="martinique"/>
             <tag id="confidence-building-measures"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22682,6 +22915,9 @@
             <tag id="macau"/>
             <tag id="paracel-islands"/>
             <tag id="bhutan"/>
+            <tag id="botswana"/>
+            <tag id="central-african-republic"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22912,6 +23148,8 @@
             <tag id="venezuela"/>
             <tag id="vietnam"/>
             <tag id="the-bahamas"/>
+            <tag id="rwanda"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -22936,6 +23174,7 @@
             <tag id="dominica"/>
             <tag id="universal-postal-union"/>
             <tag id="curacao"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -23132,6 +23371,7 @@
             <tag id="antisemitism"/>
             <tag id="djibouti"/>
             <tag id="confidence-building-measures"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23279,6 +23519,7 @@
             <tag id="benin"/>
             <tag id="equatorial-guinea"/>
             <tag id="mauritius"/>
+            <tag id="burundi"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23385,6 +23626,7 @@
             <tag id="dhekelia"/>
             <tag id="martinique"/>
             <tag id="genocide"/>
+            <tag id="burundi"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -23474,6 +23716,7 @@
             <tag id="martinique"/>
             <tag id="new-international-economic-order"/>
             <tag id="djibouti"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23722,6 +23965,7 @@
             <tag id="liechtenstein"/>
             <tag id="new-international-economic-order"/>
             <tag id="swaziland"/>
+            <tag id="botswana"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23779,6 +24023,9 @@
             <tag id="zimbabwe"/>
             <tag id="bhutan"/>
             <tag id="aruba"/>
+            <tag id="gabon"/>
+            <tag id="maldives"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23938,6 +24185,7 @@
             <tag id="new-international-economic-order"/>
             <tag id="mauritius"/>
             <tag id="confidence-building-measures"/>
+            <tag id="gabon"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Media</tag>
@@ -24004,6 +24252,8 @@
             <tag id="vietnam"/>
             <tag id="martinique"/>
             <tag id="liechtenstein"/>
+            <tag id="botswana"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24106,6 +24356,8 @@
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
             <tag id="vietnam-conflict"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24172,6 +24424,11 @@
             <tag id="mauritius"/>
             <tag id="swaziland"/>
             <tag id="the-bahamas"/>
+            <tag id="botswana"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24207,6 +24464,10 @@
             <tag id="mauritius"/>
             <tag id="swaziland"/>
             <tag id="confidence-building-measures"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24254,6 +24515,15 @@
             <tag id="mauritius"/>
             <tag id="swaziland"/>
             <tag id="the-bahamas"/>
+            <tag id="botswana"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="guinea-bissau"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
+            <tag id="maldives"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24283,6 +24553,7 @@
             <tag id="jordan"/>
             <tag id="syria"/>
             <tag id="djibouti"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24330,6 +24601,11 @@
             <tag id="equatorial-guinea"/>
             <tag id="mauritius"/>
             <tag id="swaziland"/>
+            <tag id="botswana"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24362,6 +24638,9 @@
             <tag id="taiwan"/>
             <tag id="burkina-faso"/>
             <tag id="mauritius"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24420,6 +24699,11 @@
             <tag id="equatorial-guinea"/>
             <tag id="mauritius"/>
             <tag id="swaziland"/>
+            <tag id="botswana"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24450,6 +24734,7 @@
             <tag id="australia"/>
             <tag id="bhutan"/>
             <tag id="genocide"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24493,6 +24778,8 @@
             <tag id="genocide"/>
             <tag id="mauritius"/>
             <tag id="confidence-building-measures"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24533,6 +24820,10 @@
             <tag id="benin"/>
             <tag id="genocide"/>
             <tag id="mauritius"/>
+            <tag id="burundi"/>
+            <tag id="central-african-republic"/>
+            <tag id="guinea-bissau"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -24580,6 +24871,7 @@
             <tag id="kissinger-henry-a"/>
             <tag id="djibouti"/>
             <tag id="mauritius"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24632,6 +24924,7 @@
             <tag id="genocide"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24673,6 +24966,9 @@
             <tag id="aruba"/>
             <tag id="curacao"/>
             <tag id="equatorial-guinea"/>
+            <tag id="gabon"/>
+            <tag id="guinea-bissau"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Covert Action</tag>
@@ -24716,6 +25012,8 @@
             <tag id="burkina-faso"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="central-african-republic"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24762,6 +25060,7 @@
             <tag id="paracel-islands"/>
             <tag id="spratly-islands"/>
             <tag id="confidence-building-measures"/>
+            <tag id="burundi"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24795,6 +25094,7 @@
             <tag id="wake-island"/>
             <tag id="macau"/>
             <tag id="paracel-islands"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24843,6 +25143,15 @@
             <tag id="equatorial-guinea"/>
             <tag id="mauritius"/>
             <tag id="swaziland"/>
+            <tag id="botswana"/>
+            <tag id="burundi"/>
+            <tag id="gabon"/>
+            <tag id="guinea-bissau"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
+            <tag id="maldives"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24865,6 +25174,8 @@
             <tag id="bhutan"/>
             <tag id="the-bahamas"/>
             <tag id="confidence-building-measures"/>
+            <tag id="gabon"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -24934,6 +25245,7 @@
             <tag id="martinique"/>
             <tag id="svalbard"/>
             <tag id="djibouti"/>
+            <tag id="guinea-bissau"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24976,6 +25288,7 @@
             <tag id="martinique"/>
             <tag id="svalbard"/>
             <tag id="djibouti"/>
+            <tag id="guinea-bissau"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25003,6 +25316,7 @@
             <tag id="national-security-council"/>
             <tag id="suriname"/>
             <tag id="curacao"/>
+            <tag id="botswana"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25051,6 +25365,8 @@
             <tag id="benin"/>
             <tag id="djibouti"/>
             <tag id="equatorial-guinea"/>
+            <tag id="botswana"/>
+            <tag id="burundi"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Olympics</tag>
@@ -25212,6 +25528,8 @@
             <tag id="brunei"/>
             <tag id="new-international-economic-order"/>
             <tag id="genocide"/>
+            <tag id="gabon"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -25273,6 +25591,8 @@
             <tag id="civil-rights-domestic"/>
             <tag id="guadeloupe"/>
             <tag id="new-international-economic-order"/>
+            <tag id="botswana"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -25322,6 +25642,11 @@
             <tag id="equatorial-guinea"/>
             <tag id="swaziland"/>
             <tag id="grenada"/>
+            <tag id="botswana"/>
+            <tag id="gabon"/>
+            <tag id="guinea-bissau"/>
+            <tag id="rwanda"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -25458,6 +25783,7 @@
             <tag id="dominica"/>
             <tag id="monaco"/>
             <tag id="the-bahamas"/>
+            <tag id="gabon"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25493,6 +25819,7 @@
             <tag id="djibouti"/>
             <tag id="genocide"/>
             <tag id="grenada"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25578,6 +25905,7 @@
             <tag id="genocide"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25610,6 +25938,8 @@
             <tag id="mauritius"/>
             <tag id="swaziland"/>
             <tag id="confidence-building-measures"/>
+            <tag id="botswana"/>
+            <tag id="gabon"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25635,6 +25965,8 @@
             <tag id="military-bases"/>
             <tag id="genocide"/>
             <tag id="equatorial-guinea"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25681,6 +26013,8 @@
             <tag id="djibouti"/>
             <tag id="genocide"/>
             <tag id="mauritius"/>
+            <tag id="botswana"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25708,6 +26042,10 @@
             <tag id="genocide"/>
             <tag id="equatorial-guinea"/>
             <tag id="the-bahamas"/>
+            <tag id="central-african-republic"/>
+            <tag id="gabon"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25753,6 +26091,7 @@
             <tag id="bhutan"/>
             <tag id="mauritius"/>
             <tag id="confidence-building-measures"/>
+            <tag id="maldives"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -25790,6 +26129,8 @@
             <tag id="new-international-economic-order"/>
             <tag id="bhutan"/>
             <tag id="confidence-building-measures"/>
+            <tag id="botswana"/>
+            <tag id="madagascar"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25948,6 +26289,8 @@
             <tag id="curacao"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26003,6 +26346,8 @@
             <tag id="suriname"/>
             <tag id="genocide"/>
             <tag id="grenada"/>
+            <tag id="botswana"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26057,6 +26402,8 @@
             <tag id="benin"/>
             <tag id="mauritius"/>
             <tag id="confidence-building-measures"/>
+            <tag id="burundi"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26080,6 +26427,9 @@
             <tag id="djibouti"/>
             <tag id="mauritius"/>
             <tag id="grenada"/>
+            <tag id="botswana"/>
+            <tag id="burundi"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26124,6 +26474,10 @@
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
             <tag id="confidence-building-measures"/>
+            <tag id="botswana"/>
+            <tag id="gabon"/>
+            <tag id="rwanda"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26243,6 +26597,11 @@
             <tag id="genocide"/>
             <tag id="equatorial-guinea"/>
             <tag id="mauritius"/>
+            <tag id="botswana"/>
+            <tag id="guinea-bissau"/>
+            <tag id="madagascar"/>
+            <tag id="barbados"/>
+            <tag id="virgin-islands-u-s"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26278,6 +26637,7 @@
             <tag id="genocide"/>
             <tag id="grenada"/>
             <tag id="confidence-building-measures"/>
+            <tag id="botswana"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26308,6 +26668,7 @@
             <tag id="suriname"/>
             <tag id="grenada"/>
             <tag id="confidence-building-measures"/>
+            <tag id="botswana"/>
         </tags>
         <unofficial-tags-tbd><tag>Eagleburger, Lawrence Sidney</tag></unofficial-tags-tbd>
     </study>
@@ -26417,6 +26778,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="antigua-and-barbuda"/>
             <tag id="grenada"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26472,6 +26834,14 @@
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
             <tag id="confidence-building-measures"/>
+            <tag id="botswana"/>
+            <tag id="burundi"/>
+            <tag id="gabon"/>
+            <tag id="guinea-bissau"/>
+            <tag id="madagascar"/>
+            <tag id="rwanda"/>
+            <tag id="maldives"/>
+            <tag id="barbados"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
