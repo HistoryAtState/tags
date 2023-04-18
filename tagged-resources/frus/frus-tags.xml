@@ -74,6 +74,7 @@
             <tag id="suriname"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="seward-william-henry"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -674,7 +675,6 @@
             <tag id="europe"/>
             <tag id="france"/>
             <tag id="germany"/>
-            <tag id="grant-ulysses-s"/>
             <tag id="greece"/>
             <tag id="guatemala"/>
             <tag id="haiti"/>
@@ -708,6 +708,7 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
             <tag id="french-guiana"/>
+            <tag id="johnson-andrew"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Insurgency</tag>
@@ -873,6 +874,8 @@
             <tag id="dominica"/>
             <tag id="suriname"/>
             <tag id="madagascar"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Border Administration (Cuba)</tag>
@@ -913,6 +916,8 @@
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
             <tag id="barbados"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Fish, Hamilton (S)</tag>
@@ -959,6 +964,8 @@
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
             <tag id="barbados"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Fish, Hamilton (S)</tag>
@@ -1008,6 +1015,8 @@
             <tag id="the-bahamas"/>
             <tag id="madagascar"/>
             <tag id="barbados"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>British-Foreign Enlistment Acts</tag>
@@ -1061,6 +1070,8 @@
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
             <tag id="barbados"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Border Administration (Treaty Between U.S. and Great Britain)</tag>
@@ -1133,6 +1144,8 @@
             <tag id="reunion"/>
             <tag id="saint-helena"/>
             <tag id="mauritius"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentina (Argentine Republic)</tag>
@@ -1181,6 +1194,8 @@
             <tag id="mauritius"/>
             <tag id="grenada"/>
             <tag id="barbados"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Change of Allegiance</tag>
@@ -1256,6 +1271,8 @@
             <tag id="curacao"/>
             <tag id="grenada"/>
             <tag id="barbados"/>
+            <tag id="fish-hamilton"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentina (Argentine Republic)</tag>
@@ -1579,6 +1596,7 @@
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Amnesty</tag>
@@ -1662,6 +1680,7 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="suriname"/>
             <tag id="mauritius"/>
+            <tag id="grant-ulysses-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Amnesty</tag>
@@ -3419,6 +3438,7 @@
             <tag id="hay-john-milton"/>
             <tag id="mckinley-william"/>
             <tag id="spanish-american-war"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine-Republic</tag>
@@ -3460,6 +3480,7 @@
             <tag id="germany"/>
             <tag id="russia"/>
             <tag id="hay-john-milton"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arbitral Tribunal</tag>
@@ -3525,6 +3546,7 @@
             <tag id="mauritius"/>
             <tag id="grenada"/>
             <tag id="barbados"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Argentine Republic</tag>
@@ -3563,6 +3585,7 @@
             <tag id="russia"/>
             <tag id="hay-john-milton"/>
             <tag id="madagascar"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Bark)</tag>
@@ -3595,6 +3618,7 @@
             <tag id="spain"/>
             <tag id="hay-john-milton"/>
             <tag id="universal-postal-union"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Hague Peace Convention</tag>
@@ -3941,6 +3965,7 @@
             <tag id="suriname"/>
             <tag id="curacao"/>
             <tag id="spanish-american-war"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Congo</tag>
@@ -4002,6 +4027,7 @@
             <tag id="macau"/>
             <tag id="curacao"/>
             <tag id="mauritius"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Congo</tag>
@@ -4067,6 +4093,7 @@
             <tag id="universal-postal-union"/>
             <tag id="curacao"/>
             <tag id="swaziland"/>
+            <tag id="roosevelt-theodore"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4366,6 +4393,7 @@
             <tag id="war-of-1812"/>
             <tag id="bryan-william-jennings"/>
             <tag id="spanish-american-war"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4396,6 +4424,7 @@
             <tag id="sweden"/>
             <tag id="turkey"/>
             <tag id="uruguay"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4449,6 +4478,7 @@
             <tag id="mauritius"/>
             <tag id="madagascar"/>
             <tag id="barbados"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4707,6 +4737,7 @@
             <tag id="united-kingdom"/>
             <tag id="lansing-robert"/>
             <tag id="spanish-american-war"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Army Intelligence</tag>
@@ -4735,7 +4766,6 @@
         <tags>
             <tag id="kennedy-john-f"/>
             <tag id="johnson-lyndon-b"/>
-            <tag id="acheson-dean-gooderham"/>
             <tag id="rusk-david-dean"/>
             <tag id="congressional-relations"/>
             <tag id="organization-and-management"/>
@@ -4757,7 +4787,6 @@
             <tag id="civil-rights-domestic"/>
             <tag id="antisemitism"/>
             <tag id="brunei"/>
-            <tag id="lansing-robert"/>
             <tag id="benin"/>
             <tag id="central-african-republic"/>
             <tag id="gabon"/>
@@ -4765,7 +4794,7 @@
         <unofficial-tags-tbd/>
     </study>
     <study>
-        <title>Foreign Relations of the United States, 1917-1972, Volume VII, 1969-1972</title>
+        <title>Foreign Relations of the United States, 1917-1972, Volume VII, 1964-1968</title>
         <link>https://history.state.gov/historicaldocuments/frus1917-72PubDipv07</link>
         <tags>
             <tag id="gabon"/>
@@ -4775,6 +4804,8 @@
             <tag id="international-monetary-fund"/>
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="organization-of-petroleum-exporting-countries"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -4789,6 +4820,9 @@
             <tag id="swaziland"/>
             <tag id="burundi"/>
             <tag id="madagascar"/>
+            <tag id="nixon-richard"/>
+            <tag id="rusk-david-dean"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5099,6 +5133,7 @@
             <tag id="lansing-robert"/>
             <tag id="monaco"/>
             <tag id="curacao"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5515,6 +5550,7 @@
             <tag id="reunion"/>
             <tag id="lansing-robert"/>
             <tag id="mauritius"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -5660,6 +5696,7 @@
             <tag id="ukraine"/>
             <tag id="antisemitism-europe"/>
             <tag id="lansing-robert"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -5870,6 +5907,7 @@
             <tag id="harding-warren-g"/>
             <tag id="hughes-charles-evans"/>
             <tag id="barbados"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -5917,6 +5955,7 @@
             <tag id="colby-bainbridge"/>
             <tag id="harding-warren-g"/>
             <tag id="hughes-charles-evans"/>
+            <tag id="wilson-woodrow"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6260,6 +6299,7 @@
             <tag id="kellogg-frank-billings"/>
             <tag id="hughes-charles-evans"/>
             <tag id="the-bahamas"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -6282,6 +6322,7 @@
             <tag id="league-of-nations"/>
             <tag id="kellogg-frank-billings"/>
             <tag id="monaco"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6334,6 +6375,7 @@
             <tag id="the-bahamas"/>
             <tag id="madagascar"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6493,6 +6535,7 @@
             <tag id="american-samoa"/>
             <tag id="kellogg-frank-billings"/>
             <tag id="djibouti"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6582,6 +6625,7 @@
             <tag id="grenada"/>
             <tag id="stimson-henry-lewis"/>
             <tag id="madagascar"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6612,6 +6656,8 @@
             <tag id="st-vincent-and-the-grenadines"/>
             <tag id="stimson-henry-lewis"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="hoover-herbert"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6663,6 +6709,8 @@
             <tag id="svalbard"/>
             <tag id="curacao"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
+            <tag id="coolidge-calvin"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -6710,6 +6758,7 @@
             <tag id="dominica"/>
             <tag id="djibouti"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6761,6 +6810,7 @@
             <tag id="french-guiana"/>
             <tag id="swaziland"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6782,6 +6832,7 @@
             <tag id="roosevelt-franklin-d"/>
             <tag id="trade-and-commercial-policy-agreements"/>
             <tag id="spanish-american-war"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -6805,6 +6856,7 @@
             <tag id="aruba"/>
             <tag id="spratly-islands"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -6992,6 +7044,7 @@
             <tag id="american-samoa"/>
             <tag id="the-bahamas"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -7015,6 +7068,7 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="stimson-henry-lewis"/>
             <tag id="far-eastern-commission"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7034,12 +7088,12 @@
             <tag id="protection-of-americans-abroad"/>
             <tag id="russia"/>
             <tag id="energy-and-natural-resources"/>
-            <tag id="roosevelt-franklin-d"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="foreign-protest-against-u-s-activity"/>
             <tag id="far-eastern-commission"/>
             <tag id="universal-postal-union"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7069,6 +7123,7 @@
             <tag id="navassa-island"/>
             <tag id="grenada"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7085,6 +7140,8 @@
             <tag id="league-of-nations"/>
             <tag id="neutrality"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -7112,6 +7169,8 @@
             <tag id="roosevelt-franklin-d"/>
             <tag id="stimson-henry-lewis"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="hoover-herbert"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7158,6 +7217,8 @@
             <tag id="djibouti"/>
             <tag id="stimson-henry-lewis"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="hoover-herbert"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -7185,6 +7246,8 @@
             <tag id="foreign-protest-against-u-s-activity"/>
             <tag id="palau"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -7211,6 +7274,9 @@
             <tag id="uruguay"/>
             <tag id="civil-rights-foreign"/>
             <tag id="stimson-henry-lewis"/>
+            <tag id="hoover-herbert"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7245,6 +7311,9 @@
             <tag id="spanish-american-war"/>
             <tag id="stimson-henry-lewis"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hoover-herbert"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -7267,6 +7336,8 @@
             <tag id="spain"/>
             <tag id="american-samoa"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arms Traffic Convention</tag>
@@ -7419,6 +7490,8 @@
             <tag id="peru"/>
             <tag id="american-samoa"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Anti-War Treaty</tag>
@@ -7458,6 +7531,8 @@
             <tag id="spanish-american-war"/>
             <tag id="barbados"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Anti-Dumping Act of 1921</tag>
@@ -8816,6 +8891,8 @@
             <tag id="venezuela"/>
             <tag id="martinique"/>
             <tag id="djibouti"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Adolf Hitler</tag>
@@ -8896,6 +8973,8 @@
             <tag id="aruba"/>
             <tag id="gabon"/>
             <tag id="madagascar"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Red Cross</tag>
@@ -8952,6 +9031,8 @@
             <tag id="mauritius"/>
             <tag id="the-bahamas"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Africa</tag>
@@ -9006,6 +9087,8 @@
             <tag id="djibouti"/>
             <tag id="aruba"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag/>
@@ -9063,6 +9146,8 @@
             <tag id="navassa-island"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Act of Habana</tag>
@@ -9138,6 +9223,8 @@
             <tag id="aruba"/>
             <tag id="curacao"/>
             <tag id="madagascar"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Aircraft Carriers</tag>
@@ -9962,6 +10049,8 @@
             <tag id="st-lucia"/>
             <tag id="aruba"/>
             <tag id="the-bahamas"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -10035,6 +10124,7 @@
             <tag id="united-kingdom"/>
             <tag id="antisemitism-world-war-ii"/>
             <tag id="european-advisory-commission"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10084,6 +10174,7 @@
             <tag id="french-guiana"/>
             <tag id="suriname"/>
             <tag id="madagascar"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -10133,6 +10224,9 @@
             <tag id="cook-islands"/>
             <tag id="aruba"/>
             <tag id="madagascar"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="hull-cordell"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10179,6 +10273,9 @@
             <tag id="liechtenstein"/>
             <tag id="andorra"/>
             <tag id="monaco"/>
+            <tag id="hull-cordell"/>
+            <tag id="roosevelt-franklin-d"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10228,6 +10325,7 @@
             <tag id="suriname"/>
             <tag id="djibouti"/>
             <tag id="gabon"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -10255,6 +10353,7 @@
             <tag id="personnel-foreign-service"/>
             <tag id="world-war-ii"/>
             <tag id="south-korea"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -10306,6 +10405,7 @@
             <tag id="faroe-islands"/>
             <tag id="aruba"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="stettinius-edward-reilly"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Lend-Lease</tag>
@@ -10892,6 +10992,7 @@
             <tag id="civil-rights-foreign"/>
             <tag id="marshall-islands"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="roosevelt-franklin-d"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -11279,7 +11380,6 @@
             <tag id="agriculture"/>
             <tag id="armistices"/>
             <tag id="hong-kong"/>
-            <tag id="marshall-george-catlett"/>
             <tag id="philippines"/>
             <tag id="sweden"/>
             <tag id="united-kingdom"/>
@@ -11306,7 +11406,6 @@
             <tag id="agriculture"/>
             <tag id="armistices"/>
             <tag id="hong-kong"/>
-            <tag id="marshall-george-catlett"/>
             <tag id="philippines"/>
             <tag id="sweden"/>
             <tag id="united-kingdom"/>
@@ -11358,7 +11457,6 @@
             <tag id="italy"/>
             <tag id="japan"/>
             <tag id="netherlands"/>
-            <tag id="marshall-george-catlett"/>
             <tag id="guadeloupe"/>
             <tag id="barbados"/>
             <tag id="virgin-islands-u-s"/>
@@ -12392,6 +12490,7 @@
             <tag id="curacao"/>
             <tag id="spanish-american-war"/>
             <tag id="genocide"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -12461,6 +12560,7 @@
             <tag id="curacao"/>
             <tag id="genocide"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12490,6 +12590,7 @@
             <tag id="united-nations"/>
             <tag id="european-advisory-commission"/>
             <tag id="far-eastern-commission"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12550,6 +12651,7 @@
             <tag id="czech-republic"/>
             <tag id="slovakia"/>
             <tag id="faroe-islands"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12610,6 +12712,7 @@
             <tag id="antisemitism-post-world-war-ii"/>
             <tag id="war-of-1812"/>
             <tag id="genocide"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Czechoslovakia</tag>
@@ -12664,6 +12767,7 @@
             <tag id="united-nations"/>
             <tag id="far-eastern-commission"/>
             <tag id="genocide"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Kashmir Dispute</tag>
@@ -12698,6 +12802,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="universal-postal-union"/>
             <tag id="suriname"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Indochina</tag>
@@ -12732,6 +12837,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="universal-postal-union"/>
             <tag id="marshall-islands"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -12763,6 +12869,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="christmas-island"/>
             <tag id="macau"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -12817,6 +12924,7 @@
             <tag id="far-eastern-commission"/>
             <tag id="macau"/>
             <tag id="bhutan"/>
+            <tag id="marshall-george-catlett"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -13962,6 +14070,7 @@
             <tag id="united-nations"/>
             <tag id="martinique"/>
             <tag id="barbados"/>
+            <tag id="eisenhower-dwight-d"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -14385,6 +14494,7 @@
             <tag id="national-security-council"/>
             <tag id="spain"/>
             <tag id="united-nations"/>
+            <tag id="truman-harry-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -14523,6 +14633,7 @@
             <tag id="sweden"/>
             <tag id="denmark"/>
             <tag id="antisemitism"/>
+            <tag id="truman-harry-s"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -14746,6 +14857,7 @@
             <tag id="truman-harry-s"/>
             <tag id="agriculture"/>
             <tag id="south-sudan"/>
+            <tag id="eisenhower-dwight-d"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>International Bank for Reconstruction and Development</tag>
@@ -15444,6 +15556,8 @@
             <tag id="vietnam"/>
             <tag id="russia"/>
             <tag id="civil-rights-foreign"/>
+            <tag id="truman-harry-s"/>
+            <tag id="acheson-dean-gooderham"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -15585,6 +15699,8 @@
             <tag id="taiwan"/>
             <tag id="macau"/>
             <tag id="the-bahamas"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>"Formosa Resolution"</tag>
@@ -17223,6 +17339,8 @@
             <tag id="new-caledonia"/>
             <tag id="macau"/>
             <tag id="paracel-islands"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="dulles-john-foster"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -17333,6 +17451,8 @@
             <tag id="gabon"/>
             <tag id="madagascar"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="herter-christian-archibald"/>
+            <tag id="dulles-john-foster"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Rhodesia</tag>
@@ -17416,6 +17536,9 @@
             <tag id="lgbtq-rights"/>
             <tag id="brunei"/>
             <tag id="marshall-islands"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>"Fail Safe"</tag>
@@ -17623,6 +17746,9 @@
             <tag id="uruguay"/>
             <tag id="venezuela"/>
             <tag id="suriname"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>American Popular Revolutionary Alliance</tag>
@@ -18136,6 +18262,9 @@
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
             <tag id="yemen"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arab League</tag>
@@ -18215,6 +18344,7 @@
             <tag id="sudan"/>
             <tag id="organization-of-petroleum-exporting-countries"/>
             <tag id="djibouti"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Yugoslavia</tag>
@@ -18441,6 +18571,9 @@
             <tag id="thailand"/>
             <tag id="united-kingdom"/>
             <tag id="macau"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>AFPFL Crisis</tag>
@@ -18487,6 +18620,9 @@
             <tag id="thailand"/>
             <tag id="united-kingdom"/>
             <tag id="vietnam"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Bilateral Policies</tag>
@@ -18639,6 +18775,9 @@
             <tag id="japan"/>
             <tag id="netherlands"/>
             <tag id="tonga"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Communist Party</tag>
@@ -18692,6 +18831,7 @@
             <tag id="united-kingdom"/>
             <tag id="vietnam"/>
             <tag id="macau"/>
+            <tag id="dulles-john-foster"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -18756,6 +18896,9 @@
             <tag id="poland"/>
             <tag id="taiwan"/>
             <tag id="united-kingdom"/>
+            <tag id="dulles-john-foster"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>"Formosa Resolution"</tag>
@@ -18807,6 +18950,8 @@
             <tag id="united-nations"/>
             <tag id="covert-actions"/>
             <tag id="paracel-islands"/>
+            <tag id="eisenhower-dwight-d"/>
+            <tag id="herter-christian-archibald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19100,6 +19245,7 @@
             <tag id="central-african-republic"/>
             <tag id="madagascar"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="johnson-lyndon-b"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19139,6 +19285,7 @@
             <tag id="venezuela"/>
             <tag id="vietnam"/>
             <tag id="congressional-relations"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19296,6 +19443,7 @@
             <tag id="the-bahamas"/>
             <tag id="barbados"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="johnson-lyndon-b"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -19314,7 +19462,6 @@
             <tag id="germany"/>
             <tag id="military-bases"/>
             <tag id="italy"/>
-            <tag id="johnson-lyndon-b"/>
             <tag id="kennedy-john-f"/>
             <tag id="nuclear-weapons"/>
             <tag id="laos"/>
@@ -19367,6 +19514,7 @@
             <tag id="suriname"/>
             <tag id="curacao"/>
             <tag id="barbados"/>
+            <tag id="johnson-lyndon-b"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -19444,6 +19592,9 @@
             <tag id="tunisia"/>
             <tag id="turkey"/>
             <tag id="united-kingdom"/>
+            <tag id="kennedy-john-f"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Arms Control and Disarmament Agency (ACDA)</tag>
@@ -19667,6 +19818,9 @@
             <tag id="zambia"/>
             <tag id="zimbabwe"/>
             <tag id="universal-postal-union"/>
+            <tag id="kennedy-john-f"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Brazzaville Resolution</tag>
@@ -19741,6 +19895,7 @@
             <tag id="foreign-aid"/>
             <tag id="italy"/>
             <tag id="congo-brazzaville"/>
+            <tag id="johnson-lyndon-b"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19825,6 +19980,7 @@
             <tag id="burundi"/>
             <tag id="madagascar"/>
             <tag id="rwanda"/>
+            <tag id="johnson-lyndon-b"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19888,6 +20044,7 @@
             <tag id="central-african-republic"/>
             <tag id="gabon"/>
             <tag id="madagascar"/>
+            <tag id="johnson-lyndon-b"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -19955,6 +20112,9 @@
             <tag id="thailand"/>
             <tag id="united-kingdom"/>
             <tag id="vietnam"/>
+            <tag id="kennedy-john-f"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>April Revolution</tag>
@@ -20018,6 +20178,7 @@
             <tag id="portugal"/>
             <tag id="brunei"/>
             <tag id="solomon-islands"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>New Guinea</tag>
@@ -20198,6 +20359,7 @@
             <tag id="armistices"/>
             <tag id="vietnam-conflict"/>
             <tag id="burundi"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -21222,7 +21384,6 @@
             <tag id="foreign-aid"/>
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="rusk-david-dean"/>
-            <tag id="nixon-richard"/>
             <tag id="palestine"/>
             <tag id="israel"/>
             <tag id="jordan"/>
@@ -21474,6 +21635,7 @@
             <tag id="military-intervention-presence-and-withdrawal"/>
             <tag id="bhutan"/>
             <tag id="genocide"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -21513,6 +21675,7 @@
             <tag id="singapore"/>
             <tag id="disability-rights"/>
             <tag id="brunei"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -22083,6 +22246,8 @@
             <tag id="yemen"/>
             <tag id="general-agreement-on-tariffs-and-trade"/>
             <tag id="spanish-american-war"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22109,6 +22274,8 @@
             <tag id="personnel-civil-service"/>
             <tag id="buildings-foreign"/>
             <tag id="buildings-domestic"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22142,6 +22309,8 @@
             <tag id="united-kingdom"/>
             <tag id="energy-and-natural-resources"/>
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22246,6 +22415,8 @@
             <tag id="democratic-republic-of-the-congo-kinshasa"/>
             <tag id="new-caledonia"/>
             <tag id="the-bahamas"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22395,6 +22566,8 @@
             <tag id="genocide"/>
             <tag id="mauritius"/>
             <tag id="central-african-republic"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22431,6 +22604,8 @@
             <tag id="vietnam-conflict"/>
             <tag id="midway-islands"/>
             <tag id="genocide"/>
+            <tag id="johnson-lyndon-b"/>
+            <tag id="rusk-david-dean"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22522,6 +22697,7 @@
             <tag id="thailand"/>
             <tag id="disability-rights"/>
             <tag id="midway-islands"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -22769,6 +22945,8 @@
             <tag id="monaco"/>
             <tag id="the-bahamas"/>
             <tag id="confidence-building-measures"/>
+            <tag id="ford-gerald"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23175,6 +23353,7 @@
             <tag id="universal-postal-union"/>
             <tag id="curacao"/>
             <tag id="rwanda"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -23335,6 +23514,7 @@
             <tag id="djibouti"/>
             <tag id="aruba"/>
             <tag id="curacao"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23420,6 +23600,7 @@
             <tag id="djibouti"/>
             <tag id="genocide"/>
             <tag id="mauritius"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23717,6 +23898,7 @@
             <tag id="new-international-economic-order"/>
             <tag id="djibouti"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23868,8 +24050,6 @@
         <tags>
             <tag id="nuclear-nonproliferation"/>
             <tag id="arms-transfers"/>
-            <tag id="ford-gerald"/>
-            <tag id="kissinger-henry-a"/>
             <tag id="chemical-and-bacteriological-warfare"/>
             <tag id="china"/>
             <tag id="russia"/>
@@ -23887,6 +24067,7 @@
             <tag id="midway-islands"/>
             <tag id="the-bahamas"/>
             <tag id="spratly-islands"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -23966,6 +24147,7 @@
             <tag id="new-international-economic-order"/>
             <tag id="swaziland"/>
             <tag id="botswana"/>
+            <tag id="ford-gerald"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -24872,6 +25054,8 @@
             <tag id="djibouti"/>
             <tag id="mauritius"/>
             <tag id="maldives"/>
+            <tag id="nixon-richard"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -24969,6 +25153,7 @@
             <tag id="gabon"/>
             <tag id="guinea-bissau"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Covert Action</tag>
@@ -25014,6 +25199,8 @@
             <tag id="grenada"/>
             <tag id="central-african-republic"/>
             <tag id="barbados"/>
+            <tag id="nixon-richard"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25246,6 +25433,7 @@
             <tag id="svalbard"/>
             <tag id="djibouti"/>
             <tag id="guinea-bissau"/>
+            <tag id="rogers-william-pierce"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -25530,6 +25718,7 @@
             <tag id="genocide"/>
             <tag id="gabon"/>
             <tag id="maldives"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -25593,6 +25782,7 @@
             <tag id="new-international-economic-order"/>
             <tag id="botswana"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -25647,6 +25837,7 @@
             <tag id="guinea-bissau"/>
             <tag id="rwanda"/>
             <tag id="barbados"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -25680,6 +25871,7 @@
             <tag id="confidence-building-measures"/>
             <tag id="western-sahara"/>
             <tag id="djibouti"/>
+            <tag id="kissinger-henry-a"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Central Intelligence Agency</tag>
@@ -25861,6 +26053,7 @@
             <tag id="zambia"/>
             <tag id="djibouti"/>
             <tag id="spratly-islands"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>U.S.S.R.</tag>
@@ -26015,6 +26208,7 @@
             <tag id="mauritius"/>
             <tag id="botswana"/>
             <tag id="madagascar"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26092,6 +26286,7 @@
             <tag id="mauritius"/>
             <tag id="confidence-building-measures"/>
             <tag id="maldives"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>Treaties</tag>
@@ -26206,6 +26401,7 @@
             <tag id="genocide"/>
             <tag id="grenada"/>
             <tag id="confidence-building-measures"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>OECD</tag>
@@ -26216,7 +26412,6 @@
         <link>https://history.state.gov/historicaldocuments/frus1977-80v22</link>
         <tags>
             <tag id="carter-jimmy"/>
-            <tag id="shultz-george-pratt"/>
             <tag id="australia"/>
             <tag id="burma"/>
             <tag id="cambodia"/>
@@ -26265,6 +26460,8 @@
             <tag id="djibouti"/>
             <tag id="paracel-islands"/>
             <tag id="spratly-islands"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="vance-cyrus-roberts"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>OECD</tag>
@@ -26291,6 +26488,9 @@
             <tag id="grenada"/>
             <tag id="barbados"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="carter-jimmy"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="vance-cyrus-roberts"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26404,6 +26604,7 @@
             <tag id="confidence-building-measures"/>
             <tag id="burundi"/>
             <tag id="virgin-islands-u-s"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26438,12 +26639,14 @@
         <link>https://history.state.gov/historicaldocuments/frus1977-80v29</link>
         <tags>
             <tag id="genocide"/>
-            <tag id="albright-madeleine-korbel"/>
             <tag id="el-salvador"/>
             <tag id="panama"/>
             <tag id="swaziland"/>
             <tag id="the-bahamas"/>
             <tag id="grenada"/>
+            <tag id="carter-jimmy"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="vance-cyrus-roberts"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26478,6 +26681,7 @@
             <tag id="gabon"/>
             <tag id="rwanda"/>
             <tag id="barbados"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
@@ -26493,7 +26697,6 @@
             <tag id="rusk-david-dean"/>
             <tag id="rogers-william-pierce"/>
             <tag id="kissinger-henry-a"/>
-            <tag id="vance-cyrus-roberts"/>
             <tag id="muskie-edmund-sixtus"/>
             <tag id="haig-alexander-meigs"/>
             <tag id="shultz-george-pratt"/>
@@ -26638,6 +26841,7 @@
             <tag id="grenada"/>
             <tag id="confidence-building-measures"/>
             <tag id="botswana"/>
+            <tag id="muskie-edmund-sixtus"/>
         </tags>
         <unofficial-tags-tbd/>
     </study>
