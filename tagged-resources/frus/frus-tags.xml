@@ -18556,7 +18556,7 @@
             <tag id="singapore"/>
             <tag id="southeast-asia-treaty-organization"/>
             <tag id="switzerland"/>
-            <tag id="togo"/> 
+            <tag id="togo"/>
             <tag id="vietnam"/>
             <tag id="macau"/>
             <tag id="bhutan"/>
@@ -21608,7 +21608,7 @@
             <tag id="central-african-republic"/>
             <tag id="gabon"/>
             <tag id="madagascar"/>
-            <tag id="rwanda"/>  
+            <tag id="rwanda"/>
         </tags>
         <unofficial-tags-tbd>
             <tag>USSR</tag>
@@ -22577,7 +22577,7 @@
             <tag id="zimbabwe"/>
             <tag id="lesotho"/>
             <tag id="american-samoa"/>
-            <tag id="universal-postal-union"/>  
+            <tag id="universal-postal-union"/>
             <tag id="the-gambia"/>
             <tag id="bhutan"/>
             <tag id="genocide"/>
@@ -26886,7 +26886,9 @@
             <tag id="confidence-building-measures"/>
             <tag id="botswana"/>
         </tags>
-        <unofficial-tags-tbd><tag>Eagleburger, Lawrence Sidney</tag></unofficial-tags-tbd>
+        <unofficial-tags-tbd>
+            <tag>Eagleburger, Lawrence Sidney</tag>
+        </unofficial-tags-tbd>
     </study>
     <study>
         <title>FRUS, 1981-88, volume VI, Soviet Union, October 1986-January 1989</title>
@@ -26935,6 +26937,46 @@
             <tag id="confidence-building-measures"/>
         </tags>
         <unofficial-tags-tbd/>
+    </study>
+    <study>
+        <title>FRUS, 1981-88, volume X, Eastern Europe</title>
+        <link>https://history.state.gov/historicaldocuments/frus1981-88v10</link>
+        <tags>
+            <tag id="reagan-ronald"/>
+            <tag id="haig-alexander-meigs"/>
+            <tag id="shultz-george-pratt"/>
+            <tag id="europe"/>
+            <tag id="albania"/>
+            <tag id="bosnia-and-herzegovina"/>
+            <tag id="bulgaria"/>
+            <tag id="croatia"/>
+            <tag id="czech-republic"/>
+            <tag id="germany"/>
+            <tag id="hungary"/>
+            <tag id="kosovo"/>
+            <tag id="macedonia"/>
+            <tag id="montenegro"/>
+            <tag id="poland"/>
+            <tag id="romania"/>
+            <tag id="russia"/>
+            <tag id="serbia"/>
+            <tag id="slovakia"/>
+            <tag id="slovenia"/>
+            <tag id="arms-transfers"/>
+            <tag id="collective-security"/>
+            <tag id="economic-sanctions"/>
+            <tag id="human-rights"/>
+            <tag id="detainees"/>
+            <tag id="political-prisoners"/>
+            <tag id="information-programs"/>
+            <tag id="terrorism"/>
+            <tag id="trade-and-commercial-policy-agreements"/>
+            <tag id="covert-actions"/>
+            <tag id="diplomatic-recognition"/>
+            <tag id="conference-on-security-and-cooperation-in-europe"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="nuclear-weapons"/>
+        </tags>
     </study>
     <study>
         <title>FRUS, 1981-88, volume XI, START I</title>
@@ -26995,7 +27037,6 @@
         </tags>
         <unofficial-tags-tbd/>
     </study>
-
     <study>
         <title>FRUS, 1981-88, volume XLI, Global Issues II</title>
         <link>https://history.state.gov/historicaldocuments/frus1981-88v41</link>
