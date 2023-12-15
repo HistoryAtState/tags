@@ -4,6 +4,7 @@
         <name>tags</name>
         <url>http://history.state.gov/ns/data/tags</url>
         <title>Subject Taxonomy of the History of U.S. Foreign Relations (data)</title>
-        <version>0.6</version>
+        <!-- VERSION SET AUTOMATICALLY DO NOT CHANGE -->
+        <!-- <version>0.6.0</version> -->
     </app>
 </root>
