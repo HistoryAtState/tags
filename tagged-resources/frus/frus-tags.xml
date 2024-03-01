@@ -25807,6 +25807,24 @@
         </unofficial-tags-tbd>
     </study>
     <study>
+        <title>FRUS, 1977-1980, volume IV, National Security Policy</title>
+        <link>https://history.state.gov/historicaldocuments/frus1977-80v04</link>
+        <tags>
+            <tag id="carter-jimmy"/>
+            <tag id="vance-cyrus-roberts"/>
+            <tag id="muskie-edmund-sixtus"/>
+            <tag id="russia"/>
+            <tag id="arms-control-and-disarmament"/>
+            <tag id="nuclear-weapons"/>
+            <tag id="nuclear-nonproliferation"/>
+            <tag id="north-atlantic-treaty-organization"/>
+            <tag id="alliances"/>
+            <tag id="national-security-council"/>
+            <tag id="national-security-policy"/>
+        </tags>
+        <unofficial-tags-tbd/>
+    </study>
+    <study>
         <title>FRUS, 1977-1980, volume VI, Soviet Union</title>
         <link>https://history.state.gov/historicaldocuments/frus1977-80v06</link>
         <tags>
@@ -26977,6 +26995,7 @@
             <tag id="north-atlantic-treaty-organization"/>
             <tag id="nuclear-weapons"/>
         </tags>
+        <unofficial-tags-tbd/>
     </study>
     <study>
         <title>FRUS, 1981-88, volume XI, START I</title>
