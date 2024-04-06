@@ -1,5 +1,7 @@
 # Subject Taxonomy of the History of U.S. Foreign Relations
 
+[![exist-db CI](https://github.com/HistoryAtState/tags/actions/workflows/build.yml/badge.svg)](https://github.com/HistoryAtState/tags/actions/workflows/build.yml)
+
 Source data for the [Subject Taxonomy of the History of U.S. Foreign Relations](http://history.state.gov/tags)
 
 - Current publications' tags can be found in the `tagged-resources` collection
@@ -21,7 +23,7 @@ Source data for the [Subject Taxonomy of the History of U.S. Foreign Relations](
 
 ## Release
 
-Releases for this data package are automated. Any commit to the `master`` branch will trigger the release automation.
+Releases for this data package are automated. Any commit to the `master` branch will trigger the release automation.
 
 All commit message must conform to [Angular Commit Message Conventions](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) to determine semantic versioning of releases, please adhere to these conventions, like so:
 
