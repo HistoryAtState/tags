@@ -1880,6 +1880,7 @@
                     (AIDS) disease as well as policies affecting individuals and communities
                     impacted by HIV/AIDS.</definition>
             </tag>
+            <!-- 
             <tag created-by="rossat" created-date="2020-08-25">
                 <id>lgbtq-rights</id>
                 <label>LGBTQ+ Rights</label>
@@ -1888,6 +1889,7 @@
                     transgender, nonbinary, gender-fluid, queer, or members of other gender or
                     sexual minorities.</definition>
             </tag>
+            -->
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>political-prisoners</id>
                 <label>Political Prisoners</label>
