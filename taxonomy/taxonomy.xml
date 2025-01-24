@@ -206,6 +206,18 @@
                 <id>obama-barack</id>
                 <label>Obama, Barack</label>
             </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>trump-donald-j-45</id>
+                <label>Trump, Donald J. (2017–2021)</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>biden-joseph-r</id>
+                <label>Biden, Joseph R.</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>trump-donald-j-47</id>
+                <label>Trump, Donald J. (2025–)</label>
+            </tag>
         </category>
         <category created-by="cozensef" created-date="2013-04-08">
             <id>secretaries-of-state</id>
@@ -481,6 +493,26 @@
             <tag created-by="cozensef" created-date="2013-04-08">
                 <id>clinton-hillary-rodham</id>
                 <label>Clinton, Hillary Rodham</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>kerry-john-forbes</id>
+                <label>Kerry, John Forbes</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>tillerson-rex-w</id>
+                <label>Tillerson, Rex W.</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>pompeo-michael-r</id>
+                <label>Pompeo, Michael R.</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>blinken-antony</id>
+                <label>Blinken, Antony</label>
+            </tag>
+            <tag created-by="wicentowskijc" created-date="2025-01-24">
+                <id>rubio-marco</id>
+                <label>Rubio, Marco</label>
             </tag>
         </category>
     </category>
