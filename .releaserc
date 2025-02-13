@@ -1,17 +1,16 @@
 {
   "branches": ["master"],  
   "plugins": [
-    "@semantic-release/commit-analyzer",
-    {
+    ["@semantic-release/commit-analyzer", {
       "preset": "conventionalcommits",
+      "presetConfig": "./conventionalcommits.config.cjs",
       "releaseRules": [
-        { "type": "", "release": "patch" }
+        { "type": "!(fix|feat|build|chore|ci|docs|style|refactor|perf|test)", "release": "patch" }
       ]
-    },
-    "@semantic-release/release-notes-generator",
-    {
+    }],
+    ["@semantic-release/release-notes-generator", {
       "preset": "conventionalcommits"
-    },
+    }],
     ["@semantic-release/exec", {
       "prepareCmd": "ant -Dapp.version=${nextRelease.version}"
     }],
