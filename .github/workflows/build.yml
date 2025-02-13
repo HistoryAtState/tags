@@ -42,7 +42,7 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: ${{ matrix.java-version }}
-      - run: ant
+      - run: ant -Dapp.version=0.0.0-CI
 
       # Install
       - name: Start exist-ci containers
