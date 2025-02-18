@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<meta xmlns="http://exist-db.org/xquery/repo" commit-id="27cf11b11bd5a889bb15526a8eab4177c4621a25" commit-time="1739481337">
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="cf0b3c354a7cc811f1925973875e8b559e0797e1" commit-time="1739898850">
     <description>Subject Taxonomy of the History of U.S. Foreign Relations (data)</description>
     <author>Office of the Historian</author>
     <website>https://history.state.gov</website>
@@ -8,7 +8,7 @@
     <copyright/>
     <type>application</type>
     <target>tags</target>
-    <prepare>pre-install.xql</prepare>
+    <prepare>pre-install.xq</prepare>
     <finish/>
     <permissions password="" user="hsg" group="hsg" mode="rw-rw-r--"/>
 </meta>
