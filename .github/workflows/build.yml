@@ -5,22 +5,22 @@
 
 name: exist-db CI
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
-       fail-fast: false
-       matrix:
+      fail-fast: false
+      matrix:
         # 7.0.0-SNAPSHOT and 6.2.1 created
-         exist-version: [latest, release]
-         java-version: [11, 17]
-         exclude:
-           - exist-version: release
-             java-version: 17
-           - exist-version: latest
-             java-version: 11
+        exist-version: [latest, release]
+        java-version: [11, 17]
+        exclude:
+          - exist-version: release
+            java-version: 17
+          - exist-version: latest
+            java-version: 11
 
     steps:
       # Checkout code
@@ -36,7 +36,7 @@ jobs:
           xmllint --noout \
             $(find . -type f -name '*.xml')
 
-      # Build 
+      # Build
       - name: Build Expath Package
         uses: actions/setup-java@v4
         with:
@@ -52,20 +52,13 @@ jobs:
           duncdrum/existdb:${{ matrix.exist-version }}
           sleep 10s
 
-      # Test       
+      # Test
       - name: Run test
         run: bats --tap test/*.bats
 
       # Lint commit messages
       - name: lint commit message
         uses: wagoid/commitlint-github-action@v6
-
-      # Commit repo.xml file
-      - name: Commit and Push
-        if: ${{ matrix.java-version == 17 && github.event_name == 'push' && github.ref != 'refs/heads/master' }}
-        uses: actions-x/commit@v6
-        with:
-          message: "fix(repo.xml): update [skip ci]"
 
   release:
     name: Release
@@ -87,8 +80,4 @@ jobs:
       - name: Perform Release
         env:
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
-          PUBLIC_REPO: ${{ secrets.PUBLIC_REPO }}
         run: npx semantic-release
-        # TODO(DP): 
-        #   - add secrets to github
-        #   - publish to public repo?

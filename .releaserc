@@ -1,12 +1,8 @@
 {
-  "branches": ["master"],  
+  "branches": ["master"],
   "plugins": [
     ["@semantic-release/commit-analyzer", {
-      "preset": "conventionalcommits",
-      "presetConfig": "./conventionalcommits.config.cjs",
-      "releaseRules": [
-        { "type": "!(fix|feat|build|chore|ci|docs|style|refactor|perf|test)", "release": "patch" }
-      ]
+      "preset": "conventionalcommits"
     }],
     ["@semantic-release/release-notes-generator", {
       "preset": "conventionalcommits"
